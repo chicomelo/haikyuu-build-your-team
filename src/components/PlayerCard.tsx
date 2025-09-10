@@ -36,7 +36,7 @@ export function PlayerCard({ p, compact }: { p: Player; compact?: boolean }) {
         )}
         {/* Nome sobre a imagem, similar aos slots do time principal */}
         <div className="absolute bottom-0 left-0 right-0 text-center text-xs bg-black/70 py-1">
-          <div className="font-semibold leading-none truncate">{p.name}</div>
+          <div className="font-semibold truncate">{p.name}</div>
           <div className="text-[10px] opacity-80">{p.role}</div>
         </div>
       </div>

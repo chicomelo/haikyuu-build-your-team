@@ -1,0 +1,59 @@
+{
+  "app_title": "Haikyu Fly High - Build your Team",
+  "court_positions": {
+    "S": "S",
+    "MB": "MB",
+    "WS": "WS",
+    "L": "L",
+    "OP": "OP"
+  },
+  "bench": "Bench",
+  "roster": {
+    "title": "Players",
+    "no_players_available": "No players available",
+    "no_players_available_description_1": "Drag players from the court or bench back to the list to remove them from the team",
+    "no_players_available_description_2": "All players are already in use",
+    "drag_here_to_remove": "Drag here to remove from team"
+  },
+  "slots": {
+    "drop_here": "Drop here",
+    "drop_here_description": "to add to team",
+    "invalid_position": "Invalid position",
+    "libero_position_only": "Libero can only be placed in L slot"
+  },
+  "buffs": {
+    "title": "Synergies",
+    "positional": "By Positioning",
+    "bond": "By Bond",
+    "no_positional_buffs": "No active positional synergy",
+    "no_bond_buffs": "No active bond synergy",
+    "no_buffs": "No active synergy"
+  },
+  "buttons": {
+    "save": "Save",
+    "load": "Load",
+    "clear_all": "Clear all slots",
+    "rotate": "Rotate positions",
+    "share": "Share",
+    "close": "Close",
+    "cancel": "Cancel"
+  },
+  "team_manager": {
+    "save_team": "Save Team",
+    "load_team": "Load Team",
+    "team_name": "Team Name",
+    "team_name_placeholder": "Enter a name for your team",
+    "no_saved_teams": "No saved teams yet",
+    "confirm_clear_all": "Are you sure you want to clear all starting positions and bench slots?",
+    "link_copied": "Link copied!",
+    "team_name_required": "Please enter a name for the team",
+    "team_name_exists": "A team with this name already exists"
+  },
+  "player_roles": {
+    "S": "S",
+    "MB": "MB",
+    "WS": "WS",
+    "OP": "OP",
+    "L": "L"
+  }
+}

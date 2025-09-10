@@ -1,0 +1,59 @@
+{
+  "app_title": "Haikyu Fly High - Build your Team",
+  "court_positions": {
+    "S": "S",
+    "MB": "MB",
+    "WS": "WS",
+    "L": "L",
+    "OP": "OP"
+  },
+  "bench": "Reservas",
+  "roster": {
+    "title": "Jogadores",
+    "no_players_available": "Nenhum jogador disponível",
+    "no_players_available_description_1": "Arraste jogadores da quadra ou reservas de volta para a lista para removê-los do time",
+    "no_players_available_description_2": "Todos os jogadores já estão em uso",
+    "drag_here_to_remove": "Arraste para esta área para remover do time"
+  },
+  "slots": {
+    "drop_here": "Solte aqui",
+    "drop_here_description": "para adicionar ao time",
+    "invalid_position": "Posição inválida",
+    "libero_position_only": "Libero só pode ser colocado no slot L"
+  },
+  "buffs": {
+    "title": "Sinergias",
+    "positional": "Por Posicionamento",
+    "bond": "Por Vínculo",
+    "no_positional_buffs": "Nenhuma sinergia posicional ativa",
+    "no_bond_buffs": "Nenhuma sinergia de vínculo ativa",
+    "no_buffs": "Nenhuma sinergia ativa"
+  },
+  "buttons": {
+    "save": "Salvar",
+    "load": "Carregar",
+    "clear_all": "Limpar todos os slots",
+    "rotate": "Rotacionar posições",
+    "share": "Compartilhar",
+    "close": "Fechar",
+    "cancel": "Cancelar"
+  },
+  "team_manager": {
+    "save_team": "Salvar Time",
+    "load_team": "Carregar Time",
+    "team_name": "Nome do Time",
+    "team_name_placeholder": "Digite um nome para o seu time",
+    "no_saved_teams": "Nenhum time salvo ainda",
+    "confirm_clear_all": "Tem certeza que deseja limpar todos os slots do time titular e reservas?",
+    "link_copied": "Link copiado!",
+    "team_name_required": "Por favor, insira um nome para o time",
+    "team_name_exists": "Já existe um time com este nome"
+  },
+  "player_roles": {
+    "S": "S",
+    "MB": "MB",
+    "WS": "WS",
+    "OP": "OP",
+    "L": "L"
+  }
+}

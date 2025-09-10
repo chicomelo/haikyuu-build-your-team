@@ -3,8 +3,10 @@ import { useStore } from "../state/store";
 import type { Buff } from "../lib/types";
 import { useState } from "react";
 import { X } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export function BuffPanel() {
+  const { t } = useTranslation();
   const team = useStore((s) => s.team);
   const players = useStore((s) => s.players);
   const buffs = computeBuffs(team, players);
@@ -23,16 +25,16 @@ export function BuffPanel() {
       className="absolute right-6 top-[7%] w-[360px] max-w-[40vw] card p-3"
       style={{ zIndex: 100 }}
     >
-      <div className="font-semibold mb-4 text-xl">Sinergias</div>
+      <div className="font-semibold mb-4 text-xl">{t("buffs.title")}</div>
 
       {/* Sinergias Posicionais */}
       <div className="mb-3">
         <div className="font-medium text-sm mb-1 text-cyan-300">
-          Por Posicionamento
+          {t("buffs.positional")}
         </div>
         {positionalBuffs.length === 0 ? (
           <div className="text-sm opacity-70">
-            Nenhuma sinergia posicional ativa
+            {t("buffs.no_positional_buffs")}
           </div>
         ) : (
           <div className="flex flex-col gap-2">
@@ -51,11 +53,11 @@ export function BuffPanel() {
       {/* Sinergias de Vínculo */}
       <div>
         <div className="font-medium text-sm mb-1 text-purple-300">
-          Por Vínculo
+          {t("buffs.bond")}
         </div>
         {bondBuffs.length === 0 ? (
           <div className="text-sm opacity-70">
-            Nenhuma sinergia de vínculo ativa
+            {t("buffs.no_bond_buffs")}
           </div>
         ) : (
           <div className="flex flex-col gap-2">

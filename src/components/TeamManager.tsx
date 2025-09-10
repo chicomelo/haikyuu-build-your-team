@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Save, FolderOpen, X, Check } from "lucide-react";
 import { useStore } from "../state/store";
 import type { Team, Position } from "../lib/types";
+import { useTranslation } from "react-i18next";
 
 type SavedTeam = {
   id: string;
@@ -13,6 +14,7 @@ type SavedTeam = {
 
 export function TeamManager() {
   const team = useStore((s) => s.team);
+  const { t } = useTranslation();
   const [savedTeams, setSavedTeams] = useState<SavedTeam[]>([]);
   const [showSaveModal, setShowSaveModal] = useState(false);
   const [showLoadModal, setShowLoadModal] = useState(false);
@@ -77,7 +79,7 @@ export function TeamManager() {
 
   const handleSaveTeam = () => {
     if (!teamName.trim()) {
-      setError("Por favor, insira um nome para o time");
+      setError(t("team_manager.team_name_required"));
       return;
     }
 
@@ -87,7 +89,7 @@ export function TeamManager() {
     );
 
     if (existingTeam) {
-      setError("Já existe um time com este nome");
+      setError(t("team_manager.team_name_exists"));
       return;
     }
 
@@ -132,7 +134,7 @@ export function TeamManager() {
         onClick={() => setShowSaveModal(true)}
       >
         <Save size={16} />
-        Salvar
+        {t("buttons.save")}
       </button>
 
       {/* Botão de Carregar */}
@@ -141,7 +143,7 @@ export function TeamManager() {
         onClick={() => setShowLoadModal(true)}
       >
         <FolderOpen size={16} />
-        Carregar
+        {t("buttons.load")}
       </button>
 
       {/* Modal de Salvar */}
@@ -149,7 +151,7 @@ export function TeamManager() {
         <div className="fixed top-0 left-0 h-[100vh] inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
           <div className="bg-neutral-900 border border-white/10 rounded-lg p-6 w-96 max-w-full max-h-[90vh]">
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-lg font-semibold">Salvar Time</h3>
+              <h3 className="text-lg font-semibold">{t("team_manager.save_team")}</h3>
               <button
                 onClick={() => {
                   setShowSaveModal(false);
@@ -163,14 +165,14 @@ export function TeamManager() {
 
             <div className="mb-4">
               <label className="block text-sm font-medium mb-2">
-                Nome do Time
+                {t("team_manager.team_name")}
               </label>
               <input
                 type="text"
                 value={teamName}
                 onChange={(e) => setTeamName(e.target.value)}
                 className="w-full bg-neutral-800 border border-white/10 rounded-md px-3 py-2 text-sm"
-                placeholder="Digite um nome para o seu time"
+                placeholder={t("team_manager.team_name_placeholder")}
                 onKeyDown={(e) => {
                   if (e.key === "Enter") {
                     handleSaveTeam();
@@ -188,14 +190,14 @@ export function TeamManager() {
                   setError("");
                 }}
               >
-                Cancelar
+                {t("buttons.cancel")}
               </button>
               <button
                 className="btn bg-cyan-600 hover:bg-cyan-700"
                 onClick={handleSaveTeam}
               >
                 <Check size={16} />
-                Salvar
+                {t("buttons.save")}
               </button>
             </div>
           </div>
@@ -207,7 +209,7 @@ export function TeamManager() {
         <div className="fixed top-0 left-0 h-[100vh] inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
           <div className="bg-neutral-900 border border-white/10 rounded-lg p-6 w-96 max-w-full max-h-[90vh] flex flex-col">
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-lg font-semibold">Carregar Time</h3>
+              <h3 className="text-lg font-semibold">{t("team_manager.load_team")}</h3>
               <button
                 onClick={() => setShowLoadModal(false)}
                 className="text-white/60 hover:text-white"
@@ -219,7 +221,7 @@ export function TeamManager() {
             <div className="flex-1 overflow-y-auto mb-4">
               {savedTeams.length === 0 ? (
                 <p className="text-white/60 text-center py-4">
-                  Nenhum time salvo ainda
+                  {t("team_manager.no_saved_teams")}
                 </p>
               ) : (
                 <ul className="space-y-2">
@@ -256,7 +258,7 @@ export function TeamManager() {
 
             <div className="flex justify-end">
               <button className="btn" onClick={() => setShowLoadModal(false)}>
-                Fechar
+                {t("buttons.close")}
               </button>
             </div>
           </div>
