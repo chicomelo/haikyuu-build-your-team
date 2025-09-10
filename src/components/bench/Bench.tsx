@@ -1,0 +1,97 @@
+import { useDroppable, useDraggable } from "@dnd-kit/core";
+import { useStore, getPlayerById } from "../../state/store";
+
+function BenchSlot({ index }: { index: number }) {
+  const id = `bench:${index}`;
+  const { isOver, setNodeRef } = useDroppable({ id });
+  const pid = useStore((s) => s.team.bench[index] || "");
+  const setType = useStore((s) => s.setSelectedType);
+  const selectBench = useStore((s) => s.selectBench);
+  const selectedBench = useStore((s) => s.selectedBenchIndex);
+  const activeDragId = useStore((s) => s.activeDragId);
+  const player = pid ? getPlayerById(pid) : null;
+  const {
+    attributes,
+    listeners,
+    setNodeRef: setDragRef,
+    transform,
+    isDragging,
+  } = useDraggable(
+    player ? { id: `player:${player.id}` } : { id: `bench-empty-${index}` }
+  );
+  const dragStyle = transform
+    ? { transform: `translate3d(${transform.x}px, ${transform.y}px, 0)` }
+    : undefined;
+
+  // Verificar se há um jogador sendo arrastado
+  const isPlayerBeingDragged =
+    activeDragId && activeDragId.startsWith("player:");
+
+  // Verificar se o jogador sendo arrastado é um L (Libero)
+  // const draggedPlayer = isPlayerBeingDragged
+  //   ? getPlayerById(activeDragId.replace('player:', ''))
+  //   : null;
+  // const isDraggedPlayerLibero = draggedPlayer?.role === 'L'; // Comentado pois não está sendo usado no momento
+
+  return (
+    <button
+      onClick={() => {
+        setType("all");
+        selectBench(index);
+      }}
+      ref={setNodeRef}
+      className={`rounded-md border ${
+        isOver && isPlayerBeingDragged
+          ? "border-cyan-400 bg-cyan-900/20"
+          : isOver
+          ? "border-teal-400"
+          : selectedBench === index
+          ? "border-white"
+          : "border-white/20"
+      } grid place-items-center bg-black/30 overflow-hidden`}
+      style={{
+        width: "4.2rem",
+        height: "calc(4.2rem * 1.408)", // 1.408 é a proporção 250/178
+        aspectRatio: "71/100",
+      }}
+    >
+      {player && !isDragging ? (
+        player.avatar ? (
+          <img
+            ref={setDragRef as any}
+            {...listeners}
+            {...attributes}
+            style={dragStyle}
+            src={player.avatar}
+            alt={player.name}
+            className={`w-full h-full object-contain ${
+              isDragging ? "opacity-60" : ""
+            }`}
+          />
+        ) : (
+          <div className="text-xs">{player.name}</div>
+        )
+      ) : isOver && isPlayerBeingDragged ? (
+        <div className="text-center text-cyan-400/90">
+          <div className="text-xs font-semibold">Solte</div>
+          <div className="text-[10px] opacity-80">aqui</div>
+        </div>
+      ) : (
+        <div className="text-xl text-white/60">+</div>
+      )}
+    </button>
+  );
+}
+
+export function Bench() {
+  return (
+    <div className="absolute left-20 bottom-36 mx-4">
+      <div className="grid grid-cols-3 gap-2">
+        {Array.from({ length: 12 }).map((_, i) => (
+          <BenchSlot key={i} index={i} />
+        ))}
+      </div>
+      <div className="mt-1 text-center text-sm opacity-80">Reservas</div>
+    </div>
+  );
+}
