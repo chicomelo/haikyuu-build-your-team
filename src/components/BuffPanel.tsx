@@ -6,10 +6,10 @@ import { X } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export function BuffPanel() {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const team = useStore((s) => s.team);
   const players = useStore((s) => s.players);
-  const buffs = computeBuffs(team, players);
+  const buffs = computeBuffs(team, players, i18n.language);
 
   const positionalBuffs = buffs.filter((b) => b.type === "posicional");
   const bondBuffs = buffs.filter((b) => b.type === "vínculo");

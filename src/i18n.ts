@@ -3,13 +3,21 @@ import { initReactI18next } from 'react-i18next';
 import LanguageDetector from 'i18next-browser-languagedetector';
 import ptBRTranslation from './locales/pt-BR/translation.json';
 import enTranslation from './locales/en/translation.json';
+import ptBRBuffs from './locales/pt-BR/buffs.json';
+import enBuffs from './locales/en/buffs.json';
+import ptBRBuffNames from './locales/pt-BR/buffNames.json';
+import enBuffNames from './locales/en/buffNames.json';
 
-const resources = {
+export const resources = {
   'pt-BR': {
-    translation: ptBRTranslation
+    translation: ptBRTranslation,
+    buffs: ptBRBuffs,
+    buffNames: ptBRBuffNames
   },
   'en': {
-    translation: enTranslation
+    translation: enTranslation,
+    buffs: enBuffs,
+    buffNames: enBuffNames
   }
 };
 
@@ -25,7 +33,9 @@ i18n
     detection: {
       order: ['localStorage', 'navigator'],
       caches: ['localStorage']
-    }
+    },
+    ns: ['translation', 'buffs', 'buffNames'],
+    defaultNS: 'translation'
   });
 
 export default i18n;

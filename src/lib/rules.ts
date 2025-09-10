@@ -1,10 +1,19 @@
 import type { Team, Buff, Player } from './types'
-import buffDescriptions from '../data/buffs.json'
+import { resources } from '../i18n'
+import { getTranslatedBuffName } from './buffTranslations'
+
+// Função para obter as descrições de buffs no idioma correto
+function getBuffDescriptions(language: string) {
+  // Converter 'pt-BR' para 'pt-BR' e 'en' para 'en'
+  const langKey = language === 'pt' ? 'pt-BR' : language;
+  return resources[langKey as keyof typeof resources]?.buffs || resources['pt-BR'].buffs;
+}
 
 // Simple synergy engine: if 2+ titulares compartilham um mesmo "link" (vínculo),
 // considera uma sinergia ATIVA. (Futuro: distinguir ativo/passivo e regras específicas.)
-export function computeBuffs(team: Team, players: Player[]): Buff[] {
+export function computeBuffs(team: Team, players: Player[], language: string = 'pt-BR'): Buff[] {
   const byId = new Map(players.map(p => [p.id, p]))
+  const buffDescriptions = getBuffDescriptions(language);
   
   // Sinergias posicionais - requerem 2+ titulares
   const starters: Player[] = Object.values(team.slots)
@@ -48,16 +57,18 @@ export function computeBuffs(team: Team, players: Player[]): Buff[] {
   // Adicionar sinergias posicionais (2+ titulares)
   for (const [name, n] of positionalCounts) {
     if (n >= 2) {
+      const translatedName = getTranslatedBuffName(name, language);
       const desc = buffDescriptions[name as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: name, name, type: 'posicional', desc })
+      buffs.push({ id: name, name: translatedName, type: 'posicional', desc })
     }
   }
   
   // Adicionar sinergias de vínculo (apenas ter os jogadores no time)
   for (const [name, n] of bondCounts) {
     if (n >= 2) {
+      const translatedName = getTranslatedBuffName(name, language);
       const desc = buffDescriptions[name as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: name, name, type: 'vínculo', desc })
+      buffs.push({ id: name, name: translatedName, type: 'vínculo', desc })
     }
   }
   
@@ -65,8 +76,9 @@ export function computeBuffs(team: Team, players: Player[]): Buff[] {
   for (const [school, n] of schoolCounts) {
     if (n >= 4) {
       const name = `Equipe ${school}`;
+      const translatedName = getTranslatedBuffName(name, language);
       const desc = buffDescriptions[school as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: school, name, type: 'posicional', desc })
+      buffs.push({ id: school, name: translatedName, type: 'posicional', desc })
     }
   }
   
