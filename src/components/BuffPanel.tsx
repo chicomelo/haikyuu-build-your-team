@@ -31,55 +31,63 @@ export function BuffPanel() {
       >
         <span>{t("buffs.title")}</span>
         <ChevronDown
-          className={`md:hidden transition-transform ${
+          className={`md:hidden transition-transform duration-500 ${
             mobileOpen ? "rotate-180" : "rotate-0"
           }`}
           size={18}
         />
       </button>
-      <div className={`${mobileOpen ? "block" : "hidden"} md:block mt-3`}>
-        {/* Sinergias Posicionais */}
-        <div className="mb-3">
-          <div className="font-medium text-sm mb-1 text-cyan-300">
-            {t("buffs.positional")}
+      <div className="">
+        <div
+          className={`md:block overflow-hidden transition-[max-height] duration-500 ease-in-out ${
+            mobileOpen ? "max-h-[60vh]" : "max-h-0"
+          } md:max-h-none md:overflow-visible`}
+        >
+          {/* Sinergias Posicionais */}
+          <div className="mb-3">
+            <div className="font-medium text-sm mb-1 text-cyan-300 pt-2 md:pt-3">
+              {t("buffs.positional")}
+            </div>
+            {positionalBuffs.length === 0 ? (
+              <div className="text-sm opacity-70">
+                {t("buffs.no_positional_buffs")}
+              </div>
+            ) : (
+              <div className="flex flex-col gap-2">
+                {positionalBuffs.map((b) => (
+                  <BuffButton
+                    key={b.id}
+                    buff={b}
+                    isOpen={openTooltipId === b.id}
+                    onToggle={() => handleTooltipToggle(b.id)}
+                  />
+                ))}
+              </div>
+            )}
           </div>
-          {positionalBuffs.length === 0 ? (
-            <div className="text-sm opacity-70">
-              {t("buffs.no_positional_buffs")}
-            </div>
-          ) : (
-            <div className="flex flex-col gap-2">
-              {positionalBuffs.map((b) => (
-                <BuffButton
-                  key={b.id}
-                  buff={b}
-                  isOpen={openTooltipId === b.id}
-                  onToggle={() => handleTooltipToggle(b.id)}
-                />
-              ))}
-            </div>
-          )}
-        </div>
 
-        {/* Sinergias de Vínculo */}
-        <div>
-          <div className="font-medium text-sm mb-1 text-purple-300">
-            {t("buffs.bond")}
-          </div>
-          {bondBuffs.length === 0 ? (
-            <div className="text-sm opacity-70">{t("buffs.no_bond_buffs")}</div>
-          ) : (
-            <div className="flex flex-col gap-2">
-              {bondBuffs.map((b) => (
-                <BuffButton
-                  key={b.id}
-                  buff={b}
-                  isOpen={openTooltipId === b.id}
-                  onToggle={() => handleTooltipToggle(b.id)}
-                />
-              ))}
+          {/* Sinergias de Vínculo */}
+          <div>
+            <div className="font-medium text-sm mb-1 text-purple-300">
+              {t("buffs.bond")}
             </div>
-          )}
+            {bondBuffs.length === 0 ? (
+              <div className="text-sm opacity-70">
+                {t("buffs.no_bond_buffs")}
+              </div>
+            ) : (
+              <div className="flex flex-col gap-2">
+                {bondBuffs.map((b) => (
+                  <BuffButton
+                    key={b.id}
+                    buff={b}
+                    isOpen={openTooltipId === b.id}
+                    onToggle={() => handleTooltipToggle(b.id)}
+                  />
+                ))}
+              </div>
+            )}
+          </div>
         </div>
       </div>
     </aside>
