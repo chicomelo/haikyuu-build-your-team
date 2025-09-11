@@ -42,15 +42,15 @@ function App() {
   useEffect(() => {
     const fromUrl = decodeTeamFromQuery();
     const fromLocal = loadTeam();
-    
+
     // Priorizar dados da URL se disponíveis
     const data = fromUrl || fromLocal;
-    
+
     if (data) {
       // place players according to saved team
       loadTeamState(data.team, data.rotationLabels);
     }
-    
+
     // Adicionar um pequeno atraso antes de limpar a query para garantir que os dados foram carregados
     if (fromUrl) {
       setTimeout(() => {
@@ -75,7 +75,7 @@ function App() {
       >
         {/* Área principal (abaixo do header e acima do roster) */}
         <main className="flex-1">
-          <div className="mx-auto max-w-[1600px] relative">
+          <div className="mx-auto max-w-[1600px] relative ">
             <BuffPanel />
             <CourtView />
           </div>

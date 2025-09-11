@@ -9,11 +9,7 @@ export function ClearAllButton() {
 
   const handleClearAll = () => {
     // Confirmar com o usuário antes de limpar tudo
-    if (
-      confirm(
-        t("team_manager.confirm_clear_all")
-      )
-    ) {
+    if (confirm(t("team_manager.confirm_clear_all"))) {
       clearAllSlots();
     }
   };
@@ -23,20 +19,20 @@ export function ClearAllButton() {
   };
 
   return (
-    <div className="absolute left-1/2 transform -translate-x-1/2 bottom-20 flex gap-4">
+    <div className="absolute left-1/2 transform -translate-x-1/2 bottom-56 md:bottom-12 2xl:bottom-8 flex gap-4">
       <button
         onClick={handleRotate}
-        className="flex items-center justify-center bg-blue-600/80 hover:bg-blue-700 text-white p-3 rounded-lg transition-colors backdrop-blur-sm border border-blue-500/30 shadow-lg"
+        className="flex items-center justify-center bg-zinc-700/80 hover:bg-zinc-800 text-white p-2 2xl:p-3 rounded-lg transition-colors backdrop-blur-sm border border-zinc-500/30 shadow-lg"
         title={t("buttons.rotate")}
       >
-        <RotateCw size={16} />
+        <RotateCw className="w-4 h-4" />
       </button>
       <button
         onClick={handleClearAll}
-        className="flex items-center justify-center bg-red-600/80 hover:bg-red-700 text-white p-3 rounded-lg transition-colors backdrop-blur-sm border border-red-500/30 shadow-lg"
+        className="flex items-center justify-center bg-red-600/80 hover:bg-red-700 text-white p-2  2xl:p-3 rounded-lg transition-colors backdrop-blur-sm border border-red-500/30 shadow-lg"
         title={t("buttons.clear_all")}
       >
-        <Trash2 size={16} />
+        <Trash2 className="w-4 h-4" />
       </button>
     </div>
   );

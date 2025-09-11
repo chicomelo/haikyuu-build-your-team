@@ -40,7 +40,7 @@ function BenchSlot({ index }: { index: number }) {
         selectBench(index);
       }}
       ref={setNodeRef}
-      className={`rounded-md border ${
+      className={`bench-card ${
         isOver && isPlayerBeingDragged
           ? "border-cyan-400 bg-cyan-900/20"
           : isOver
@@ -49,11 +49,6 @@ function BenchSlot({ index }: { index: number }) {
           ? "border-white"
           : "border-white/20"
       } grid place-items-center bg-black/30 overflow-hidden`}
-      style={{
-        width: "4.2rem",
-        height: "calc(4.2rem * 1.408)", // 1.408 é a proporção 250/178
-        aspectRatio: "71/100",
-      }}
     >
       {player && !isDragging ? (
         player.avatar ? (
@@ -85,8 +80,8 @@ function BenchSlot({ index }: { index: number }) {
 
 export function Bench() {
   return (
-    <div className="absolute left-20 bottom-36 mx-4">
-      <div className="grid grid-cols-3 gap-2">
+    <div className="bench-list-wrapper">
+      <div className="bench-list">
         {Array.from({ length: 12 }).map((_, i) => (
           <BenchSlot key={i} index={i} />
         ))}

@@ -22,10 +22,12 @@ export function BuffPanel() {
 
   return (
     <aside
-      className="absolute right-6 top-[7%] w-[360px] max-w-[40vw] card p-3"
+      className="absolute right-20 md:right-20 2xl:right-16 top-[2%] md:top-[7%] 2xl:top-[7%] w-full max-w-[40vw] md:max-w-[20vw] 2xl:max-w-[300px] card p-3"
       style={{ zIndex: 100 }}
     >
-      <div className="font-semibold mb-4 text-xl">{t("buffs.title")}</div>
+      <div className="font-semibold mb-4 text-md md:text-xl">
+        {t("buffs.title")}
+      </div>
 
       {/* Sinergias Posicionais */}
       <div className="mb-3">
@@ -56,9 +58,7 @@ export function BuffPanel() {
           {t("buffs.bond")}
         </div>
         {bondBuffs.length === 0 ? (
-          <div className="text-sm opacity-70">
-            {t("buffs.no_bond_buffs")}
-          </div>
+          <div className="text-sm opacity-70">{t("buffs.no_bond_buffs")}</div>
         ) : (
           <div className="flex flex-col gap-2">
             {bondBuffs.map((b) => (

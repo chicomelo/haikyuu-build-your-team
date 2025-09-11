@@ -45,7 +45,9 @@ export function RosterBar() {
     <div
       ref={setNodeRef}
       className={`border-t max-h-[260px] fixed w-full border-white/10 bg-zinc-800 backdrop-blur transition-all duration-500 ${
-        open ? "bottom-0" : "-bottom-[260px]"
+        open
+          ? "bottom-0"
+          : "-bottom-[220px] md:-bottom-[240px] 2xl:-bottom-[260px]"
       }`}
       style={{
         backgroundColor: isOver ? "rgba(50, 50, 50, 0.95)" : undefined,
@@ -64,8 +66,8 @@ export function RosterBar() {
           } absolute top-[12px] -translate-y-1/2 transition-all duration-300 outline-none`}
         />
       </button>
-      <div className="mx-auto max-w-[1600px] px-4 py-3 h-[260px] flex flex-col">
-        <div className="flex items-center gap-2 mb-2 flex-shrink-0">
+      <div className="mx-auto max-w-[1600px] px-4 py-3 h-[220px] md:h-[240px] 2xl:h-[260px] flex flex-col">
+        <div className="flex items-center gap-2 mb-2 flex-shrink-0 relative">
           <div className="flex gap-2 text-xs">
             {(["all", "S", "MB", "WS", "OP", "L"] as const).map((t) => (
               <button

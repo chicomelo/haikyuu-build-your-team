@@ -18,6 +18,16 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
+@media (min-width: 769px) {
+  body {
+    background-image: url("/assets/quadra.png");
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+}
+
 /* subtle dark overlay for readability */
 body::before {
   content: "";
@@ -72,4 +82,172 @@ body::before {
 #roster-scroll {
   scrollbar-width: thin;
   scrollbar-color: rgba(100, 100, 100, 0.5) rgba(30, 30, 30, 0.3);
+}
+
+.bench-list-wrapper {
+  @apply absolute mx-10;
+  height: fit-content;
+  top: auto;
+  bottom: 1.8rem;
+  left: 0%;
+}
+
+.bench-list {
+  @apply grid grid-cols-6 gap-2;
+}
+
+.bench-card {
+  @apply rounded-md border;
+  width: 3rem;
+  height: calc(3rem * 1.408);
+  aspect-ratio: 71 / 100;
+}
+
+@media (min-width: 769px) {
+  .bench-list-wrapper {
+    @apply mx-4;
+    top: auto;
+    top: 2.4rem;
+    left: 10rem;
+  }
+
+  .bench-list {
+    @apply grid grid-cols-3 gap-2;
+  }
+
+  .bench-card {
+    width: 3.2rem;
+    height: calc(3.2rem * 1.408);
+  }
+}
+
+@media (min-width: 1441px) {
+  .bench-list-wrapper {
+    @apply absolute;
+    top: 4rem;
+    left: 5rem;
+  }
+
+  .bench-list {
+    @apply grid grid-cols-3 gap-4;
+  }
+
+  .bench-card {
+    width: 4.44rem;
+    height: calc(4.44rem * 1.408);
+  }
+}
+
+.slot-card-wrapper {
+  position: relative;
+  width: 100%;
+  min-height: 70vh;
+  border: 1px solid red;
+}
+
+@media (min-width: 769px) {
+  .slot-card-wrapper {
+    min-height: 62vh;
+  }
+}
+
+@media (min-width: 1441px) {
+  .slot-card-wrapper {
+    min-height: 66vh;
+  }
+}
+
+.slot-card-wrapper .slot-card {
+  @apply absolute -translate-x-1/2 -translate-y-1/2;
+}
+
+.slot-card-wrapper .slot-card:nth-child(1) {
+  left: 26%;
+  top: 22%;
+}
+.slot-card-wrapper .slot-card:nth-child(2) {
+  left: 50%;
+  top: 22%;
+}
+.slot-card-wrapper .slot-card:nth-child(3) {
+  left: 74%;
+  top: 22%;
+}
+.slot-card-wrapper .slot-card:nth-child(4) {
+  left: 14%;
+  top: 46%;
+}
+.slot-card-wrapper .slot-card:nth-child(5) {
+  left: 38%;
+  top: 46%;
+}
+.slot-card-wrapper .slot-card:nth-child(6) {
+  left: 62%;
+  top: 46%;
+}
+.slot-card-wrapper .slot-card:nth-child(7) {
+  left: 86%;
+  top: 46%;
+}
+
+@media (min-width: 769px) {
+  .slot-card-wrapper .slot-card:nth-child(1) {
+    left: 40%;
+    top: 26%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(2) {
+    left: 50%;
+    top: 26%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(3) {
+    left: 60%;
+    top: 26%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(4) {
+    left: 35%;
+    top: 62%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(5) {
+    left: 45%;
+    top: 62%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(6) {
+    left: 55%;
+    top: 62%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(7) {
+    left: 65%;
+    top: 62%;
+  }
+}
+
+@media (min-width: 1441px) {
+  .slot-card-wrapper .slot-card:nth-child(1) {
+    left: 38%;
+    top: 28%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(2) {
+    left: 50%;
+    top: 28%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(3) {
+    left: 62%;
+    top: 28%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(4) {
+    left: 32%;
+    top: 68%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(5) {
+    left: 44%;
+    top: 68%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(6) {
+    left: 56%;
+    top: 68%;
+  }
+  .slot-card-wrapper .slot-card:nth-child(7) {
+    left: 68%;
+    top: 68%;
+  }
 }

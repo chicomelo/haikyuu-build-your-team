@@ -46,11 +46,7 @@ export function Slot({ pos, x, y, label }: Props) {
   const displayLabel = label !== undefined ? label : labelFor(pos);
 
   return (
-    <div
-      ref={setNodeRef}
-      className="absolute -translate-x-1/2 -translate-y-1/2"
-      style={{ left: `${x}%`, top: `${y}%` }}
-    >
+    <div ref={setNodeRef} className="slot-card absolute">
       <button
         onClick={() => {
           setType(
@@ -68,7 +64,7 @@ export function Slot({ pos, x, y, label }: Props) {
           ...(player && !isDragging ? dragStyle : undefined),
           aspectRatio: "71/100",
         }}
-        className={`w-32 md:w-36 rounded-lg border-2 ${
+        className={`w-20 md:w-24 2xl:w-36 rounded-lg border-2 grid place-items-center bg-black/30 backdrop-blur-sm overflow-hidden ${
           isOver && isPlayerBeingDragged && isSlotValidForPlayer
             ? "border-cyan-400 bg-cyan-900/20"
             : isOver && isPlayerBeingDragged && !isSlotValidForPlayer
@@ -78,9 +74,7 @@ export function Slot({ pos, x, y, label }: Props) {
             : selected
             ? "border-white"
             : "border-white/40"
-        } grid place-items-center bg-black/30 backdrop-blur-sm overflow-hidden ${
-          isDragging ? "opacity-60" : ""
-        }
+        }  ${isDragging ? "opacity-60" : ""}
         ${pos === "L" ? "border-dashed" : ""}`}
       >
         {player && !isDragging ? (
