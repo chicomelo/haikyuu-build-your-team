@@ -51,7 +51,7 @@ function directTest() {
   const activeBuffs = []
   for (const [name, count] of positionalCounts) {
     if (count >= 2) {
-      activeBuffs.push({ id: name, name, type: 'posicional' })
+      activeBuffs.push({ id: name, name, type: 'positional' })
       console.log(`Sinergia ativa: ${name} (contagem: ${count})`)
     }
   }

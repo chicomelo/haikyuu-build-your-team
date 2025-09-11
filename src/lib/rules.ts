@@ -1,6 +1,6 @@
 import type { Team, Buff, Player } from './types'
 import { resources } from '../i18n'
-import { getTranslatedBuffName } from './buffTranslations'
+import { getTranslatedBuffName, getBuffDescriptionsMap, slugify } from './buffTranslations'
 
 // Função para obter as descrições de buffs no idioma correto
 function getBuffDescriptions(language: string) {
@@ -14,6 +14,9 @@ function getBuffDescriptions(language: string) {
 export function computeBuffs(team: Team, players: Player[], language: string = 'pt-BR'): Buff[] {
   const byId = new Map(players.map(p => [p.id, p]))
   const buffDescriptions = getBuffDescriptions(language);
+  const descBySlug = getBuffDescriptionsMap(language);
+  const descEnBySlug = getBuffDescriptionsMap('en');
+  const looksBad = (s?: string) => !!s && /[\uFFFD\u00C3\u00C2]/.test(s);
   
   // Sinergias posicionais - requerem 2+ titulares
   const starters: Player[] = Object.values(team.slots)
@@ -24,7 +27,8 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
   for (const p of starters) {
     for (const link of p.links || []) {
       if (link.type === 'positional') {
-        positionalCounts.set(link.name, (positionalCounts.get(link.name) || 0) + 1)
+        let key = (link as any).key as string | undefined; if(!key || !(key in descBySlug)) key = slugify(link.name)
+        positionalCounts.set(key, (positionalCounts.get(key) || 0) + 1)
       }
     }
   }
@@ -39,7 +43,8 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
   for (const p of allPlayersInTeam) {
     for (const link of p.links || []) {
       if (link.type === 'bond') {
-        bondCounts.set(link.name, (bondCounts.get(link.name) || 0) + 1)
+        let key = (link as any).key as string | undefined; if(!key || !(key in descBySlug)) key = slugify(link.name)
+        bondCounts.set(key, (bondCounts.get(key) || 0) + 1)
       }
     }
   }
@@ -55,20 +60,22 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
   const buffs: Buff[] = []
   
   // Adicionar sinergias posicionais (2+ titulares)
-  for (const [name, n] of positionalCounts) {
+  for (const [slug, n] of positionalCounts) {
     if (n >= 2) {
-      const translatedName = getTranslatedBuffName(name, language);
-      const desc = buffDescriptions[name as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: name, name: translatedName, type: 'posicional', desc })
+      const translatedName = getTranslatedBuffName(slug, language);
+      let desc = descBySlug[slug];
+      if (!desc || looksBad(desc)) desc = descEnBySlug[slug]
+      buffs.push({ id: slug, name: translatedName, type: 'positional', desc })
     }
   }
   
   // Adicionar sinergias de vínculo (apenas ter os jogadores no time)
-  for (const [name, n] of bondCounts) {
+  for (const [slug, n] of bondCounts) {
     if (n >= 2) {
-      const translatedName = getTranslatedBuffName(name, language);
-      const desc = buffDescriptions[name as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: name, name: translatedName, type: 'vínculo', desc })
+      const translatedName = getTranslatedBuffName(slug, language);
+      let desc = descBySlug[slug];
+      if (!desc || looksBad(desc)) desc = descEnBySlug[slug]
+      buffs.push({ id: slug, name: translatedName, type: 'bond', desc })
     }
   }
   
@@ -77,10 +84,15 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
     if (n >= 4) {
       const name = `Equipe ${school}`;
       const translatedName = getTranslatedBuffName(name, language);
-      const desc = buffDescriptions[school as keyof typeof buffDescriptions] || undefined;
-      buffs.push({ id: school, name: translatedName, type: 'posicional', desc })
+      const schoolSlug = slugify(school)
+      let desc = descBySlug[schoolSlug] || undefined;
+      if (!desc || looksBad(desc)) desc = descEnBySlug[schoolSlug]
+      buffs.push({ id: schoolSlug, name: translatedName, type: 'positional', desc })
     }
   }
   
   return buffs
 }
+
+
+

@@ -25,12 +25,8 @@ export function TeamManager() {
   useEffect(() => {
     const loadSavedTeams = () => {
       try {
-        const saved = localStorage.getItem("savedTeams");
-        console.log("Times salvos no localStorage:", saved);
-        if (saved) {
-          const parsedTeams = JSON.parse(saved);
-          console.log("Times parseados:", parsedTeams);
-          setSavedTeams(parsedTeams);
+        const saved = localStorage.getItem("savedTeams");        if (saved) {
+          const parsedTeams = JSON.parse(saved);          setSavedTeams(parsedTeams);
         }
       } catch (e) {
         console.error("Erro ao carregar times salvos:", e);
@@ -56,22 +52,14 @@ export function TeamManager() {
   }, []);
 
   // Salvar times no localStorage sempre que o estado mudar
-  useEffect(() => {
-    console.log("Salvando times no localStorage:", savedTeams);
-    try {
+  useEffect(() => {    try {
       // Verificar se há times para salvar
       if (savedTeams.length > 0) {
         localStorage.setItem("savedTeams", JSON.stringify(savedTeams));
-        console.log("Times salvos com sucesso no localStorage");
-
         // Verificar se foram realmente salvos
-        const saved = localStorage.getItem("savedTeams");
-        console.log("Verificação após salvar:", saved);
-      } else {
+        const saved = localStorage.getItem("savedTeams");      } else {
         // Se não há times, remover a chave do localStorage
-        localStorage.removeItem("savedTeams");
-        console.log("Nenhum time para salvar, chave removida do localStorage");
-      }
+        localStorage.removeItem("savedTeams");      }
     } catch (e) {
       console.error("Erro ao salvar times no localStorage:", e);
     }
@@ -103,10 +91,7 @@ export function TeamManager() {
       team: JSON.parse(JSON.stringify(team)), // Deep copy do time atual
       rotationLabels: JSON.parse(JSON.stringify(rotationLabels)), // Deep copy dos rotationLabels
       createdAt: Date.now(),
-    };
-
-    console.log("Salvando novo time:", newTeam);
-    const updatedTeams = [...savedTeams, newTeam];
+    };    const updatedTeams = [...savedTeams, newTeam];
     setSavedTeams(updatedTeams);
     setTeamName("");
     setShowSaveModal(false);
@@ -273,3 +258,4 @@ export function TeamManager() {
     </div>
   );
 }
+

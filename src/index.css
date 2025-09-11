@@ -144,7 +144,7 @@ body::before {
   position: relative;
   width: 100%;
   min-height: 70vh;
-  border: 1px solid red;
+
 }
 
 @media (min-width: 769px) {

@@ -1,6 +1,7 @@
 import { computeBuffs } from "../lib/rules";
 import { useStore } from "../state/store";
 import type { Buff } from "../lib/types";
+import { fixMojibake } from "../lib/textFix";
 import { useState } from "react";
 import { X, ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
@@ -11,8 +12,8 @@ export function BuffPanel() {
   const players = useStore((s) => s.players);
   const buffs = computeBuffs(team, players, i18n.language);
 
-  const positionalBuffs = buffs.filter((b) => b.type === "posicional");
-  const bondBuffs = buffs.filter((b) => b.type === "vínculo");
+  const positionalBuffs = buffs.filter((b) => b.type === "positional");
+  const bondBuffs = buffs.filter((b) => b.type === "bond");
 
   const [openTooltipId, setOpenTooltipId] = useState<string | null>(null);
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -103,23 +104,21 @@ function BuffButton({
   isOpen: boolean;
   onToggle: () => void;
 }) {
-  const description = buff.desc || "Descrição não disponível";
+  const description = fixMojibake(buff.desc || "Descrição não disponível");
 
-  console.log(`Rendering BuffButton for ${buff.name}, isOpen: ${isOpen}`);
-
+  
   return (
     <div className="relative inline-block">
       <button
         onClick={(e) => {
           e.stopPropagation();
-          console.log("Button clicked:", buff.name, "isOpen:", !isOpen);
-          onToggle();
+                    onToggle();
         }}
         className={`bg-white/10 hover:bg-white/20 border border-white/20 rounded-full px-3 py-1 text-sm transition-colors cursor-pointer ${
-          buff.type === "posicional" ? "text-cyan-300" : "text-purple-300"
+          buff.type === "positional" ? "text-cyan-300" : "text-purple-300"
         }`}
       >
-        {buff.name}
+        {fixMojibake(buff.name)}
       </button>
 
       {isOpen && (
@@ -148,3 +147,7 @@ function BuffButton({
     </div>
   );
 }
+
+
+
+

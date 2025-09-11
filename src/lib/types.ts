@@ -7,6 +7,8 @@ export type Ability = {
 }
 
 export type Link = {
+  // chave canônica sem acentos/espacos (ex.: 'dupla-excentrica')
+  key?: string
   name: string
   type: 'positional' | 'bond'
 }
@@ -33,6 +35,6 @@ export type Team = {
 export type Buff = {
   id: string
   name: string
-  type: 'posicional' | 'vínculo'
+  type: 'positional' | 'bond'
   desc?: string
 }

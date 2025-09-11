@@ -1,1941 +1,2001 @@
 [
   {
+    "school": "Karasuno",
     "id": "kageyama-ur",
-    "name": "Kageyama UR",
-    "role": "S",
-    "avatar": "/assets/img/kageyamaUR.png",
     "abilities": [
       {
-        "id": "levantador-genio",
         "name": "Levantador Gênio",
+        "id": "levantador-genio",
         "desc": "Kageyama Tobio realiza um levantamento com poder de [Passe] × 120/135/150%. Ao levantar, o [Ataque Rápido] do companheiro que vai atacar é aumentado em [Passe] × 15%. Esse efeito dura até a bola passar para o outro lado da rede."
       },
       {
-        "id": "saque-assassino",
         "name": "Saque Assassino",
+        "id": "saque-assassino",
         "desc": "Kageyama Tobio executa um salto-saque com poder de 130/145/160% do seu [Serve]. Se esse saque for perfeito, o [Técnica de Ataque] dos companheiros aumenta em 10%. Esse efeito dura até a bola cruzar a rede 6 vezes."
       },
       {
-        "id": "rei-silencioso",
         "name": "Rei Silencioso",
+        "id": "rei-silencioso",
         "desc": "Aumenta o [Técnica de Ataque] de Kageyama Tobio em 8/10/12%. Quando ele está em quadra e o Saque, o Ataque Rápido ou o Spike do oponente for uma boa jogada, ele ganha 1 acúmulo de [Competitive Spirit], até 5. Quando ele está em quadra e um aliado realiza Saque, Ataque Rápido ou Spike, consome 1 acúmulo de [Competitive Spirit] e o [Percepção] do aliado que executa a jogada aumenta em 20/25/30%. Esse efeito dura até a bola passar pela rede duas vezes. No início de cada rali, ele ganha 1 acúmulo de [Competitive Spirit]."
       },
       {
-        "id": "dominar-o-jogo",
         "name": "Dominar o Jogo",
+        "id": "dominar-o-jogo",
         "desc": "Kageyama Tobio executa um Ataque Rápido com poder equivalente a 240/255/270/285/300% do levantamento. O Ataque Rápido não pode ser bloqueado. O tempo de recarga da habilidade de bloqueio da linha de frente do oponente aumenta em 4× o número de cruzamentos de rede ocorridos."
       }
     ],
+    "avatar": "/assets/img/kageyamaUR.png",
+    "role": "S",
+    "name": "Kageyama UR",
     "links": [
       {
+        "key": "dupla-excentrica",
         "name": "Dupla Excêntrica",
         "type": "positional"
       },
       {
+        "key": "genios-karasuno",
         "name": "Gênios Karasuno",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "kageyama-ssr",
-    "name": "Kageyama SSR",
-    "role": "S",
-    "avatar": "/assets/img/kageyamaSSR.png",
     "abilities": [
       {
-        "id": "manipular-o-momento",
         "name": "Manipular o Momento",
+        "id": "manipular-o-momento",
         "desc": "Quando Hinata Shoyo (Hanami) está em quadra, o [Defensive Technique] de todos os jogadores da linha de frente aumenta em 10/13/16%. Quando Hinata Shoyo faz uma boa jogada, seu [Offensive Technique] aumenta em 3/3.5/4%, até 4 acúmulos."
       },
       {
-        "id": "degrau",
         "name": "Degrau",
+        "id": "degrau",
         "desc": "Hinata Shoyo (Hanami) recebe a bola com 140/160/180% do seu [Recepção] como poder, e os Stats base dos aliados aumentam em 12%. Esse efeito dura por 6 cruzamentos de rede."
       },
       {
-        "id": "contra-ataque",
         "name": "Contra-ataque",
+        "id": "contra-ataque",
         "desc": "Quando Hinata Shoyo (Hanami) está na linha de trás, o [Defensive Technique] dos aliados na linha de trás aumenta em 10/13/16%. Quando ele está em quadra e a recepção do time não for BAD, o [Ataque Rápido] dele aumenta em 12/16/20% pelos próximos dois cruzamentos de rede. Se a recepção do companheiro for PERFECT, o Ataque Rápido de Hinata Shoyo (Hanami) após essa jogada aumenta em 100%."
       },
       {
-        "id": "pular-alto",
         "name": "Pular Alto",
+        "id": "pular-alto",
         "desc": "Hinata Shoyo (Hanami) realiza um Ataque Rápido com 260/275/290% de [Ataque Rápido] como poder. Se for uma boa jogada, o poder aumenta em [Ataque Rápido] × 40/45/50% adicionais."
       }
     ],
-    "links": [],
-    "school": "Karasuno"
+    "avatar": "/assets/img/kageyamaSSR.png",
+    "role": "S",
+    "name": "Kageyama SSR",
+    "links": []
   },
   {
+    "school": "Karasuno",
     "id": "hinata-sp",
-    "name": "Hinata SP",
-    "role": "MB",
-    "avatar": "/assets/img/hinataSP.png",
     "abilities": [
       {
-        "id": "manipular-o-momento",
         "name": "Manipular o Momento",
+        "id": "manipular-o-momento",
         "desc": "Quando Hinata Shoyo (Hanami) está em quadra, o [Defensive Technique] de todos os jogadores da linha de frente aumenta em 10/13/16%. Quando o resultado da jogada de Hinata Shoyo é PERFECT, seu [Offensive Technique] aumenta em 3/3.5/4%, no máximo 4 acúmulos."
       },
       {
-        "id": "um-apoio",
         "name": "Um Apoio",
+        "id": "um-apoio",
         "desc": "Hinata Shoyo (Hanami) recebe uma bola com 140/160/180% de [Recepção] como poder e os Stats base do seu time aumentam em 12%. Efeito por 6 cruzamentos de rede."
       },
       {
-        "id": "contra-ataque",
         "name": "Contra-ataque",
+        "id": "contra-ataque",
         "desc": "Quando Hinata Shoyo (Hanami) está na linha de trás, o [Defensive Technique] dos aliados na linha de trás aumenta em 10/13/16%. Quando ele está em quadra e a recepção do time não for BAD, seu [Ataque Rápido] aumenta em 12/16/20% pelos próximos dois cruzamentos de rede. Se a recepção do companheiro for PERFECT, o Ataque Rápido de Hinata Shoyo (Hanami) após essa jogada aumenta em 100%."
       },
       {
-        "id": "salto-alto",
         "name": "Salto Alto",
+        "id": "salto-alto",
         "desc": "Hinata Shoyo (Hanami) realiza um Ataque Rápido com 260/275/290% de [Ataque Rápido] como poder. Se for PERFECT, o poder aumenta em mais 40/45/50% de [Ataque Rápido]."
       }
     ],
+    "avatar": "/assets/img/hinataSP.png",
+    "role": "MB",
+    "name": "Hinata SP",
     "links": [
       {
+        "key": "dupla-excentrica",
         "name": "Dupla Excêntrica",
         "type": "positional"
       },
       {
+        "key": "observacao-de-flores-de-cerejeira",
         "name": "Observação de flores de cerejeira",
         "type": "positional"
       },
       {
+        "key": "sol-vs-lua",
         "name": "Sol vs Lua",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "hinata-ssr",
-    "name": "Hinata SSR",
-    "role": "MB",
-    "avatar": "/assets/img/hinataSSR.png",
     "abilities": [
       {
-        "id": "o-maior-isco",
         "name": "O MAIOR ISCO",
+        "id": "o-maior-isco",
         "desc": "Enquanto SHOYO HINATA estiver presente, aumenta os Stats de Power/Ataque Rápido dos jogadores do seu lado em 7%."
       },
       {
-        "id": "dupla-de-rapidas",
         "name": "DUPLA DE RÁPIDAS",
+        "id": "dupla-de-rapidas",
         "desc": "Quando SHOYO HINATA realiza um Ataque Rápido e o levantador é do tipo Ataque Rápido, aumenta o poder desse ataque em 15% do [Ataque Rápido] do levantador."
       },
       {
-        "id": "em-cima-da-jogada",
         "name": "EM CIMA DA JOGADA",
+        "id": "em-cima-da-jogada",
         "desc": "Aumenta o [Percepção] de SHOYO HINATA em 6%. Quando HINATA acerta um crítico, aumenta ainda mais o [Percepção] em 4%, acumulando até 1 vez."
       },
       {
-        "id": "adolescente-em-ascensao",
         "name": "ADOLESCENTE EM ASCENSÃO",
+        "id": "adolescente-em-ascensao",
         "desc": "SHOYO HINATA realiza um Ataque Rápido com 235% do seu [Ataque Rápido] como poder. Se for crítico, aumenta o poder em mais 20% do [Ataque Rápido]."
       }
     ],
+    "avatar": "/assets/img/hinataSSR.png",
+    "role": "MB",
+    "name": "Hinata SSR",
     "links": [
       {
+        "key": "dupla-excentrica",
         "name": "Dupla Excêntrica",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "nishinoya-sp",
-    "name": "Nishinoya SP",
-    "role": "L",
-    "avatar": "/assets/img/nishinoyaSP.png",
     "abilities": [
       {
-        "id": "aceleracao-de-classe-mundial",
         "name": "Aceleração de Classe Mundial",
+        "id": "aceleracao-de-classe-mundial",
         "desc": "O [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 10/13/16%. Quando um membro do time adversário faz uma jogada PERFECT, o [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 1.5%, até 10 acúmulos. Dura até a bola cruzar a rede 6 vezes."
       },
       {
-        "id": "passe-a",
         "name": "Passe A",
+        "id": "passe-a",
         "desc": "Nishinoya Yu (Depois da Escola) levanta a bola com 140/160/180% de [Passe] como poder. O [Attention] de Nishinoya Yu (Depois da Escola) aumenta em 100% de [Reflexo] como poder. Dura por dois cruzamentos de rede."
       },
       {
-        "id": "salvar-o-time-na-crise",
         "name": "Salvar o Time na Crise",
+        "id": "salvar-o-time-na-crise",
         "desc": "O [Spirit] de Nishinoya Yu (Depois da Escola) aumenta em 20/25/30%. Quando um aliado faz uma jogada PERFECT, o cooldown de Foot Receive é reduzido em um cruzamento de rede."
       },
       {
-        "id": "recepcao-com-o-pe",
         "name": "Recepção com o Pé",
+        "id": "recepcao-com-o-pe",
         "desc": "Nishinoya Yu (Depois da Escola) executa uma recepção com 260/275/290% de [Recepção] como poder. O [Recepção] dele aumenta em 20%. Dura por dois cruzamentos de rede."
       }
     ],
+    "avatar": "/assets/img/nishinoyaSP.png",
+    "role": "L",
+    "name": "Nishinoya SP",
     "links": [
       {
+        "key": "genios-karasuno",
         "name": "Gênios Karasuno",
         "type": "positional"
       },
       {
+        "key": "depois-da-escola",
         "name": "Depois da Escola",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "nishinoya-ssr",
-    "name": "Nishinoya SSR",
-    "role": "L",
-    "avatar": "/assets/img/nishinoyaSSR.png",
     "abilities": [
       {
-        "id": "deus-guardiao",
         "name": "DEUS GUARDIÃO",
+        "id": "deus-guardiao",
         "desc": "Quando o resultado de Save de YU NISHINOYA não for BAD, aumenta o poder do próximo Power Spike usado pelo seu jogador de tipo Power em 15% do [Ataque Potente]."
       },
       {
-        "id": "libero-supremo",
         "name": "LÍBERO SUPREMO",
+        "id": "libero-supremo",
         "desc": "YU NISHINOYA realiza um Save com 120% do [Save] como poder."
       },
       {
-        "id": "inspirar-moral",
         "name": "INSPIRAR MORAL",
+        "id": "inspirar-moral",
         "desc": "Quando YU NISHINOYA entra em quadra, aumenta a Moral do Time em 18."
       },
       {
-        "id": "trovao-rolante",
         "name": "TROVÃO ROLANTE",
+        "id": "trovao-rolante",
         "desc": "YU NISHINOYA consome 20 de Stamina adicional para executar uma Recepção com 220% de [Recepção]; se o resultado não for BAD, reduz o cooldown do próximo Power Spike do seu lado em 6 cruzamentos de rede."
       }
     ],
+    "avatar": "/assets/img/nishinoyaSSR.png",
+    "role": "L",
+    "name": "Nishinoya SSR",
     "links": [
       {
+        "key": "deus-guardiao-e-ponta",
         "name": "Deus Guardião e Ponta",
         "type": "positional"
       },
       {
+        "key": "esquadrao-de-kiyoko",
         "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "tanaka-ssr",
-    "name": "Tanaka SSR",
-    "role": "WS",
-    "avatar": "/assets/img/tanakaSSR.png",
     "abilities": [
       {
-        "id": "a-chegada-do-ace",
         "name": "A CHEGADA DO ACE",
+        "id": "a-chegada-do-ace",
         "desc": "Aumenta o poder do 1º Power Spike de RYUNOSUKE TANAKA em cada partida em 25% do [Ataque Potente]."
       },
       {
-        "id": "espirito-tenaz",
         "name": "ESPÍRITO TENAZ",
+        "id": "espirito-tenaz",
         "desc": "RYUNOSUKE TANAKA realiza uma Recepção com 115% de [Recepção] como poder; para essa Recepção, o [Reflexo] de TANAKA aumenta em 10%."
       },
       {
-        "id": "paixao-ardente",
         "name": "PAIXÃO ARDENTE",
+        "id": "paixao-ardente",
         "desc": "Aumenta o poder do Power Spike de RYUNOSUKE TANAKA em 10% do [Ataque Potente]; o Power Spike dele reduz a Stamina dos bloqueadores e recebedores oponentes em 5."
       },
       {
-        "id": "super-diagonal-curta",
         "name": "SUPER DIAGONAL CURTA",
+        "id": "super-diagonal-curta",
         "desc": "RYUNOSUKE TANAKA consome 5 de Stamina extra para executar um Spike Diagonal Curto com 250% do [Ataque Potente] como poder; se for o primeiro spike do set, aumenta o poder em mais 30% do [Ataque Potente]."
       }
     ],
+    "avatar": "/assets/img/tanakaSSR.png",
+    "role": "WS",
+    "name": "Tanaka SSR",
     "links": [
       {
+        "key": "esquadrao-de-kiyoko",
         "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "tsuki-sp",
-    "name": "Tsuki SP",
-    "role": "MB",
-    "avatar": "/assets/img/tsukishimaSP.png",
     "abilities": [
       {
-        "id": "grande-cerebro",
         "name": "Grande Cérebro",
+        "id": "grande-cerebro",
         "desc": "Quando um membro do time adversário estiver sob efeito desfavorável, o [Percepção] e o [Reflexo] de Tsukishima Kei (Fireworks Festival) aumentam em 15/20/25%, e o [Offensive Technique] e [Defensive Technique] dos aliados aumentam em 10%. Dura por 1 rali. Quando um aliado ativa uma habilidade de bloqueio, o [Ataque Rápido] de Tsukishima Kei (Fireworks Festival) aumenta em 3% (até 10 acúmulos). Quando um aliado ativa uma habilidade de Ataque Rápido, o [Bloqueio] de Tsukishima Kei (Fireworks Festival) aumenta em 3% (até 10 acúmulos)."
       },
       {
-        "id": "bloqueio-e-um-sistema",
         "name": "Bloqueio é um Sistema",
+        "id": "bloqueio-e-um-sistema",
         "desc": "Tsukishima Kei (Fireworks Festival) bloqueia com poder de [Bloqueio] × 300/325/350%. Aumenta o [Reflexo] dos defensores traseiros aliados em 10% e o [Spirit] em 20%. Dura até a bola cruzar a rede duas vezes."
       },
       {
-        "id": "observar-calmamente-a-situacao",
         "name": "Observar Calmamente a Situação",
+        "id": "observar-calmamente-a-situacao",
         "desc": "No início da partida, se o [Técnica de Ataque] de Tsukishima Kei (Fireworks Festival) for ≥ ao [Defensive Technique], ele recebe o efeito [Attack I/II/III]; caso contrário, recebe [Defensive I/II/III]. Com [Attack I/II/III], o cooldown de 'Bloqueio é um Sistema' é reduzido em 4× o número de cruzamentos de rede, mas o poder dessa habilidade é reduzido em [Bloqueio] × 100/80/60%. [Ataque Rápido] é reduzido em 20/30/40."
       },
       {
-        "id": "ataques-que-aproveitam-sua-altura",
         "name": "Ataques que Aproveitam sua Altura",
+        "id": "ataques-que-aproveitam-sua-altura",
         "desc": "Tsukishima Kei (Fireworks Festival) executa um Ataque Rápido com poder de [Ataque Rápido] × 260/280/300/320/340%. Se algum oponente tiver efeito desfavorável, o poder aumenta em [Ataque Rápido] × 60%."
       }
     ],
+    "avatar": "/assets/img/tsukishimaSP.png",
+    "role": "MB",
+    "name": "Tsuki SP",
     "links": [
       {
+        "key": "sol-vs-lua",
         "name": "Sol vs Lua",
         "type": "positional"
       },
       {
+        "key": "festival-fogos-de-artificio",
         "name": "Festival Fogos de Artificio",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "tsuki-ssr",
-    "name": "Tsuki SSR",
-    "role": "MB",
-    "avatar": "/assets/img/tsukishimaSSR.png",
     "abilities": [
       {
-        "id": "a-calma-de-karasuno",
         "name": "A CALMA DE KARASUNO",
+        "id": "a-calma-de-karasuno",
         "desc": "Enquanto KEI TSUKISHIMA estiver em quadra, aumenta a Força dos jogadores do tipo Ataque Rápido do seu lado em 10%."
       },
       {
-        "id": "ataque-rapido-tatico",
         "name": "ATAQUE RÁPIDO TÁTICO",
+        "id": "ataque-rapido-tatico",
         "desc": "KEI TSUKISHIMA realiza um Ataque Rápido com 115% do seu [Ataque Rápido]. Na próxima vez que um companheiro usar uma habilidade de Spike, o [Percepção] dele aumenta em 5%."
       },
       {
-        "id": "nascer-da-lua",
         "name": "NASCER DA LUA",
+        "id": "nascer-da-lua",
         "desc": "Enquanto KEI TSUKISHIMA estiver presente, aumenta o poder de Bloqueio dos jogadores da linha de frente do seu lado em 8% do [Bloqueio]."
       },
       {
-        "id": "replica-do-kei",
         "name": "RÉPLICA DO KEI",
+        "id": "replica-do-kei",
         "desc": "KEI TSUKISHIMA realiza um Bloqueio com 195% do seu [Bloqueio] como poder. Aplica o debuff \"Enrage\" no atacante adversário (reduz os Stats de [Power/Ataque Rápido] em 10%)."
       }
     ],
-    "links": [],
-    "school": "Karasuno"
+    "avatar": "/assets/img/tsukishimaSSR.png",
+    "role": "MB",
+    "name": "Tsuki SSR",
+    "links": []
   },
   {
+    "school": "Karasuno",
     "id": "daichi-ssr",
-    "name": "Daichi SSR",
-    "role": "OP",
-    "avatar": "/assets/img/daichiSSR.png",
     "abilities": [
       {
-        "id": "recepcao-estavel",
         "name": "RECEPÇÃO ESTÁVEL",
+        "id": "recepcao-estavel",
         "desc": "Quando DAICHI SAWAMURA realiza uma Recepção, restaura 3 de Stamina do companheiro com a menor Stamina."
       },
       {
-        "id": "spike-marreta",
         "name": "SPIKE MARRETA",
+        "id": "spike-marreta",
         "desc": "DAICHI SAWAMURA executa um Power Spike com 120% do seu [Ataque Potente]."
       },
       {
-        "id": "espinha-dorsal-da-equipe",
         "name": "ESPINHA DORSAL DA EQUIPE",
+        "id": "espinha-dorsal-da-equipe",
         "desc": "Enquanto DAICHI SAWAMURA estiver presente, aumenta o poder de recepção dos jogadores da linha de trás do seu lado em 10% do [Recepção]."
       },
       {
-        "id": "defesa-confiavel",
         "name": "DEFESA CONFIÁVEL",
+        "id": "defesa-confiavel",
         "desc": "DAICHI SAWAMURA realiza uma Recepção com 220% do seu [Recepção]. Se o próximo Spike do seu lado for Power Spike, aumenta o poder desse ataque em 15% do [Ataque Potente] do atacante."
       }
     ],
-    "links": [],
-    "school": "Karasuno"
+    "avatar": "/assets/img/daichiSSR.png",
+    "role": "OP",
+    "name": "Daichi SSR",
+    "links": []
   },
   {
+    "school": "Karasuno",
     "id": "azumane-ssr",
-    "name": "Azumane SSR",
-    "role": "WS",
-    "avatar": "/assets/img/azumaneSSR.png",
     "abilities": [
       {
-        "id": "defesa-proficiente",
         "name": "DEFESA PROFICIENTE",
+        "id": "defesa-proficiente",
         "desc": "ASAHI AZUMANE realiza uma Recepção com 120% de [Recepção] como poder."
       },
       {
-        "id": "saque-bala",
         "name": "SAQUE BALA",
+        "id": "saque-bala",
         "desc": "ASAHI AZUMANE realiza um Salto-Saque com 120% de [Serve] como poder."
       },
       {
-        "id": "aura-do-ace",
         "name": "AURA DO ACE",
+        "id": "aura-do-ace",
         "desc": "Quando a Stamina de ASAHI AZUMANE está acima de 70, aumenta o poder do seu Power Spike em 15% do [Ataque Potente]."
       },
       {
-        "id": "spike-carregado",
         "name": "SPIKE CARREGADO",
+        "id": "spike-carregado",
         "desc": "ASAHI AZUMANE consome 30 de Stamina adicional para realizar um Power Spike com 235% do [Ataque Potente] como poder e recebe 1 acúmulo de \"Power Charge\"; ao lançar [SPIKE CARREGADO], cada acúmulo de \"Power Charge\" aumenta o poder em 50% do [Ataque Potente]."
       }
     ],
+    "avatar": "/assets/img/azumaneSSR.png",
+    "role": "WS",
+    "name": "Azumane SSR",
     "links": [
       {
+        "key": "deus-guardiao-e-ponta",
         "name": "Deus Guardião e Ponta",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Karasuno",
     "id": "sugawara-sp",
-    "name": "Sugawara SP",
-    "role": "S",
-    "avatar": "/assets/img/sugawaraSP.png",
     "abilities": [
       {
-        "id": "apoiar-o-ataque",
         "name": "Apoiar o Ataque",
+        "id": "apoiar-o-ataque",
         "desc": "Quando Sugawara Koshi (Depois da Escola) está em quadra e um aliado da linha de frente ativa uma habilidade de bloqueio, o [Bloqueio] do bloqueador aumenta em 5/6.25/7.5% × a soma do [Bloqueio] do outro aliado da linha de frente (máximo 1000/1250/1500). Dura até a bola cruzar a rede duas vezes. Quando ele está em quadra e um aliado da linha de trás recebe, o [Recepção] do recebedor aumenta em 5/6.25/7.5% × a soma do [Recepção] do outro aliado da linha de trás (máx. 1000/1250/1500). Dura até a bola cruzar a rede duas vezes."
       },
       {
-        "id": "saque-habilidoso-que-explora-fraquezas",
         "name": "Saque habilidoso que explora fraquezas",
+        "id": "saque-habilidoso-que-explora-fraquezas",
         "desc": "Sugawara Koushi (Depois da Escola) executa um Saque com poder [Serve] × 140/160/180%. Aumenta a Moral do Time em 10. Aumenta os Stats base dos aliados em 12/14/16% por 1 rali."
       },
       {
-        "id": "preparacao-cuidadosa",
         "name": "Preparação Cuidadosa",
+        "id": "preparacao-cuidadosa",
         "desc": "Sugawara Koushi (Depois da Escola) aumenta a Stamina em 13/16/20%. Na primeira participação dele, os aliados consomem 50% da Stamina atual e, a cada 6 de Stamina consumida, os Stats base dos aliados aumentam em 1/1.3/1.6%. Após a primeira participação, os aliados reSave 15 de Stamina ao fim de cada rali, por 4 ralis."
       },
       {
-        "id": "jogada-sinalizada",
         "name": "Jogada Sinalizada",
+        "id": "jogada-sinalizada",
         "desc": "Sugawara Koushi (Depois da Escola) consome 15 de Stamina extra e realiza um levantamento com 60% ([Passe] × 2) / 80% ([Passe] × 2) / 300% / 20% ([Passe] × 3) / 40% ([Passe] × 3) de poder. O primeiro companheiro a atacar (Power/Quick) após essa jogada aumenta o [Técnica de Ataque] em 2.0% até a bola cruzar a rede duas vezes."
       }
     ],
+    "avatar": "/assets/img/sugawaraSP.png",
+    "role": "S",
+    "name": "Sugawara SP",
     "links": [
       {
+        "key": "depois-da-escola",
         "name": "Depois da Escola",
         "type": "positional"
       }
-    ],
-    "school": "Karasuno"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "kenma-sp",
-    "name": "Kenma SP",
-    "role": "S",
-    "avatar": "/assets/img/kenmaSP.png",
     "abilities": [
       {
-        "id": "lideranca",
         "name": "Liderança",
+        "id": "lideranca",
         "desc": "Quando Kozume Kenma (Hanami) está em quadra, os [Reflexo] dos aliados aumentam em 10/13/16%. Estando em quadra e um aliado receber ou salvar, ele ganha 1 acúmulo de [Defense that Eliminates Openings] e os [Reflexo] dos aliados aumentam em 1.5%, até 10 acúmulos. Se o resultado da recepção/Save do aliado não for BAD, ganha mais 1 acúmulo."
       },
       {
-        "id": "levantamento-sem-movimento-desperdicado",
         "name": "Levantamento Sem Movimento Desperdiçado",
+        "id": "levantamento-sem-movimento-desperdicado",
         "desc": "Kozume Kenma (Hanami) realiza um levantamento com 140/160/180% de [Passe] como poder. Se o atacante (Power/Quick) após essa jogada estiver na linha de trás, o poder do ataque aumenta em 20%."
       },
       {
-        "id": "procurar-falhas",
         "name": "Procurar Falhas",
+        "id": "procurar-falhas",
         "desc": "Quando Kozume Kenma (Hanami) executa Set ou Setter Dump, seu [Percepção] aumenta em 40/60/80% de [Reflexo] como poder. Se ele estiver em quadra e o bloqueio do aliado não for BAD, o poder do Spike atual do oponente (Power/Quick) aumenta em 10/13/16% do [Power/Ataque Rápido] correspondente (efeito de enfraquecimento para o oponente)."
       },
       {
-        "id": "jogada-que-confunde-o-adversario",
         "name": "Jogada que Confunde o Adversário",
+        "id": "jogada-que-confunde-o-adversario",
         "desc": "Kozume Kenma (Hanami) executa um Setter Dump com 255/270/285/300/315% de [Passe] como poder. Não pode ser bloqueado. Após essa jogada, quando um oponente realizar o primeiro Spike (Power/Quick), o [Power] desse jogador é reduzido em 40% por 2 cruzamentos de rede."
       }
     ],
+    "avatar": "/assets/img/kenmaSP.png",
+    "role": "S",
+    "name": "Kenma SP",
     "links": [
       {
+        "key": "observacao-de-flores-de-cerejeira",
         "name": "Observação de flores de cerejeira",
         "type": "positional"
       },
       {
+        "key": "cerebro-e-comandante-sp",
         "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "kenma-ssr",
-    "name": "Kenma SSR",
-    "role": "S",
-    "avatar": "/assets/img/kenmaSSR.png",
     "abilities": [
       {
-        "id": "visao-divina",
         "name": "VISÃO DIVINA",
+        "id": "visao-divina",
         "desc": "Enquanto KENMA KOZUME está em quadra, aumenta o poder de Recepção dos seus jogadores em 8% do [Recepção]. Quando o Set de Kenma ou a Recepção do seu lado resulta em PERFECT, ganha 1 acúmulo de 'Keep It Alive'. Cada acúmulo aumenta o poder de Recepção dos seus jogadores em 3%, até 6 acúmulos."
       },
       {
-        "id": "levantamento-confiavel",
         "name": "LEVANTAMENTO CONFIÁVEL",
+        "id": "levantamento-confiavel",
         "desc": "KENMA KOZUME executa um Set com 120% do seu [Passe]."
       },
       {
-        "id": "o-cerebro",
         "name": "O CÉREBRO",
+        "id": "o-cerebro",
         "desc": "Enquanto KENMA KOZUME está em quadra, aumenta o poder de Recepção dos seus jogadores em 6% do [Recepção]. Se 'Keep It Alive' exceder 5 acúmulos, aumenta adicionalmente o poder de Recepção em 150% e o de Save em 150%. Quando a Recepção ou o Save do seu lado falhar, consome 6 acúmulos de 'Keep It Alive' para converter o resultado em PERFECT."
       },
       {
-        "id": "dump-enganoso",
         "name": "DUMP ENGANOSO",
+        "id": "dump-enganoso",
         "desc": "KENMA KOZUME executa um Setter Dump inbloqueável com 220% do seu [Passe]."
       }
     ],
+    "avatar": "/assets/img/kenmaSSR.png",
+    "role": "S",
+    "name": "Kenma SSR",
     "links": [
       {
+        "key": "cerebro-e-comandante",
         "name": "Cérebro e Comandante",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "yaku-ssr",
-    "name": "Yaku SSR",
-    "role": "L",
-    "avatar": "/assets/img/yakuSSR.png",
     "abilities": [
       {
-        "id": "chave-da-defesa",
         "name": "Chave da Defesa",
+        "id": "chave-da-defesa",
         "desc": "Quando Morisuke Yaku está em quadra e a recepção de um aliado não é BAD, o [Recepção] e o [Save] de Morisuke Yaku aumentam em 3/4/5%, até 5 acúmulos."
       },
       {
-        "id": "defesa-confiavel",
         "name": "Defesa Confiável",
+        "id": "defesa-confiavel",
         "desc": "Quando Morisuke Yaku está em quadra, o Ataque Rápido do seu Especialista em Ataque Rápido aumenta em 8/10/12% do [Ataque Rápido] desse jogador."
       },
       {
-        "id": "super-libero",
         "name": "Super Líbero",
+        "id": "super-libero",
         "desc": "O [Recepção] de Morisuke Yaku aumenta em 11/13/15%. Se o resultado for NORMAL, muda para PERFECT."
       },
       {
-        "id": "recepcao-perfeita",
         "name": "Recepção Perfeita",
+        "id": "recepcao-perfeita",
         "desc": "Morisuke Yaku realiza uma Recepção com 240/255/270/285/300% de [Recepção] como poder."
       }
     ],
+    "avatar": "/assets/img/yakuSSR.png",
+    "role": "L",
+    "name": "Yaku SSR",
     "links": [
       {
+        "key": "orientacao-educacional",
         "name": "Orientação Educacional",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "kuroo-ssr",
-    "name": "Kuroo SSR",
-    "role": "MB",
-    "avatar": "/assets/img/kurooSSR.png",
     "abilities": [
       {
-        "id": "aura-do-especialista",
         "name": "AURA DO ESPECIALISTA",
+        "id": "aura-do-especialista",
         "desc": "Enquanto TETSURO KUROO (Practice) está presente, aumenta a Força dos jogadores do tipo Ataque Rápido do seu lado em 16%."
       },
       {
-        "id": "ataque-constante",
         "name": "ATAQUE CONSTANTE",
+        "id": "ataque-constante",
         "desc": "TETSURO KUROO (Practice) realiza um Ataque Rápido com 125% de [Ataque Rápido] como poder e recebe 1 acúmulo de 'Power Charge'; ao lançar [ATAQUE CONSTANTE], cada acúmulo aumenta o poder do spike em 15% de [Ataque Rápido] (máx. 2)."
       },
       {
-        "id": "torre-de-controle-do-bloqueio",
         "name": "TORRE DE CONTROLE DO BLOQUEIO",
+        "id": "torre-de-controle-do-bloqueio",
         "desc": "Enquanto TETSURO KUROO (Practice) está presente, aumenta o [Bloqueio] dos seus jogadores em 8%."
       },
       {
-        "id": "bloqueio-total",
         "name": "BLOQUEIO TOTAL",
+        "id": "bloqueio-total",
         "desc": "TETSURO KUROO (Practice) realiza um Bloqueio com 170% de [Bloqueio] como poder; quando outros jogadores de bloqueio na linha de frente estão presentes, aumenta o poder deste bloqueio em 15% do [Bloqueio]."
       }
     ],
-    "links": [],
-    "school": "Nekoma"
+    "avatar": "/assets/img/kurooSSR.png",
+    "role": "MB",
+    "name": "Kuroo SSR",
+    "links": []
   },
   {
+    "school": "Nekoma",
     "id": "kuroo-ur",
-    "name": "Kuroo UR",
-    "role": "MB",
-    "avatar": "/assets/img/kurooUR.png",
     "abilities": [
       {
-        "id": "versatil",
         "name": "Versátil",
+        "id": "versatil",
         "desc": "Aumenta o [Ataque Rápido] de Tetsuro Kuroo em 10/12/14%. Quando ele está em quadra, seu [Bloqueio] e [Ataque Rápido] aumentam em 5% cada vez que a bola cruza a rede, até 5 vezes."
       },
       {
-        "id": "ataque-rapido",
         "name": "Ataque Rápido",
+        "id": "ataque-rapido",
         "desc": "Tetsuro Kuroo realiza um Ataque Rápido com poder de [Ataque Rápido] × 125% e ganha 1 acúmulo de [Charge]. Ao ativar Ataque Rápido, o poder aumenta em [Ataque Rápido] × 5% por acúmulo de [Charge], até 3 acúmulos."
       },
       {
-        "id": "lideranca",
         "name": "Liderança",
+        "id": "lideranca",
         "desc": "Aumenta o [Bloqueio] de Tetsuro Kuroo em 14/16/18%. Se o resultado do bloqueio for PERFECT, o atacante adversário (Power/Quick) recebe o debuff [Rage] (redução de 10% em [Power/Ataque Rápido])."
       },
       {
-        "id": "bloqueio-lider",
         "name": "Bloqueio Líder",
+        "id": "bloqueio-lider",
         "desc": "Tetsuro Kuroo bloqueia com poder de [Bloqueio] × 235/250/265/280/295%. Se o atacante adversário tiver um efeito desfavorável, o poder desse bloqueio aumenta em [Bloqueio] × 20% adicionais."
       }
     ],
+    "avatar": "/assets/img/kurooUR.png",
+    "role": "MB",
+    "name": "Kuroo UR",
     "links": [
       {
+        "key": "cerebro-e-comandante",
         "name": "Cérebro e Comandante",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "lev-ssr",
-    "name": "Lev SSR",
-    "role": "MB",
-    "avatar": "/assets/img/levSSR.png",
     "abilities": [
       {
-        "id": "explosao-desencadeada",
         "name": "EXPLOSÃO DESENCADEADA",
+        "id": "explosao-desencadeada",
         "desc": "Enquanto LEV HAIBA está em quadra, quando seu lado consegue uma Recepção PERFECT, o próximo Ataque Rápido dele ganha 15% do [Ataque Rápido] como poder adicional."
       },
       {
-        "id": "bloqueio-de-impulso",
         "name": "BLOQUEIO DE IMPULSO",
+        "id": "bloqueio-de-impulso",
         "desc": "LEV HAIBA realiza um Bloqueio com 105% do seu [Bloqueio]."
       },
       {
-        "id": "atleta-dotado",
         "name": "ATLETA DOTADO",
+        "id": "atleta-dotado",
         "desc": "Quando LEV HAIBA realiza um Ataque Rápido e o bloqueador oponente está sob debuff, reduz o [Bloqueio] desse bloqueador em 10% do [Bloqueio] dele."
       },
       {
-        "id": "spike-talentoso",
         "name": "SPIKE TALENTOSO",
+        "id": "spike-talentoso",
         "desc": "LEV HAIBA realiza um Ataque Rápido com 245% do seu [Ataque Rápido]."
       }
     ],
+    "avatar": "/assets/img/levSSR.png",
+    "role": "MB",
+    "name": "Lev SSR",
     "links": [
       {
+        "key": "orientacao-educacional",
         "name": "Orientação Educacional",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Dateko",
     "id": "aone-sp",
-    "name": "Aone SP",
-    "role": "MB",
-    "avatar": "/assets/img/aoneSP.png",
     "abilities": [
       {
-        "id": "parede-poderosa",
         "name": "Parede Poderosa",
+        "id": "parede-poderosa",
         "desc": "O [Reflexo] de Aone Takanobu (Beach Boys) aumenta em 10/13/16%. Se a Stamina dele for menor que 80, seus [Bloqueio] e [Serve] aumentam em 10%. Ao bloquear, se o resultado for bloqueio duplo ou triplo, para cada membro bloqueador com habilidade de bloqueio, o poder do bloqueio aumenta em 20% do [Bloqueio] de Aone Takanobu (Beach Boys)."
       },
       {
-        "id": "saque-que-motiva-o-time",
         "name": "Saque que Motiva o Time",
+        "id": "saque-que-motiva-o-time",
         "desc": "Takanobu Aone (Beach Boys) executa um Salto-Saque com 140/160/180% de [Serve] como poder. O cooldown da habilidade do levantador oponente aumenta em 4× o número de cruzamentos de rede. Ao sair da quadra, se Aone ativou [Team Motivating Jump Serve] durante a partida, o [Offensive Technique] e o [Defensive Technique] dos seus jogadores aumentam em 5%. Se os acúmulos de [Tough Block] forem 3 ou mais, aumentam em mais 5%. Dura até a próxima partida de Aone. (Cada acúmulo de [Tough Block] concede +10% de [Reflexo], máx. 20)."
       },
       {
-        "id": "paredes-fortes-e-altas",
         "name": "Paredes Fortes e Altas",
+        "id": "paredes-fortes-e-altas",
         "desc": "Quando Aone está em quadra, cada vez que um oponente ataca (Power/Quick), o atacante ganha 1 acúmulo de [Locked On]. No início da partida, todos os oponentes ganham 1 acúmulo. Se um oponente tiver 2 acúmulos, consome-os e Aone ganha [Tough Block]. Com mais de 2 acúmulos de [Tough Block], o [Bloqueio] dele aumenta em 10% de [Bloqueio] como poder. Com mais de 4 acúmulos, o cooldown de [Sharp, Leading Block] cai para 8 cruzamentos (12 → 8). Com mais de 6, o [Spirit] aumenta em 10%. Com mais de 8, o cooldown cai para 4 (8 → 4)."
       },
       {
-        "id": "bloqueio-afiado-e-conduzido",
         "name": "Bloqueio Afiado e Conduzido",
+        "id": "bloqueio-afiado-e-conduzido",
         "desc": "Takanobu Aone (Beach Boys) bloqueia com 260/275/290/305/320% do [Bloqueio]. Aumenta a Moral do Time em 15."
       }
     ],
+    "avatar": "/assets/img/aoneSP.png",
+    "role": "MB",
+    "name": "Aone SP",
     "links": [
       {
+        "key": "natacao",
         "name": "Natação",
         "type": "positional"
       }
-    ],
-    "school": "Dateko"
+    ]
   },
   {
+    "school": "Dateko",
     "id": "aone-ssr",
-    "name": "Aone SSR",
-    "role": "MB",
-    "avatar": "/assets/img/aoneSSR.png",
     "abilities": [
       {
-        "id": "trancar-o-ace",
         "name": "TRANCAR O ACE",
+        "id": "trancar-o-ace",
         "desc": "Quando TAKANOBU AONE consegue um Bloqueio PERFECT, marca o spiker adversário, reduzindo o poder do próximo spike em 10% do [Power/Ataque Rápido] e aumentando o consumo de Stamina em 30%."
       },
       {
-        "id": "golpe-pesado",
         "name": "GOLPE PESADO",
+        "id": "golpe-pesado",
         "desc": "TAKANOBU AONE realiza um Ataque Rápido com 120% do [Ataque Rápido]."
       },
       {
-        "id": "formacao-tripla",
         "name": "FORMAÇÃO TRIPLA",
+        "id": "formacao-tripla",
         "desc": "Quando TAKANOBU AONE bloqueia, para cada jogador do tipo Block no seu lado (1), aumenta o poder do Bloqueio em 1% do [Bloqueio]; quando os 3 da linha de frente são do tipo Block, aumenta em mais 4% do [Bloqueio]."
       },
       {
-        "id": "pilar-de-ferro",
         "name": "PILAR DE FERRO",
+        "id": "pilar-de-ferro",
         "desc": "TAKANOBU AONE realiza um Bloqueio com 195% do [Bloqueio]. Ao bloquear um Power Spike adversário, aumenta o poder em mais 9% do [Bloqueio]."
       }
     ],
+    "avatar": "/assets/img/aoneSSR.png",
+    "role": "MB",
+    "name": "Aone SSR",
     "links": [
       {
+        "key": "o-silencioso-e-o-sarcastico",
         "name": "O Silencioso e o Sarcástico",
         "type": "positional"
       }
-    ],
-    "school": "Dateko"
+    ]
   },
   {
+    "school": "Dateko",
     "id": "futakuchi-ssr",
-    "name": "Futakuchi SSR",
-    "role": "WS",
-    "avatar": "/assets/img/futakuchiSSR.png",
     "abilities": [
       {
-        "id": "autoridade-do-capitao",
         "name": "AUTORIDADE DO CAPITÃO",
+        "id": "autoridade-do-capitao",
         "desc": "Enquanto KENJI FUTAKUCHI está presente, aumenta o poder de Bloqueio do seu lado em 8% do [Bloqueio] de cada jogador."
       },
       {
-        "id": "iniciar-ataque",
         "name": "INICIAR ATAQUE",
+        "id": "iniciar-ataque",
         "desc": "KENJI FUTAKUCHI executa um Salto-Saque com 120% do [Serve] como poder."
       },
       {
-        "id": "levantando-a-defesa",
         "name": "LEVANTANDO A DEFESA",
+        "id": "levantando-a-defesa",
         "desc": "Enquanto KENJI FUTAKUCHI está presente, para cada jogador do tipo Block no seu lado (1), aumenta o poder de Bloqueio em 0.5% do [Bloqueio]."
       },
       {
-        "id": "parede-de-ferro-inquebravel",
         "name": "PAREDE DE FERRO INQUEBRÁVEL",
+        "id": "parede-de-ferro-inquebravel",
         "desc": "KENJI FUTAKUCHI realiza um Bloqueio com 195% do [Bloqueio]; quando o atacante adversário está sob debuff, aumenta o poder desse bloqueio em mais 10% do [Bloqueio]."
       }
     ],
+    "avatar": "/assets/img/futakuchiSSR.png",
+    "role": "WS",
+    "name": "Futakuchi SSR",
     "links": [
       {
+        "key": "o-silencioso-e-o-sarcastico",
         "name": "O Silencioso e o Sarcástico",
         "type": "positional"
       },
       {
+        "key": "o-novo-capitao-e-o-novato-altao",
         "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
-    ],
-    "school": "Dateko"
+    ]
   },
   {
+    "school": "Dateko",
     "id": "sasaya-ssr",
-    "name": "Sasaya SSR",
-    "role": "OP",
-    "avatar": "/assets/img/sasayaSSR.png",
     "abilities": [
       {
-        "id": "resposta-calma",
         "name": "RESPOSTA CALMA",
+        "id": "resposta-calma",
         "desc": "Aumenta o [Percepção] de TAKEHITO SASAYA em 5%; enquanto ele estiver presente, aumenta o [Reflexo] dos jogadores do seu lado em 5%."
       },
       {
-        "id": "defesa-impenetravel",
         "name": "DEFESA IMPENETRÁVEL",
+        "id": "defesa-impenetravel",
         "desc": "TAKEHITO SASAYA realiza um Bloqueio com 105% do [Bloqueio]."
       },
       {
-        "id": "parede-de-ferro-fortificada",
         "name": "PAREDE DE FERRO FORTIFICADA",
+        "id": "parede-de-ferro-fortificada",
         "desc": "Enquanto TAKEHITO SASAYA estiver presente e seu lado estiver atrás, aumenta o poder das habilidades de Bloqueio do seu time em mais 3% do [Bloqueio] de cada bloqueador e aumenta o [Reflexo] dos bloqueadores em 5%."
       },
       {
-        "id": "jogada-agressiva",
         "name": "JOGADA AGRESSIVA",
+        "id": "jogada-agressiva",
         "desc": "TAKEHITO SASAYA realiza um Power Spike com 240% do [Ataque Potente]."
       }
     ],
-    "links": [],
-    "school": "Dateko"
+    "avatar": "/assets/img/sasayaSSR.png",
+    "role": "OP",
+    "name": "Sasaya SSR",
+    "links": []
   },
   {
+    "school": "Dateko",
     "id": "koganegawa-ssr",
-    "name": "Koganegawa SSR",
-    "role": "S",
-    "avatar": "/assets/img/koganegawaSSR.png",
     "abilities": [
       {
-        "id": "levantador-novato",
         "name": "Levantador Novato",
+        "id": "levantador-novato",
         "desc": "KANJI KOGANEGAWA realiza um Set com 120% do seu [Passe]."
       },
       {
-        "id": "faisca-do-bloqueio",
         "name": "Faísca do Bloqueio",
+        "id": "faisca-do-bloqueio",
         "desc": "KANJI KOGANEGAWA realiza um Bloqueio com 105% do seu [Bloqueio]. Enquanto ele está em quadra, quando o oponente realiza um Power Spike, os bloqueadores do seu lado ganham 3% de poder adicional de Bloqueio com base no próprio [Bloqueio]."
       },
       {
-        "id": "parede-de-ferro-iii",
         "name": "Parede de Ferro III",
+        "id": "parede-de-ferro-iii",
         "desc": "Enquanto KANJI KOGANEGAWA está em quadra, aumenta o poder das habilidades de Bloqueio dos outros jogadores em 2% do [Bloqueio] deles."
       },
       {
-        "id": "finta-relampago",
         "name": "Finta Relâmpago",
+        "id": "finta-relampago",
         "desc": "KANJI KOGANEGAWA realiza um Setter Dump inbloqueável com 210% do seu [Passe]."
       }
     ],
+    "avatar": "/assets/img/koganegawaSSR.png",
+    "role": "S",
+    "name": "Koganegawa SSR",
     "links": [
       {
+        "key": "o-novo-capitao-e-o-novato-altao",
         "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
-    ],
-    "school": "Dateko"
+    ]
   },
   {
+    "school": "Aoba Johsai",
     "id": "oikawa-ur",
-    "name": "Oikawa UR",
-    "role": "S",
-    "avatar": "/assets/img/oikawaUR.png",
     "abilities": [
       {
-        "id": "levantamento-do-rei",
         "name": "Levantamento do Rei",
+        "id": "levantamento-do-rei",
         "desc": "Oikawa Tooru realiza Sets com 120/135/150% de [Passe] como poder. Se um companheiro em quadra realizar uma jogada com resultado PERFECT, ele ganha 1 acúmulo de [Offensive Rhythm]. Para cada acúmulo, o [Percepção] dos seus jogadores em quadra aumenta em 1%, até 10 acúmulos."
       },
       {
-        "id": "talento-inigualavel",
         "name": "Talento Inigualável",
+        "id": "talento-inigualavel",
         "desc": "Oikawa Tooru realiza um Setter Dump com 115% de [Passe] como poder. Não pode ser bloqueado. Se Oikawa estiver em quadra, um Ataque Potente de um aliado tem seu [Power] aumentado em 20%."
       },
       {
-        "id": "maestro",
         "name": "Maestro",
+        "id": "maestro",
         "desc": "Quando Oikawa Tooru está em quadra, o [Percepção] dos seus jogadores em quadra aumenta em 10/14/18%. (Se Oikawa tiver 6+ acúmulos de [Offensive Rhythm]). Quando um aliado usa uma habilidade de Ataque Potente, consome 6 acúmulos de [Offensive Rhythm] e garante resultado PERFECT."
       },
       {
-        "id": "salto-saque-do-grande-rei",
         "name": "Salto-Saque do Grande Rei",
+        "id": "salto-saque-do-grande-rei",
         "desc": "Oikawa Tooru realiza um Salto-Saque com 260/275/290/305/320% de [Serve] como poder. Essa jogada aumenta seu [Percepção] em 20% e seu [Power] em 20%."
       }
     ],
+    "avatar": "/assets/img/oikawaUR.png",
+    "role": "S",
+    "name": "Oikawa UR",
     "links": [
       {
+        "key": "harmonia-perfeita",
         "name": "Harmonia Perfeita",
         "type": "positional"
       },
       {
+        "key": "rivais-de-longa-data",
         "name": "Rivais de longa data",
         "type": "bond"
       }
-    ],
-    "school": "Aoba Johsai"
+    ]
   },
   {
+    "school": "Aoba Johsai",
     "id": "oikawa-ssr",
-    "name": "Oikawa SSR",
-    "role": "S",
-    "avatar": "/assets/img/oikawaSSR.png",
     "abilities": [
       {
-        "id": "visao-de-quadra",
         "name": "VISÃO DE QUADRA",
+        "id": "visao-de-quadra",
         "desc": "Aumenta o [Passe] de TORU OIKAWA (Practice) em 10%. Quando seus jogadores lançam uma habilidade de Spike, eles ganham 1 acúmulo de 'Attack Tempo'. Cada acúmulo aumenta o [Percepção] dos seus jogadores em 1%, até 10."
       },
       {
-        "id": "mudanca-de-jogo",
         "name": "MUDANÇA DE JOGO",
+        "id": "mudanca-de-jogo",
         "desc": "Enquanto TORU OIKAWA (Practice) está em quadra, no início de cada turno, se seu lado estiver atrás, aumenta todos os Stats básicos dos seus jogadores em 6%, por 8 cruzamentos de rede."
       },
       {
-        "id": "torre-de-controle",
         "name": "TORRE DE CONTROLE",
+        "id": "torre-de-controle",
         "desc": "Enquanto TORU OIKAWA (Practice) está em quadra, aumenta o [Percepção] dos seus jogadores em 6%. Cada acúmulo de 'Attack Tempo' fornece +1% adicional de [Percepção]."
       },
       {
+        "name": "SAQUE DE DUAS LMINAS",
         "id": "saque-de-duas-laminas",
-        "name": "SAQUE DE DUAS LÂMINAS",
         "desc": "TORU OIKAWA (Practice) executa um Power Jump Serve com 240% do [Serve]. Para esse saque, o [Percepção] dele aumenta em 15%. Há 5% de chance fixa de falha."
       }
     ],
-    "links": [],
-    "school": "Aoba Johsai"
+    "avatar": "/assets/img/oikawaSSR.png",
+    "role": "S",
+    "name": "Oikawa SSR",
+    "links": []
   },
   {
+    "school": "Aoba Johsai",
     "id": "iwaizumi-ssr",
-    "name": "Iwaizumi SSR",
-    "role": "WS",
-    "avatar": "/assets/img/iwaizumiSSR.png",
     "abilities": [
       {
-        "id": "forca-do-ace",
         "name": "Força do Ace",
+        "id": "forca-do-ace",
         "desc": "Aumenta o [Percepção] de HAJIME IWAIZUMI em 5% e a Força em 10%."
       },
       {
-        "id": "defesa-focada",
         "name": "Defesa Focada",
+        "id": "defesa-focada",
         "desc": "HAJIME IWAIZUMI realiza uma Recepção com 120% de [Recepção] como poder."
       },
       {
-        "id": "arenga-do-vice-capitao",
         "name": "Arenga do Vice-Capitão",
+        "id": "arenga-do-vice-capitao",
         "desc": "Enquanto HAJIME IWAIZUMI está presente, aumenta a Força dos jogadores do seu lado em 6%."
       },
       {
-        "id": "frente-a-frente",
         "name": "Frente a Frente",
+        "id": "frente-a-frente",
         "desc": "HAJIME IWAIZUMI executa um Power Spike com 240% do [Ataque Potente]. Se esse spike for crítico, aumenta o poder em mais 15% do [Ataque Potente]."
       }
     ],
+    "avatar": "/assets/img/iwaizumiSSR.png",
+    "role": "WS",
+    "name": "Iwaizumi SSR",
     "links": [
       {
+        "key": "harmonia-perfeita",
         "name": "Harmonia Perfeita",
         "type": "positional"
       },
       {
+        "key": "a-matilha",
         "name": "A Matilha",
         "type": "positional"
       }
-    ],
-    "school": "Aoba Johsai"
+    ]
   },
   {
+    "school": "Aoba Johsai",
     "id": "kentaro-mad-dog-ssr",
-    "name": "Kentaro MAD DOG SSR",
-    "role": "OP",
-    "avatar": "/assets/img/kentaroSSR.png",
     "abilities": [
       {
-        "id": "ataque-feroz",
         "name": "ATAQUE FEROZ",
+        "id": "ataque-feroz",
         "desc": "Aumenta o [Percepção] de KENTARO KYOTANI em 8% e o [Ataque Potente] em 5%."
       },
       {
-        "id": "saque-cao-louco",
         "name": "SAQUE CÃO LOUCO",
+        "id": "saque-cao-louco",
         "desc": "KENTARO KYOTANI realiza um Saque com 130% do seu [Serve]. Para esse saque, o [Percepção] dele aumenta em 15%, com chance fixa de 10% de falha."
       },
       {
-        "id": "explosao-de-forca",
         "name": "EXPLOSÃO DE FORÇA",
+        "id": "explosao-de-forca",
         "desc": "Aumenta a Força de KENTARO KYOTANI em 18%."
       },
       {
-        "id": "presa-do-cao-louco",
         "name": "PRESA DO CÃO LOUCO",
+        "id": "presa-do-cao-louco",
         "desc": "KENTARO KYOTANI realiza um Power Spike com 210% do [Ataque Potente], reduzindo a Stamina dos bloqueadores e recebedores oponentes em 10."
       }
     ],
+    "avatar": "/assets/img/kentaroSSR.png",
+    "role": "OP",
+    "name": "Kentaro MAD DOG SSR",
     "links": [
       {
+        "key": "a-matilha",
         "name": "A Matilha",
         "type": "positional"
       }
-    ],
-    "school": "Aoba Johsai"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "ushijima-ur",
-    "name": "Ushijima UR",
-    "role": "OP",
-    "avatar": "/assets/img/ushijimaUR.png",
     "abilities": [
       {
-        "id": "no-ritmo",
         "name": "NO RITMO",
+        "id": "no-ritmo",
         "desc": "Aumenta o [Percepção] de WAKATOSHI USHIJIMA em 8%. Enquanto ele está em quadra, seu [Percepção] aumenta em mais 3% ao fim de cada turno."
       },
       {
-        "id": "saque-dominante",
         "name": "SAQUE DOMINANTE",
+        "id": "saque-dominante",
         "desc": "WAKATOSHI USHIJIMA realiza um Salto-Saque com 125% do [Serve]. Se for um Saque Crítico, os recebedores adversários não podem usar habilidades. Quando esse saque pontua, reduz o cooldown de SAQUE DOMINANTE em 4 cruzamentos de rede."
       },
       {
-        "id": "explosao-de-forca",
         "name": "EXPLOSÃO DE FORÇA",
+        "id": "explosao-de-forca",
         "desc": "Aumenta a Força de WAKATOSHI USHIJIMA em 18%."
       },
       {
-        "id": "spike-esmagador",
         "name": "SPIKE ESMAGADOR",
+        "id": "spike-esmagador",
         "desc": "WAKATOSHI USHIJIMA realiza um Power Spike com 220% do [Ataque Potente]. Esse Spike causa 30% de dano adicional ao Líbero adversário."
       },
       {
-        "id": "estilo-ace",
         "name": "Estilo Ace",
+        "id": "estilo-ace",
         "desc": "Quando seus jogadores acertam Spikes Críticos, WAKATOSHI USHIJIMA ganha +1.5% em todos os Stats Básicos, até 8 acúmulos. Quando ele pontua, remove todos os debuffs de si mesmo."
       },
       {
-        "id": "ace-indiscutivel",
         "name": "Ace Indiscutível",
+        "id": "ace-indiscutivel",
         "desc": "WAKATOSHI USHIJIMA realiza um Power Spike com 250% do [Ataque Potente]. Se for Crítico, reduz o cooldown de [UNDISPUTED ACE] em 1 cruzamento de rede."
       }
     ],
+    "avatar": "/assets/img/ushijimaUR.png",
+    "role": "OP",
+    "name": "Ushijima UR",
     "links": [
       {
+        "key": "bests-para-a-vida",
         "name": "Bests para a vida",
         "type": "positional"
       },
       {
+        "key": "campeao-absoluto-e-levantador-solido",
         "name": "Campeão Absoluto e Levantador Sólido",
         "type": "positional"
       },
       {
+        "key": "ace-incontestavel-e-ace",
         "name": "Ace Incontestável e Ace",
         "type": "bond"
       },
       {
+        "key": "ushiwaka-e-benkei",
         "name": "Ushiwaka e Benkei",
         "type": "bond"
       },
       {
+        "key": "rivais-de-longa-data",
         "name": "Rivais de longa data",
         "type": "bond"
       }
-    ],
-    "school": "Shiratorizawa"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "tendo-ssr",
-    "name": "Tendo SSR",
-    "role": "MB",
-    "avatar": "/assets/img/tendoSSR.png",
     "abilities": [
       {
-        "id": "no-meu-ritmo",
         "name": "No Meu Ritmo",
+        "id": "no-meu-ritmo",
         "desc": "O [Reflexo] de Tendo Satoru aumenta em 12/17/22%."
       },
       {
-        "id": "ataque-surpresa",
         "name": "Ataque Surpresa",
+        "id": "ataque-surpresa",
         "desc": "Tendo Satoru realiza um Ataque Rápido com 120/135/150% de [Ataque Rápido] como poder."
       },
       {
-        "id": "guerra-psicologica-do-bloqueio",
         "name": "Guerra Psicológica do Bloqueio",
+        "id": "guerra-psicologica-do-bloqueio",
         "desc": "Se o bloqueio de Satoru Tendo resultar em boa jogada, o cooldown de Sharp Reading é reduzido em 1/2/3 × o número de cruzamentos de rede."
       },
       {
-        "id": "leitura-afiada",
         "name": "Leitura Afiada",
+        "id": "leitura-afiada",
         "desc": "Satoru Tendo bloqueia com 220/235/250/265/280% do seu [Bloqueio]. Se o spike adversário (Power ou Quick) for uma boa jogada, o [Reflexo] de Tendo Satoru aumenta em 15%."
       }
     ],
+    "avatar": "/assets/img/tendoSSR.png",
+    "role": "MB",
+    "name": "Tendo SSR",
     "links": [
       {
+        "key": "bests-para-a-vida",
         "name": "Bests para a vida",
         "type": "positional"
       }
-    ],
-    "school": "Shiratorizawa"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "goshiki-ssr",
-    "name": "Goshiki SSR",
-    "role": "WS",
-    "avatar": "/assets/img/goshikiSSR.png",
     "abilities": [
       {
-        "id": "corresponder-as-expectativas",
         "name": "Corresponder às Expectativas",
+        "id": "corresponder-as-expectativas",
         "desc": "Quando Tsutomu Goshiki pontua, a Moral do Time aumenta em 8/10/12."
       },
       {
-        "id": "recepcao-pura",
         "name": "Recepção Pura",
+        "id": "recepcao-pura",
         "desc": "Tsutomu Goshiki recebe com 120/135/150% de [Recepção] como poder."
       },
       {
-        "id": "proximo-ace",
         "name": "Próximo Ace",
+        "id": "proximo-ace",
         "desc": "Ao fim de cada rali, Tsutomu Goshiki ganha 1 acúmulo de [Sharpness]. Cada acúmulo aumenta o [Ataque Potente] em 2.5/3.3/5%, até 5."
       },
       {
-        "id": "fazer-um-milagre",
         "name": "Fazer um Milagre",
+        "id": "fazer-um-milagre",
         "desc": "Tsutomu Goshiki realiza um Ataque Potente com 225/240/255/270/285% de [Ataque Potente] como poder. Aumenta o [Percepção] em 10%."
       }
     ],
+    "avatar": "/assets/img/goshikiSSR.png",
+    "role": "WS",
+    "name": "Goshiki SSR",
     "links": [
       {
+        "key": "ws-de-shiratorizawa",
         "name": "WS de Shiratorizawa",
         "type": "positional"
       },
       {
+        "key": "ace-incontestavel-e-ace",
         "name": "Ace Incontestável e Ace",
         "type": "bond"
       }
-    ],
-    "school": "Shiratorizawa"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "shirabu-ssr",
-    "name": "Shirabu SSR",
-    "role": "S",
-    "avatar": "/assets/img/shirabuSSR.png",
     "abilities": [
       {
-        "id": "como-de-costume",
         "name": "Como de Costume",
+        "id": "como-de-costume",
         "desc": "Aumenta o [Passe] de Kenjiro Shirabu em 10/13/16%. Se o membro que vai atacar (Power/Quick) for um power hitter, o poder do spike aumenta em 8% do [Ataque Potente] desse membro."
       },
       {
-        "id": "setter-dump-simples",
         "name": "Setter Dump Simples",
+        "id": "setter-dump-simples",
         "desc": "Kenjiro Shirabu executa um Setter Dump com 120/135/150% de [Passe] como poder. Não pode ser bloqueado."
       },
       {
-        "id": "capacidade-de-correcao",
         "name": "Capacidade de Correção",
+        "id": "capacidade-de-correcao",
         "desc": "O [Percepção] de Kenjiro Shirabu aumenta em 9/12/15%."
       },
       {
-        "id": "levantamento-que-tira-o-maximo-do-atacante",
         "name": "Levantamento que Tira o Máximo do Atacante",
+        "id": "levantamento-que-tira-o-maximo-do-atacante",
         "desc": "Kenjiro Shirabu realiza um Set com 210/225/240/250/270% de [Passe] como poder. Aumenta o [Percepção] em 10%."
       }
     ],
+    "avatar": "/assets/img/shirabuSSR.png",
+    "role": "S",
+    "name": "Shirabu SSR",
     "links": [
       {
+        "key": "campeao-absoluto-e-levantador-solido",
         "name": "Campeão Absoluto e Levantador Sólido",
         "type": "positional"
       }
-    ],
-    "school": "Shiratorizawa"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "semi-ssr",
-    "name": "Semi SSR",
-    "role": "S",
-    "avatar": "/assets/img/semiSSR.png",
     "abilities": [
       {
-        "id": "controle",
         "name": "Controle",
+        "id": "controle",
         "desc": "Quando Eita Semi realiza um saque, o [Recepção] do recebedor adversário é reduzido em 13/15.5/18% do [Recepção] desse jogador por 4 cruzamentos de rede."
       },
       {
-        "id": "montagem-de-prototipo",
         "name": "Montagem de Protótipo",
+        "id": "montagem-de-prototipo",
         "desc": "Semi Eita realiza um Set com 120/135/150% de [Passe] como poder."
       },
       {
-        "id": "demonstracao-de-habilidade",
         "name": "Demonstração de Habilidade",
+        "id": "demonstracao-de-habilidade",
         "desc": "Quando Eita Semi saca, o [Percepção] aumenta em 5/5/8% e o [Power] em 10/15/15%."
       },
       {
-        "id": "isso-aqui-e-de-graca",
         "name": "Isso Aqui é de Graça",
+        "id": "isso-aqui-e-de-graca",
         "desc": "Eita Semi executa um Salto-Saque com 220/235/250/265/280% do seu [Serve]. Se marcar ace, o [Percepção] dos companheiros aumenta em 3% e o [Reflexo] em 6%."
       }
     ],
-    "links": [],
-    "school": "Shiratorizawa"
+    "avatar": "/assets/img/semiSSR.png",
+    "role": "S",
+    "name": "Semi SSR",
+    "links": []
   },
   {
+    "school": "Shiratorizawa",
     "id": "ohira-ssr",
-    "name": "Ohira SSR",
-    "role": "WS",
-    "avatar": "/assets/img/ohiraSSR.png",
     "abilities": [
       {
-        "id": "defesa-forte",
         "name": "Defesa Forte",
+        "id": "defesa-forte",
         "desc": "Quando Ohira Reon recebe, se o Ataque Rápido do oponente for uma boa jogada, o poder dessa recepção é 40/55/70% do [Recepção]."
       },
       {
-        "id": "defesa-que-muda-o-rumo",
         "name": "Defesa que Muda o Rumo",
+        "id": "defesa-que-muda-o-rumo",
         "desc": "Ohira Reon recebe com 120/135/150% de [Recepção] como poder."
       },
       {
-        "id": "o-gentil-benkei",
         "name": "O Gentil “Benkei”",
+        "id": "o-gentil-benkei",
         "desc": "O [Percepção] de Ohira Reon aumenta em 5/5/8% e o [Reflexo] em 10/15/15%."
       },
       {
-        "id": "spikes-poderosos",
         "name": "Spikes Poderosos",
+        "id": "spikes-poderosos",
         "desc": "Ohira Reon realiza um Power Spike com 240/255/270/285/300% de [Ataque Potente] como poder."
       }
     ],
+    "avatar": "/assets/img/ohiraSSR.png",
+    "role": "WS",
+    "name": "Ohira SSR",
     "links": [
       {
+        "key": "ws-de-shiratorizawa",
         "name": "WS de Shiratorizawa",
         "type": "positional"
       },
       {
+        "key": "ushiwaka-e-benkei",
         "name": "Ushiwaka e Benkei",
         "type": "bond"
       }
-    ],
-    "school": "Shiratorizawa"
+    ]
   },
   {
+    "school": "Shiratorizawa",
     "id": "yamagata-ssr",
-    "name": "Yamagata SSR",
-    "role": "L",
-    "avatar": "/assets/img/yamagataSSR.png",
     "abilities": [
       {
-        "id": "habilidade-estavel",
         "name": "Habilidade Estável",
+        "id": "habilidade-estavel",
         "desc": "O [Reflexo] de Yamagata Hayato aumenta em 13/20/15%."
       },
       {
-        "id": "amplitude-defensiva",
         "name": "Amplitude Defensiva",
+        "id": "amplitude-defensiva",
         "desc": "Yamagata Hayato realiza um Save com [Save] × 120/135/150% como poder."
       },
       {
-        "id": "reflexos",
         "name": "Reflexos",
+        "id": "reflexos",
         "desc": "Se o bloqueio do oponente for PERFECT, o Save de Yamagata Hayato aumenta em [Save] × 40/50/60%."
       },
       {
-        "id": "recepcao-solida",
         "name": "Recepção Sólida",
+        "id": "recepcao-solida",
         "desc": "Yamagata Hayato recebe com [Recepção] × 235/250/265/280/295% como poder."
       }
     ],
-    "links": [],
-    "school": "Shiratorizawa"
+    "avatar": "/assets/img/yamagataSSR.png",
+    "role": "L",
+    "name": "Yamagata SSR",
+    "links": []
   },
   {
+    "school": "Fukurodani",
     "id": "bokuto-ur",
-    "name": "Bokuto UR",
-    "role": "WS",
-    "avatar": "/assets/img/bokutoUR.png",
     "abilities": [
       {
-        "id": "influencia-do-entusiasmo",
         "name": "Influência do Entusiasmo",
+        "id": "influencia-do-entusiasmo",
         "desc": "Quando Bokuto Kotaro joga, a Moral do Time dos aliados aumenta em 20/25/30%. Quando Bokuto Kotaro está em quadra, a Moral aumenta em 4 sempre que um aliado toca na bola. Efeito de Despertar de Moral para aliados alterado: Stats básicos de todos os membros em quadra aumentam em 32/36/40%. Dura até os aliados tocarem na bola quatro vezes."
       },
       {
-        "id": "grande-sacador",
         "name": "Grande Sacador",
+        "id": "grande-sacador",
         "desc": "Kotaro Bokuto executa um Salto-Saque com [Serve] × 125/140/155% de poder."
       },
       {
-        "id": "altos-e-baixos-de-humor",
         "name": "Altos e Baixos de Humor",
+        "id": "altos-e-baixos-de-humor",
         "desc": "Sob [Excellent Condition], o [Ataque Potente] de Kotaro Bokuto aumenta em 12/15/18% e o [Power] em 18/22.5/27%. Sob [Depressed Mode], Kotaro Bokuto não pode ativar habilidades de Ataque Potente. Quando um aliado ativa o Despertar de Moral, Bokuto obtém [Excellent Condition]. Quando o despertar termina, ele ganha [Depressed Mode]. Ao fim de cada rali, Bokuto perde [Sad Mode]."
       },
       {
-        "id": "ace-gracas-a-todos",
         "name": "Ace Graças a Todos",
+        "id": "ace-gracas-a-todos",
         "desc": "Kotaro Bokuto realiza um Ataque Potente com [Ataque Potente] × 260/275/290/305/320% de poder. Se for uma boa jogada, o [Power] de Bokuto aumenta em 12/14/16/18/20% e a Moral do Time aumenta em 16."
       }
     ],
+    "avatar": "/assets/img/bokutoUR.png",
+    "role": "WS",
+    "name": "Bokuto UR",
     "links": [
       {
+        "key": "as-milagroso-e-levantador-carinhoso",
         "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ],
-    "school": "Fukurodani"
+    ]
   },
   {
+    "school": "Fukurodani",
     "id": "bokuto-sp",
-    "name": "Bokuto SP",
-    "role": "WS",
-    "avatar": "/assets/img/bokutoSP.png",
     "abilities": [
       {
-        "id": "animar",
         "name": "Animar",
+        "id": "animar",
         "desc": "O [Ataque Potente] de Kotaro Bokuto (Beach Boys) aumenta em 13/16/19%. Quando ele está em quadra, os efeitos de aumento de Moral para aliados, exceto 'Encourage', são reduzidos em 100%; a cada 10 de Moral reduzida, o jogador ganha 1 acúmulo de 'United'. Por acúmulo, os Stats básicos dos aliados aumentam em 0.16%, até 199 acúmulos."
       },
       {
-        "id": "participacao-defensiva",
         "name": "Participação Defensiva",
+        "id": "participacao-defensiva",
         "desc": "Kotaro Bokuto (Sea Bathing) recebe com [Recepção] × 140/160/180% de poder. Ganha 3 acúmulos de [Unity]."
       },
       {
-        "id": "sempre-animado",
         "name": "Sempre Animado!",
+        "id": "sempre-animado",
         "desc": "Se estiver com [Best Condition], quando Kotaro Bokuto (Beach Boys) ativa o Ultimate, seu [Ataque Potente] aumenta em 1% por acúmulo de [United] (máx. +70%) até a bola cruzar a rede duas vezes. Além disso, por acúmulo de [United], o poder do seu Ataque Potente aumenta em [Ataque Potente] × 1.5% (máx. +120%) até a bola cruzar a rede duas vezes. Após o Ultimate, ele ganha [Ups and Downs]."
       },
       {
-        "id": "spike-milagroso",
         "name": "Spike Milagroso",
+        "id": "spike-milagroso",
         "desc": "Kotaro Bokuto (Beach Boys) realiza um Spike com 260/280/300/320/340% do [Ataque Potente]. Para cada acúmulo de [United], o [Técnica de Ataque] dele aumenta em 0.75%, até 30%, até a bola cruzar a rede duas vezes."
       }
     ],
+    "avatar": "/assets/img/bokutoSP.png",
+    "role": "WS",
+    "name": "Bokuto SP",
     "links": [
       {
+        "key": "natacao",
         "name": "Natação",
         "type": "positional"
       },
       {
+        "key": "ace-milagroso-e-levantador-carinhoso",
         "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ],
-    "school": "Fukurodani"
+    ]
   },
   {
+    "school": "Fukurodani",
     "id": "akaashi-sp",
-    "name": "Akaashi SP",
-    "role": "S",
-    "avatar": "/assets/img/akaashiSP.png",
     "abilities": [
       {
-        "id": "organizador-de-time",
         "name": "Organizador de time",
+        "id": "organizador-de-time",
         "desc": "A [Saque] do Akaashi Kyoji (Beach Boy) aumenta em 13/15/18%. Quando a moral do time de um aliado sobe, o Akaashi Kyoji (Beach Boy) ganha 1 acúmulo do efeito [Mente Tranquila] a cada 10 pontos de moral. Cada acúmulo de [Mente Tranquila] aumenta o [Levantamento] dele em 1,5%, até 10 acúmulos. Enquanto o Despertar da Moral do Time não estiver ativo, todos os acúmulos de [Mente Tranquila] são consumidos quando o Akaashi Kyoji (Beach Boy) toca na bola. Cada vez que um acúmulo de [Mente Tranquila] é consumido, o [Espírito] do Akaashi Kyoji (Beach Boy) aumenta em 3%, chegando a no máximo 30%. Esse efeito dura por 2 passagens pela rede."
       },
       {
-        "id": "aproveitamento-maximo",
         "name": "Aproveitamento Maximo",
+        "id": "aproveitamento-maximo",
         "desc": "Keiji Akaashi (Beach Boy) executa um Levantamento com poder de 140/155/170% do seu [Levantamento]. Depois dessa jogada, na próxima vez que ele ativar o Ultimate, o [Levantamento] dele aumenta em 15%. Esse efeito dura por 2 passagens pela rede."
       },
       {
-        "id": "atacar",
         "name": "Atacar",
+        "id": "atacar",
         "desc": "Enquanto um aliado estiver com o Despertar da Moral do Time ativo, quando o Keiji Akaashi (Beach Boy) tocar na bola, 5 acúmulos de [Mente Tranquila] são consumidos e o [Espírito] dele aumenta em 70%. Esse efeito dura por 2 passagens pela rede.Se o levantamento do Keiji Akaashi (Beach Boy) for um Acerto Crítico, a [Percepção] do primeiro jogador a cortar (Ataque Potente/Ataque Rápido) depois dessa jogada aumenta em 50% da [Percepção] do Keiji Akaashi (Beach Boy), até no máximo 60%.Se essa cortada for um Ataque Potente, a [Percepção] de quem realizou a cortada recebe mais 50% da [Percepção] do Keiji Akaashi (Beach Boy), até no máximo 60%.Quando [Mostre 100% do Seu Treino] for ativado, para cada acúmulo de [Mente Tranquila] que ele tiver, o [Ataque Potente] de quem fizer a cortada aumenta em 3/3,5/4%, até no máximo 24/28/32%."
       },
       {
-        "id": "jogada-decisiva",
         "name": "Jogada Decisiva",
+        "id": "jogada-decisiva",
         "desc": "Akaashi Kyoji (Beach Boy) executa uma Finta do Levantador com poder de 260/280/300/320/340% do seu [Levantamento]. A Finta do Levantador não pode ser bloqueada.Se essa finta for um Acerto Crítico, o tempo de recarga de [Mostre 100% do Seu Treino] é reduzido em 4 passagens pela rede.Ganha 1 acúmulo de [Mente Tranquila]."
       }
     ],
+    "avatar": "/assets/img/akaashiSP.png",
+    "role": "S",
+    "name": "Akaashi SP",
     "links": [
       {
+        "key": "natacao",
         "name": "Natação",
         "type": "positional"
       },
       {
+        "key": "ace-milagroso-e-levantador-carinhoso",
         "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ],
-    "school": "Fukurodani"
+    ]
   },
   {
+    "school": "Fukurodani",
     "id": "akaashi-ssr",
-    "name": "Akaashi SSR",
-    "role": "S",
-    "avatar": "/assets/img/akaashiSSR.png",
     "abilities": [
       {
-        "id": "intuicao-instantanea",
         "name": "Intuição Instantânea",
+        "id": "intuicao-instantanea",
         "desc": "Quando Keiji Akaashi está em quadra e um aliado consegue bloqueio ou recepção PERFECT, todos os efeitos negativos desse aliado são removidos. O [Percepção] de Akaashi aumenta em 8/10/12% e a Moral do Time aumenta em 3."
       },
       {
-        "id": "o-cerebro-de-fukurodani",
         "name": "O Cérebro de Fukurodani",
+        "id": "o-cerebro-de-fukurodani",
         "desc": "Keiji Akaashi executa um Setter Dump com 120/135/150% de [Passe] como poder. Não pode ser bloqueado. Se pontuar com esse Setter Dump, o poder do primeiro Saque do próximo companheiro aumenta em 10% do [Serve] dele."
       },
       {
-        "id": "levantamento-devotado",
         "name": "Levantamento Devotado",
+        "id": "levantamento-devotado",
         "desc": "Aumenta o [Passe] de Keiji Akaashi em 8/10/12%. Enquanto o Despertar de Moral estiver ativo, a cada 4 de Moral, o [Percepção] de Akaashi aumenta em 1.2/1.7/2.3%. Se o set dele resultar em boa jogada, o primeiro Spike (Power/Quick) de um aliado após essa jogada é garantido como NICE."
       },
       {
-        "id": "levantamento-de-sempre",
         "name": "Levantamento de Sempre",
+        "id": "levantamento-de-sempre",
         "desc": "Keiji Akaashi realiza um Set com 240/255/270/285/300% de [Passe] como poder."
       }
     ],
+    "avatar": "/assets/img/akaashiSSR.png",
+    "role": "S",
+    "name": "Akaashi SSR",
     "links": [
       {
+        "key": "as-milagroso-e-levantador-carinhoso",
         "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ],
-    "school": "Fukurodani"
+    ]
   },
   {
+    "school": "Fukurodani",
     "id": "konoha-ssr",
-    "name": "Konoha SSR",
-    "role": "OP",
-    "avatar": "/assets/img/konohaSSR.png",
     "abilities": [
       {
-        "id": "recepcao-excelente",
         "name": "Recepção Excelente",
+        "id": "recepcao-excelente",
         "desc": "O [Recepção] de Akinori Konoha aumenta em 8/10/12%. Enquanto o Despertar de Moral estiver ativo, seus [Recepção] e [Save] aumentam em 10%."
       },
       {
-        "id": "uma-combinacao-primorosa",
         "name": "Uma Combinação Primorosa",
+        "id": "uma-combinacao-primorosa",
         "desc": "Akinori Konoha realiza um Save com 120/135/150% de [Cover] como poder."
       },
       {
-        "id": "bloqueio-do-polivalente",
         "name": "Bloqueio do Polivalente",
+        "id": "bloqueio-do-polivalente",
         "desc": "Quando Akinori Konoha está na linha de frente, o [Bloqueio] e o [Power/Ataque Rápido] de todos os aliados na linha de frente aumentam em 8/10/12%. Se ele estiver na linha de trás, o [Recepção] e o [Save] de todos os aliados na linha de trás aumentam em 8/10/12%."
       },
       {
-        "id": "sr-habilidoso-mas-pobre",
         "name": "Sr. Habilidoso (mas Pobre)",
+        "id": "sr-habilidoso-mas-pobre",
         "desc": "Akinori Konoha recebe com 225/240/255/270/285% de [Recepção] como poder. Se o resultado não for BAD, a Moral do Time aumenta em 20."
       }
     ],
-    "links": [],
-    "school": "Fukurodani"
+    "avatar": "/assets/img/konohaSSR.png",
+    "role": "OP",
+    "name": "Konoha SSR",
+    "links": []
   },
   {
+    "school": "Fukurodani",
     "id": "haruki-ssr",
-    "name": "Haruki SSR",
-    "role": "L",
-    "avatar": "/assets/img/harukiSSR.png",
     "abilities": [
       {
-        "id": "mestre-da-defesa",
         "name": "Mestre da Defesa",
+        "id": "mestre-da-defesa",
         "desc": "O [Recepção] de Haruki Komi aumenta em 8/10/12%. Se o resultado da sua recepção não for BAD, a Moral do Time adversário diminui em 12."
       },
       {
-        "id": "lubrificante-da-equipe-0-0",
         "name": "Lubrificante da Equipe (0_0)",
+        "id": "lubrificante-da-equipe-0-0",
         "desc": "Haruki Komi realiza um Save que usa 110/125/140% de [Save] como poder. Se o resultado não for BAD, os Stats principais dos aliados aumentam em 5/6.5/8% por 1 rali."
       },
       {
-        "id": "recepcao-comprovada",
         "name": "Recepção Comprovada",
+        "id": "recepcao-comprovada",
         "desc": "Quando Haruki Komi recebe e o oponente dispara um ataque poderoso, o poder dessa recepção aumenta em 30/40/50% de [Recepção] como poder."
       },
       {
-        "id": "centro-da-defesa",
         "name": "Centro da Defesa",
+        "id": "centro-da-defesa",
         "desc": "Haruki Komi executa uma recepção com 235/250/265/280/295% de [Recepção] como poder."
       }
     ],
-    "links": [],
-    "school": "Fukurodani"
+    "avatar": "/assets/img/harukiSSR.png",
+    "role": "L",
+    "name": "Haruki SSR",
+    "links": []
   },
   {
+    "school": "Fukurodani",
     "id": "tatsuo-ssr",
-    "name": "Tatsuo SSR",
-    "role": "MB",
-    "avatar": "/assets/img/tatsuoSSR.png",
     "abilities": [
       {
-        "id": "bloqueio-intimidante",
         "name": "Bloqueio Intimidante",
+        "id": "bloqueio-intimidante",
         "desc": "O [Bloqueio] de Tatsuki Washio aumenta em 8/10/12%. Ao bloquear, o poder da primeira recepção do companheiro após essa jogada aumenta em 20% de [Recepção]. Se o bloqueio dele não for BAD, o próximo bloqueio dele aumenta em 20% de [Bloqueio]."
       },
       {
-        "id": "ataque-de-alta-pontuacao",
         "name": "Ataque de Alta Pontuação",
+        "id": "ataque-de-alta-pontuacao",
         "desc": "Tatsuki Washio executa um Ataque Rápido com 120/135/150% de [Ataque Rápido] como poder."
       },
       {
-        "id": "trabalhador-de-talento-oculto",
         "name": "Trabalhador de Talento Oculto",
+        "id": "trabalhador-de-talento-oculto",
         "desc": "Quando um oponente faz uma boa jogada, o [Bloqueio] e o [Ataque Rápido] de Tatsuki Washio aumentam em 2/2.5/3%, até 5 acúmulos."
       },
       {
-        "id": "bloqueio-que-aproveita-o-corpo-alto",
         "name": "Bloqueio que Aproveita o Corpo Alto",
+        "id": "bloqueio-que-aproveita-o-corpo-alto",
         "desc": "Tatsuki Washio bloqueia com 220/235/250/265/280% de [Bloqueio] como poder."
       }
     ],
-    "links": [],
-    "school": "Fukurodani"
+    "avatar": "/assets/img/tatsuoSSR.png",
+    "role": "MB",
+    "name": "Tatsuo SSR",
+    "links": []
   },
   {
+    "school": "Jozenji",
     "id": "terushima-ssr",
-    "name": "Terushima SSR",
-    "role": "WS",
-    "avatar": "/assets/img/terushimaSSR.png",
     "abilities": [
       {
-        "id": "espirito-livre",
         "name": "Espírito Livre",
+        "id": "espirito-livre",
         "desc": "Aumenta o [Ataque Potente] de Terushima Yuji em 8/10/12%. Quando ele está em quadra e o resultado da recepção, Save ou Set de um aliado não for BAD, Terushima Yuji ganha 1 acúmulo de [Play More, Play More]. Cada acúmulo aumenta [Power/Ataque Rápido] em 2.5%, até 4 acúmulos."
       },
       {
-        "id": "saque-divertido",
         "name": "Saque Divertido",
+        "id": "saque-divertido",
         "desc": "Terushima Yuji executa um Salto-Saque com 120/135/150% de [Serve] como poder."
       },
       {
-        "id": "asoviva",
         "name": "Asoviva",
+        "id": "asoviva",
         "desc": "Para cada membro recebedor na sua equipe, o [Recepção] de Terushima Yuji aumenta em 4/5/6%. Se ele errar uma recepção, nenhum ponto é perdido. O cooldown desse efeito dura até a bola cruzar a rede 10 vezes."
       },
       {
-        "id": "spike-empolgante",
         "name": "Spike Empolgante",
+        "id": "spike-empolgante",
         "desc": "Terushima Yuji executa um Power Spike com 235/250/265/280/295% de [Ataque Potente]. Se marcar ponto, o [Recepção] dos aliados aumenta em 10% por 3 cruzamentos de rede."
       }
     ],
-    "links": [],
-    "school": "Jozenji"
+    "avatar": "/assets/img/terushimaSSR.png",
+    "role": "WS",
+    "name": "Terushima SSR",
+    "links": []
   },
   {
+    "school": "Inarizaki",
     "id": "atsumu-ur",
-    "name": "Atsumu UR",
-    "role": "S",
-    "avatar": "/assets/img/atsumuUR.png",
     "abilities": [
       {
-        "id": "jogada-imprevisivel",
         "name": "Jogada Imprevisível",
+        "id": "jogada-imprevisivel",
         "desc": "Quando Miya Atsumu realiza um saque, se o alvo for um ponto fraco da defesa adversária, o poder do saque aumenta em 30/40/50% de [Serve]. Se não for em ponto fraco, o [Recepção] dos seus jogadores da linha de trás aumenta em 10/12/14% por 1 rali."
       },
       {
-        "id": "levantamento-delicado",
         "name": "Levantamento Delicado",
+        "id": "levantamento-delicado",
         "desc": "Miya Atsumu executa um Set com 125/140/155% de [Passe] como poder. Esse Set remove todos os debuffs do jogador que vai atacar (Power/Quick)."
       },
       {
-        "id": "levantamento-devoto-e-sincero",
         "name": "Levantamento Devoto e Sincero",
+        "id": "levantamento-devoto-e-sincero",
         "desc": "Aumenta o [Passe] de Miya Atsumu em 8/11/14%. Quando um jogador seu realiza uma ação e o resultado não é PERFECT, Atsumu ganha 2 acúmulos de [Perfect Timing]. Cada acúmulo aumenta o [Passe] em 2% (máx. 10). Ao levantar, ele consome 1 acúmulo, aumentando o [Técnica de Ataque] e o [Ataque Rápido] do atacante em 2.5. Dura por 10 cruzamentos."
       },
       {
-        "id": "saque-das-duas-espadas",
         "name": "Saque das Duas Espadas",
+        "id": "saque-das-duas-espadas",
         "desc": "Miya Atsumu alterna entre Salto-Saque e Salto-Saque Flutuante. Jump Float: 230/245/275/290% de [Serve] como poder; impede o uso de ultimates de [Power/Ataque Rápido] por 2 cruzamentos. Jump Serve: 260/275/290/305/320% de [Serve] como poder; a cada 3 de Moral do Time, o [Percepção] de Atsumu aumenta em 1% por 2 cruzamentos."
       }
     ],
+    "avatar": "/assets/img/atsumuUR.png",
+    "role": "S",
+    "name": "Atsumu UR",
     "links": [
       {
+        "key": "a-forca-dos-gemeos",
         "name": "A força dos Gêmeos",
         "type": "positional"
       },
       {
+        "key": "cabeca-dos-gemeos",
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ],
-    "school": "Inarizaki"
+    ]
   },
   {
+    "school": "Inarizaki",
     "id": "osamu-ur",
-    "name": "Osamu UR",
-    "role": "OP",
-    "avatar": "/assets/img/osamuUR.png",
     "abilities": [
       {
-        "id": "ataque-flexivel",
         "name": "Ataque Flexível",
+        "id": "ataque-flexivel",
         "desc": "Aumenta o [Ataque Rápido] de Miya Osamu em 10/12/14%. Início da partida: o [Percepção] de Osamu cai para 0% e, para cada 1% reduzido, o [Técnica de Ataque] aumenta em 1%. (Priorize empilhar [Percepção] para esta habilidade)."
       },
       {
-        "id": "salto-saque-frio",
         "name": "Salto-Saque Frio",
+        "id": "salto-saque-frio",
         "desc": "Miya Osamu executa um Salto-Saque com 120/135/150% de [Serve]. Se o recebedor adversário tiver [Suppression], o [Técnica de Ataque] de Osamu aumenta em 10% por 8 cruzamentos."
       },
       {
-        "id": "multitalentoso",
         "name": "Multitalentoso",
+        "id": "multitalentoso",
         "desc": "Aumenta o [Técnica de Ataque] de Miya Osamu em 10/13/16%. Quando ele ataca ou saca, aplica 1 acúmulo de [Suppression] nos jogadores da linha de trás adversária (cada acúmulo reduz o [Recepção] em 10%). Dura por 10 cruzamentos."
       },
       {
-        "id": "contra-ataque-flexivel",
         "name": "Contra-ataque Flexível",
+        "id": "contra-ataque-flexivel",
         "desc": "Miya Osamu realiza um Ataque Rápido com 260/275/290/305/320% de [Ataque Rápido]. O [Ataque Rápido] dele aumenta em 40% de [Técnica de Ataque] por 2 cruzamentos. (Sinergiza com o [Técnica de Ataque] ganho em Ataque Flexível). SR2: se o recebedor inimigo tiver [Suppression], o poder aumenta em mais 60% de [Ataque Rápido]. SR4: após o Ataque Rápido, as próximas duas vezes que um aliado ativar um ultimate, o [Attack/Defensive Technique] desse jogador aumentará em 20%."
       }
     ],
+    "avatar": "/assets/img/osamuUR.png",
+    "role": "OP",
+    "name": "Osamu UR",
     "links": [
       {
+        "key": "a-forca-dos-gemeos",
         "name": "A força dos Gêmeos",
         "type": "positional"
       },
       {
+        "key": "cabeca-dos-gemeos",
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ],
-    "school": "Inarizaki"
+    ]
   },
   {
+    "school": "Inarizaki",
     "id": "kita-ssr",
-    "name": "Kita SSR",
-    "role": "WS",
-    "avatar": "/assets/img/kitaSSR.png",
     "abilities": [
       {
-        "id": "repeticao-continuidade-e-cautela",
         "name": "Repetição, Continuidade e Cautela",
+        "id": "repeticao-continuidade-e-cautela",
         "desc": "Aumenta os Stats Básicos de Kita Shinsuke em 6/8/10%. Se o resultado do [Recepção] de Kita for BAD, o [Defensive Technique] aumenta em 80% de [Reflexo] como poder."
       },
       {
-        "id": "jogada-calma",
         "name": "Jogada Calma",
+        "id": "jogada-calma",
         "desc": "Kita Shinsuke executa um [Save] com 120/135/150% de [Save] como poder."
       },
       {
-        "id": "vou-fazer-do-jeito-certo",
         "name": "Vou Fazer do Jeito Certo",
+        "id": "vou-fazer-do-jeito-certo",
         "desc": "O [Recepção] de Kita Shinsuke aumenta em 8/10/12%. Ele realiza uma [Recepção]; se o resultado não for PERFECT, ganha 1 acúmulo de [Reliable Action] (+3% [Recepção], até 3). Com 3 acúmulos, consome 3 para aumentar o [Técnica de Ataque] dos jogadores da linha de frente em 10% por 8 cruzamentos."
       },
       {
-        "id": "jogada-solida",
         "name": "Jogada Sólida",
+        "id": "jogada-solida",
         "desc": "Kita Shinsuke realiza um [Recepção] com 235/250/265/280/295% do [Recepção] como poder."
       }
     ],
+    "avatar": "/assets/img/kitaSSR.png",
+    "role": "WS",
+    "name": "Kita SSR",
     "links": [
       {
+        "key": "cabeca-dos-gemeos",
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ],
-    "school": "Inarizaki"
+    ]
   },
   {
+    "school": "Inarizaki",
     "id": "rintaro-ssr",
-    "name": "Rintaro SSR",
-    "role": "MB",
-    "avatar": "/assets/img/rintaroSSR.png",
     "abilities": [
       {
+        "name": "Fechar o ngulo",
         "id": "fechar-o-angulo",
-        "name": "Fechar o Ângulo",
         "desc": "Aumenta o [Bloqueio] de Rintaro Suna em 10/12/14%. Se ele estiver em quadra e o atacante adversário estiver sob [Confusion], o poder de bloqueio do time aumenta em 15/20/25% do [Bloqueio] do bloqueador."
       },
       {
-        "id": "bloqueio-habil",
         "name": "Bloqueio Hábil",
+        "id": "bloqueio-habil",
         "desc": "Rintaro Suna bloqueia com 20/35/50% do poder do ataque."
       },
       {
-        "id": "jogada-que-pega-o-oponente-desprevenido",
         "name": "Jogada que Pega o Oponente Desprevenido",
+        "id": "jogada-que-pega-o-oponente-desprevenido",
         "desc": "Aumenta o [Ataque Rápido] de Rintaro Suna em 10/12/14%. Ao realizar Ataque Rápido, aplica 1 acúmulo de [Confusion] na linha de frente adversária. Cada acúmulo reduz o [Bloqueio] em 10%, por até 8 cruzamentos de rede."
       },
       {
-        "id": "spikes-com-amplo-ponto-de-impacto",
         "name": "Spikes com Amplo Ponto de Impacto",
+        "id": "spikes-com-amplo-ponto-de-impacto",
         "desc": "Rintaro Suna realiza um Ataque Rápido com 240/255/270/285/300% de [Ataque Rápido] como poder."
       }
     ],
-    "links": [],
-    "school": "Inarizaki"
+    "avatar": "/assets/img/rintaroSSR.png",
+    "role": "MB",
+    "name": "Rintaro SSR",
+    "links": []
   },
   {
+    "school": "Inarizaki",
     "id": "oshiro-ssr",
-    "name": "Oshiro SSR",
-    "role": "WS",
-    "avatar": "/assets/img/oshiroSSR.png",
     "abilities": [
       {
-        "id": "controle-de-ritmo",
         "name": "Controle de Ritmo",
+        "id": "controle-de-ritmo",
         "desc": "Sempre que Oshiro Alan consumir 10 de Stamina, ganha 1 acúmulo de [Quick Breather]. Cada acúmulo aumenta o [Técnica de Ataque] em 3/3.5/4%. Ao final do rali, todos os acúmulos são consumidos; para cada um, Oshiro recupera 4 de Stamina."
       },
       {
-        "id": "saque-altamente-tecnico",
         "name": "Saque Altamente Técnico",
+        "id": "saque-altamente-tecnico",
         "desc": "Ojiro Alan executa um Salto-Saque com 110/125/140% de [Serve] como poder. O recebedor adversário terá o [Recepção] reduzido em 10% por 6 cruzamentos."
       },
       {
-        "id": "investida-agressiva",
         "name": "Investida Agressiva",
+        "id": "investida-agressiva",
         "desc": "Aumenta o [Ataque Potente] de Oshiro Alan em 6/8/10% e o [Serve] em 6/8/10%. Ao realizar Ataque Potente, consome 60% da Stamina atual e aumenta o poder do ataque em 30/40/50% de [Ataque Potente]."
       },
       {
-        "id": "spike-trovejante",
         "name": "Spike Trovejante",
+        "id": "spike-trovejante",
         "desc": "Ojiro Alan executa um Ataque Potente com 240/255/270/285/300% de [Ataque Potente] como poder."
       }
     ],
-    "links": [],
-    "school": "Inarizaki"
+    "avatar": "/assets/img/oshiroSSR.png",
+    "role": "WS",
+    "name": "Oshiro SSR",
+    "links": []
   },
   {
+    "school": "Inarizaki",
     "id": "akagi-ssr",
-    "name": "Akagi SSR",
-    "role": "L",
-    "avatar": "/assets/img/akagiSSR.png",
     "abilities": [
       {
-        "id": "save-que-aumenta-a-seriedade",
         "name": "Save que Aumenta a Seriedade",
+        "id": "save-que-aumenta-a-seriedade",
         "desc": "Aumenta o [Recepção] e o [Save] de Akagi Michinari em 8/10/12%. Aumenta a Moral do Time em 10 quando Akagi recebe ou salva."
       },
       {
-        "id": "um-libero-confiavel",
         "name": "Um Líbero Confiável",
+        "id": "um-libero-confiavel",
         "desc": "Akagi Michinari executa um Save com poder igual a 120/135/150% de [Save]. Aumenta o [Defensive Technique] dos aliados em 4/6/8% até a bola cruzar a rede 6 vezes."
       },
       {
-        "id": "perseguir-a-bola-com-a-mao",
         "name": "Perseguir a Bola com a Mão",
+        "id": "perseguir-a-bola-com-a-mao",
         "desc": "O [Recepção] de Akagi Michinari aumenta em 10/12/14%. Quando ele está em quadra, um oponente que dispara um tiro poderoso recebe 1 acúmulo de [Approaching] (reduz [Ataque Potente] em 8/10/12% por acúmulo até a bola cruzar a rede 3 vezes). Se o oponente já tiver [Approaching], o [Defensive Technique] dos aliados aumenta em 4/6/8% por 3 cruzamentos."
       },
       {
-        "id": "recepcao-corajosa",
         "name": "Recepção Corajosa",
+        "id": "recepcao-corajosa",
         "desc": "Akagi Michinari recebe com 240/255/270/285/300% de [Recepção] como poder."
       }
     ],
-    "links": [],
-    "school": "Inarizaki"
+    "avatar": "/assets/img/akagiSSR.png",
+    "role": "L",
+    "name": "Akagi SSR",
+    "links": []
   },
   {
+    "school": "Inarizaki",
     "id": "yui-ssr",
-    "name": "Yui SSR",
-    "role": "WS",
-    "avatar": "/assets/img/yuiSSR.png",
     "abilities": [
       {
-        "id": "ataque-e-defesa-estaveis",
         "name": "Ataque e Defesa Estáveis",
+        "id": "ataque-e-defesa-estaveis",
         "desc": "Aumenta o [Ataque Potente] de Ginjima Yui em 6/8/10% e o [Recepção] em 6/8/10%. Quando ele recebe, se o oponente realizar Ataque Potente, o poder dessa recepção aumenta em [Recepção] × 15/25/35%."
       },
       {
-        "id": "recepcao-poderosa",
         "name": "Recepção Poderosa",
+        "id": "recepcao-poderosa",
         "desc": "Ginjima Yui recebe com [Recepção] × 120/135/150% de poder."
       },
       {
-        "id": "um-ataque-entusiasmado",
         "name": "Um Ataque Entusiasmado",
+        "id": "um-ataque-entusiasmado",
         "desc": "Sempre que houver um recebedor na equipe, o [Técnica de Ataque] de Ginjima Yui aumenta em 2/2.5/3%. Se a recepção do companheiro não for BAD, o [Ataque Potente] de Ginjima Yui aumenta em 15% por até quatro cruzamentos de rede."
       },
       {
-        "id": "um-golpe-poderoso",
         "name": "Um Golpe Poderoso",
+        "id": "um-golpe-poderoso",
         "desc": "Ginjima Yui executa um ataque poderoso com [Ataque Potente] × 225/240/255/270/285% de poder. Se estiver na linha de trás, o poder aumenta em [Ataque Potente] × 30%."
       }
     ],
-    "links": [],
-    "school": "Inarizaki"
+    "avatar": "/assets/img/yuiSSR.png",
+    "role": "WS",
+    "name": "Yui SSR",
+    "links": []
   },
   {
+    "school": "Kamomedai",
     "id": "hoshiumi-ur",
-    "name": "Hoshiumi UR",
-    "role": "WS",
-    "avatar": "/assets/img/hoshiumiUR.png",
     "abilities": [
       {
-        "id": "quebrar-a-cadeia",
         "name": "Quebrar a Cadeia",
+        "id": "quebrar-a-cadeia",
         "desc": "Quando Hoshiumi Korai está em quadra e um aliado bloqueia, a cada 50 de [Bloqueio] dos bloqueadores, o poder do spike adversário (Power/Quick) é reduzido em [Power/Ataque Rápido] × 0.3/0.4/0.5% (máx. 30%). Para cada 1% reduzido no spike do oponente, o poder da próxima habilidade de Hoshiumi aumenta em 1%."
       },
       {
-        "id": "otimo-desempenho-em-todas-as-areas",
         "name": "Ótimo Desempenho em Todas as Áreas",
+        "id": "otimo-desempenho-em-todas-as-areas",
         "desc": "Hoshiumi Korai pode ativar múltiplas habilidades de jogo (compartilham cooldown).\nSpike Serve: Salto-saque com [Serve] × 140/160/180% de poder.\nRecepção: [Recepção] × 140/160/180% de poder.\nBloqueio: [Bloqueio] × 140/160/180% de poder."
       },
       {
-        "id": "no-1-em-pontuar",
         "name": "Nº 1 em Pontuar",
+        "id": "no-1-em-pontuar",
         "desc": "Aumenta o [Ataque Potente] de Hoshiumi Korai em 16/20/24%. Ao ativar <All-Rounded Exploitation>, ganha 1 acúmulo de [All-Rounder]. Ao ativar uma habilidade, consome [All-Rounder] e aplica efeitos conforme a jogada.\nPowerful Blow: [Attention] +14/17/20% até a bola cruzar a rede duas vezes.\nServe: reduz o [Recepção] dos jogadores da linha de trás do oponente em 14/17/20% até a bola cruzar a rede duas vezes."
       },
       {
-        "id": "lanca-brilhante",
         "name": "Lança Brilhante",
+        "id": "lanca-brilhante",
         "desc": "Executa um ataque poderoso com [Ataque Potente] × 265/280/295/310/325% de poder. Se estiver na linha de frente, o poder aumenta em [Ataque Potente] × 40/45/50/55/60%."
       }
     ],
+    "avatar": "/assets/img/hoshiumiUR.png",
+    "role": "WS",
+    "name": "Hoshiumi UR",
     "links": [
       {
+        "key": "amigos-de-longa-data",
         "name": "Amigos de longa data",
         "type": "positional"
       }
-    ],
-    "school": "Kamomedai"
+    ]
   },
   {
+    "school": "Kamomedai",
     "id": "hirugami-ur",
-    "name": "Hirugami UR",
-    "role": "MB",
-    "avatar": "/assets/img/hirugamiUR.png",
     "abilities": [
       {
-        "id": "o-nucleo-do-sistema-kamomedai",
         "name": "O Núcleo do Sistema Kamomedai",
+        "id": "o-nucleo-do-sistema-kamomedai",
         "desc": "Quando Hirugami Sachiro saca, seu [Attention] aumenta em 12/16/20%. Estando em quadra, aliados ganham 1 acúmulo de [System] ao bloquear (cada acúmulo aumenta os Stats básicos em 8%, até 5; dura até o aliado pontuar). Cada acúmulo também aumenta os Stats base de Hirugami em 10% adicionais."
       },
       {
-        "id": "saque-psicologicamente-pressionante",
         "name": "Saque Psicologicamente Pressionante",
+        "id": "saque-psicologicamente-pressionante",
         "desc": "Executa um Salto-Saque Flutuante com 140/160/180% de [Serve] como poder. Se for uma boa jogada, encerra o Despertar de Moral do oponente, impedindo-o de ganhar Moral por 1 rali."
       },
       {
-        "id": "a-defesa-e-o-melhor-ataque",
         "name": "A Defesa é o Melhor Ataque",
+        "id": "a-defesa-e-o-melhor-ataque",
         "desc": "Quando Hirugami está em quadra, ganha 1 acúmulo de [Strong Block] cada vez que a bola cruza a rede. Ao bloquear, efeitos por pilhas:\n2: poder de Bloqueio +15/20/25% do [Bloqueio] dos bloqueadores por dois cruzamentos.\n3: poder de Recepção +15/20/25% do [Recepção] dos recebedores."
       },
       {
-        "id": "o-deus-imovel-do-dia",
         "name": "O Deus Imóvel do Dia",
+        "id": "o-deus-imovel-do-dia",
         "desc": "Bloqueia com [Bloqueio] × 260/275/290/305/320% de poder. Se o oponente disparar um ataque poderoso, o bloqueio ganha [Bloqueio] × 40/45/50/55/60% adicionais."
       }
     ],
+    "avatar": "/assets/img/hirugamiUR.png",
+    "role": "MB",
+    "name": "Hirugami UR",
     "links": [
       {
+        "key": "amigos-de-longa-data",
         "name": "Amigos de longa data",
         "type": "positional"
       }
-    ],
-    "school": "Kamomedai"
+    ]
   },
   {
+    "school": "Itachiyama",
     "id": "hayaseiomi-ur",
-    "name": "Hayaseiomi UR",
-    "role": "WS",
-    "avatar": "/assets/img/hayaseiomiUR.png",
     "abilities": [
       {
-        "id": "ataque-persistente",
         "name": "Ataque Persistente",
+        "id": "ataque-persistente",
         "desc": "O [Ataque Potente] de Kiyoomi Sakusa aumenta em 10/12.5/15% e seu [Recepção] em 20/22/25%. Quando ele recebe um ataque, o [Ataque Potente] aumenta em 6% (até 3 acúmulos) até o próximo Ataque Potente. Quando ele acerta um Power Shot, o [Recepção] aumenta em 15% até a próxima recepção."
       },
       {
-        "id": "tomar-todas-as-precaucoes",
         "name": "Tomar Todas as Precauções",
+        "id": "tomar-todas-as-precaucoes",
         "desc": "Realiza uma recepção ×1 com 50/70/90% de poder. Se exceder [Recepção] × 170%, o [Reflexo] aumenta em 10% e o cooldown de <Preparedness> é reduzido em 2× os cruzamentos. Se exceder [Recepção] × 200%, o [Defensive Technique] aumenta em 15% até o fim da partida."
       },
       {
-        "id": "top-spiker",
         "name": "Top Spiker",
+        "id": "top-spiker",
         "desc": "Estando em quadra, quando aliados fazem boa jogada (receber, salvar, bloquear), ganha 1 acúmulo de [Perfectionism]. Cada acúmulo aumenta [Recepção] e [Ataque Potente] em 6%, até 20. Ao atacar, o [Percepção] aumenta em 10% por acúmulo, até a bola cruzar a rede duas vezes."
       },
       {
-        "id": "spikes-que-mudam-a-trajetoria-girando",
         "name": "Spikes que Mudam a Trajetória Girando",
+        "id": "spikes-que-mudam-a-trajetoria-girando",
         "desc": "Executa um [Ataque Potente] com × 260/280/300/320/340% de poder. Se estiver na linha de trás, + [Ataque Potente] × 40%. Em caso de boa jogada, a próxima recepção do oponente é reduzida em [Recepção] × 15%."
       }
     ],
+    "avatar": "/assets/img/hayaseiomiUR.png",
+    "role": "WS",
+    "name": "Hayaseiomi UR",
     "links": [
       {
+        "key": "top-spiker-e-top-libero",
         "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
-    ],
-    "school": "Itachiyama"
+    ]
   },
   {
+    "school": "Itachiyama",
     "id": "komori-ur",
-    "name": "Komori UR",
-    "role": "L",
-    "avatar": "/assets/img/komoriUR.png",
     "abilities": [
       {
-        "id": "peca-chave-da-equipe",
         "name": "Peça-chave da Equipe",
+        "id": "peca-chave-da-equipe",
         "desc": "Estando em quadra, o [Defensive Technique] de todos os jogadores da linha de trás aliados aumenta em 10/13/16%. No início do rali, ganha 6 acúmulos de [Connect to Next]; cada um aumenta [Passe] em 3% e [Reflexo] em 5%, até 10."
       },
       {
-        "id": "levantamento-habilidoso",
         "name": "Levantamento Habilidoso",
+        "id": "levantamento-habilidoso",
         "desc": "Realiza Set com [Passe] × 140/160/180% de poder, aumentando a Moral do time em 10. O primeiro Spike (Power/Quick) após isso aumenta o [Attention] do atacante em 15% até a bola cruzar a rede duas vezes."
       },
       {
-        "id": "criar-o-fluxo-do-jogo",
         "name": "Criar o Fluxo do Jogo",
+        "id": "criar-o-fluxo-do-jogo",
         "desc": "O [Recepção] aumenta em 12/16/20%. Quando um aliado ativa uma recepção não-especial ou Komori ativa uma recepção especial, consome 2 acúmulos de [Connect to Next] para aumentar a recepção em [Recepção] × 30% e o primeiro Spike aliado depois disso aumenta o poder (Power/Quick) em 20%."
       },
       {
-        "id": "recepcao-que-cria-impulso",
         "name": "Recepção que Cria Impulso",
+        "id": "recepcao-que-cria-impulso",
         "desc": "Recebe com [Recepção] × 260/275/290/305/320% de poder. O primeiro Spike aliado após isso (Power/Quick) aumenta o [Técnica de Ataque] do spiker em 20% até a bola cruzar a rede duas vezes."
       }
     ],
+    "avatar": "/assets/img/komoriUR.png",
+    "role": "L",
+    "name": "Komori UR",
     "links": [
       {
+        "key": "top-spiker-e-top-libero",
         "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
-    ],
-    "school": "Itachiyama"
+    ]
   },
   {
+    "school": "Nekoma",
     "id": "kuro-sp",
-    "name": "Kuro SP",
-    "role": "MB",
-    "avatar": "/assets/img/kuroSP.png",
     "abilities": [
       {
-        "id": "a-torre-de-comando-imbativel",
         "name": "A Torre de Comando Imbatível",
+        "id": "a-torre-de-comando-imbativel",
         "desc": "Quando Kuroo Tetsuro (Hanabi) está em quadra, o [Mental] dos aliados na mesma linha de Kuroo Tetsuro (Hanabi) aumenta em 20/25/30%. Depois que ele toca na bola, o poder da próxima jogada do mesmo tipo que a jogada de Kuroo Tetsuro (Hanabi) é aumentado em 40% × o parâmetro correspondente do membro que fará a jogada. Se a jogada de Kuroo Tetsuro (Hanabi) for crítica, um membro aleatório do time adversário recebe a desvantagem [Raiva] ([Cortada Potente]/[Ataque Rápido] será reduzido em 10%)."
       },
       {
-        "id": "recepcao-habilidosa",
         "name": "Recepção Habilidosa",
+        "id": "recepcao-habilidosa",
         "desc": "Kuroo Tetsuro (Hanabi) realiza uma recepção com poder igual a [Recepção] × 140/160/180%. Se essa jogada for crítica, o poder dessa recepção aumenta em [Recepção] × 20%."
       },
       {
-        "id": "um-jogador-completo-sem-falhas",
         "name": "Um Jogador Completo, Sem Falhas",
+        "id": "um-jogador-completo-sem-falhas",
         "desc": "Quando Kuroo Tetsuro (Hanabi) está na linha de frente/traseira e toca na bola, sua [Reação] aumenta em 50% × a [Reação] de cada outro aliado na linha de frente/traseira (máximo 100%), e seu [Mental] aumenta em 50% × o [Mental] de cada outro aliado na linha de frente/traseira (máximo 100%). Além disso, quando Kuroo Tetsuro (Hanabi) está na linha de frente, a [Técnica de Ataque] dos aliados aumenta em 14/17/20%, e seu poder de bloqueio aumenta em [Bloqueio] × 45%. Além disso, quando Kuroo Tetsuro está na linha de trás, a [Técnica Defensiva] dos aliados aumenta em 14/17/20%, e seu poder de recepção aumenta em [Recepção] × 45%."
       },
       {
-        "id": "bloqueio-desagradavel",
         "name": "Bloqueio Desagradável",
+        "id": "bloqueio-desagradavel",
         "desc": "Kuroo Tetsuro (Hanabi) realiza um bloqueio com poder de [Bloqueio] × 280/300/320/340/360%. Se esse bloqueio não devolver a bola para a quadra adversária, a primeira recepção de um aliado após essa jogada não resultará em ponto. Se esse bloqueio devolver a bola para a quadra adversária, os atributos principais de todos os aliados aumentam em 15%. Esse efeito dura até a bola atravessar a rede 8 vezes."
       }
     ],
+    "avatar": "/assets/img/kuroSP.png",
+    "role": "MB",
+    "name": "Kuro SP",
     "links": [
       {
+        "key": "festival-fogos-de-artificio",
         "name": "Festival Fogos de Artificio",
         "type": "positional"
       },
       {
+        "key": "cerebro-e-comandante-sp",
         "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
-    ],
-    "school": "Nekoma"
+    ]
   },
   {
+    "school": "Aoba Johsai",
     "id": "kunimi-sp",
-    "name": "Kunimi SP",
-    "role": "OP",
-    "avatar": "/assets/img/kunimiSP.png",
     "abilities": [
       {
-        "id": "guardar-folego",
         "name": "Guardar Fôlego",
+        "id": "guardar-folego",
         "desc": "O [Ataque Potente] de Kunimi (Festival Esportivo) aumenta em +10%/13%/16%. Se a Stamina de Kunimi estiver abaixo de 80, o [Ataque Potente] dele recebe +12% adicionais.Enquanto Kunimi estiver em quadra, no fim de cada rali, se o limite máximo de Stamina de Kunimi exceder 80, o limite diminui em 10 e ele recupera 120 de Stamina.Enquanto Kunimi estiver em quadra, cada vez que a Stamina de um aliado diminuir em 10, Kunimi ganha 1 acúmulo de [Reserva de Stamina].Para cada acúmulo de [Reserva de Stamina], a [Percepção] de Kunimi aumenta em 7%.Máximo de 30 acúmulos; máximo de 10 acúmulos por rali. "
       },
       {
-        "id": "defesa-precisa",
         "name": "Defesa Precisa",
+        "id": "defesa-precisa",
         "desc": "Kunimi Akira (Festival Esportivo) realiza uma recepção com poder de [Recepção] × 140%/160%/180%, e o parâmetro principal dos aliados aumenta em 10%. Este efeito dura até a bola cruzar a rede 2 vezes."
       },
       {
-        "id": "dar-o-maximo",
         "name": "Dar o Máximo",
+        "id": "dar-o-maximo",
         "desc": "Toda vez que a Stamina de Kunimi (Festival Esportivo) é recuperada, o [Ataque Potente] dele aumenta em 0.8%/1.1%/1.4% (up to +16%/22%/28%). No início do rali, se o limite de Stamina de Kunimi for 80 ou menos, ele obtém o efeito [Momento Decisivo].Enquanto estiver com [Momento Decisivo], o tempo de recarga de <Espírito de Luta Ardente> passa a ser de 6 travessias de rede.Se a [Percepção] de Kunimi exceder 100%, a cada +1% excedente, o [Poder] aumenta em 0,9% (até +90% máx.).Depois de obter [Momento Decisivo], nas primeiras 2 ativações, sempre que <Espírito de Luta Ardente> for usado, o tempo de recarga dessa habilidade é redefinido."
       },
       {
-        "id": "espirito-de-luta-ardente",
         "name": "Espírito de Luta Ardente",
+        "id": "espirito-de-luta-ardente",
         "desc": "Kunimi Akira (Festival Esportivo) consome +8 de Stamina e executa um [Ataque Potente] com poder de [Ataque Potente] × 295%/315%/335%/355%/375%Se a Stamina de Kunimi exceder 50, o poder deste ataque aumenta em [Ataque Potente] × 50%."
       }
     ],
+    "avatar": "/assets/img/kunimiSP.png",
+    "role": "OP",
+    "name": "Kunimi SP",
     "links": [
       {
+        "key": "",
         "name": "",
         "type": "positional"
       }
-    ],
-    "school": "Aoba Johsai"
+    ]
   }
 ]
