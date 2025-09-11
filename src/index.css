@@ -37,8 +37,10 @@ body::before {
   pointer-events: none;
 }
 
-.btn {
-  @apply inline-flex items-center gap-2 rounded-md border border-white/10 bg-white/5 px-3 py-2 text-sm font-medium hover:bg-white/10 active:bg-white/15 transition-colors;
+@layer components {
+  .btn {
+    @apply inline-flex items-center gap-2 rounded-md border border-white/10 bg-white/5 px-3 py-2 text-sm font-medium hover:bg-white/10 active:bg-white/15 transition-colors;
+  }
 }
 .card {
   @apply rounded-lg border border-white/10 bg-white/5 backdrop-blur;

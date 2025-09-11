@@ -130,7 +130,8 @@ export function TeamManager() {
     <div className="flex items-center gap-2">
       {/* Botão de Salvar */}
       <button
-        className="btn flex items-center gap-2"
+        id="tm-open-save"
+        className="btn items-center gap-2 hidden md:inline-flex"
         onClick={() => setShowSaveModal(true)}
       >
         <Save size={16} />
@@ -139,7 +140,8 @@ export function TeamManager() {
 
       {/* Botão de Carregar */}
       <button
-        className="btn flex items-center gap-2"
+        id="tm-open-load"
+        className="btn items-center gap-2 hidden md:inline-flex"
         onClick={() => setShowLoadModal(true)}
       >
         <FolderOpen size={16} />
@@ -151,7 +153,9 @@ export function TeamManager() {
         <div className="fixed top-0 left-0 h-[100vh] inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
           <div className="bg-neutral-900 border border-white/10 rounded-lg p-6 w-96 max-w-full max-h-[90vh]">
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-lg font-semibold">{t("team_manager.save_team")}</h3>
+              <h3 className="text-lg font-semibold">
+                {t("team_manager.save_team")}
+              </h3>
               <button
                 onClick={() => {
                   setShowSaveModal(false);
@@ -209,7 +213,9 @@ export function TeamManager() {
         <div className="fixed top-0 left-0 h-[100vh] inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
           <div className="bg-neutral-900 border border-white/10 rounded-lg p-6 w-96 max-w-full max-h-[90vh] flex flex-col">
             <div className="flex justify-between items-center mb-4">
-              <h3 className="text-lg font-semibold">{t("team_manager.load_team")}</h3>
+              <h3 className="text-lg font-semibold">
+                {t("team_manager.load_team")}
+              </h3>
               <button
                 onClick={() => setShowLoadModal(false)}
                 className="text-white/60 hover:text-white"

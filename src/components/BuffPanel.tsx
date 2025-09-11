@@ -2,7 +2,7 @@ import { computeBuffs } from "../lib/rules";
 import { useStore } from "../state/store";
 import type { Buff } from "../lib/types";
 import { useState } from "react";
-import { X } from "lucide-react";
+import { X, ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 export function BuffPanel() {
@@ -15,62 +15,72 @@ export function BuffPanel() {
   const bondBuffs = buffs.filter((b) => b.type === "vínculo");
 
   const [openTooltipId, setOpenTooltipId] = useState<string | null>(null);
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   const handleTooltipToggle = (id: string) => {
     setOpenTooltipId(openTooltipId === id ? null : id);
   };
 
   return (
-    <aside
-      className="absolute right-20 md:right-20 2xl:right-16 top-[2%] md:top-[7%] 2xl:top-[7%] w-full max-w-[40vw] md:max-w-[20vw] 2xl:max-w-[300px] card p-3"
-      style={{ zIndex: 100 }}
-    >
-      <div className="font-semibold mb-4 text-md md:text-xl">
-        {t("buffs.title")}
-      </div>
-
-      {/* Sinergias Posicionais */}
-      <div className="mb-3">
-        <div className="font-medium text-sm mb-1 text-cyan-300">
-          {t("buffs.positional")}
+    <aside className="absolute z-10 right-[1rem] md:right-20 2xl:right-16 top-[2%] md:top-[7%] 2xl:top-[7%] w-full max-w-[40vw] md:max-w-[20vw] 2xl:max-w-[300px] card p-2 md:p-4">
+      <button
+        type="button"
+        className="w-full flex items-center justify-between font-semibold text-md md:text-xl"
+        onClick={() => setMobileOpen((v) => !v)}
+        aria-expanded={mobileOpen}
+      >
+        <span>{t("buffs.title")}</span>
+        <ChevronDown
+          className={`md:hidden transition-transform ${
+            mobileOpen ? "rotate-180" : "rotate-0"
+          }`}
+          size={18}
+        />
+      </button>
+      <div className={`${mobileOpen ? "block" : "hidden"} md:block mt-3`}>
+        {/* Sinergias Posicionais */}
+        <div className="mb-3">
+          <div className="font-medium text-sm mb-1 text-cyan-300">
+            {t("buffs.positional")}
+          </div>
+          {positionalBuffs.length === 0 ? (
+            <div className="text-sm opacity-70">
+              {t("buffs.no_positional_buffs")}
+            </div>
+          ) : (
+            <div className="flex flex-col gap-2">
+              {positionalBuffs.map((b) => (
+                <BuffButton
+                  key={b.id}
+                  buff={b}
+                  isOpen={openTooltipId === b.id}
+                  onToggle={() => handleTooltipToggle(b.id)}
+                />
+              ))}
+            </div>
+          )}
         </div>
-        {positionalBuffs.length === 0 ? (
-          <div className="text-sm opacity-70">
-            {t("buffs.no_positional_buffs")}
-          </div>
-        ) : (
-          <div className="flex flex-col gap-2">
-            {positionalBuffs.map((b) => (
-              <BuffButton
-                key={b.id}
-                buff={b}
-                isOpen={openTooltipId === b.id}
-                onToggle={() => handleTooltipToggle(b.id)}
-              />
-            ))}
-          </div>
-        )}
-      </div>
 
-      {/* Sinergias de Vínculo */}
-      <div>
-        <div className="font-medium text-sm mb-1 text-purple-300">
-          {t("buffs.bond")}
-        </div>
-        {bondBuffs.length === 0 ? (
-          <div className="text-sm opacity-70">{t("buffs.no_bond_buffs")}</div>
-        ) : (
-          <div className="flex flex-col gap-2">
-            {bondBuffs.map((b) => (
-              <BuffButton
-                key={b.id}
-                buff={b}
-                isOpen={openTooltipId === b.id}
-                onToggle={() => handleTooltipToggle(b.id)}
-              />
-            ))}
+        {/* Sinergias de Vínculo */}
+        <div>
+          <div className="font-medium text-sm mb-1 text-purple-300">
+            {t("buffs.bond")}
           </div>
-        )}
+          {bondBuffs.length === 0 ? (
+            <div className="text-sm opacity-70">{t("buffs.no_bond_buffs")}</div>
+          ) : (
+            <div className="flex flex-col gap-2">
+              {bondBuffs.map((b) => (
+                <BuffButton
+                  key={b.id}
+                  buff={b}
+                  isOpen={openTooltipId === b.id}
+                  onToggle={() => handleTooltipToggle(b.id)}
+                />
+              ))}
+            </div>
+          )}
+        </div>
       </div>
     </aside>
   );
