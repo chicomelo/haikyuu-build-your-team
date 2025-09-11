@@ -5,6 +5,7 @@ import logo from "../assets/logo.png";
 import { Send, Globe } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 import { useTranslation } from "react-i18next";
+import { shortenUrl } from "../services/urlShortener";
 
 export function TeamHeader() {
   const team = useStore((s) => s.team);
@@ -25,11 +26,17 @@ export function TeamHeader() {
 
   const share = async () => {
     const url = encodeTeamToQuery(team, rotationLabels);
+    
     try {
-      await navigator.clipboard.writeText(url);
+      // Encurtar a URL usando TinyURL
+      const shortenedUrl = await shortenUrl(url);
+      
+      // Copiar a URL encurtada para a área de transferência
+      await navigator.clipboard.writeText(shortenedUrl);
       alert(t("team_manager.link_copied"));
     } catch {
-      prompt("Copie o link:", url);
+      // Fallback: mostrar o prompt com a URL original se o encurtamento falhar
+      prompt(t("team_manager.copy_link"), url);
     }
   };
 
