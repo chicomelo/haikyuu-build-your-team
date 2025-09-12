@@ -1,10 +1,12 @@
-import { useDroppable, useDraggable } from "@dnd-kit/core";
+﻿import { useDroppable, useDraggable } from "@dnd-kit/core";
 import type { Position } from "../lib/types";
 import { getPlayerById, useStore } from "../state/store";
+import { useTranslation } from "react-i18next";
 
-type Props = { pos: Position; x: number; y: number; label?: string };
+type Props = { pos: Position; label?: string };
 
-export function Slot({ pos, x, y, label }: Props) {
+export function Slot({ pos, label }: Props) {
+  const { t } = useTranslation();
   const id = `slot:${pos}`;
   const { isOver, setNodeRef } = useDroppable({ id });
   const playerId = useStore((s) => s.team.slots[pos]);
@@ -26,23 +28,23 @@ export function Slot({ pos, x, y, label }: Props) {
     ? { transform: `translate3d(${transform.x}px, ${transform.y}px, 0)` }
     : undefined;
 
-  // Verificar se há um jogador sendo arrastado
+  // Verificar se hÃ¡ um jogador sendo arrastado
   const isPlayerBeingDragged =
     activeDragId && activeDragId.startsWith("player:");
 
-  // Verificar se o jogador sendo arrastado é um L (Libero)
+  // Verificar se o jogador sendo arrastado Ã© um L (Libero)
   const draggedPlayer = isPlayerBeingDragged
     ? getPlayerById(activeDragId.replace("player:", ""))
     : null;
   const isDraggedPlayerLibero = draggedPlayer?.role === "L";
 
-  // Verificar se o slot é válido para o jogador sendo arrastado
+  // Verificar se o slot Ã© vÃ¡lido para o jogador sendo arrastado
   const isSlotValidForPlayer =
     (pos === "L" && isDraggedPlayerLibero) ||
     (pos !== "L" && !isDraggedPlayerLibero) ||
     !isPlayerBeingDragged;
 
-  // Usar o label fornecido ou o padrão
+  // Usar o label fornecido ou o padrÃ£o
   const displayLabel = label !== undefined ? label : labelFor(pos);
 
   return (
@@ -94,14 +96,19 @@ export function Slot({ pos, x, y, label }: Props) {
           </div>
         ) : isOver && isPlayerBeingDragged && isSlotValidForPlayer ? (
           <div className="text-center text-cyan-400/90 p-2">
-            <div className="font-semibold text-sm">Solte aqui</div>
-            <div className="text-xs opacity-80">para adicionar ao time</div>
+            <div className="font-semibold text-sm">{t("slots.drop_here")}</div>
+            <div className="text-xs opacity-80">
+              {t("slots.drop_here_description")}
+            </div>
           </div>
         ) : isOver && isPlayerBeingDragged && !isSlotValidForPlayer ? (
           <div className="text-center text-red-400/90 p-2">
-            <div className="font-semibold text-sm">Posição inválida</div>
+            {" "}
+            <div className="font-semibold text-sm">
+              {t("slots.invalid_position")}
+            </div>
             <div className="text-xs opacity-80">
-              Libero só pode ser colocado no slot L
+              {t("slots.libero_position_only")}
             </div>
           </div>
         ) : (

@@ -10,7 +10,7 @@ export function PlayerCard({ p, compact }: { p: Player; compact?: boolean }) {
 
   // Proporção correta das imagens: 178x250 (aproximadamente 0.71 ou 71:100)
   const aspectRatioClass = compact ? "aspect-[71/100]" : "aspect-[71/100]";
-  const widthClass = compact ? "w-[96px]" : "w-[120px]";
+  const widthClass = compact ? "w-[80px] md:w-[96px]" : "w-[120px]";
 
   return (
     <button

@@ -23,7 +23,7 @@ export function CourtView() {
       {POSITIONS.map((p) => (
         <Slot
           key={p.pos}
-          pos={p.pos as any}
+          pos={p.pos as Position}
           label={rotationLabels[p.pos as Position]}
         />
       ))}

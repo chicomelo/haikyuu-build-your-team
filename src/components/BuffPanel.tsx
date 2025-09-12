@@ -23,7 +23,7 @@ export function BuffPanel() {
   };
 
   return (
-    <aside className="absolute z-10 right-[1rem] md:right-20 2xl:right-16 top-[2%] md:top-[7%] 2xl:top-[7%] w-full max-w-[40vw] md:max-w-[20vw] 2xl:max-w-[300px] card p-2 md:p-4">
+    <aside className="absolute z-10 right-[1rem] md:right-20 2xl:right-16 top-[2%] md:top-[9%] 2xl:top-[9%] w-full max-w-[90vw] md:max-w-[20vw] 2xl:max-w-[300px] card p-2 md:p-4">
       <button
         type="button"
         className="w-full flex items-center justify-between font-semibold text-md md:text-xl"
@@ -104,18 +104,18 @@ function BuffButton({
   isOpen: boolean;
   onToggle: () => void;
 }) {
-  const description = fixMojibake(buff.desc || "Descrição não disponível");
+  const { t } = useTranslation();
+  const description = fixMojibake(buff.desc || t("buffs.no_description"));
 
-  
   return (
     <div className="relative inline-block">
       <button
         onClick={(e) => {
           e.stopPropagation();
-                    onToggle();
+          onToggle();
         }}
-        className={`bg-white/10 hover:bg-white/20 border border-white/20 rounded-full px-3 py-1 text-sm transition-colors cursor-pointer ${
-          buff.type === "positional" ? "text-cyan-300" : "text-purple-300"
+        className={`font-bold pl-4 md:bg-white/10 md:hover:bg-white/20 md:border md:border-white/20 md:rounded-full md:px-3 md:py-1 text-sm md:transition-colors md:cursor-pointer ${
+          buff.type === "positional" ? "md:text-cyan-300" : "md:text-purple-300"
         }`}
       >
         {fixMojibake(buff.name)}
@@ -123,10 +123,9 @@ function BuffButton({
 
       {isOpen && (
         <div
-          className="absolute left-16 transform -translate-x-1/2 bottom-full mb-2 w-64 p-3 bg-black/90 text-white text-xs rounded-lg shadow-xl border border-white/10 pointer-events-auto"
+          className="pl-4 md:absolute md:left-16 md:transform md:-translate-x-1/2 md:bottom-full md:mb-2 md:w-64 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
           style={{
             zIndex: 1000,
-            position: "absolute",
             bottom: "100%",
             marginBottom: "0.5rem",
           }}
@@ -135,19 +134,18 @@ function BuffButton({
             onClick={() => {
               onToggle();
             }}
-            className="text-white/60 hover:text-white absolute top-2 right-2"
+            className="hidden md:block md:text-white/60 md:hover:text-white md:absolute md:top-2 md:right-2"
           >
             <X size={20} />
           </button>
-          <div className="font-medium mb-2 text-sm">{buff.name}</div>
-          <div className="leading-relaxed">{description}</div>
+          <div className="font-medium mb-2 text-sm hidden md:block">
+            {buff.name}
+          </div>
+          <div className="leading-relaxed text-sm">{description}</div>
           <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-full w-0 h-0 border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-black/90"></div>
         </div>
       )}
     </div>
   );
 }
-
-
-
 

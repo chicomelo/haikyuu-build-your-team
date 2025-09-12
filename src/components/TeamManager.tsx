@@ -57,7 +57,7 @@ export function TeamManager() {
       if (savedTeams.length > 0) {
         localStorage.setItem("savedTeams", JSON.stringify(savedTeams));
         // Verificar se foram realmente salvos
-        const saved = localStorage.getItem("savedTeams");      } else {
+      } else {
         // Se não há times, remover a chave do localStorage
         localStorage.removeItem("savedTeams");      }
     } catch (e) {

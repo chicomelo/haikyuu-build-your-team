@@ -1,22 +1,23 @@
-import type { Team, Buff, Player } from './types'
+﻿import type { Team, Buff, Player } from './types'
 import { resources } from '../i18n'
 import { getTranslatedBuffName, getBuffDescriptionsMap, slugify } from './buffTranslations'
 
-// Função para obter as descrições de buffs no idioma correto
+// FunÃ§Ã£o para obter as descriÃ§Ãµes de buffs no idioma correto
 function getBuffDescriptions(language: string) {
   // Converter 'pt-BR' para 'pt-BR' e 'en' para 'en'
   const langKey = language === 'pt' ? 'pt-BR' : language;
   return resources[langKey as keyof typeof resources]?.buffs || resources['pt-BR'].buffs;
 }
 
-// Simple synergy engine: if 2+ titulares compartilham um mesmo "link" (vínculo),
-// considera uma sinergia ATIVA. (Futuro: distinguir ativo/passivo e regras específicas.)
+// Simple synergy engine: if 2+ titulares compartilham um mesmo "link" (vÃ­nculo),
+// considera uma sinergia ATIVA. (Futuro: distinguir ativo/passivo e regras especÃ­ficas.)
 export function computeBuffs(team: Team, players: Player[], language: string = 'pt-BR'): Buff[] {
   const byId = new Map(players.map(p => [p.id, p]))
-  const buffDescriptions = getBuffDescriptions(language);
   const descBySlug = getBuffDescriptionsMap(language);
   const descEnBySlug = getBuffDescriptionsMap('en');
   const looksBad = (s?: string) => !!s && /[\uFFFD\u00C3\u00C2]/.test(s);
+  // Reference helper to avoid TS noUnusedLocals error while keeping fallback available
+  void getBuffDescriptions(language);
   
   // Sinergias posicionais - requerem 2+ titulares
   const starters: Player[] = Object.values(team.slots)
@@ -33,7 +34,7 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
     }
   }
 
-  // Sinergias de vínculo - requerem apenas ter os jogadores no time
+  // Sinergias de vÃ­nculo - requerem apenas ter os jogadores no time
   const allPlayersInTeam = [
     ...Object.values(team.slots).filter(Boolean) as string[],
     ...team.bench.filter(Boolean) as string[]
@@ -69,7 +70,7 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
     }
   }
   
-  // Adicionar sinergias de vínculo (apenas ter os jogadores no time)
+  // Adicionar sinergias de vÃ­nculo (apenas ter os jogadores no time)
   for (const [slug, n] of bondCounts) {
     if (n >= 2) {
       const translatedName = getTranslatedBuffName(slug, language);
@@ -93,6 +94,7 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
   
   return buffs
 }
+
 
 
 

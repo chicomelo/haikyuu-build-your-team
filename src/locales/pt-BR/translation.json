@@ -27,7 +27,8 @@
     "bond": "Por V\u00EDnculo",
     "no_positional_buffs": "Nenhuma sinergia posicional ativa",
     "no_bond_buffs": "Nenhuma sinergia de v\u00EDnculo ativa",
-    "no_buffs": "Nenhuma sinergia ativa"
+    "no_buffs": "Nenhuma sinergia ativa",
+    "no_description": "Descri\u00E7\u00E3o n\u00E3o dispon\u00EDvel"
   },
   "buttons": {
     "save": "Salvar",

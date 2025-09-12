@@ -67,8 +67,20 @@ export function TeamHeader() {
     setDropdownOpen(false);
     // Salvar idioma no localStorage
     localStorage.setItem("selectedLanguage", lang);
-    // Mudar idioma no i18next
+    // Mudar idioma no i18next (para refletir imediatamente)
     i18n.changeLanguage(lang === "PT-BR" ? "pt-BR" : "en");
+
+    // Navegar para a rota do idioma, preservando query/hash
+    const { pathname, search, hash } = window.location;
+    const isEN = pathname.startsWith("/en");
+    if (lang === "EN") {
+      const targetPath = isEN ? pathname : "/en" + pathname;
+      window.location.href = targetPath + search + hash;
+    } else {
+      // PT-BR: remover prefixo /en se existir
+      const targetPath = isEN ? pathname.replace(/^\/en/, "") || "/" : pathname || "/";
+      window.location.href = targetPath + search + hash;
+    }
   };
 
   return (

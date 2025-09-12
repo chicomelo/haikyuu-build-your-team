@@ -27,7 +27,8 @@
     "bond": "By Bond",
     "no_positional_buffs": "No active positional synergy",
     "no_bond_buffs": "No active bond synergy",
-    "no_buffs": "No active synergy"
+    "no_buffs": "No active synergy",
+    "no_description": "Description not available"
   },
   "buttons": {
     "save": "Save",

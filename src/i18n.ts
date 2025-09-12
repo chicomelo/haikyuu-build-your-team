@@ -31,7 +31,9 @@ i18n
       escapeValue: false
     },
     detection: {
-      order: ['localStorage', 'navigator'],
+      // Detect by URL path (/en), then HTML lang, then localStorage, then browser
+      order: ['path', 'htmlTag', 'localStorage', 'navigator'],
+      lookupFromPathIndex: 0,
       caches: ['localStorage']
     },
     ns: ['translation', 'buffs', 'buffNames'],
