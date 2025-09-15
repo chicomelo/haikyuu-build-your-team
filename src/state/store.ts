@@ -30,6 +30,10 @@ type Store = {
   onDragStart: (e: DragStartEvent) => void;
   onDragCancel: () => void;
   activeDragId: string | null;
+  // Player info modal
+  modalPlayerId: string | null;
+  openPlayerModal: (playerId: string) => void;
+  closePlayerModal: () => void;
 };
 
 const emptyTeam: Team = {
@@ -296,6 +300,9 @@ export const useStore = create<Store>((set, get) => ({
   onDragStart: (e) => set({ activeDragId: String(e.active.id) }),
   onDragCancel: () => set({ activeDragId: null }),
   activeDragId: null,
+  modalPlayerId: null,
+  openPlayerModal: (playerId) => set({ modalPlayerId: playerId }),
+  closePlayerModal: () => set({ modalPlayerId: null }),
 }));
 
 export function getPlayerById(id: string) {

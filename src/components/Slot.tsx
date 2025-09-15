@@ -2,7 +2,7 @@
 import type { Position } from "../lib/types";
 import { getPlayerById, useStore } from "../state/store";
 import { useTranslation } from "react-i18next";
-import { GripVertical } from "lucide-react";
+import { GripVertical, Info } from "lucide-react";
 
 type Props = { pos: Position; label?: string };
 
@@ -16,6 +16,7 @@ export function Slot({ pos, label }: Props) {
   const selected = useStore((s) => s.selectedSlot) === pos;
   const activeDragId = useStore((s) => s.activeDragId);
   const player = playerId ? getPlayerById(playerId) : null;
+  const openPlayerModal = useStore((s) => s.openPlayerModal);
   const {
     attributes,
     listeners,
@@ -96,6 +97,20 @@ export function Slot({ pos, label }: Props) {
             ) : (
               <div className="absolute inset-0 bg-gradient-to-b from-neutral-700/50 to-neutral-900/60" />
             )}
+            {/* Info button for starters */}
+            <button
+              type="button"
+              className="absolute top-1 right-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/70 text-white/80 hover:text-white"
+              onClick={(e) => {
+                e.stopPropagation();
+                if (player) openPlayerModal(player.id);
+              }}
+              onMouseDown={(e) => e.stopPropagation()}
+              onTouchStart={(e) => e.stopPropagation()}
+              aria-label="Open player info"
+            >
+              <Info size={14} />
+            </button>
             <div className="absolute bottom-0 left-0 right-0 text-sm w-full bg-black/70 py-1 h-[30px] flex items-center justify-center">
               <div className="font-semibold leading-none">{player.name}</div>
             </div>

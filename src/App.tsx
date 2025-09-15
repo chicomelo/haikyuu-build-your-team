@@ -20,6 +20,7 @@ import { decodeTeamFromQuery, clearTeamQuery } from "./services/share";
 import { loadTeam, saveTeam } from "./services/storage";
 import { DragPreview } from "./components/DragPreview";
 import { getPlayerById } from "./state/store";
+import { PlayerInfoModal } from "./components/PlayerInfoModal";
 
 // Algoritmo de detecção de colisão híbrido
 function customCollisionDetection(args: any) {
@@ -116,6 +117,7 @@ function App() {
           })()}
         </DragOverlay>
       </DndContext>
+      <PlayerInfoModal />
     </div>
   );
 }

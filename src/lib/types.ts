@@ -1,4 +1,5 @@
 export type PlayerRole = 'S' | 'MB' | 'WS' | 'OP' | 'L'
+export type PlayerType = 'power' | 'block' | 'quick' | 'receive' | 'serve' | 'setter'
 
 export type Ability = {
   id: string
@@ -21,6 +22,8 @@ export type Player = {
   abilities: Ability[] // up to 4
   links?: Link[]
   school?: string // nome da escola
+  // Tipos/estilos do jogador (derivados de symbols do info.js)
+  types?: PlayerType[]
 }
 
 // Unique slot keys on court and their logical roles

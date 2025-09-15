@@ -7,6 +7,13 @@
     "L": "L",
     "OP": "OP"
   },
+  "player_modal": {
+    "close_aria": "Fechar",
+    "position": "Posição",
+    "school": "Escola",
+    "synergies": "Sinergias",
+    "abilities": "Habilidades"
+  },
   "bench": "Reservas",
   "roster": {
     "title": "Jogadores",
@@ -56,5 +63,13 @@
     "WS": "WS",
     "OP": "OP",
     "L": "L"
+  },
+  "player_types": {
+    "power": "Ataque Potente",
+    "block": "Bloqueio",
+    "quick": "Ataque Rápido",
+    "receive": "Recepção",
+    "serve": "Saque",
+    "setter": "Levantador"
   }
 }

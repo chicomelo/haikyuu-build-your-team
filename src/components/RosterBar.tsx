@@ -94,7 +94,7 @@ export function RosterBar() {
       <div className="mx-auto max-w-[1600px] px-4 py-3 h-[220px] md:h-[240px] 2xl:h-[260px] flex flex-col">
         <div className="flex items-center gap-2 mb-2 flex-shrink-0 relative">
           <div className="flex gap-2 text-xs">
-            {(["all", "S", "MB", "WS", "OP", "L"] as const).map((t) => (
+            {(["All", "S", "MB", "WS", "OP", "L"] as const).map((t) => (
               <button
                 key={t}
                 className={`filter-btn ${

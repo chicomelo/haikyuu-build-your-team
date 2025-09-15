@@ -38,7 +38,8 @@
         "name": "Gênios Karasuno",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "serve", "setter"]
   },
   {
     "school": "Karasuno",
@@ -68,7 +69,8 @@
     "avatar": "/assets/img/kageyamaSSR.png",
     "role": "S",
     "name": "Kageyama SSR",
-    "links": []
+    "links": [],
+    "types": ["quick", "serve", "setter"]
   },
   {
     "school": "Karasuno",
@@ -114,7 +116,8 @@
         "name": "Sol vs Lua",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "receive"]
   },
   {
     "school": "Karasuno",
@@ -150,7 +153,8 @@
         "name": "Dupla Excêntrica",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick"]
   },
   {
     "school": "Karasuno",
@@ -191,7 +195,8 @@
         "name": "Depois da Escola",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "setter"]
   },
   {
     "school": "Karasuno",
@@ -232,7 +237,8 @@
         "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive"]
   },
   {
     "school": "Karasuno",
@@ -268,7 +274,8 @@
         "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power"]
   },
   {
     "school": "Karasuno",
@@ -309,7 +316,8 @@
         "name": "Festival Fogos de Artificio",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "block"]
   },
   {
     "school": "Karasuno",
@@ -339,7 +347,8 @@
     "avatar": "/assets/img/tsukishimaSSR.png",
     "role": "MB",
     "name": "Tsuki SSR",
-    "links": []
+    "links": [],
+    "types": ["quick", "block"]
   },
   {
     "school": "Karasuno",
@@ -369,7 +378,8 @@
     "avatar": "/assets/img/daichiSSR.png",
     "role": "OP",
     "name": "Daichi SSR",
-    "links": []
+    "links": [],
+    "types": ["receive"]
   },
   {
     "school": "Karasuno",
@@ -405,7 +415,8 @@
         "name": "Deus Guardião e Ponta",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "serve"]
   },
   {
     "school": "Karasuno",
@@ -441,7 +452,8 @@
         "name": "Depois da Escola",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["block", "serve", "setter"]
   },
   {
     "school": "Nekoma",
@@ -482,7 +494,8 @@
         "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "setter"]
   },
   {
     "school": "Nekoma",
@@ -518,7 +531,8 @@
         "name": "Cérebro e Comandante",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "setter"]
   },
   {
     "school": "Nekoma",
@@ -554,7 +568,8 @@
         "name": "Orientação Educacional",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive"]
   },
   {
     "school": "Nekoma",
@@ -656,7 +671,8 @@
         "name": "Orientação Educacional",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "block"]
   },
   {
     "school": "Dateko",
@@ -692,7 +708,8 @@
         "name": "Natação",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["block", "serve"]
   },
   {
     "school": "Dateko",
@@ -728,7 +745,8 @@
         "name": "O Silencioso e o Sarcástico",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "block"]
   },
   {
     "school": "Dateko",
@@ -769,7 +787,8 @@
         "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["block", "serve"]
   },
   {
     "school": "Dateko",
@@ -799,7 +818,8 @@
     "avatar": "/assets/img/sasayaSSR.png",
     "role": "OP",
     "name": "Sasaya SSR",
-    "links": []
+    "links": [],
+    "types": ["power"]
   },
   {
     "school": "Dateko",
@@ -835,7 +855,8 @@
         "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["block", "setter"]
   },
   {
     "school": "Aoba Johsai",
@@ -876,7 +897,8 @@
         "name": "Rivais de longa data",
         "type": "bond"
       }
-    ]
+    ],
+    "types": ["power", "serve", "setter"]
   },
   {
     "school": "Aoba Johsai",
@@ -906,7 +928,8 @@
     "avatar": "/assets/img/oikawaSSR.png",
     "role": "S",
     "name": "Oikawa SSR",
-    "links": []
+    "links": [],
+    "types": ["power", "serve", "setter"]
   },
   {
     "school": "Aoba Johsai",
@@ -947,7 +970,8 @@
         "name": "A Matilha",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power"]
   },
   {
     "school": "Aoba Johsai",
@@ -983,7 +1007,8 @@
         "name": "A Matilha",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "serve"]
   },
   {
     "school": "Shiratorizawa",
@@ -1049,7 +1074,8 @@
         "name": "Rivais de longa data",
         "type": "bond"
       }
-    ]
+    ],
+    "types": ["power", "serve"]
   },
   {
     "school": "Shiratorizawa",
@@ -1085,7 +1111,8 @@
         "name": "Bests para a vida",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["block"]
   },
   {
     "school": "Shiratorizawa",
@@ -1126,7 +1153,8 @@
         "name": "Ace Incontestável e Ace",
         "type": "bond"
       }
-    ]
+    ],
+    "types": ["power", "serve"]
   },
   {
     "school": "Shiratorizawa",
@@ -1162,7 +1190,8 @@
         "name": "Campeão Absoluto e Levantador Sólido",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "setter"]
   },
   {
     "school": "Shiratorizawa",
@@ -1192,7 +1221,8 @@
     "avatar": "/assets/img/semiSSR.png",
     "role": "S",
     "name": "Semi SSR",
-    "links": []
+    "links": [],
+    "types": ["power", "serve", "setter"]
   },
   {
     "school": "Shiratorizawa",
@@ -1233,7 +1263,8 @@
         "name": "Ushiwaka e Benkei",
         "type": "bond"
       }
-    ]
+    ],
+    "types": ["receive"]
   },
   {
     "school": "Shiratorizawa",
@@ -1263,7 +1294,8 @@
     "avatar": "/assets/img/yamagataSSR.png",
     "role": "L",
     "name": "Yamagata SSR",
-    "links": []
+    "links": [],
+    "types": ["receive"]
   },
   {
     "school": "Fukurodani",
@@ -1299,7 +1331,8 @@
         "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "serve"]
   },
   {
     "school": "Fukurodani",
@@ -1340,7 +1373,8 @@
         "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "receive"]
   },
   {
     "school": "Fukurodani",
@@ -1381,7 +1415,8 @@
         "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "setter"]
   },
   {
     "school": "Fukurodani",
@@ -1417,7 +1452,8 @@
         "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "setter"]
   },
   {
     "school": "Fukurodani",
@@ -1447,7 +1483,8 @@
     "avatar": "/assets/img/konohaSSR.png",
     "role": "OP",
     "name": "Konoha SSR",
-    "links": []
+    "links": [],
+    "types": ["receive"]
   },
   {
     "school": "Fukurodani",
@@ -1477,7 +1514,8 @@
     "avatar": "/assets/img/harukiSSR.png",
     "role": "L",
     "name": "Haruki SSR",
-    "links": []
+    "links": [],
+    "types": ["receive"]
   },
   {
     "school": "Fukurodani",
@@ -1507,7 +1545,8 @@
     "avatar": "/assets/img/tatsuoSSR.png",
     "role": "MB",
     "name": "Tatsuo SSR",
-    "links": []
+    "links": [],
+    "types": ["quick", "block"]
   },
   {
     "school": "Jozenji",
@@ -1537,7 +1576,8 @@
     "avatar": "/assets/img/terushimaSSR.png",
     "role": "WS",
     "name": "Terushima SSR",
-    "links": []
+    "links": [],
+    "types": ["power", "serve"]
   },
   {
     "school": "Inarizaki",
@@ -1578,7 +1618,8 @@
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "serve", "setter"]
   },
   {
     "school": "Inarizaki",
@@ -1619,7 +1660,8 @@
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "serve"]
   },
   {
     "school": "Inarizaki",
@@ -1655,7 +1697,8 @@
         "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive"]
   },
   {
     "school": "Inarizaki",
@@ -1685,7 +1728,8 @@
     "avatar": "/assets/img/rintaroSSR.png",
     "role": "MB",
     "name": "Rintaro SSR",
-    "links": []
+    "links": [],
+    "types": ["quick", "block"]
   },
   {
     "school": "Inarizaki",
@@ -1715,7 +1759,8 @@
     "avatar": "/assets/img/oshiroSSR.png",
     "role": "WS",
     "name": "Oshiro SSR",
-    "links": []
+    "links": [],
+    "types": ["power", "serve"]
   },
   {
     "school": "Inarizaki",
@@ -1745,7 +1790,8 @@
     "avatar": "/assets/img/akagiSSR.png",
     "role": "L",
     "name": "Akagi SSR",
-    "links": []
+    "links": [],
+    "types": ["receive"]
   },
   {
     "school": "Inarizaki",
@@ -1775,7 +1821,8 @@
     "avatar": "/assets/img/yuiSSR.png",
     "role": "WS",
     "name": "Yui SSR",
-    "links": []
+    "links": [],
+    "types": ["power", "receive"]
   },
   {
     "school": "Kamomedai",
@@ -1811,7 +1858,8 @@
         "name": "Amigos de longa data",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["power", "serve", "block", "receive"]
   },
   {
     "school": "Kamomedai",
@@ -1847,7 +1895,8 @@
         "name": "Amigos de longa data",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["serve", "block"]
   },
   {
     "school": "Itachiyama",
@@ -1883,7 +1932,8 @@
         "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "power"]
   },
   {
     "school": "Itachiyama",
@@ -1919,7 +1969,8 @@
         "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "setter"]
   },
   {
     "school": "Nekoma",
@@ -1960,7 +2011,8 @@
         "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["receive", "block"]
   },
   {
     "school": "Aoba Johsai",
@@ -1994,8 +2046,9 @@
       {
         "key": "",
         "name": "",
-        "type": "positional"
+        "type": ""
       }
-    ]
+    ],
+    "types": ["receive", "power"]
   }
 ]

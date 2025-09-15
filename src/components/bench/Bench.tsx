@@ -1,7 +1,9 @@
 import { useDroppable, useDraggable } from "@dnd-kit/core";
 import { useStore, getPlayerById } from "../../state/store";
+import { useTranslation } from "react-i18next";
 
 function BenchSlot({ index }: { index: number }) {
+  const { t } = useTranslation();
   const id = `bench:${index}`;
   const { isOver, setNodeRef } = useDroppable({ id });
   const pid = useStore((s) => s.team.bench[index] || "");
@@ -67,9 +69,9 @@ function BenchSlot({ index }: { index: number }) {
           <div className="text-xs">{player.name}</div>
         )
       ) : isOver && isPlayerBeingDragged ? (
-        <div className="text-center text-cyan-400/90">
-          <div className="text-xs font-semibold">Solte</div>
-          <div className="text-[10px] opacity-80">aqui</div>
+        <div className="text-center text-cyan-400/90 p-1">
+          <div className="text-xs font-semibold">{t("slots.drop_here")}</div>
+          <div className="text-[10px] opacity-80">{t("slots.drop_here_description")}</div>
         </div>
       ) : (
         <div className="text-xl text-white/60">+</div>
@@ -79,6 +81,7 @@ function BenchSlot({ index }: { index: number }) {
 }
 
 export function Bench() {
+  const { t } = useTranslation();
   return (
     <div className="bench-list-wrapper">
       <div className="bench-list">
@@ -86,7 +89,7 @@ export function Bench() {
           <BenchSlot key={i} index={i} />
         ))}
       </div>
-      <div className="mt-1 text-center text-sm opacity-80">Reservas</div>
+      <div className="mt-1 text-center text-sm opacity-80">{t("bench")}</div>
     </div>
   );
 }

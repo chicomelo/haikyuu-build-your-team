@@ -79,3 +79,4 @@ export function getAllBuffNames(language: string): { [slug: string]: string } {
   }
   return out;
 }
+

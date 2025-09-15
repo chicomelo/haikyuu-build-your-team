@@ -1,10 +1,12 @@
 import { useDraggable } from "@dnd-kit/core";
 import { GripVertical } from "lucide-react";
 import type { Player } from "../lib/types";
+import { useIsMobile } from "../lib/hooks/useMediaQuery";
 
 export function PlayerCard({ p, compact }: { p: Player; compact?: boolean }) {
   const { attributes, listeners, setNodeRef, transform, isDragging } =
     useDraggable({ id: `player:${p.id}` });
+  const isMobile = useIsMobile();
   const style = transform
     ? { transform: `translate3d(${transform.x}px, ${transform.y}px, 0)` }
     : ({} as React.CSSProperties);
@@ -21,18 +23,21 @@ export function PlayerCard({ p, compact }: { p: Player; compact?: boolean }) {
       className={`card cursor-grab active:cursor-grabbing select-none overflow-hidden dnd-draggable ${widthClass} ${
         isDragging ? "opacity-60" : ""
       }`}
+      {...(!isMobile ? { ...listeners, ...attributes } : {})}
       onContextMenu={(e) => e.preventDefault()}
     >
       <div className={`w-full ${aspectRatioClass} bg-neutral-800 relative`}>
-        {/* Drag handle: somente ele inicia o drag */}
-        <div
-          className="absolute top-1 left-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/40 text-white/80 hover:text-white cursor-grab active:cursor-grabbing drag-handle"
-          {...listeners}
-          {...attributes}
-          aria-label="Drag handle"
-        >
-          <GripVertical size={14} />
-        </div>
+        {/* Drag handle: apenas no mobile inicia o drag */}
+        {isMobile && (
+          <div
+            className="absolute top-1 left-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/40 text-white/80 hover:text-white cursor-grab active:cursor-grabbing drag-handle md:hidden"
+            {...listeners}
+            {...attributes}
+            aria-label="Drag handle"
+          >
+            <GripVertical size={14} />
+          </div>
+        )}
         {p.avatar ? (
           <img
             src={p.avatar}

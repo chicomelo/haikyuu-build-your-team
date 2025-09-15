@@ -7,6 +7,13 @@
     "L": "L",
     "OP": "OP"
   },
+  "player_modal": {
+    "close_aria": "Close",
+    "position": "Position",
+    "school": "School",
+    "synergies": "Synergies",
+    "abilities": "Abilities"
+  },
   "bench": "Bench",
   "roster": {
     "title": "Players",
@@ -56,5 +63,13 @@
     "WS": "WS",
     "OP": "OP",
     "L": "L"
+  },
+  "player_types": {
+    "power": "Power Attack",
+    "block": "Block",
+    "quick": "Quick Attack",
+    "receive": "Receive",
+    "serve": "Serve",
+    "setter": "Setter"
   }
 }
