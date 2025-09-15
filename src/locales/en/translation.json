@@ -7,6 +7,12 @@
     "L": "L",
     "OP": "OP"
   },
+  "filters": {
+    "position": "Position",
+    "school": "School",
+    "type": "Type",
+    "all": "All"
+  },
   "player_modal": {
     "close_aria": "Close",
     "position": "Position",

@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import rawPlayers from "../data/players.json";
-import type { Position, Team, PlayerRole, Player } from "../lib/types";
+import type { Position, Team, PlayerRole, Player, PlayerType } from "../lib/types";
 const playersInfo = rawPlayers as unknown as Player[];
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core";
 
@@ -9,6 +9,10 @@ type Store = {
   team: Team;
   selectedType: "all" | PlayerRole;
   setSelectedType: (t: Store["selectedType"]) => void;
+  selectedSchool: "all" | string;
+  setSelectedSchool: (school: Store["selectedSchool"]) => void;
+  selectedPlayerType: "all" | PlayerType;
+  setSelectedPlayerType: (ptype: Store["selectedPlayerType"]) => void;
   rosterOpen: boolean;
   openRoster: () => void;
   closeRoster: () => void;
@@ -73,6 +77,22 @@ export const useStore = create<Store>((set, get) => ({
   setSelectedType: (t) => {
     set({ selectedType: t });
     // focus roster list on change
+    setTimeout(() => {
+      const el = document.getElementById("roster-scroll");
+      if (el) el.scrollTo({ top: 0, behavior: "smooth" });
+    }, 0);
+  },
+  selectedSchool: "all",
+  setSelectedSchool: (school) => {
+    set({ selectedSchool: school });
+    setTimeout(() => {
+      const el = document.getElementById("roster-scroll");
+      if (el) el.scrollTo({ top: 0, behavior: "smooth" });
+    }, 0);
+  },
+  selectedPlayerType: "all",
+  setSelectedPlayerType: (ptype) => {
+    set({ selectedPlayerType: ptype });
     setTimeout(() => {
       const el = document.getElementById("roster-scroll");
       if (el) el.scrollTo({ top: 0, behavior: "smooth" });

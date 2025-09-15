@@ -1,4 +1,4 @@
-﻿import { ChevronUp, X } from "lucide-react";
+import { ChevronUp, X } from "lucide-react";
 
 import { useStore } from "../state/store";
 
@@ -8,35 +8,34 @@ import { useDroppable } from "@dnd-kit/core";
 
 import { useTranslation } from "react-i18next";
 import { useMemo } from "react";
+import type { PlayerType } from "../lib/types";
+import { PLAYER_TYPE_META } from "../lib/playerTypes";
 
 export function RosterBar() {
   const { t } = useTranslation();
 
   const players = useStore((s) => s.players);
-
   const team = useStore((s) => s.team);
 
-  const type = useStore((s) => s.selectedType);
-
-  const setType = useStore((s) => s.setSelectedType);
+  // Filters
+  const roleFilter = useStore((s) => s.selectedType);
+  const setRoleFilter = useStore((s) => s.setSelectedType);
+  const schoolFilter = useStore((s) => s.selectedSchool);
+  const setSchoolFilter = useStore((s) => s.setSelectedSchool);
+  const playerTypeFilter = useStore((s) => s.selectedPlayerType);
+  const setPlayerTypeFilter = useStore((s) => s.setSelectedPlayerType);
 
   const open = useStore((s) => s.rosterOpen);
-
   const close = useStore((s) => s.closeRoster);
-
   const activeDragId = useStore((s) => s.activeDragId);
-
   const openRoster = useStore((s) => s.openRoster);
 
   function toggleRoster() {
-    if (open) {
-      close();
-    } else {
-      openRoster();
-    }
+    if (open) close();
+    else openRoster();
   }
 
-  // Criar um conjunto com os IDs dos jogadores já posicionados (memoizado)
+  // Set of player IDs already placed (memoized)
   const positionedPlayers = useMemo(() => {
     return new Set([
       ...(Object.values(team.slots).filter(Boolean) as string[]),
@@ -44,24 +43,37 @@ export function RosterBar() {
     ]);
   }, [team]);
 
-  // Filtrar jogadores por tipo e remover os que já estão posicionados (memoizado)
+  // Dropdown data
+  const schools = useMemo(() => {
+    const set = new Set<string>();
+    for (const p of players) if (p.school) set.add(p.school);
+    return Array.from(set).sort((a, b) => a.localeCompare(b));
+  }, [players]);
+
+  const allPlayerTypes = useMemo(() => {
+    const set = new Set<PlayerType>();
+    for (const p of players) for (const tp of p.types || []) set.add(tp);
+    return Array.from(set);
+  }, [players]);
+
+  // Filter players and remove those already positioned (memoized)
   const filtered = useMemo(
     () =>
       players.filter(
         (p) =>
-          (type === "all" || p.role === type) && !positionedPlayers.has(p.id)
+          (roleFilter === "all" || p.role === roleFilter) &&
+          (schoolFilter === "all" || (p.school && p.school === schoolFilter)) &&
+          (playerTypeFilter === "all" ||
+            (p.types || []).includes(playerTypeFilter)) &&
+          !positionedPlayers.has(p.id)
       ),
-    [players, type, positionedPlayers]
+    [players, roleFilter, schoolFilter, playerTypeFilter, positionedPlayers]
   );
 
-  // Configurar droppable para a lista de jogadores// Configurar droppable para a lista de jogadores
+  // Droppable config for the players list
+  const { isOver, setNodeRef } = useDroppable({ id: "roster-list" });
 
-  const { isOver, setNodeRef } = useDroppable({
-    id: "roster-list",
-  });
-
-  // Verificar se hÃ¡ um jogador sendo arrastado (para mostrar mensagem de remoÃ§Ã£o)
-
+  // Show remove hint when dragging a player
   const isPlayerBeingDragged =
     activeDragId && activeDragId.startsWith("player:");
   const containerClasses = [
@@ -93,18 +105,54 @@ export function RosterBar() {
 
       <div className="mx-auto max-w-[1600px] px-4 py-3 h-[220px] md:h-[240px] 2xl:h-[260px] flex flex-col">
         <div className="flex items-center gap-2 mb-2 flex-shrink-0 relative">
-          <div className="flex gap-2 text-xs">
-            {(["All", "S", "MB", "WS", "OP", "L"] as const).map((t) => (
-              <button
-                key={t}
-                className={`filter-btn ${
-                  type === t ? "filter-btn-active" : "filter-btn-inactive"
-                }`}
-                onClick={() => setType(t)}
-              >
-                {t}
-              </button>
-            ))}
+          <div className="flex gap-2 text-xs w-full md:w-auto">
+            {/* Position */}
+            <select
+              className="filter-btn bg-transparent"
+              value={roleFilter}
+              onChange={(e) => setRoleFilter(e.target.value as any)}
+              aria-label={t("filters.position") || "Position"}
+            >
+              {(["all", "S", "MB", "WS", "OP", "L"] as const).map((tkey) => (
+                <option key={tkey} value={tkey} className="bg-zinc-800">
+                  {tkey === "all" ? t("filters.all") : tkey}
+                </option>
+              ))}
+            </select>
+
+            {/* School */}
+            <select
+              className="filter-btn bg-transparent"
+              value={schoolFilter}
+              onChange={(e) => setSchoolFilter(e.target.value as any)}
+              aria-label={t("filters.school") || "School"}
+            >
+              <option value="all" className="bg-neutral-900">
+                {t("filters.all")}
+              </option>
+              {schools.map((s) => (
+                <option key={s} value={s} className="bg-neutral-900">
+                  {s}
+                </option>
+              ))}
+            </select>
+
+            {/* Player Type */}
+            <select
+              className="filter-btn bg-transparent"
+              value={playerTypeFilter}
+              onChange={(e) => setPlayerTypeFilter(e.target.value as any)}
+              aria-label={t("filters.type") || "Type"}
+            >
+              <option value="all" className="bg-neutral-900">
+                {t("filters.all")}
+              </option>
+              {allPlayerTypes.map((pt) => (
+                <option key={pt} value={pt} className="bg-neutral-900">
+                  {t(PLAYER_TYPE_META[pt].labelKey)}
+                </option>
+              ))}
+            </select>
           </div>
 
           <div className="ml-auto flex items-center gap-2">
@@ -130,7 +178,6 @@ export function RosterBar() {
                 <div className="text-lg font-semibold mb-2">
                   {t("roster.drag_here_to_remove")}
                 </div>
-
                 <div className="text-sm opacity-80">
                   {t("roster.no_players_available_description_1")}
                 </div>

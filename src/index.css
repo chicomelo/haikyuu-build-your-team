@@ -66,7 +66,8 @@ body::before {
   @apply rounded-lg border border-white/10 bg-white/5 backdrop-blur;
 }
 .filter-btn {
-  @apply rounded-md border px-3 py-1 text-xs font-medium transition-colors cursor-pointer;
+  @apply rounded-md border border-white/10 px-3 py-1 text-xs font-medium transition-colors cursor-pointer;
+  outline: none;
 }
 .filter-btn-active {
   @apply bg-cyan-500/20 border-cyan-400/50 text-cyan-200;
