@@ -4,7 +4,12 @@ import {
   DragOverlay,
   pointerWithin,
   rectIntersection,
+  useSensor,
+  useSensors,
+  PointerSensor,
+  TouchSensor,
 } from "@dnd-kit/core";
+import { useIsMobile } from "./lib/hooks/useMediaQuery";
 import { CourtView } from "./components/CourtView";
 import { RosterBar } from "./components/RosterBar";
 import { TeamHeader } from "./components/TeamHeader";
@@ -64,10 +69,29 @@ function App() {
     saveTeam(team, rotationLabels);
   }, [team, rotationLabels]);
 
+  const isMobile = useIsMobile();
+  const sensors = isMobile
+    ? useSensors(
+        useSensor(TouchSensor, {
+          activationConstraint: {
+            delay: 160,
+            tolerance: 8,
+          },
+        })
+      )
+    : useSensors(
+        useSensor(PointerSensor, {
+          activationConstraint: {
+            distance: 4,
+          },
+        })
+      );
+
   return (
     <div className="min-h-dvh flex flex-col">
       <TeamHeader />
       <DndContext
+        sensors={sensors}
         onDragEnd={onDragEnd}
         onDragStart={onDragStart}
         onDragCancel={onDragCancel}

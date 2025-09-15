@@ -2,6 +2,26 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Improve mobile DnD behavior */
+.dnd-draggable {
+  touch-action: auto;
+  -webkit-user-drag: none;
+  -webkit-touch-callout: none;
+}
+.dnd-draggable img {
+  -webkit-user-drag: none;
+}
+
+/* Allow vertical scroll in roster list on touch */
+#roster-scroll {
+  touch-action: pan-y;
+}
+
+/* Drag handle should capture touch for drag */
+.drag-handle {
+  touch-action: none;
+}
+
 html,
 body,
 #root {
@@ -90,8 +110,8 @@ body::before {
   @apply absolute mx-10;
   height: fit-content;
   top: auto;
-  bottom: 2.2rem;
-  left: 0%;
+  bottom: 3.4rem;
+  left: 4%;
 }
 
 .bench-list {
@@ -100,8 +120,8 @@ body::before {
 
 .bench-card {
   @apply rounded-md border;
-  width: 3rem;
-  height: calc(3rem * 1.408);
+  width: 2.6rem;
+  height: calc(2.6rem * 1.408);
   aspect-ratio: 71 / 100;
 }
 
@@ -164,31 +184,31 @@ body::before {
 
 .slot-card-wrapper .slot-card:nth-child(1) {
   left: 16%;
-  top: 12%;
+  top: 11%;
 }
 .slot-card-wrapper .slot-card:nth-child(2) {
   left: 40%;
-  top: 12%;
+  top: 11%;
 }
 .slot-card-wrapper .slot-card:nth-child(3) {
   left: 64%;
-  top: 12%;
+  top: 11%;
 }
 .slot-card-wrapper .slot-card:nth-child(4) {
   left: 4%;
-  top: 36%;
+  top: 34%;
 }
 .slot-card-wrapper .slot-card:nth-child(5) {
   left: 28%;
-  top: 36%;
+  top: 34%;
 }
 .slot-card-wrapper .slot-card:nth-child(6) {
   left: 52%;
-  top: 36%;
+  top: 34%;
 }
 .slot-card-wrapper .slot-card:nth-child(7) {
   left: 76%;
-  top: 36%;
+  top: 34%;
 }
 
 @media (min-width: 769px) {

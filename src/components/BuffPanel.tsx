@@ -5,6 +5,7 @@ import { fixMojibake } from "../lib/textFix";
 import { useState } from "react";
 import { X, ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
+import { useIsMobile } from "../lib/hooks/useMediaQuery";
 
 export function BuffPanel() {
   const { t, i18n } = useTranslation();
@@ -105,6 +106,8 @@ function BuffButton({
   onToggle: () => void;
 }) {
   const { t } = useTranslation();
+  const isMobile = useIsMobile();
+  const open = isMobile ? true : isOpen;
   const description = fixMojibake(buff.desc || t("buffs.no_description"));
 
   return (
@@ -121,7 +124,7 @@ function BuffButton({
         {fixMojibake(buff.name)}
       </button>
 
-      {isOpen && (
+      {open && (
         <div
           className="pl-4 md:absolute md:left-16 md:transform md:-translate-x-1/2 md:bottom-full md:mb-2 md:w-64 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
           style={{
@@ -148,4 +151,3 @@ function BuffButton({
     </div>
   );
 }
-

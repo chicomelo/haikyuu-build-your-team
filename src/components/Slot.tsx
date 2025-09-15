@@ -2,6 +2,7 @@
 import type { Position } from "../lib/types";
 import { getPlayerById, useStore } from "../state/store";
 import { useTranslation } from "react-i18next";
+import { GripVertical } from "lucide-react";
 
 type Props = { pos: Position; label?: string };
 
@@ -62,11 +63,13 @@ export function Slot({ pos, label }: Props) {
         }}
         ref={player && !isDragging ? setDragRef : undefined}
         {...(player && !isDragging ? { ...listeners, ...attributes } : {})}
+        onContextMenu={(e) => e.preventDefault()}
         style={{
           ...(player && !isDragging ? dragStyle : undefined),
           aspectRatio: "71/100",
+          touchAction: "none",
         }}
-        className={`w-20 md:w-24 2xl:w-36 rounded-lg border-2 grid place-items-center bg-black/30 backdrop-blur-sm overflow-hidden ${
+        className={`w-20 md:w-24 2xl:w-36 rounded-lg border-2 grid place-items-center bg-black/30 backdrop-blur-sm overflow-hidden dnd-draggable ${
           isOver && isPlayerBeingDragged && isSlotValidForPlayer
             ? "border-cyan-400 bg-cyan-900/20"
             : isOver && isPlayerBeingDragged && !isSlotValidForPlayer
@@ -81,6 +84,9 @@ export function Slot({ pos, label }: Props) {
       >
         {player && !isDragging ? (
           <div className="w-full h-full relative">
+            <div className="md:hidden absolute top-1 left-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/40 text-white/80">
+              <GripVertical size={14} />
+            </div>
             {player.avatar ? (
               <img
                 src={player.avatar}
