@@ -599,7 +599,8 @@
     "avatar": "/assets/img/kurooSSR.png",
     "role": "MB",
     "name": "Kuroo SSR",
-    "links": []
+    "links": [],
+    "types": ["quick", "block"]
   },
   {
     "school": "Nekoma",
@@ -635,7 +636,8 @@
         "name": "Cérebro e Comandante",
         "type": "positional"
       }
-    ]
+    ],
+    "types": ["quick", "block"]
   },
   {
     "school": "Nekoma",

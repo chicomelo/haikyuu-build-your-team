@@ -1,4 +1,3 @@
-import { resources } from "../i18n";
 import type { Ability } from "./types";
 
 // Optional per-language overrides, keyed by ability id

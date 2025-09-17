@@ -78,7 +78,9 @@ export function TeamHeader() {
       window.location.href = targetPath + search + hash;
     } else {
       // PT-BR: remover prefixo /en se existir
-      const targetPath = isEN ? pathname.replace(/^\/en/, "") || "/" : pathname || "/";
+      const targetPath = isEN
+        ? pathname.replace(/^\/en/, "") || "/"
+        : pathname || "/";
       window.location.href = targetPath + search + hash;
     }
   };
@@ -86,16 +88,16 @@ export function TeamHeader() {
   return (
     <header className="sticky top-0 z-20 border-b border-white/10 bg-neutral-950/90 backdrop-blur">
       <div className="mx-auto max-w-[1600px] px-4 h-16 md:h-14 flex items-center gap-3">
-        <div className="font-semibold flex items-center gap-2">
+        <h1 className="font-semibold flex items-center gap-2">
           <img src={logo} alt="Haikyu Fly High" className="h-6 inline" />
           <span className="hidden md:inline">
-            Haikyu Fly High - Build your Team
+            Haikyu Fly High — Team Builder
           </span>
           <span className="md:hidden">
             Haikyu Fly High <br />
-            Build your Team
+            Team Builder
           </span>
-        </div>
+        </h1>
         <div className="ml-auto flex items-center gap-2">
           {/* Idioma sempre visível aqui por enquanto */}
           <div className="relative" ref={dropdownRef}>

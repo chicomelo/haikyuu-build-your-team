@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
-import { X, Info } from "lucide-react";
+import { X } from "lucide-react";
 import { useStore, getPlayerById } from "../state/store";
-import type { Player } from "../lib/types";
+
 import { PLAYER_TYPE_META } from "../lib/playerTypes";
 import { getTranslatedBuffName } from "../lib/buffTranslations";
 import { getAbilityText } from "../lib/abilityTranslations";
@@ -75,7 +75,7 @@ export function PlayerInfoModal() {
                     </div>
                   )}
 
-                  {p.links[0]?.name && (
+                  {p.links?.[0]?.name && (
                     <>
                       <div>
                         <div className="opacity-70">

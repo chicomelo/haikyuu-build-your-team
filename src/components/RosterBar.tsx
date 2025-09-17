@@ -105,54 +105,72 @@ export function RosterBar() {
 
       <div className="mx-auto max-w-[1600px] px-4 py-3 h-[220px] md:h-[240px] 2xl:h-[260px] flex flex-col">
         <div className="flex items-center gap-2 mb-2 flex-shrink-0 relative">
-          <div className="flex gap-2 text-xs w-full md:w-auto">
+          <div className="flex gap-4 text-xs w-full md:w-auto">
             {/* Position */}
-            <select
-              className="filter-btn bg-transparent"
-              value={roleFilter}
-              onChange={(e) => setRoleFilter(e.target.value as any)}
-              aria-label={t("filters.position") || "Position"}
-            >
-              {(["all", "S", "MB", "WS", "OP", "L"] as const).map((tkey) => (
-                <option key={tkey} value={tkey} className="bg-zinc-800">
-                  {tkey === "all" ? t("filters.all") : tkey}
-                </option>
-              ))}
-            </select>
+            <div className="flex flex-col md:items-center md:flex-row gap-2">
+              <label htmlFor="position-filter" className="text-zinc-400">
+                Posições
+              </label>
+              <select
+                id="position-filter"
+                className="filter-btn bg-transparent"
+                value={roleFilter}
+                onChange={(e) => setRoleFilter(e.target.value as any)}
+                aria-label={t("filters.position") || "Position"}
+              >
+                {(["all", "S", "MB", "WS", "OP", "L"] as const).map((tkey) => (
+                  <option key={tkey} value={tkey} className="bg-zinc-800">
+                    {tkey === "all" ? t("filters.all") : tkey}
+                  </option>
+                ))}
+              </select>
+            </div>
 
             {/* School */}
-            <select
-              className="filter-btn bg-transparent"
-              value={schoolFilter}
-              onChange={(e) => setSchoolFilter(e.target.value as any)}
-              aria-label={t("filters.school") || "School"}
-            >
-              <option value="all" className="bg-neutral-900">
-                {t("filters.all")}
-              </option>
-              {schools.map((s) => (
-                <option key={s} value={s} className="bg-neutral-900">
-                  {s}
+            <div className="flex flex-col md:items-center md:flex-row gap-2">
+              <label htmlFor="school-filter" className="text-zinc-400">
+                Escola
+              </label>
+              <select
+                id="school-filter"
+                className="filter-btn bg-transparent"
+                value={schoolFilter}
+                onChange={(e) => setSchoolFilter(e.target.value as any)}
+                aria-label={t("filters.school") || "School"}
+              >
+                <option value="all" className="bg-neutral-900">
+                  {t("filters.all")}
                 </option>
-              ))}
-            </select>
+                {schools.map((s) => (
+                  <option key={s} value={s} className="bg-neutral-900">
+                    {s}
+                  </option>
+                ))}
+              </select>
+            </div>
 
             {/* Player Type */}
-            <select
-              className="filter-btn bg-transparent"
-              value={playerTypeFilter}
-              onChange={(e) => setPlayerTypeFilter(e.target.value as any)}
-              aria-label={t("filters.type") || "Type"}
-            >
-              <option value="all" className="bg-neutral-900">
-                {t("filters.all")}
-              </option>
-              {allPlayerTypes.map((pt) => (
-                <option key={pt} value={pt} className="bg-neutral-900">
-                  {t(PLAYER_TYPE_META[pt].labelKey)}
+            <div className="flex flex-col md:items-center md:flex-row gap-2">
+              <label htmlFor="player-type-filter" className="text-zinc-400">
+                Tipo de Jogador
+              </label>
+              <select
+                id="player-type-filter"
+                className="filter-btn bg-transparent"
+                value={playerTypeFilter}
+                onChange={(e) => setPlayerTypeFilter(e.target.value as any)}
+                aria-label={t("filters.type") || "Type"}
+              >
+                <option value="all" className="bg-neutral-900">
+                  {t("filters.all_types")}
                 </option>
-              ))}
-            </select>
+                {allPlayerTypes.map((pt) => (
+                  <option key={pt} value={pt} className="bg-neutral-900">
+                    {t(PLAYER_TYPE_META[pt].labelKey)}
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
 
           <div className="ml-auto flex items-center gap-2">
@@ -163,7 +181,7 @@ export function RosterBar() {
             )}
 
             <button
-              className="btn text-white/60 hover:text-white"
+              className="btn text-white/60 hover:text-white hidden md:block"
               onClick={close}
             >
               <X size={20} />

@@ -25,8 +25,10 @@ export function TeamManager() {
   useEffect(() => {
     const loadSavedTeams = () => {
       try {
-        const saved = localStorage.getItem("savedTeams");        if (saved) {
-          const parsedTeams = JSON.parse(saved);          setSavedTeams(parsedTeams);
+        const saved = localStorage.getItem("savedTeams");
+        if (saved) {
+          const parsedTeams = JSON.parse(saved);
+          setSavedTeams(parsedTeams);
         }
       } catch (e) {
         console.error("Erro ao carregar times salvos:", e);
@@ -52,14 +54,16 @@ export function TeamManager() {
   }, []);
 
   // Salvar times no localStorage sempre que o estado mudar
-  useEffect(() => {    try {
+  useEffect(() => {
+    try {
       // Verificar se há times para salvar
       if (savedTeams.length > 0) {
         localStorage.setItem("savedTeams", JSON.stringify(savedTeams));
         // Verificar se foram realmente salvos
       } else {
         // Se não há times, remover a chave do localStorage
-        localStorage.removeItem("savedTeams");      }
+        localStorage.removeItem("savedTeams");
+      }
     } catch (e) {
       console.error("Erro ao salvar times no localStorage:", e);
     }
@@ -91,7 +95,8 @@ export function TeamManager() {
       team: JSON.parse(JSON.stringify(team)), // Deep copy do time atual
       rotationLabels: JSON.parse(JSON.stringify(rotationLabels)), // Deep copy dos rotationLabels
       createdAt: Date.now(),
-    };    const updatedTeams = [...savedTeams, newTeam];
+    };
+    const updatedTeams = [...savedTeams, newTeam];
     setSavedTeams(updatedTeams);
     setTeamName("");
     setShowSaveModal(false);
@@ -118,9 +123,9 @@ export function TeamManager() {
         id="tm-open-save"
         className="btn items-center gap-2 hidden md:inline-flex"
         onClick={() => setShowSaveModal(true)}
+        title={t("buttons.save")}
       >
         <Save size={16} />
-        {t("buttons.save")}
       </button>
 
       {/* Botão de Carregar */}
@@ -128,9 +133,9 @@ export function TeamManager() {
         id="tm-open-load"
         className="btn items-center gap-2 hidden md:inline-flex"
         onClick={() => setShowLoadModal(true)}
+        title={t("buttons.load")}
       >
         <FolderOpen size={16} />
-        {t("buttons.load")}
       </button>
 
       {/* Modal de Salvar */}
@@ -258,4 +263,3 @@ export function TeamManager() {
     </div>
   );
 }
-
