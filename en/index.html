@@ -4,6 +4,13 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Preconnect for analytics -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+    <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+    <!-- Theme color for mobile UI -->
+    <meta name="theme-color" content="#0f1218" />
     <title>Haikyu Fly High — Team Builder</title>
     <meta
       name="description"
@@ -22,6 +29,8 @@
       property="og:description"
       content="Build, organize, and share your Haikyu Fly High lineup with synergies and rotations."
     />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale:alternate" content="pt_BR" />
     <meta property="og:image" content="https://flyhighbuilder.com/og.png" />
     <meta property="og:image:alt" content="Haikyu Fly High preview" />
     <meta property="og:image:width" content="1200" />
@@ -35,6 +44,9 @@
       content="Build, organize, and share your Haikyu Fly High lineup with synergies and rotations."
     />
     <meta name="twitter:image" content="https://flyhighbuilder.com/og.png" />
+    <!-- Optional: set site/creator handles (adjust if needed) -->
+    <meta name="twitter:site" content="@flyhighbuilder" />
+    <meta name="twitter:creator" content="@flyhighbuilder" />
 
     <!-- Hreflang (PT-BR e EN) -->
     <link rel="alternate" href="https://flyhighbuilder.com/" hreflang="pt-BR" />
@@ -44,6 +56,21 @@
       href="https://flyhighbuilder.com/"
       hreflang="x-default"
     />
+
+    <!-- JSON-LD: WebApplication (en) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Haikyu Fly High — Team Builder",
+        "url": "https://flyhighbuilder.com/en",
+        "applicationCategory": "GameApplication",
+        "operatingSystem": "Any",
+        "inLanguage": "en",
+        "description": "Build, organize, and share your Haikyu Fly High lineup with synergies and rotations.",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+      }
+    </script>
 
     <!-- Google tag (gtag.js) -->
     <script
@@ -65,4 +92,3 @@
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
-

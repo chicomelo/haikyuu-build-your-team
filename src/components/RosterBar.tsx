@@ -109,7 +109,7 @@ export function RosterBar() {
             {/* Position */}
             <div className="flex flex-col md:items-center md:flex-row gap-2">
               <label htmlFor="position-filter" className="text-zinc-400">
-                Posições
+                {t("filters.position")}
               </label>
               <select
                 id="position-filter"
@@ -129,7 +129,7 @@ export function RosterBar() {
             {/* School */}
             <div className="flex flex-col md:items-center md:flex-row gap-2">
               <label htmlFor="school-filter" className="text-zinc-400">
-                Escola
+                {t("filters.school")}
               </label>
               <select
                 id="school-filter"
@@ -152,7 +152,7 @@ export function RosterBar() {
             {/* Player Type */}
             <div className="flex flex-col md:items-center md:flex-row gap-2">
               <label htmlFor="player-type-filter" className="text-zinc-400">
-                Tipo de Jogador
+                {t("filters.player_type")}
               </label>
               <select
                 id="player-type-filter"

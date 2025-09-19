@@ -12,7 +12,8 @@
     "school": "Escola",
     "type": "Tipo",
     "all": "Todas",
-    "all_types": "Todos"
+    "all_types": "Todos",
+    "player_type": "Tipo de Jogador"
   },
   "player_modal": {
     "close_aria": "Fechar",

@@ -12,7 +12,8 @@
     "school": "School",
     "type": "Type",
     "all": "All",
-    "all_types": "All"
+    "all_types": "All",
+    "player_type": "Player Type"
   },
   "player_modal": {
     "close_aria": "Close",

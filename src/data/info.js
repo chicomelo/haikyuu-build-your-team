@@ -1,4 +1,4 @@
-const characters = [
+export const characters = [
   {
     nome: "Kageyama UR",
     data: "01/12/26",
@@ -2148,6 +2148,8 @@ const characters = [
     symbols: ["img/receivesymbol.png", "img/powersymbol.png"],
   },
 ];
+
+export default characters;
 
 const descricoesSinergia = {
   Karasuno:
