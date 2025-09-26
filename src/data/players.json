@@ -1,6 +1,42 @@
 [
   {
     "school": "Karasuno",
+    "id": "hinata-sp",
+    "abilities": [
+      {
+        "id": "hinata-sp.a1"
+      },
+      {
+        "id": "hinata-sp.a2"
+      },
+      {
+        "id": "hinata-sp.a3"
+      },
+      {
+        "id": "hinata-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/hinataSP.png",
+    "role": "MB",
+    "name": "Hinata SP",
+    "links": [
+      {
+        "key": "dupla-excentrica",
+        "type": "positional"
+      },
+      {
+        "key": "observacao-de-flores-de-cerejeira",
+        "type": "positional"
+      },
+      {
+        "key": "sol-vs-lua",
+        "type": "positional"
+      }
+    ],
+    "types": ["quick", "receive"]
+  },
+  {
+    "school": "Karasuno",
     "id": "kageyama-ur",
     "abilities": [
       {
@@ -22,12 +58,10 @@
     "links": [
       {
         "key": "dupla-excentrica",
-        "name": "Dupla Excêntrica",
         "type": "positional"
       },
       {
         "key": "genios-karasuno",
-        "name": "Gênios Karasuno",
         "type": "positional"
       }
     ],
@@ -58,45 +92,6 @@
   },
   {
     "school": "Karasuno",
-    "id": "hinata-sp",
-    "abilities": [
-      {
-        "id": "hinata-sp.a1"
-      },
-      {
-        "id": "hinata-sp.a2"
-      },
-      {
-        "id": "hinata-sp.a3"
-      },
-      {
-        "id": "hinata-sp.a4"
-      }
-    ],
-    "avatar": "/assets/img/hinataSP.png",
-    "role": "MB",
-    "name": "Hinata SP",
-    "links": [
-      {
-        "key": "dupla-excentrica",
-        "name": "Dupla Excêntrica",
-        "type": "positional"
-      },
-      {
-        "key": "observacao-de-flores-de-cerejeira",
-        "name": "Observação de flores de cerejeira",
-        "type": "positional"
-      },
-      {
-        "key": "sol-vs-lua",
-        "name": "Sol vs Lua",
-        "type": "positional"
-      }
-    ],
-    "types": ["quick", "receive"]
-  },
-  {
-    "school": "Karasuno",
     "id": "hinata-ssr",
     "abilities": [
       {
@@ -118,7 +113,6 @@
     "links": [
       {
         "key": "dupla-excentrica",
-        "name": "Dupla Excêntrica",
         "type": "positional"
       }
     ],
@@ -147,12 +141,10 @@
     "links": [
       {
         "key": "genios-karasuno",
-        "name": "Gênios Karasuno",
         "type": "positional"
       },
       {
         "key": "depois-da-escola",
-        "name": "Depois da Escola",
         "type": "positional"
       }
     ],
@@ -181,12 +173,10 @@
     "links": [
       {
         "key": "deus-guardiao-e-ponta",
-        "name": "Deus Guardião e Ponta",
         "type": "positional"
       },
       {
         "key": "esquadrao-de-kiyoko",
-        "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
     ],
@@ -215,7 +205,6 @@
     "links": [
       {
         "key": "esquadrao-de-kiyoko",
-        "name": "Esquadrão de Kiyoko",
         "type": "positional"
       }
     ],
@@ -244,12 +233,10 @@
     "links": [
       {
         "key": "sol-vs-lua",
-        "name": "Sol vs Lua",
         "type": "positional"
       },
       {
         "key": "festival-fogos-de-artificio",
-        "name": "Festival Fogos de Artificio",
         "type": "positional"
       }
     ],
@@ -324,7 +311,6 @@
     "links": [
       {
         "key": "deus-guardiao-e-ponta",
-        "name": "Deus Guardião e Ponta",
         "type": "positional"
       }
     ],
@@ -353,7 +339,6 @@
     "links": [
       {
         "key": "depois-da-escola",
-        "name": "Depois da Escola",
         "type": "positional"
       }
     ],
@@ -382,12 +367,10 @@
     "links": [
       {
         "key": "observacao-de-flores-de-cerejeira",
-        "name": "Observação de flores de cerejeira",
         "type": "positional"
       },
       {
         "key": "cerebro-e-comandante-sp",
-        "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
     ],
@@ -416,7 +399,6 @@
     "links": [
       {
         "key": "cerebro-e-comandante",
-        "name": "Cérebro e Comandante",
         "type": "positional"
       }
     ],
@@ -445,7 +427,6 @@
     "links": [
       {
         "key": "orientacao-educacional",
-        "name": "Orientação Educacional",
         "type": "positional"
       }
     ],
@@ -497,7 +478,6 @@
     "links": [
       {
         "key": "cerebro-e-comandante",
-        "name": "Cérebro e Comandante",
         "type": "positional"
       }
     ],
@@ -526,7 +506,6 @@
     "links": [
       {
         "key": "orientacao-educacional",
-        "name": "Orientação Educacional",
         "type": "positional"
       }
     ],
@@ -555,7 +534,6 @@
     "links": [
       {
         "key": "natacao",
-        "name": "Natação",
         "type": "positional"
       }
     ],
@@ -584,7 +562,6 @@
     "links": [
       {
         "key": "o-silencioso-e-o-sarcastico",
-        "name": "O Silencioso e o Sarcástico",
         "type": "positional"
       }
     ],
@@ -613,12 +590,10 @@
     "links": [
       {
         "key": "o-silencioso-e-o-sarcastico",
-        "name": "O Silencioso e o Sarcástico",
         "type": "positional"
       },
       {
         "key": "o-novo-capitao-e-o-novato-altao",
-        "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
     ],
@@ -670,7 +645,6 @@
     "links": [
       {
         "key": "o-novo-capitao-e-o-novato-altao",
-        "name": "O Novo Capitão e o Novato Altão",
         "type": "positional"
       }
     ],
@@ -699,12 +673,10 @@
     "links": [
       {
         "key": "harmonia-perfeita",
-        "name": "Harmonia Perfeita",
         "type": "positional"
       },
       {
         "key": "rivais-de-longa-data",
-        "name": "Rivais de longa data",
         "type": "bond"
       }
     ],
@@ -756,12 +728,10 @@
     "links": [
       {
         "key": "harmonia-perfeita",
-        "name": "Harmonia Perfeita",
         "type": "positional"
       },
       {
         "key": "a-matilha",
-        "name": "A Matilha",
         "type": "positional"
       }
     ],
@@ -790,7 +760,6 @@
     "links": [
       {
         "key": "a-matilha",
-        "name": "A Matilha",
         "type": "positional"
       }
     ],
@@ -825,27 +794,22 @@
     "links": [
       {
         "key": "bests-para-a-vida",
-        "name": "Bests para a vida",
         "type": "positional"
       },
       {
         "key": "campeao-absoluto-e-levantador-solido",
-        "name": "Campeão Absoluto e Levantador Sólido",
         "type": "positional"
       },
       {
         "key": "ace-incontestavel-e-ace",
-        "name": "Ace Incontestável e Ace",
         "type": "bond"
       },
       {
         "key": "ushiwaka-e-benkei",
-        "name": "Ushiwaka e Benkei",
         "type": "bond"
       },
       {
         "key": "rivais-de-longa-data",
-        "name": "Rivais de longa data",
         "type": "bond"
       }
     ],
@@ -874,7 +838,6 @@
     "links": [
       {
         "key": "bests-para-a-vida",
-        "name": "Bests para a vida",
         "type": "positional"
       }
     ],
@@ -903,12 +866,10 @@
     "links": [
       {
         "key": "ws-de-shiratorizawa",
-        "name": "WS de Shiratorizawa",
         "type": "positional"
       },
       {
         "key": "ace-incontestavel-e-ace",
-        "name": "Ace Incontestável e Ace",
         "type": "bond"
       }
     ],
@@ -937,7 +898,6 @@
     "links": [
       {
         "key": "campeao-absoluto-e-levantador-solido",
-        "name": "Campeão Absoluto e Levantador Sólido",
         "type": "positional"
       }
     ],
@@ -989,12 +949,10 @@
     "links": [
       {
         "key": "ws-de-shiratorizawa",
-        "name": "WS de Shiratorizawa",
         "type": "positional"
       },
       {
         "key": "ushiwaka-e-benkei",
-        "name": "Ushiwaka e Benkei",
         "type": "bond"
       }
     ],
@@ -1046,7 +1004,6 @@
     "links": [
       {
         "key": "as-milagroso-e-levantador-carinhoso",
-        "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
     ],
@@ -1075,12 +1032,10 @@
     "links": [
       {
         "key": "natacao",
-        "name": "Natação",
         "type": "positional"
       },
       {
         "key": "ace-milagroso-e-levantador-carinhoso",
-        "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
     ],
@@ -1109,12 +1064,10 @@
     "links": [
       {
         "key": "natacao",
-        "name": "Natação",
         "type": "positional"
       },
       {
         "key": "ace-milagroso-e-levantador-carinhoso",
-        "name": "Ace Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
     ],
@@ -1143,7 +1096,6 @@
     "links": [
       {
         "key": "as-milagroso-e-levantador-carinhoso",
-        "name": "Ás Milagroso e Levantador Carinhoso",
         "type": "positional"
       }
     ],
@@ -1264,12 +1216,10 @@
     "links": [
       {
         "key": "a-forca-dos-gemeos",
-        "name": "A força dos Gêmeos",
         "type": "positional"
       },
       {
         "key": "cabeca-dos-gemeos",
-        "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
     ],
@@ -1298,12 +1248,10 @@
     "links": [
       {
         "key": "a-forca-dos-gemeos",
-        "name": "A força dos Gêmeos",
         "type": "positional"
       },
       {
         "key": "cabeca-dos-gemeos",
-        "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
     ],
@@ -1332,7 +1280,6 @@
     "links": [
       {
         "key": "cabeca-dos-gemeos",
-        "name": "Cabeça dos Gêmeos",
         "type": "positional"
       }
     ],
@@ -1453,7 +1400,6 @@
     "links": [
       {
         "key": "amigos-de-longa-data",
-        "name": "Amigos de longa data",
         "type": "positional"
       }
     ],
@@ -1482,7 +1428,6 @@
     "links": [
       {
         "key": "amigos-de-longa-data",
-        "name": "Amigos de longa data",
         "type": "positional"
       }
     ],
@@ -1511,7 +1456,6 @@
     "links": [
       {
         "key": "top-spiker-e-top-libero",
-        "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
     ],
@@ -1540,7 +1484,6 @@
     "links": [
       {
         "key": "top-spiker-e-top-libero",
-        "name": "Top Spiker e Top Libero",
         "type": "positional"
       }
     ],
@@ -1569,12 +1512,10 @@
     "links": [
       {
         "key": "festival-fogos-de-artificio",
-        "name": "Festival Fogos de Artificio",
         "type": "positional"
       },
       {
         "key": "cerebro-e-comandante-sp",
-        "name": "Cérebro e Comandante SP",
         "type": "positional"
       }
     ],

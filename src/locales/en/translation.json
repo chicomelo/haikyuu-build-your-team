@@ -1,4 +1,4 @@
-{
+﻿{
   "app_title": "Haikyu Fly High - Build your Team",
   "court_positions": {
     "S": "S",
@@ -20,7 +20,9 @@
     "position": "Position",
     "school": "School",
     "synergies": "Synergies",
-    "abilities": "Abilities"
+    "abilities": "Abilities",
+      "skill_resonances": "Skill Resonances",
+      "required_skill_level": "Required Skill Level: {{level}}"
   },
   "bench": "Bench",
   "roster": {

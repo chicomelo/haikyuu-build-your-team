@@ -111,13 +111,17 @@ export function Slot({ pos, label }: Props) {
             >
               <Info size={14} />
             </button>
-            <div className="absolute bottom-0 left-0 right-0 text-sm w-full bg-black/70 py-1 h-[30px] flex items-center justify-center">
-              <div className="font-semibold leading-none">{player.name}</div>
+            <div className="absolute bottom-0 left-0 w-full bg-black/70 py-0 md:py-1 flex items-center justify-center">
+              <div className="font-semibold text-xs leading-4">
+                {player.name}
+              </div>
             </div>
           </div>
         ) : isOver && isPlayerBeingDragged && isSlotValidForPlayer ? (
           <div className="text-center text-cyan-400/90 p-2">
-            <div className="font-semibold text-sm">{t("slots.drop_here")}</div>
+            <div className="font-semibold text-xs md:text-sm">
+              {t("slots.drop_here")}
+            </div>
             <div className="text-xs opacity-80">
               {t("slots.drop_here_description")}
             </div>

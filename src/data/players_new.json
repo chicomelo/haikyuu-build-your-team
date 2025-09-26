@@ -1,0 +1,3298 @@
+[
+  {
+    "school": "Fukurodani",
+    "id": "akaashi-sp",
+    "abilities": [
+      {
+        "id": "akaashi-sp.a1"
+      },
+      {
+        "id": "akaashi-sp.a2"
+      },
+      {
+        "id": "akaashi-sp.a3"
+      },
+      {
+        "id": "akaashi-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/akaashiSP.png",
+    "role": "S",
+    "name": "Akaashi SP",
+    "links": [
+      {
+        "key": "natac-a-o",
+        "type": "positional"
+      },
+      {
+        "key": "ace-milagroso-e-levantador-carinhoso",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "akaashi-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "akaashi-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "akaashi-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "akaashi-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "akaashi-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4779",
+      "fetchedAt": "2025-09-26T04:18:35.283155Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "akaashi-ssr",
+    "abilities": [
+      {
+        "id": "akaashi-ssr.a1"
+      },
+      {
+        "id": "akaashi-ssr.a2"
+      },
+      {
+        "id": "akaashi-ssr.a3"
+      },
+      {
+        "id": "akaashi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/akaashiSSR.png",
+    "role": "S",
+    "name": "Akaashi SSR",
+    "links": [
+      {
+        "key": "a-s-milagroso-e-levantador-carinhoso",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "akaashi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "akaashi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "akaashi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "akaashi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "akaashi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1771",
+      "fetchedAt": "2025-09-26T04:18:47.095487Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "akagi-ssr",
+    "abilities": [
+      {
+        "id": "akagi-ssr.a1"
+      },
+      {
+        "id": "akagi-ssr.a2"
+      },
+      {
+        "id": "akagi-ssr.a3"
+      },
+      {
+        "id": "akagi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/akagiSSR.png",
+    "role": "L",
+    "name": "Akagi SSR",
+    "links": [],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "akagi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "akagi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "akagi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "akagi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "akagi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3334",
+      "fetchedAt": "2025-09-26T04:20:50.386788Z"
+    }
+  },
+  {
+    "school": "Dateko",
+    "id": "aone-sp",
+    "abilities": [
+      {
+        "id": "aone-sp.a1"
+      },
+      {
+        "id": "aone-sp.a2"
+      },
+      {
+        "id": "aone-sp.a3"
+      },
+      {
+        "id": "aone-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/aoneSP.png",
+    "role": "MB",
+    "name": "Aone SP",
+    "links": [
+      {
+        "key": "natac-a-o",
+        "type": "positional"
+      },
+      {
+        "key": "parede-de-ferro",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "serve",
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "aone-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "aone-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "aone-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "aone-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "aone-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4616",
+      "fetchedAt": "2025-09-26T04:22:25.710018Z"
+    }
+  },
+  {
+    "school": "Dateko",
+    "id": "aone-ssr",
+    "abilities": [
+      {
+        "id": "aone-ssr.a1"
+      },
+      {
+        "id": "aone-ssr.a2"
+      },
+      {
+        "id": "aone-ssr.a3"
+      },
+      {
+        "id": "aone-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/aoneSSR.png",
+    "role": "MB",
+    "name": "Aone SSR",
+    "links": [
+      {
+        "key": "o-silencioso-e-o-sarca-stico",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "aone-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "aone-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "aone-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "aone-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "aone-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1197",
+      "fetchedAt": "2025-09-26T04:13:28.387988Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "atsumu-ur",
+    "abilities": [
+      {
+        "id": "atsumu-ur.a1"
+      },
+      {
+        "id": "atsumu-ur.a2"
+      },
+      {
+        "id": "atsumu-ur.a3"
+      },
+      {
+        "id": "atsumu-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/atsumuUR.png",
+    "role": "S",
+    "name": "Atsumu UR",
+    "links": [
+      {
+        "key": "a-forc-a-dos-ge-meos",
+        "type": "positional"
+      },
+      {
+        "key": "cabec-a-dos-ge-meos",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "quick",
+      "serve",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "atsumu-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "atsumu-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "atsumu-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "atsumu-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "atsumu-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=2313",
+      "fetchedAt": "2025-09-26T04:19:37.771855Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "azumane-ssr",
+    "abilities": [
+      {
+        "id": "azumane-ssr.a1"
+      },
+      {
+        "id": "azumane-ssr.a2"
+      },
+      {
+        "id": "azumane-ssr.a3"
+      },
+      {
+        "id": "azumane-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/azumaneSSR.png",
+    "role": "WS",
+    "name": "Azumane SSR",
+    "links": [
+      {
+        "key": "deus-guardia-o-e-ponta",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "azumane-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "azumane-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "azumane-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "azumane-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "azumane-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=974",
+      "fetchedAt": "2025-09-26T04:13:14.136587Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "bokuto-sp",
+    "abilities": [
+      {
+        "id": "bokuto-sp.a1"
+      },
+      {
+        "id": "bokuto-sp.a2"
+      },
+      {
+        "id": "bokuto-sp.a3"
+      },
+      {
+        "id": "bokuto-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/bokutoSP.png",
+    "role": "WS",
+    "name": "Bokuto SP",
+    "links": [
+      {
+        "key": "natac-a-o",
+        "type": "positional"
+      },
+      {
+        "key": "ace-milagroso-e-levantador-carinhoso",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "bokuto-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "bokuto-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "bokuto-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "bokuto-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "bokuto-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4768",
+      "fetchedAt": "2025-09-26T04:18:19.755739Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "bokuto-ur",
+    "abilities": [
+      {
+        "id": "bokuto-ur.a1"
+      },
+      {
+        "id": "bokuto-ur.a2"
+      },
+      {
+        "id": "bokuto-ur.a3"
+      },
+      {
+        "id": "bokuto-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/bokutoUR.png",
+    "role": "WS",
+    "name": "Bokuto UR",
+    "links": [
+      {
+        "key": "a-s-milagroso-e-levantador-carinhoso",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "bokuto-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "bokuto-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "bokuto-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "bokuto-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "bokuto-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1695",
+      "fetchedAt": "2025-09-26T04:18:02.118686Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "daichi-ssr",
+    "abilities": [
+      {
+        "id": "daichi-ssr.a1"
+      },
+      {
+        "id": "daichi-ssr.a2"
+      },
+      {
+        "id": "daichi-ssr.a3"
+      },
+      {
+        "id": "daichi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/daichiSSR.png",
+    "role": "OP",
+    "name": "Daichi SSR",
+    "links": [],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "daichi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "daichi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "daichi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "daichi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "daichi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=915",
+      "fetchedAt": "2025-09-26T04:13:04.428559Z"
+    }
+  },
+  {
+    "school": "Dateko",
+    "id": "futakuchi-ssr",
+    "abilities": [
+      {
+        "id": "futakuchi-ssr.a1"
+      },
+      {
+        "id": "futakuchi-ssr.a2"
+      },
+      {
+        "id": "futakuchi-ssr.a3"
+      },
+      {
+        "id": "futakuchi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/futakuchiSSR.png",
+    "role": "WS",
+    "name": "Futakuchi SSR",
+    "links": [
+      {
+        "key": "o-silencioso-e-o-sarca-stico",
+        "type": "positional"
+      },
+      {
+        "key": "o-novo-capita-o-e-o-novato-alta-o",
+        "type": "positional"
+      },
+      {
+        "key": "parede-de-ferro",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "futakuchi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "futakuchi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "futakuchi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "futakuchi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "futakuchi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=717",
+      "fetchedAt": "2025-09-26T04:13:37.961290Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "goshiki-ssr",
+    "abilities": [
+      {
+        "id": "goshiki-ssr.a1"
+      },
+      {
+        "id": "goshiki-ssr.a2"
+      },
+      {
+        "id": "goshiki-ssr.a3"
+      },
+      {
+        "id": "goshiki-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/goshikiSSR.png",
+    "role": "WS",
+    "name": "Goshiki SSR",
+    "links": [
+      {
+        "key": "ws-de-shiratorizawa",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "goshiki-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "goshiki-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "goshiki-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "goshiki-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "goshiki-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1251",
+      "fetchedAt": "2025-09-26T04:17:16.018621Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "haruki-ssr",
+    "abilities": [
+      {
+        "id": "haruki-ssr.a1"
+      },
+      {
+        "id": "haruki-ssr.a2"
+      },
+      {
+        "id": "haruki-ssr.a3"
+      },
+      {
+        "id": "haruki-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/harukiSSR.png",
+    "role": "L",
+    "name": "Haruki SSR",
+    "links": [],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "haruki-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "haruki-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "haruki-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "haruki-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "haruki-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1897",
+      "fetchedAt": "2025-09-26T04:19:13.333814Z"
+    }
+  },
+  {
+    "school": "Itachiyama",
+    "id": "hayaseiomi-ur",
+    "abilities": [
+      {
+        "id": "hayaseiomi-ur.a1"
+      },
+      {
+        "id": "hayaseiomi-ur.a2"
+      },
+      {
+        "id": "hayaseiomi-ur.a3"
+      },
+      {
+        "id": "hayaseiomi-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/hayaseiomiUR.png",
+    "role": "WS",
+    "name": "Hayaseiomi UR",
+    "links": [
+      {
+        "key": "top-spiker-e-top-libero",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "hayaseiomi-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "hayaseiomi-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "hayaseiomi-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "hayaseiomi-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "hayaseiomi-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4729",
+      "fetchedAt": "2025-09-26T04:21:46.637781Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "hinata-sp",
+    "abilities": [
+      {
+        "id": "hinata-sp.a1"
+      },
+      {
+        "id": "hinata-sp.a2"
+      },
+      {
+        "id": "hinata-sp.a3"
+      },
+      {
+        "id": "hinata-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/hinataSP.png",
+    "role": "MB",
+    "name": "Hinata SP",
+    "links": [
+      {
+        "key": "dupla-exce-ntrica",
+        "type": "positional"
+      },
+      {
+        "key": "observac-a-o-de-flores-de-cerejeira",
+        "type": "positional"
+      },
+      {
+        "key": "sol-vs-lua",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "quick",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "hinata-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "hinata-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "hinata-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "hinata-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "hinata-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3366",
+      "fetchedAt": "2025-09-26T04:32:27.277414Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "hinata-ssr",
+    "abilities": [
+      {
+        "id": "hinata-ssr.a1"
+      },
+      {
+        "id": "hinata-ssr.a2"
+      },
+      {
+        "id": "hinata-ssr.a3"
+      },
+      {
+        "id": "hinata-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/hinataSSR.png",
+    "role": "MB",
+    "name": "Hinata SSR",
+    "links": [
+      {
+        "key": "dupla-exce-ntrica",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "hinata-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "hinata-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "hinata-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "hinata-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "hinata-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1116",
+      "fetchedAt": "2025-09-26T04:11:23.045144Z"
+    }
+  },
+  {
+    "school": "Kamomedai",
+    "id": "hirugami-ur",
+    "abilities": [
+      {
+        "id": "hirugami-ur.a1"
+      },
+      {
+        "id": "hirugami-ur.a2"
+      },
+      {
+        "id": "hirugami-ur.a3"
+      },
+      {
+        "id": "hirugami-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/hirugamiUR.png",
+    "role": "MB",
+    "name": "Hirugami UR",
+    "links": [
+      {
+        "key": "amigos-de-longa-data",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "serve",
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "hirugami-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "hirugami-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "hirugami-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "hirugami-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "hirugami-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3293",
+      "fetchedAt": "2025-09-26T04:21:30.546038Z"
+    }
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "iwaizumi-ssr",
+    "abilities": [
+      {
+        "id": "iwaizumi-ssr.a1"
+      },
+      {
+        "id": "iwaizumi-ssr.a2"
+      },
+      {
+        "id": "iwaizumi-ssr.a3"
+      },
+      {
+        "id": "iwaizumi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/iwaizumiSSR.png",
+    "role": "WS",
+    "name": "Iwaizumi SSR",
+    "links": [
+      {
+        "key": "harmonia-perfeita",
+        "type": "positional"
+      },
+      {
+        "key": "a-matilha",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power"
+    ],
+    "skillResonances": [
+      {
+        "id": "iwaizumi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "iwaizumi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "iwaizumi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "iwaizumi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "iwaizumi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=662",
+      "fetchedAt": "2025-09-26T04:16:17.230686Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "kageyama-ssr",
+    "abilities": [
+      {
+        "id": "kageyama-ssr.a1"
+      },
+      {
+        "id": "kageyama-ssr.a2"
+      },
+      {
+        "id": "kageyama-ssr.a3"
+      },
+      {
+        "id": "kageyama-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/kageyamaSSR.png",
+    "role": "S",
+    "name": "Kageyama SSR",
+    "links": [],
+    "types": [
+      "setter",
+      "quick",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "kageyama-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kageyama-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kageyama-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kageyama-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kageyama-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1133",
+      "fetchedAt": "2025-09-26T04:11:34.823344Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "kageyama-ur",
+    "abilities": [
+      {
+        "id": "kageyama-ur.a1"
+      },
+      {
+        "id": "kageyama-ur.a2"
+      },
+      {
+        "id": "kageyama-ur.a3"
+      },
+      {
+        "id": "kageyama-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/kageyamaUR.png",
+    "role": "S",
+    "name": "Kageyama UR",
+    "links": [
+      {
+        "key": "dupla-exce-ntrica",
+        "type": "positional"
+      },
+      {
+        "key": "ge-nios-karasuno",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "quick",
+      "serve",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "kageyama-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kageyama-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kageyama-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kageyama-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kageyama-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3347",
+      "fetchedAt": "2025-09-26T04:11:44.623747Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "kenma-sp",
+    "abilities": [
+      {
+        "id": "kenma-sp.a1"
+      },
+      {
+        "id": "kenma-sp.a2"
+      },
+      {
+        "id": "kenma-sp.a3"
+      },
+      {
+        "id": "kenma-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/kenmaSP.png",
+    "role": "S",
+    "name": "Kenma SP",
+    "links": [
+      {
+        "key": "observac-a-o-de-flores-de-cerejeira",
+        "type": "positional"
+      },
+      {
+        "key": "ce-rebro-e-comandante-sp",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "kenma-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kenma-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kenma-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kenma-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kenma-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3685",
+      "fetchedAt": "2025-09-26T04:14:31.820357Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "kenma-ssr",
+    "abilities": [
+      {
+        "id": "kenma-ssr.a1"
+      },
+      {
+        "id": "kenma-ssr.a2"
+      },
+      {
+        "id": "kenma-ssr.a3"
+      },
+      {
+        "id": "kenma-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/kenmaSSR.png",
+    "role": "S",
+    "name": "Kenma SSR",
+    "links": [
+      {
+        "key": "ce-rebro-e-comandante",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "kenma-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kenma-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kenma-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kenma-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kenma-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1171",
+      "fetchedAt": "2025-09-26T04:14:49.265112Z"
+    }
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "kentaro-mad-dog-ssr",
+    "abilities": [
+      {
+        "id": "kentaro-mad-dog-ssr.a1"
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.a2"
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.a3"
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/kentaroSSR.png",
+    "role": "OP",
+    "name": "Kentaro MAD DOG SSR",
+    "links": [
+      {
+        "key": "a-matilha",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "kentaro-mad-dog-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kentaro-mad-dog-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1047",
+      "fetchedAt": "2025-09-26T04:16:28.391477Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "kita-ssr",
+    "abilities": [
+      {
+        "id": "kita-ssr.a1"
+      },
+      {
+        "id": "kita-ssr.a2"
+      },
+      {
+        "id": "kita-ssr.a3"
+      },
+      {
+        "id": "kita-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/kitaSSR.png",
+    "role": "WS",
+    "name": "Kita SSR",
+    "links": [
+      {
+        "key": "cabec-a-dos-ge-meos",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "kita-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kita-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kita-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kita-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kita-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3035",
+      "fetchedAt": "2025-09-26T04:20:10.844254Z"
+    }
+  },
+  {
+    "school": "Dateko",
+    "id": "koganegawa-ssr",
+    "abilities": [
+      {
+        "id": "koganegawa-ssr.a1"
+      },
+      {
+        "id": "koganegawa-ssr.a2"
+      },
+      {
+        "id": "koganegawa-ssr.a3"
+      },
+      {
+        "id": "koganegawa-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/koganegawaSSR.png",
+    "role": "S",
+    "name": "Koganegawa SSR",
+    "links": [
+      {
+        "key": "o-novo-capita-o-e-o-novato-alta-o",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "koganegawa-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "koganegawa-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "koganegawa-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "koganegawa-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "koganegawa-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1215",
+      "fetchedAt": "2025-09-26T04:13:51.774902Z"
+    }
+  },
+  {
+    "school": "Itachiyama",
+    "id": "komori-ur",
+    "abilities": [
+      {
+        "id": "komori-ur.a1"
+      },
+      {
+        "id": "komori-ur.a2"
+      },
+      {
+        "id": "komori-ur.a3"
+      },
+      {
+        "id": "komori-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/komoriUR.png",
+    "role": "L",
+    "name": "Komori UR",
+    "links": [
+      {
+        "key": "top-spiker-e-top-libero",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "komori-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "komori-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "komori-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "komori-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "komori-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4702",
+      "fetchedAt": "2025-09-26T04:21:58.414812Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "konoha-ssr",
+    "abilities": [
+      {
+        "id": "konoha-ssr.a1"
+      },
+      {
+        "id": "konoha-ssr.a2"
+      },
+      {
+        "id": "konoha-ssr.a3"
+      },
+      {
+        "id": "konoha-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/konohaSSR.png",
+    "role": "OP",
+    "name": "Konoha SSR",
+    "links": [],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "konoha-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "konoha-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "konoha-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "konoha-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "konoha-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1749",
+      "fetchedAt": "2025-09-26T04:19:03.251470Z"
+    }
+  },
+  {
+    "school": "Kamomedai",
+    "id": "hoshiumi-ur",
+    "abilities": [
+      {
+        "id": "hoshiumi-ur.a1"
+      },
+      {
+        "id": "hoshiumi-ur.a2"
+      },
+      {
+        "id": "hoshiumi-ur.a3"
+      },
+      {
+        "id": "hoshiumi-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/hoshiumiUR.png",
+    "role": "WS",
+    "name": "Korai UR",
+    "links": [
+      {
+        "key": "amigos-de-longa-data",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "receive",
+      "serve",
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "hoshiumi-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "hoshiumi-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "hoshiumi-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "hoshiumi-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "hoshiumi-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3261",
+      "fetchedAt": "2025-09-26T04:21:14.499495Z"
+    }
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "kunimi-sp",
+    "abilities": [],
+    "avatar": "/assets/img/kunimiSP.png",
+    "role": "OP",
+    "name": "Kunimi SP",
+    "links": [
+      {
+        "key": "festival-de-esporte",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "receive"
+    ],
+    "skillResonances": [],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=5346",
+      "fetchedAt": "2025-09-26T04:22:20.645395Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "kuro-sp",
+    "abilities": [
+      {
+        "id": "kuro-sp.a1"
+      },
+      {
+        "id": "kuro-sp.a2"
+      },
+      {
+        "id": "kuro-sp.a3"
+      },
+      {
+        "id": "kuro-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/kuroSP.png",
+    "role": "MB",
+    "name": "Kuro SP",
+    "links": [
+      {
+        "key": "festival-fogos-de-artificio",
+        "type": "positional"
+      },
+      {
+        "key": "ce-rebro-e-comandante-sp",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "kuro-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kuro-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kuro-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kuro-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kuro-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4963",
+      "fetchedAt": "2025-09-26T04:22:08.600984Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "kuroo-ssr",
+    "abilities": [
+      {
+        "id": "kuroo-ssr.a1"
+      },
+      {
+        "id": "kuroo-ssr.a2"
+      },
+      {
+        "id": "kuroo-ssr.a3"
+      },
+      {
+        "id": "kuroo-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/kurooSSR.png",
+    "role": "MB",
+    "name": "Kuroo SSR",
+    "links": [],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "kuroo-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kuroo-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kuroo-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kuroo-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kuroo-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1182",
+      "fetchedAt": "2025-09-26T04:15:19.854135Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "lev-ssr",
+    "abilities": [
+      {
+        "id": "lev-ssr.a1"
+      },
+      {
+        "id": "lev-ssr.a2"
+      },
+      {
+        "id": "lev-ssr.a3"
+      },
+      {
+        "id": "lev-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/levSSR.png",
+    "role": "MB",
+    "name": "Lev SSR",
+    "links": [
+      {
+        "key": "orientac-a-o-educacional",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "lev-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "lev-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "lev-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "lev-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "lev-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=884",
+      "fetchedAt": "2025-09-26T04:15:32.777646Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "nishinoya-sp",
+    "abilities": [
+      {
+        "id": "nishinoya-sp.a1"
+      },
+      {
+        "id": "nishinoya-sp.a2"
+      },
+      {
+        "id": "nishinoya-sp.a3"
+      },
+      {
+        "id": "nishinoya-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/nishinoyaSP.png",
+    "role": "L",
+    "name": "Nishinoya SP",
+    "links": [
+      {
+        "key": "ge-nios-karasuno",
+        "type": "positional"
+      },
+      {
+        "key": "depois-da-escola",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "nishinoya-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "nishinoya-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "nishinoya-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "nishinoya-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "nishinoya-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3945",
+      "fetchedAt": "2025-09-26T04:11:07.624924Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "nishinoya-ssr",
+    "abilities": [
+      {
+        "id": "nishinoya-ssr.a1"
+      },
+      {
+        "id": "nishinoya-ssr.a2"
+      },
+      {
+        "id": "nishinoya-ssr.a3"
+      },
+      {
+        "id": "nishinoya-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/nishinoyaSSR.png",
+    "role": "L",
+    "name": "Nishinoya SSR",
+    "links": [
+      {
+        "key": "deus-guardia-o-e-ponta",
+        "type": "positional"
+      },
+      {
+        "key": "esquadra-o-de-kiyoko",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "nishinoya-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "nishinoya-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "nishinoya-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "nishinoya-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "nishinoya-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=984",
+      "fetchedAt": "2025-09-26T04:10:54.727269Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "ohira-ssr",
+    "abilities": [
+      {
+        "id": "ohira-ssr.a1"
+      },
+      {
+        "id": "ohira-ssr.a2"
+      },
+      {
+        "id": "ohira-ssr.a3"
+      },
+      {
+        "id": "ohira-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/ohiraSSR.png",
+    "role": "WS",
+    "name": "Ohira SSR",
+    "links": [
+      {
+        "key": "ws-de-shiratorizawa",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "ohira-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "ohira-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "ohira-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "ohira-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "ohira-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1097",
+      "fetchedAt": "2025-09-26T04:17:44.630660Z"
+    }
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "oikawa-ssr",
+    "abilities": [
+      {
+        "id": "oikawa-ssr.a1"
+      },
+      {
+        "id": "oikawa-ssr.a2"
+      },
+      {
+        "id": "oikawa-ssr.a3"
+      },
+      {
+        "id": "oikawa-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/oikawaSSR.png",
+    "role": "S",
+    "name": "Oikawa SSR",
+    "links": [],
+    "types": [
+      "power",
+      "serve",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "oikawa-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "oikawa-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "oikawa-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "oikawa-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "oikawa-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1153",
+      "fetchedAt": "2025-09-26T04:16:03.350442Z"
+    }
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "oikawa-ur",
+    "abilities": [
+      {
+        "id": "oikawa-ur.a1"
+      },
+      {
+        "id": "oikawa-ur.a2"
+      },
+      {
+        "id": "oikawa-ur.a3"
+      },
+      {
+        "id": "oikawa-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/oikawaUR.png",
+    "role": "S",
+    "name": "Oikawa UR",
+    "links": [
+      {
+        "key": "harmonia-perfeita",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve",
+      "setter"
+    ],
+    "skillResonances": [
+      {
+        "id": "oikawa-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "oikawa-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "oikawa-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "oikawa-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "oikawa-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1811",
+      "fetchedAt": "2025-09-26T04:15:44.588367Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "osamu-ur",
+    "abilities": [
+      {
+        "id": "osamu-ur.a1"
+      },
+      {
+        "id": "osamu-ur.a2"
+      },
+      {
+        "id": "osamu-ur.a3"
+      },
+      {
+        "id": "osamu-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/osamuUR.png",
+    "role": "OP",
+    "name": "Osamu UR",
+    "links": [
+      {
+        "key": "a-forc-a-dos-ge-meos",
+        "type": "positional"
+      },
+      {
+        "key": "cabec-a-dos-ge-meos",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "quick",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "osamu-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "osamu-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "osamu-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "osamu-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "osamu-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=2520",
+      "fetchedAt": "2025-09-26T04:19:55.894696Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "oshiro-ssr",
+    "abilities": [
+      {
+        "id": "oshiro-ssr.a1"
+      },
+      {
+        "id": "oshiro-ssr.a2"
+      },
+      {
+        "id": "oshiro-ssr.a3"
+      },
+      {
+        "id": "oshiro-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/oshiroSSR.png",
+    "role": "WS",
+    "name": "Oshiro SSR",
+    "links": [],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "oshiro-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "oshiro-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "oshiro-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "oshiro-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "oshiro-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3274",
+      "fetchedAt": "2025-09-26T04:20:37.514865Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "rintaro-ssr",
+    "abilities": [
+      {
+        "id": "rintaro-ssr.a1"
+      },
+      {
+        "id": "rintaro-ssr.a2"
+      },
+      {
+        "id": "rintaro-ssr.a3"
+      },
+      {
+        "id": "rintaro-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/rintaroSSR.png",
+    "role": "MB",
+    "name": "Rintaro SSR",
+    "links": [],
+    "types": [
+      "quick",
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "rintaro-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "rintaro-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "rintaro-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "rintaro-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "rintaro-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=2354",
+      "fetchedAt": "2025-09-26T04:20:26.507838Z"
+    }
+  },
+  {
+    "school": "Dateko",
+    "id": "sasaya-ssr",
+    "abilities": [
+      {
+        "id": "sasaya-ssr.a1"
+      },
+      {
+        "id": "sasaya-ssr.a2"
+      },
+      {
+        "id": "sasaya-ssr.a3"
+      },
+      {
+        "id": "sasaya-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/sasayaSSR.png",
+    "role": "OP",
+    "name": "Sasaya SSR",
+    "links": [],
+    "types": [
+      "power"
+    ],
+    "skillResonances": [
+      {
+        "id": "sasaya-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "sasaya-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "sasaya-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "sasaya-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "sasaya-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1235",
+      "fetchedAt": "2025-09-26T04:13:44.719275Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "semi-ssr",
+    "abilities": [
+      {
+        "id": "semi-ssr.a1"
+      },
+      {
+        "id": "semi-ssr.a2"
+      },
+      {
+        "id": "semi-ssr.a3"
+      },
+      {
+        "id": "semi-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/semiSSR.png",
+    "role": "S",
+    "name": "Semi SSR",
+    "links": [],
+    "types": [
+      "setter",
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "semi-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "semi-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "semi-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "semi-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "semi-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1519",
+      "fetchedAt": "2025-09-26T04:17:35.947592Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "shirabu-ssr",
+    "abilities": [
+      {
+        "id": "shirabu-ssr.a1"
+      },
+      {
+        "id": "shirabu-ssr.a2"
+      },
+      {
+        "id": "shirabu-ssr.a3"
+      },
+      {
+        "id": "shirabu-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/shirabuSSR.png",
+    "role": "S",
+    "name": "Shirabu SSR",
+    "links": [
+      {
+        "key": "campea-o-absoluto-e-levantador-so-lido",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "power"
+    ],
+    "skillResonances": [
+      {
+        "id": "shirabu-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "shirabu-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "shirabu-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "shirabu-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "shirabu-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1222",
+      "fetchedAt": "2025-09-26T04:17:25.212981Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "sugawara-sp",
+    "abilities": [
+      {
+        "id": "sugawara-sp.a1"
+      },
+      {
+        "id": "sugawara-sp.a2"
+      },
+      {
+        "id": "sugawara-sp.a3"
+      },
+      {
+        "id": "sugawara-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/sugawaraSP.png",
+    "role": "S",
+    "name": "Sugawara SP",
+    "links": [
+      {
+        "key": "depois-da-escola",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "setter",
+      "serve",
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "sugawara-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "sugawara-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "sugawara-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "sugawara-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "sugawara-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4582",
+      "fetchedAt": "2025-09-26T04:14:11.621777Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "tanaka-ssr",
+    "abilities": [
+      {
+        "id": "tanaka-ssr.a1"
+      },
+      {
+        "id": "tanaka-ssr.a2"
+      },
+      {
+        "id": "tanaka-ssr.a3"
+      },
+      {
+        "id": "tanaka-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/tanakaSSR.png",
+    "role": "WS",
+    "name": "Tanaka SSR",
+    "links": [
+      {
+        "key": "esquadra-o-de-kiyoko",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power"
+    ],
+    "skillResonances": [
+      {
+        "id": "tanaka-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "tanaka-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "tanaka-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "tanaka-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "tanaka-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1143",
+      "fetchedAt": "2025-09-26T04:12:15.190477Z"
+    }
+  },
+  {
+    "school": "Fukurodani",
+    "id": "tatsuo-ssr",
+    "abilities": [
+      {
+        "id": "tatsuo-ssr.a1"
+      },
+      {
+        "id": "tatsuo-ssr.a2"
+      },
+      {
+        "id": "tatsuo-ssr.a3"
+      },
+      {
+        "id": "tatsuo-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/tatsuoSSR.png",
+    "role": "MB",
+    "name": "Tatsuo SSR",
+    "links": [],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "tatsuo-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "tatsuo-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "tatsuo-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "tatsuo-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "tatsuo-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1742",
+      "fetchedAt": "2025-09-26T04:19:24.663914Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "tendo-ssr",
+    "abilities": [
+      {
+        "id": "tendo-ssr.a1"
+      },
+      {
+        "id": "tendo-ssr.a2"
+      },
+      {
+        "id": "tendo-ssr.a3"
+      },
+      {
+        "id": "tendo-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/tendoSSR.png",
+    "role": "MB",
+    "name": "Tendo SSR",
+    "links": [
+      {
+        "key": "bests-para-a-vida",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block"
+    ],
+    "skillResonances": [
+      {
+        "id": "tendo-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "tendo-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "tendo-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "tendo-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "tendo-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=797",
+      "fetchedAt": "2025-09-26T04:17:00.477480Z"
+    }
+  },
+  {
+    "school": "Jozenji",
+    "id": "terushima-ssr",
+    "abilities": [
+      {
+        "id": "terushima-ssr.a1"
+      },
+      {
+        "id": "terushima-ssr.a2"
+      },
+      {
+        "id": "terushima-ssr.a3"
+      },
+      {
+        "id": "terushima-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/terushimaSSR.png",
+    "role": "WS",
+    "name": "Terushima SSR",
+    "links": [],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "terushima-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "terushima-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "terushima-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "terushima-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "terushima-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1906",
+      "fetchedAt": "2025-09-26T04:14:00.046053Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "tsuki-sp",
+    "abilities": [
+      {
+        "id": "tsuki-sp.a1"
+      },
+      {
+        "id": "tsuki-sp.a2"
+      },
+      {
+        "id": "tsuki-sp.a3"
+      },
+      {
+        "id": "tsuki-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/tsukishimaSP.png",
+    "role": "MB",
+    "name": "Tsuki SP",
+    "links": [
+      {
+        "key": "sol-vs-lua",
+        "type": "positional"
+      },
+      {
+        "key": "festival-fogos-de-artificio",
+        "type": "positional"
+      },
+      {
+        "key": "aliados-no-campo-de-treinamento",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "tsuki-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "tsuki-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "tsuki-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "tsuki-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "tsuki-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=4794",
+      "fetchedAt": "2025-09-26T04:12:32.013140Z"
+    }
+  },
+  {
+    "school": "Karasuno",
+    "id": "tsuki-ssr",
+    "abilities": [
+      {
+        "id": "tsuki-ssr.a1"
+      },
+      {
+        "id": "tsuki-ssr.a2"
+      },
+      {
+        "id": "tsuki-ssr.a3"
+      },
+      {
+        "id": "tsuki-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/tsukishimaSSR.png",
+    "role": "MB",
+    "name": "Tsuki SSR",
+    "links": [],
+    "types": [
+      "block",
+      "quick"
+    ],
+    "skillResonances": [
+      {
+        "id": "tsuki-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "tsuki-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "tsuki-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "tsuki-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "tsuki-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=909",
+      "fetchedAt": "2025-09-26T04:12:49.941034Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "ushijima-ur",
+    "abilities": [
+      {
+        "id": "ushijima-ur.a1"
+      },
+      {
+        "id": "ushijima-ur.a2"
+      },
+      {
+        "id": "ushijima-ur.a3"
+      },
+      {
+        "id": "ushijima-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/ushijimaUR.png",
+    "role": "OP",
+    "name": "Ushijima UR",
+    "links": [
+      {
+        "key": "bests-para-a-vida",
+        "type": "positional"
+      },
+      {
+        "key": "campea-o-absoluto-e-levantador-so-lido",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "power",
+      "serve"
+    ],
+    "skillResonances": [
+      {
+        "id": "ushijima-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "ushijima-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "ushijima-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "ushijima-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "ushijima-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=955",
+      "fetchedAt": "2025-09-26T04:16:43.404237Z"
+    }
+  },
+  {
+    "school": "Nekoma",
+    "id": "yaku-ssr",
+    "abilities": [
+      {
+        "id": "yaku-ssr.a1"
+      },
+      {
+        "id": "yaku-ssr.a2"
+      },
+      {
+        "id": "yaku-ssr.a3"
+      },
+      {
+        "id": "yaku-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/yakuSSR.png",
+    "role": "L",
+    "name": "Yaku SSR",
+    "links": [
+      {
+        "key": "orientac-a-o-educacional",
+        "type": "positional"
+      }
+    ],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "yaku-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "yaku-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "yaku-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "yaku-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "yaku-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=997",
+      "fetchedAt": "2025-09-26T04:15:07.420017Z"
+    }
+  },
+  {
+    "school": "Shiratorizawa",
+    "id": "yamagata-ssr",
+    "abilities": [
+      {
+        "id": "yamagata-ssr.a1"
+      },
+      {
+        "id": "yamagata-ssr.a2"
+      },
+      {
+        "id": "yamagata-ssr.a3"
+      },
+      {
+        "id": "yamagata-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/yamagataSSR.png",
+    "role": "L",
+    "name": "Yamagata SSR",
+    "links": [],
+    "types": [
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "yamagata-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "yamagata-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "yamagata-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "yamagata-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "yamagata-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1013",
+      "fetchedAt": "2025-09-26T04:17:53.064292Z"
+    }
+  },
+  {
+    "school": "Inarizaki",
+    "id": "yui-ssr",
+    "abilities": [
+      {
+        "id": "yui-ssr.a1"
+      },
+      {
+        "id": "yui-ssr.a2"
+      },
+      {
+        "id": "yui-ssr.a3"
+      },
+      {
+        "id": "yui-ssr.a4"
+      }
+    ],
+    "avatar": "/assets/img/yuiSSR.png",
+    "role": "WS",
+    "name": "Yui SSR",
+    "links": [],
+    "types": [
+      "power",
+      "receive"
+    ],
+    "skillResonances": [
+      {
+        "id": "yui-ssr.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "yui-ssr.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "yui-ssr.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "yui-ssr.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "yui-ssr.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=3302",
+      "fetchedAt": "2025-09-26T04:21:02.448875Z"
+    }
+  }
+]

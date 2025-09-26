@@ -1,11 +1,24 @@
-import type { PlayerType } from './types';
+﻿import type { PlayerType } from "./types";
+import { pickLocalizedText, playerTypeDetails } from "./dataRegistry";
 
-export const PLAYER_TYPE_META: Record<PlayerType, { icon: string; labelKey: string }> = {
-  power:   { icon: '/assets/icons/powersymbol.png',   labelKey: 'player_types.power' },
-  block:   { icon: '/assets/icons/blocksymbol.png',   labelKey: 'player_types.block' },
-  quick:   { icon: '/assets/icons/quicksymbol.png',   labelKey: 'player_types.quick' },
-  receive: { icon: '/assets/icons/receivesymbol.png', labelKey: 'player_types.receive' },
-  serve:   { icon: '/assets/icons/servesymbol.png',   labelKey: 'player_types.serve' },
-  setter:  { icon: '/assets/icons/settersymbol.png',  labelKey: 'player_types.setter' },
+export const PLAYER_TYPE_ICONS: Record<PlayerType, string> = {
+  power: '/assets/icons/powersymbol.png',
+  block: '/assets/icons/blocksymbol.png',
+  quick: '/assets/icons/quicksymbol.png',
+  receive: '/assets/icons/receivesymbol.png',
+  serve: '/assets/icons/servesymbol.png',
+  setter: '/assets/icons/settersymbol.png',
 };
 
+export function getPlayerTypeLabel(type: PlayerType, language: string): string {
+  const detail = playerTypeDetails[type];
+  if (!detail) return type;
+  const label = pickLocalizedText(detail.name, language);
+  return label || type;
+}
+
+export function getPlayerTypeDescription(type: PlayerType, language: string): string {
+  const detail = playerTypeDetails[type];
+  if (!detail) return "";
+  return pickLocalizedText(detail.description, language);
+}

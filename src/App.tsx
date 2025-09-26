@@ -75,7 +75,8 @@ function App() {
     ? useSensors(
         useSensor(TouchSensor, {
           activationConstraint: {
-            delay: 160,
+            // Long-press time to start dragging on mobile
+            delay: 80,
             tolerance: 8,
           },
         })
@@ -100,7 +101,7 @@ function App() {
       >
         {/* Área principal (abaixo do header e acima do roster) */}
         <main className="flex-1">
-          <div className="mx-auto max-w-[1600px] relative ">
+          <div className="mx-auto max-w-[1600px] relative">
             <BuffPanel />
             <CourtView />
           </div>

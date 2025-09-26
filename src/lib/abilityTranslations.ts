@@ -1,23 +1,24 @@
-import type { Ability } from "./types";
+import type { AbilityRef } from "./types";
+import { abilityDetails, pickLocalizedText } from "./dataRegistry";
 
-// Optional per-language overrides, keyed by ability id
-import enAbilities from "../locales/en/abilities.json";
-import ptAbilities from "../locales/pt-BR/abilities.json";
+type AbilityLike = AbilityRef & { name?: string; desc?: string };
 
-type AbilityTexts = { name?: string; desc?: string };
-
-const ABILITIES_BY_LANG: Record<string, Record<string, AbilityTexts>> = {
-  "pt-BR": ptAbilities as Record<string, AbilityTexts>,
-  en: enAbilities as Record<string, AbilityTexts>,
+type AbilityTextResult = {
+  name: string;
+  desc: string;
 };
 
-export function getAbilityText(ability: Ability, language: string) {
-  const lower = (language || '').toLowerCase();
-  const langKey = lower.startsWith('pt') ? 'pt-BR' : lower.startsWith('en') ? 'en' : 'en';
-  const map = ABILITIES_BY_LANG[langKey] || {};
-  const tr = map[ability.id] || {};
+export function getAbilityText(ability: AbilityLike, language: string): AbilityTextResult {
+  const detail = abilityDetails[ability.id];
+  const name = detail ? pickLocalizedText(detail.name, language) : (ability.name ?? "");
+  const desc = detail ? pickLocalizedText(detail.description, language) : (ability.desc ?? "");
+
   return {
-    name: tr.name || ability.name,
-    desc: tr.desc || ability.desc || "",
+    name: name || ability.name || ability.id,
+    desc: desc || ability.desc || "",
   };
+}
+
+export function getAbilityDetail(id: string) {
+  return abilityDetails[id];
 }

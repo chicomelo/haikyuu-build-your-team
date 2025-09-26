@@ -1,7 +1,7 @@
-import { create } from "zustand";
-import rawPlayers from "../data/players.json";
+﻿import { create } from "zustand";
+import { playersData } from "../lib/dataRegistry";
 import type { Position, Team, PlayerRole, Player, PlayerType } from "../lib/types";
-const playersInfo = rawPlayers as unknown as Player[];
+const playersInfo = playersData as Player[];
 import type { DragEndEvent, DragStartEvent } from "@dnd-kit/core";
 
 type Store = {
@@ -53,7 +53,7 @@ const emptyTeam: Team = {
   bench: [],
 };
 
-// Estado inicial para os rótulos de rotação
+// Estado inicial para os rÃ³tulos de rotaÃ§Ã£o
 const initialRotationLabels: Record<Position, string> = {
   S: "S",
   MB1: "MB",
@@ -116,7 +116,7 @@ export const useStore = create<Store>((set, get) => ({
       while (bench.length < 12) bench.push("");
       if (bench.length > 12) bench.splice(12);
 
-      // Verificar se newRotationLabels está presente e é válido
+      // Verificar se newRotationLabels estÃ¡ presente e Ã© vÃ¡lido
       const validRotationLabels =
         newRotationLabels && Object.keys(newRotationLabels).length > 0
           ? newRotationLabels
@@ -155,33 +155,33 @@ export const useStore = create<Store>((set, get) => ({
 
   rotatePositions: () =>
     set((state) => {
-      // Definir a ordem de rotação em sentido horário (excluindo o libero)
+      // Definir a ordem de rotaÃ§Ã£o em sentido horÃ¡rio (excluindo o libero)
       const rotationOrder: Position[] = ["S", "MB1", "WS1", "OP", "MB2", "WS2"];
 
-      // Criar uma cópia dos slots atuais
+      // Criar uma cÃ³pia dos slots atuais
       const currentSlots = { ...state.team.slots };
 
-      // Salvar o valor do último slot para colocar no primeiro
+      // Salvar o valor do Ãºltimo slot para colocar no primeiro
       const lastPlayer = currentSlots[rotationOrder[rotationOrder.length - 1]];
 
-      // Rotacionar os slots em sentido horário
+      // Rotacionar os slots em sentido horÃ¡rio
       for (let i = rotationOrder.length - 1; i > 0; i--) {
         currentSlots[rotationOrder[i]] = currentSlots[rotationOrder[i - 1]];
       }
 
-      // Colocar o último no primeiro
+      // Colocar o Ãºltimo no primeiro
       currentSlots[rotationOrder[0]] = lastPlayer;
 
-      // Também rotacionar os rótulos
+      // TambÃ©m rotacionar os rÃ³tulos
       const currentLabels = { ...state.rotationLabels };
       const lastLabel = currentLabels[rotationOrder[rotationOrder.length - 1]];
 
-      // Rotacionar os rótulos em sentido horário
+      // Rotacionar os rÃ³tulos em sentido horÃ¡rio
       for (let i = rotationOrder.length - 1; i > 0; i--) {
         currentLabels[rotationOrder[i]] = currentLabels[rotationOrder[i - 1]];
       }
 
-      // Colocar o último rótulo no primeiro
+      // Colocar o Ãºltimo rÃ³tulo no primeiro
       currentLabels[rotationOrder[0]] = lastLabel;
 
       return {
@@ -249,12 +249,12 @@ export const useStore = create<Store>((set, get) => ({
   pickPlayer: (playerId) => {
     const s = get();
     if (s.selectedSlot) {
-      // Restrição: slot L só aceita jogador L
+      // RestriÃ§Ã£o: slot L sÃ³ aceita jogador L
       if (s.selectedSlot === "L") {
         const p = s.players.find((p) => p.id === playerId);
         if (p && p.role !== "L") return;
       }
-      // Restrição: jogador L só pode ser colocado no slot L
+      // RestriÃ§Ã£o: jogador L sÃ³ pode ser colocado no slot L
       else {
         const p = s.players.find((p) => p.id === playerId);
         if (p && p.role === "L") return;
@@ -277,12 +277,12 @@ export const useStore = create<Store>((set, get) => ({
     if (overId.startsWith("slot:")) {
       const pos = overId.split(":")[1] as Position;
       const playerId = activeId.replace("player:", "");
-      // Restrição: slot L só aceita jogador L
+      // RestriÃ§Ã£o: slot L sÃ³ aceita jogador L
       if (pos === "L") {
         const p = get().players.find((p) => p.id === playerId);
         if (p && p.role !== "L") return;
       }
-      // Restrição: jogador L só pode ser colocado no slot L
+      // RestriÃ§Ã£o: jogador L sÃ³ pode ser colocado no slot L
       else {
         const p = get().players.find((p) => p.id === playerId);
         if (p && p.role === "L") return;
@@ -295,11 +295,11 @@ export const useStore = create<Store>((set, get) => ({
       get().moveToBench(playerId, idx);
       set({ selectedSlot: null, selectedBenchIndex: null });
     } else if (overId === "roster-list") {
-      // Remover jogador do time e colocá-lo de volta na lista
+      // Remover jogador do time e colocÃ¡-lo de volta na lista
       const playerId = activeId.replace("player:", "");
       const s = get();
 
-      // Verificar se o jogador está em algum slot
+      // Verificar se o jogador estÃ¡ em algum slot
       for (const [pos, pid] of Object.entries(s.team.slots)) {
         if (pid === playerId) {
           s.clearPosition(pos as any);
@@ -308,7 +308,7 @@ export const useStore = create<Store>((set, get) => ({
         }
       }
 
-      // Verificar se o jogador está na lista de reservas
+      // Verificar se o jogador estÃ¡ na lista de reservas
       const benchIndex = s.team.bench.indexOf(playerId);
       if (benchIndex >= 0) {
         s.removeFromBench(playerId);

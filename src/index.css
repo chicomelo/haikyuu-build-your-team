@@ -108,22 +108,26 @@ body::before {
 }
 
 .bench-list-wrapper {
-  @apply absolute mx-10;
+  position: absolute;
   height: fit-content;
   top: auto;
   bottom: 3.4rem;
-  left: 4%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
 }
 
 .bench-list {
-  @apply grid grid-cols-6 gap-2;
+  /* Mais espaçamento entre cards no mobile */
+  @apply grid grid-cols-6 gap-y-2;
 }
 
 .bench-card {
   @apply rounded-md border;
-  width: 2.6rem;
-  height: calc(2.6rem * 1.408);
+  width: 2.8rem;
+  height: calc(2.8rem * 1.408);
   aspect-ratio: 71 / 100;
+  margin: 0 auto;
 }
 
 @media (min-width: 769px) {
@@ -132,6 +136,8 @@ body::before {
     top: auto;
     top: 2.4rem;
     left: 10rem;
+    transform: none;
+    width: auto;
   }
 
   .bench-list {
@@ -147,8 +153,9 @@ body::before {
 @media (min-width: 1441px) {
   .bench-list-wrapper {
     @apply absolute;
-    top: 4rem;
+    top: 3rem;
     left: 5rem;
+    transform: none;
   }
 
   .bench-list {

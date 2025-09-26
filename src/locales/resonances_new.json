@@ -1,0 +1,4772 @@
+{
+  "akaashi-sp.r1": {
+    "characterId": "akaashi-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "akaashi-sp.r2": {
+    "characterId": "akaashi-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "赤葦京治(海水浴)の[パワー]が30%アップ。",
+        "pt": "O [poder] de Akaashi Kyoji (natação) aumentou 30%.",
+        "en": "The [power] of Akaashi Kyoji (swimming) has increased by 30%."
+      },
+      {
+        "jp": "赤葦京治(海水浴)がコート上に居る場合、各ラリー終了時に味方のチーム士気が40アップ。",
+        "pt": "Se Akaashi Kyoji (nadando no mar) está na quadra, o moral da equipe de aliados aumenta em 40 no final de cada manifestação.",
+        "en": "If Akaashi Kyoji (swimming in the sea) is on the court, team morale of allies increases by 40 at the end of each rally."
+      },
+      {
+        "jp": "赤葦京治(海水浴)がコート上に居る場合、味方のチーム士気覚醒が発動していない間、味方メンバーの[レシーブ]と[ブロック]が25%アップ",
+        "pt": "Se Akaashi Kyoji (natação) estiver na quadra, os membros do aliado [recebem] e [blocos] aumentam em 25%, enquanto o despertar do moral da equipe de seus aliados não é ativado.",
+        "en": "If Akaashi Kyoji (swimming) is on the court, the ally members' [Receive] and [Block] increase by 25% while the team morale awakening of their allies is not activated."
+      }
+    ]
+  },
+  "akaashi-sp.r3": {
+    "characterId": "akaashi-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "akaashi-sp.r4": {
+    "characterId": "akaashi-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<練習の100%を引き出す>発動時、本セット内で獲得した[冷静な意識]効果の累計スタック1につき、スパイク（強打・速攻）をするメンバーの[パワー]が0.3％アップ。最大40%アップ可能。この効果はボールがネットを2回越えるまで持続する。",
+        "pt": "Quando ativado, para cada pilha cumulativa de efeito [consciência fria] adquirida neste conjunto, o [poder] dos membros que Spike (Smack/Quick Attack) aumentará 0,3%. Aumento de até 40%. Este efeito dura até que a bola passe pela rede duas vezes.",
+        "en": "When activated, for each cumulative stack of [Cold Consciousness] effect acquired in this set, the [Power] of members who spike (smack/quick attack) will increase by 0.3%. Up to 40% increase. This effect lasts until the ball has passed the net twice."
+      },
+      {
+        "jp": "今回のスパイクが強打の場合、強打をするメンバーの[パワー]がさらに0.8％アップ。最大80%アップ可能。この効果はボールがネットを2回越えるまで持続する。",
+        "pt": "Se esse pico for um forte golpe, o poder dos membros que atingiram o forte golpe aumentará em mais 0,8%. Aumento de até 80%. Este efeito dura até que a bola passe pela rede duas vezes.",
+        "en": "If this spike is a strong hit, the [power] of the members who hit the strong hit will increase by an additional 0.8%. Up to 80% increase. This effect lasts until the ball has passed the net twice."
+      },
+      {
+        "jp": "本セット内で獲得した[冷静な意識]効果の累計スタック1につき、<決定的な一撃>の威力が[トス]×0.6%アップ。最大100%アップ可能。",
+        "pt": "Para cada pilha cumulativa de efeitos [de consciência calma] adquiridos neste conjunto, o poder da greve decisiva> aumenta em 0,6%. Até 100% de aumento.",
+        "en": "For each cumulative stack of [Calm Consciousness] effects acquired in this set, the power of the <Decisive Strike> increases by 0.6%. Up to 100% increase."
+      },
+      {
+        "jp": "味方がチーム士気覚醒を発動している間、味方のチーム士気が5アップするごとに、味方のチーム士気覚醒が終了後最初の味方の必殺技発動時、該当メンバーの[パワー]が1%アップ。最大30%アップ可能",
+        "pt": "Enquanto seu aliado ativa o despertar do moral da equipe, a cada 5 aumento no moral da sua equipe, quando o moral da equipe do seu aliado é ativado, o [poder] do membro correspondente aumenta em 1% após o despertar do moral da equipe do aliado. Aumento de até 30%",
+        "en": "While your ally activates Team Morale Awakening, every 5 increase in your team morale, when your ally's team morale is activated, the [power] of the corresponding member increases by 1% after the ally's team morale awakening. Up to 30% increase"
+      }
+    ]
+  },
+  "akaashi-sp.r5": {
+    "characterId": "akaashi-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "akaashi-ssr.r1": {
+    "characterId": "akaashi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "akaashi-ssr.r2": {
+    "characterId": "akaashi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "赤葦京治がコート上に居る場合、ボールがネットを超えるたびに、味方のチーム士気が10アップ。",
+        "pt": "Se Akaashi Kyoji estiver na quadra, toda vez que a bola excede a rede, o moral da equipe de seus aliados aumenta em 10.",
+        "en": "If Akaashi Kyoji is on the court, every time the ball exceeds the net, the team morale of his allies increases by 10."
+      },
+      {
+        "jp": "味方がチーム士気覚醒を発動する時、＜”いつも通り”のトス＞のクールダウンをリセットする",
+        "pt": "Quando seus aliados ativam o despertar do moral da equipe, redefina o recarga para \"geralmente\" jogar \"",
+        "en": "When your allies activate Team Morale Awakening, reset the cooldown for \"Usually\" toss\""
+      }
+    ]
+  },
+  "akaashi-ssr.r3": {
+    "characterId": "akaashi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "akaashi-ssr.r4": {
+    "characterId": "akaashi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "赤葦京治のトス結果がBADにならなかった場合、このプレー発生後最初のスパイク（強打・速攻）をする味方メンバーの不利効果を全てリセットし、該当メンバーの[強打/速攻]が4%アップ。最高3スタック。この効果は3ラリー持続する",
+        "pt": "Se o resultado do sorteio de Akaashi Kyoji não se tornar ruim, todos os efeitos de desvantagem de todos os membros aliados que fazem o primeiro pico (sucessos inteligentes, sucessos rápidos) após a reprodução será redefinida, e os [smart hits/hits rápidos] do membro correspondente aumentarão 4%. Até 3 pilhas. Este efeito dura 3 rally",
+        "en": "If Akaashi Kyoji's toss result does not become BAD, all disadvantage effects of all allied members who make the first spike (smart hits, fast hits) after this play will be reset, and the [smart hits/fast hits] of the corresponding member will be increased by 4%. Up to 3 stacks. This effect lasts 3 rally"
+      }
+    ]
+  },
+  "akaashi-ssr.r5": {
+    "characterId": "akaashi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "akagi-ssr.r1": {
+    "characterId": "akagi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "akagi-ssr.r2": {
+    "characterId": "akagi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "赤木路成の[レシーブ]が14%アップ。",
+        "pt": "Akagi Michinari's [Receba] aumentou 14%.",
+        "en": "Akagi Michinari's [Receive] has increased by 14%."
+      },
+      {
+        "jp": "赤木路成がコート上に居て、味方後衛のプレーがナイスプレーにならなかった場合、味方後衛のレシーブスキルのクールダウンはボールがネットを超える回数1回分減る",
+        "pt": "Se Akagi Michinari estiver na quadra e o jogo da retaguarda aliada não é uma boa jogada, a recarga da habilidade de recepção da retaguarda aliada será reduzida ao mesmo tempo em que a bola exceder a rede.",
+        "en": "If Akagi Michinari is on the court and the allied rear guard's play is not a nice play, the cooldown of the allied rear guard's receiving skill will be reduced by one time the ball exceeds the net."
+      }
+    ]
+  },
+  "akagi-ssr.r3": {
+    "characterId": "akagi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "akagi-ssr.r4": {
+    "characterId": "akagi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "赤木路成の[守備テクニック]が15%アップ。",
+        "pt": "As [técnicas defensivas] de Akagi Michinari aumentaram 15%.",
+        "en": "Akagi Michinari's [defensive techniques] has increased by 15%."
+      },
+      {
+        "jp": "赤木路成のレシーブあるいはカバーの結果がBADにならなかった場合、このプレー発生後最初のスパイク（強打・速攻）をする味方メンバーの[攻撃テクニック]が15%アップ。この効果はボールがネットを2回超えるまで持続する",
+        "pt": "Se a recepção ou resultado de cobertura de Akagi Michinari não se tornar ruim, a [técnica de ataque] de membros aliados que fazem o primeiro pico (smack/rápido ataque) aumentará 15% após esta jogada. Este efeito dura até que a bola exceda a rede duas vezes.",
+        "en": "If Akagi Michinari's reception or cover result does not become BAD, the [attack technique] of allied members who make the first spike (smack/quick attack) will increase by 15% after this play. This effect lasts until the ball exceeds the net twice."
+      }
+    ]
+  },
+  "akagi-ssr.r5": {
+    "characterId": "akagi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "aone-sp.r1": {
+    "characterId": "aone-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "aone-sp.r2": {
+    "characterId": "aone-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "青根高伸(海水浴)がコート上に居る場合、相手メンバーが得点時、相手コート上のメンバーが[“ロックオン”]効果を1スタック獲得する。",
+        "pt": "Se aone Takanobu (natação) estiver na quadra, quando o membro do oponente pontuar, o membro do oponente ganha uma pilha de efeito [\"bloqueio\"].",
+        "en": "If Aone Takanobu (swimming) is on the court, when the opponent's member scores, the opponent's member gains one stack of [\"Lock-on\"] effect."
+      },
+      {
+        "jp": "1セットに1回、[強靭ブロック]効果のスタック数が6になった場合、<鋭いリードブロック>のクールダウンをリセットする",
+        "pt": "Uma vez por conjunto, se o número de pilhas para o efeito [Strong Block] for 6, redefina a recarga para <bloqueio de chumbo Sharp>.",
+        "en": "Once per set, if the number of stacks for the [Strong Block] effect is 6, reset the cooldown for <Sharp Lead Block>."
+      }
+    ]
+  },
+  "aone-sp.r3": {
+    "characterId": "aone-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "aone-sp.r4": {
+    "characterId": "aone-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "青根高伸(海水浴)がコート上にいない場合、味方前衛の[ブロック]が25%アップ。",
+        "pt": "Se a Takanobu, que nadar no mar) não estiver na quadra, o [bloco] da Vanguard dos Aliados aumentará 25%.",
+        "en": "If Aone Takanobu (swimming in the sea) is not on the court, the [block] of allies' vanguard will increase by 25%."
+      },
+      {
+        "jp": "青根高伸(海水浴)の[反応]が100%を超えた場合、[反応]が1%超過するごとに、[メンタル]が1%アップ。最大60%アップ可能。",
+        "pt": "Se a [reação] de AONE Takanobu (natação) exceder 100%, toda vez que a [reação] excede 1%, o [mental] aumenta em 1%. Aumento de até 60%.",
+        "en": "If the [reaction] of Aone Takanobu (swimming) exceeds 100%, every time the [reaction] exceeds 1%, the [mental] increases by 1%. Up to 60% increase."
+      }
+    ]
+  },
+  "aone-sp.r5": {
+    "characterId": "aone-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "aone-ssr.r1": {
+    "characterId": "aone-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "aone-ssr.r2": {
+    "characterId": "aone-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<ロックオン>効果変更：発動条件を[青根高伸のブロック結果がPERFECTの場合]から[青根高伸のブロック時]に変更",
+        "pt": "Mudança de efeito <lock-on>: altere a condição de ativação de [quando aone Takanobu Block Result é perfeito para [quando aone Takanobu bloqueado]",
+        "en": "<Lock-on> Effect Change: Change the activation condition from [When Aone Takanobu block result is PERFECT] to [When Aone Takanobu blocked]"
+      }
+    ]
+  },
+  "aone-ssr.r3": {
+    "characterId": "aone-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "aone-ssr.r4": {
+    "characterId": "aone-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "青根高伸がブロック時、スパイク（強打・速攻）をした相手メンバーのスタミナが30%以下の場合、今回のブロック結果が必ずNORMAL以上になる",
+        "pt": "Se o membro adversário que pula (smart hits, ataques rápidos) for inferior a 30% ao bloquear a Takanobu, o resultado do bloco sempre será normal ou superior.",
+        "en": "If the opposing member who spikes (smart hits, quick attacks) is less than 30% when blocking Aone Takanobu, the block result will always be NORMAL or higher."
+      }
+    ]
+  },
+  "aone-ssr.r5": {
+    "characterId": "aone-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "atsumu-ur.r1": {
+    "characterId": "atsumu-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "atsumu-ur.r2": {
+    "characterId": "atsumu-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "宮侑の[パワー]が30%アップ。",
+        "pt": "O [poder] de Miya Yu aumentou 30%.",
+        "en": "Miya Yu's [power] has increased by 30%."
+      },
+      {
+        "jp": "宮侑が出場した際、[どんぴしゃり]効果を5スタック獲得する。[どんぴしゃり]効果1スタックにつき、[トス]が2%アップ。最高10スタック",
+        "pt": "Quando Miya Yu toca, você obtém 5 pilhas de efeitos [donpishari]. [Donpishari] Efeito: Aumenta [Jogue] em 2% por pilha. Até 10 pilhas",
+        "en": "When Miya Yu plays, you get 5 stacks of [Donpishari] effects. [Donpishari] Effect: Increases [Toss] by 2% per stack. Up to 10 stacks"
+      }
+    ]
+  },
+  "atsumu-ur.r3": {
+    "characterId": "atsumu-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "atsumu-ur.r4": {
+    "characterId": "atsumu-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "[どんぴしゃり]効果1スタックにつき、宮侑の[トス]がさらに3%アップ。",
+        "pt": "[Donpishari] Efeito: Miya Yu's [Toss] aumenta em 3%.",
+        "en": "[Donpishari] Effect: Miya Yu's [Toss] increases by 3%."
+      },
+      {
+        "jp": "宮侑が[どんぴしゃり]効果を消費すると、[どんぴしゃり]効果を5スタック獲得する。[どんぴしゃり]効果1スタックにつき、[トス]が2%アップ。最高10スタック",
+        "pt": "Quando Miya Yu consome o efeito [Donpishari], ele ganha 5 pilhas de efeitos [donpishari]. [Donpishari] Efeito: Aumenta [Jogue] em 2% por pilha. Até 10 pilhas",
+        "en": "When Miya Yu consumes the [Donpishari] effect, he gains 5 stacks of [Donpishari] effects. [Donpishari] Effect: Increases [Toss] by 2% per stack. Up to 10 stacks"
+      }
+    ]
+  },
+  "atsumu-ur.r5": {
+    "characterId": "atsumu-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "azumane-ssr.r1": {
+    "characterId": "azumane-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "azumane-ssr.r2": {
+    "characterId": "azumane-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<熟練守備>発動時に消費するスタミナが0に減る。<強烈スパイク>効果変更：発動時にプラスで消費するスタミナが20に減る",
+        "pt": "<Defesa qualificada> A resistência consumida quando ativada é reduzida para 0. <Intense Spike> Mudança de efeito: a resistência consumida positivamente quando ativada é reduzida para 20",
+        "en": "<Skilled Defense> The stamina consumed when activated is reduced to 0. <Intense Spike> Effect Change: stamina consumed positively when activated is reduced to 20"
+      }
+    ]
+  },
+  "azumane-ssr.r3": {
+    "characterId": "azumane-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "azumane-ssr.r4": {
+    "characterId": "azumane-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<強烈スパイク>追加効果：[チャージ]1スタックにつき、強打威力がさらに[強打]×60%アップ",
+        "pt": "<Strong Spike> Efeito adicional: [Charge] 1 pilha aumenta o poder do poderoso golpe em 60%",
+        "en": "<Strong Spike> Additional Effect: [Charge] 1 stack increases the power of the powerful hit by 60%"
+      }
+    ]
+  },
+  "azumane-ssr.r5": {
+    "characterId": "azumane-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "bokuto-sp.r1": {
+    "characterId": "bokuto-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "bokuto-sp.r2": {
+    "characterId": "bokuto-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "[一致団結]効果1スタックにつき、木兎光太郎(海水浴)の[意識]が0.4%アップ。最大15%アップ可能。",
+        "pt": "[Unidade] Efeito: Cada pilha de efeitos aumenta a conscientização do kotaro kito (nadando no mar) em 0,4%. Aumento de até 15%.",
+        "en": "[Unity] Effect: Each stack of effects increases the awareness of Kotaro Kito (swimming in the sea) by 0.4%. Up to 15% increase."
+      },
+      {
+        "jp": "木兎光太郎(海水浴)の必殺技発動時、[パワー]が[意識]×85%アップ。最大100%アップ可能",
+        "pt": "Quando o movimento especial de Kotaro Kito (natação) aumenta seu [poder] em 85%. Aumento de até 100%",
+        "en": "When Kotaro Kito (swimming)'s special move increases his [power] by 85%. Up to 100% increase"
+      }
+    ]
+  },
+  "bokuto-sp.r3": {
+    "characterId": "bokuto-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "bokuto-sp.r4": {
+    "characterId": "bokuto-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "味方のチーム士気覚醒が終了する場合、[一致団結]効果を8スタック獲得する。",
+        "pt": "Se o despertar do moral da equipe dos seus aliados termina, você ganha 8 pilhas de efeitos [da unidade].",
+        "en": "If your allies' team morale awakening ends, you gain 8 stacks of [Unity] effects."
+      },
+      {
+        "jp": "木兎光太郎(海水浴)が[絶好調]効果を持っている場合、[一致団結]効果1スタックにつき、[パワー]が3%アップ。最大150%アップ可能",
+        "pt": "Se Kotaro Kito (nadar no mar) tiver o efeito de [Best], o [poder] aumenta em 3% por pilha de efeitos [unitários]. Aumento de até 150%",
+        "en": "If Kotaro Kito (swimming in the sea) has the effect of [Best], the [Power] increases by 3% per stack of [Unity] effects. Up to 150% increase"
+      }
+    ]
+  },
+  "bokuto-sp.r5": {
+    "characterId": "bokuto-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "bokuto-ur.r1": {
+    "characterId": "bokuto-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "bokuto-ur.r2": {
+    "characterId": "bokuto-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "木兎光太郎が[しょぼくれモード]効果を持っている間、味方メンバーは[チーム精神]効果を獲得する（メインパラメータが12%アップ）",
+        "pt": "Enquanto o Kotaro Kito tem o efeito do modo Shobokure, os membros aliados ganham o efeito mental da equipe (o parâmetro principal aumentou 12%)",
+        "en": "While Kotaro Kito has the Shobokure Mode effect, allied members gain the Team Mind effect (main parameter increased by 12%)"
+      }
+    ]
+  },
+  "bokuto-ur.r3": {
+    "characterId": "bokuto-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "bokuto-ur.r4": {
+    "characterId": "bokuto-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "木兎光太郎の[強打]が16%アップ。",
+        "pt": "O [slugging] de Kotaro Kito aumentou 16%.",
+        "en": "Kotaro Kito's [Slugging] has increased by 16%."
+      },
+      {
+        "jp": "木兎光太郎の強打結果がBADにならなかった場合、<皆のおかげのエース>のクールダウンをリセットする",
+        "pt": "Se o estrondo de Kotaro Kito resultar em ruim, redefina o recarga para <Ace graças a todos>",
+        "en": "If Kotaro Kito's bang results in BAD, reset the cooldown for <Ace Thanks to Everyone>"
+      }
+    ]
+  },
+  "bokuto-ur.r5": {
+    "characterId": "bokuto-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "daichi-ssr.r1": {
+    "characterId": "daichi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "daichi-ssr.r2": {
+    "characterId": "daichi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<堅実な守り>のクールダウンはボールがネットを4回超えるまでとなる",
+        "pt": "A recarga de <Solid Defension> é até que a bola exceda a rede quatro vezes.",
+        "en": "The cooldown of <Solid defensive> is until the ball exceeds the net four times."
+      }
+    ]
+  },
+  "daichi-ssr.r3": {
+    "characterId": "daichi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "daichi-ssr.r4": {
+    "characterId": "daichi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<堅実な守り>追加効果：このプレー発生後、最初の強打スキルは、威力がさらに該当メンバーの[強打]×25%アップし、スタミナ消費が50%ダウン",
+        "pt": "<Solid Defense> Efeito adicional: Após essa jogada, a primeira forte habilidade de sucesso aumentará o poder do membro correspondente em 25% [Super Bang] e reduzirá o consumo de resistência em 50%",
+        "en": "<Solid defense> Additional effect: After this play occurs, the first strong hit skill will increase the power of the corresponding member by 25% [Super Bang] and reduce stamina consumption by 50%"
+      }
+    ]
+  },
+  "daichi-ssr.r5": {
+    "characterId": "daichi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "futakuchi-ssr.r1": {
+    "characterId": "futakuchi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "futakuchi-ssr.r2": {
+    "characterId": "futakuchi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "二口堅治の[サーブ]が10%アップ",
+        "pt": "Niguchi Kenji's [servir] aumentou 10%",
+        "en": "Niguchi Kenji's [serve] increased by 10%"
+      }
+    ]
+  },
+  "futakuchi-ssr.r3": {
+    "characterId": "futakuchi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "futakuchi-ssr.r4": {
+    "characterId": "futakuchi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "二口堅治がブロック時、スパイク（強打・速攻）をした相手メンバーに[怒り]不利効果を付与する（[強打]/[速攻]が10%ダウン）",
+        "pt": "Quando Niguchi Kenji bloqueia, o membro do oponente que aumenta (sucessos apoiados, ataques rápidos) dá um efeito desfavorável (queda de 10% da [batalha]/[ataques rápidos])",
+        "en": "When Niguchi Kenji blocks, the opponent member who spikes (supported hits, fast attacks) gives an unfavorable effect (down 10% from [Battle]/[Fast attacks])"
+      }
+    ]
+  },
+  "futakuchi-ssr.r5": {
+    "characterId": "futakuchi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "goshiki-ssr.r1": {
+    "characterId": "goshiki-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "goshiki-ssr.r2": {
+    "characterId": "goshiki-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<次期エース>追加効果：[キレキレ]効果1スタックにつき、[意識]が2%アップ",
+        "pt": "<Próximo ACE> Efeito adicional: [A nitidez] Efeito 1 pilha aumenta [consciência] em 2%",
+        "en": "<Next Ace> Additional Effect: [Sharpness] Effect 1 stack increases [Consciousness] by 2%"
+      }
+    ]
+  },
+  "goshiki-ssr.r3": {
+    "characterId": "goshiki-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "goshiki-ssr.r4": {
+    "characterId": "goshiki-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "味方がチーム士気覚醒を発動する時、<奇跡を起こす>のクールダウンをリセットする。",
+        "pt": "Quando seus aliados ativarem o despertar do moral da equipe, redefina o <Create Miracle> recarga.",
+        "en": "When your allies activate Team Morale Awakening, reset the <Create Miracle> cooldown."
+      },
+      {
+        "jp": "味方がチーム士気覚醒を発動している間、<奇跡を起こす>は発動後のクールダウンを必要としなくなる",
+        "pt": "Enquanto seus aliados ativam o despertar do moral da equipe, <fazer milagres> não requer mais uma recarga após a ativação",
+        "en": "While your allies activate Team Morale Awakening, <Making Miracles> no longer requires a cooldown after activation"
+      }
+    ]
+  },
+  "goshiki-ssr.r5": {
+    "characterId": "goshiki-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "haruki-ssr.r1": {
+    "characterId": "haruki-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "haruki-ssr.r2": {
+    "characterId": "haruki-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<守備の中心>のクールダウンはボールがネットを6回超えるまでとなる。",
+        "pt": "A recarga no <Centro de Defesa> é até que a bola exceda a rede seis vezes.",
+        "en": "The cooldown at the <center of defensiveness> is until the ball exceeds the net six times."
+      },
+      {
+        "jp": "<守備の中心>発動時、味方メンバーの[強打]が3%アップ。最高5スタック",
+        "pt": "Quando ativado, os 'membros' dos aliados [hits de poder] aumentam em 3%. Até 5 pilhas",
+        "en": "When activated, allies' members' [power hits] increase by 3%. Up to 5 stacks"
+      }
+    ]
+  },
+  "haruki-ssr.r3": {
+    "characterId": "haruki-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "haruki-ssr.r4": {
+    "characterId": "haruki-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "味方失点時、味方後衛の次のレシーブ威力が該当メンバーの[レシーブ]×30%アップ",
+        "pt": "Quando os aliados deram uma meta, o próximo poder de recebimento da retaguarda dos aliados aumenta em 30% [receber] para o membro correspondente",
+        "en": "When allies have given a goal, the next receiving power of the allies' rear guard increases by 30% [Receive] for the corresponding member"
+      }
+    ]
+  },
+  "haruki-ssr.r5": {
+    "characterId": "haruki-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "hayaseiomi-ur.r1": {
+    "characterId": "hayaseiomi-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hayaseiomi-ur.r2": {
+    "characterId": "hayaseiomi-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "試合開始時、佐久早聖臣が[完璧主義]効果を5スタック獲得する。[完璧主義]効果1スタックにつき、レシーブ威力が[レシーブ]×6%、強打威力が[強打]×6%アップ。最高20スタック",
+        "pt": "No início da partida, Sakuhaya Seiomi ganha 5 pilhas de efeitos [perfeccionismo]. [Perfeccionismo] Para cada pilha de efeitos, a potência do receptor aumenta em 6%e a potência poderosa aumenta em 6%. Até 20 pilhas",
+        "en": "At the start of the match, Sakuhaya Seiomi gains 5 stacks of [Perfectionism] effects. [Perfectionism] For each stack of effects, the receiver power increases by 6%, and the powerful hit power increases by 6%. Up to 20 stacks"
+      }
+    ]
+  },
+  "hayaseiomi-ur.r3": {
+    "characterId": "hayaseiomi-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hayaseiomi-ur.r4": {
+    "characterId": "hayaseiomi-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "佐久早聖臣がコート上に居る場合、味方のレシーブ・カバー・ブロックがナイスプレーになった場合、レシーブ・カバー・ブロックをしたメンバーの[反応]10%につき、佐久早聖臣が[打ち破る]効果を1スタック獲得する。[打ち破る]効果1スタックにつき、[パワー]が10%アップ。最高15スタック。この効果は佐久早聖臣の次の強打まで持続する",
+        "pt": "Se Sakuhaya Seiomi estiver na quadra, se o bloco de cobertura do receptor de um aliado se tornar bom, Sakuhaya Seiomi ganhará 1 pilha de efeito para cada 10% das [reações] dos membros que receberam blocos de cobertura. [Quebra] Efeito: aumenta [poder] em 10% por pilha. Até 15 pilhas. Esse efeito dura até o próximo forte sucesso de Sakuhaya Seiomi.",
+        "en": "If Sakuhaya Seiomi is on the court, if an ally's receiver cover block becomes nice, Sakuhaya Seiomi will gain 1 stack of effect for every 10% of the [reactions] of the members who have received cover blocks. [Breaking] Effect: Increases [Power] by 10% per stack. Up to 15 stacks. This effect lasts until Sakuhaya Seiomi's next strong hit."
+      }
+    ]
+  },
+  "hayaseiomi-ur.r5": {
+    "characterId": "hayaseiomi-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hinata-sp.r1": {
+    "characterId": "hinata-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hinata-sp.r2": {
+    "characterId": "hinata-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "日向翔陽(花見)の[攻撃テクニック]が20%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合、この速攻がブロックされず、相手メンバーの[意識]と[反応]が10%ダウン。この効果はボールがネットを3回越えるまで持続する。",
+        "pt": "Hinata Shoyo (Técnica de Ataques HANA) aumentou 20%. Se o ataque rápido de Hinata Shoyo (Hanagawa) se tornar um bom movimento, esse ataque rápido não será bloqueado e a [consciência] do membro adversário e [reação] será reduzida em 10%. Esse efeito dura até que a bola exceda a rede três vezes.",
+        "en": "Hinata Shoyo (Hana Viewing)'s [attack technique] has been increased by 20%. If Hinata Shoyo (Hanagawa)'s quick attack becomes a nice move, this quick attack will not be blocked, and the opposing member's [consciousness] and [reaction] will be reduced by 10%. This effect lasts until the ball has exceeded the net three times."
+      },
+      {
+        "jp": "今回の速攻で得点を決めた場合、相手メンバーの[意識]と[反応]がさらに10%ダウン。この効果はボールがネットを3回越えるまで持続する。",
+        "pt": "Se você pontuar rapidamente, desta vez, a [consciência] e a [reação] do membro adversário serão reduzidas em 10%adicionais. Esse efeito dura até que a bola exceda a rede três vezes.",
+        "en": "If you score quickly this time, the opposing member's [consciousness] and [reaction] will be reduced by an additional 10%. This effect lasts until the ball has exceeded the net three times."
+      }
+    ]
+  },
+  "hinata-sp.r3": {
+    "characterId": "hinata-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hinata-sp.r4": {
+    "characterId": "hinata-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "日向翔陽(花見)の[パワー]が30%アップ。試合開始時、日向翔陽(花見)の[意識]が0%に減少し、1%減少するごとに、日向翔陽(花見)の[パワー]が2.5%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合の[パワー]が[意識]×40%アップ。最大60%アップ可能。",
+        "pt": "O [poder] de Hinata Shoyo (visualização de Hana) aumentou 30%. No início da partida, a consciência de Hinata Shoyo (Hanagawa) diminui para 0%e a cada diminuição de 1%, o poder de Hinata Shoyo (Hanagawa) aumenta 2,5%. Se o ataque rápido de Hinata Shoyo (Hana Viewing) se torna uma boa jogada, o [poder] aumenta em 40%. Aumento de até 60%.",
+        "en": "The [power] of Hinata Shoyo (Hana Viewing) has been increased by 30%. At the start of the match, Hinata Shoyo (Hanagawa)'s consciousness decreases to 0%, and with every 1% decrease, Hinata Shoyo (Hanagawa)'s power increases by 2.5%. If Hinata Shoyo (Hana Viewing)'s quick attack becomes a nice play, the [power] increases by 40%. Up to 60% increase."
+      }
+    ]
+  },
+  "hinata-sp.r5": {
+    "characterId": "hinata-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hinata-ssr.r1": {
+    "characterId": "hinata-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "hinata-ssr.r2": {
+    "characterId": "hinata-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<ボールと仲良し>効果変更：ナイスプレー時の[意識]アップ効果を[最高1スタック]から[最高3スタック]に変更",
+        "pt": "<Amizade com a bola> Mudança do efeito: mudou o efeito [consciência] aumentando ao jogar bem de [máximo 1 pilha] para [máximo 3 pilhas]",
+        "en": "<Friendship with the Ball> Effect Change: Changed the [Consciousness] boost effect when playing nicely from [Maximum 1 stack] to [Maximum 3 stacks]"
+      }
+    ]
+  },
+  "hinata-ssr.r3": {
+    "characterId": "hinata-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "hinata-ssr.r4": {
+    "characterId": "hinata-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "日向翔陽の速攻がナイスプレーになった場合、<羽ばたく雛鳥>のクールダウンをリセットする",
+        "pt": "Se o ataque rápido de Hinata Shoyo se tornar bom, redefina a recarga para <Flying Chicken Birds>.",
+        "en": "If Hinata Shoyo's quick attack becomes nice, reset the cooldown for <Flying Chicken Birds>."
+      }
+    ]
+  },
+  "hinata-ssr.r5": {
+    "characterId": "hinata-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "hirugami-ur.r1": {
+    "characterId": "hirugami-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hirugami-ur.r2": {
+    "characterId": "hirugami-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "相手がチーム士気覚醒を発動している間、昼神幸郎のサーブ時、[意識]が20%アップし、[強固なブロック]効果を1スタック獲得する。",
+        "pt": "Enquanto seu oponente ativa o despertar do moral da equipe, quando Hirugami Koro serve, a consciência aumenta em 20% e ganha 1 pilha de efeito [bloqueio forte].",
+        "en": "While your opponent activates Team Morale Awakening, when Hirugami Koro serves, consciousness increases by 20% and gains 1 stack of [Strong Block] effect."
+      },
+      {
+        "jp": "味方失点時、[強固なブロック]効果を1スタック獲得し、昼神幸郎のメインパラメータが10%アップ。この効果はボールがネットを4回超えるまで持続する。",
+        "pt": "Quando os aliados têm uma meta, eles ganham 1 pilha de efeito de [bloqueio forte], aumentando em 10%os parâmetros dos principais parâmetros de Hirugami Koro. Esse efeito dura até que a bola exceda a rede quatro vezes.",
+        "en": "When allies have a goal, they gain 1 stack of [Strong Block] effect, increasing Hirugami Koro's main parameters by 10%. This effect lasts until the ball exceeds the net four times."
+      },
+      {
+        "jp": "味方得点時、＜”不動の昼神”＞のクールダウンはボールがネットを超える回数6回分減る",
+        "pt": "Ao marcar um aliado, a recarga de \"Fudo no Hirugami\" reduz o número de vezes que a bola excede a rede em seis vezes.",
+        "en": "When scoring on an ally, the cooldown of \"Fudo no Hirugami\" reduces the number of times the ball exceeds the net by six times."
+      }
+    ]
+  },
+  "hirugami-ur.r3": {
+    "characterId": "hirugami-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hirugami-ur.r4": {
+    "characterId": "hirugami-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "昼神幸郎の[守備テクニック]が20%アップ。",
+        "pt": "As [técnicas defensivas de Hirugami Koro] aumentaram 20%.",
+        "en": "Hirugami Koro's [defensive techniques] has been increased by 20%."
+      },
+      {
+        "jp": "昼神幸郎がコート上に居る場合、スパイク（強打・速攻）をするメンバーに[乱す]不利効果を1スタック付与する。[乱す]不利効果1スタックにつき、[強打/速攻]が5%ダウン。この効果はボールがネットを4回超えるまで持続する。",
+        "pt": "Se Hirukami Koro estiver na quadra, uma pilha de desvantagens será dada aos membros que jogam picos (sucessos fortes, ataques rápidos). [Interrompido] Efeito de desvantagem: [Slugging/Fast] é reduzido em 5% para cada pilha. Esse efeito dura até que a bola exceda a rede quatro vezes.",
+        "en": "If Hirukami Koro is on the court, one stack of disadvantages will be given to members who play spikes (strong hits, quick attacks). [Disrupted] Disadvantage effect: [Slugging/Fast] is reduced by 5% for each stack. This effect lasts until the ball exceeds the net four times."
+      },
+      {
+        "jp": "相手メンバーに既に[乱す]効果が付与されている場合、＜”不動の昼神”＞のクールダウンはボールがネットを超える回数10回分減り、味方メンバーの[守備テクニック]が10%アップ。この効果はボールがネットを4回超えるまで持続する",
+        "pt": "Se o membro adversário já tiver recebido o efeito a interromper, o recarga \"Fudo no Hirugami\" reduzirá o número de vezes que a bola excede a rede 10 vezes, e as [técnicas defensivas] dos membros aliados aumentarão 10%. Esse efeito dura até que a bola exceda a rede quatro vezes.",
+        "en": "If the opposing member has already been given the effect to disrupt, the \"Fudo no Hirugami\" cooldown will reduce the number of times the ball exceeds the net by 10 times, and the [defensive techniques] of allied members will increase by 10%. This effect lasts until the ball exceeds the net four times."
+      }
+    ]
+  },
+  "hirugami-ur.r5": {
+    "characterId": "hirugami-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hoshiumi-ur.r1": {
+    "characterId": "hoshiumi-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hoshiumi-ur.r2": {
+    "characterId": "hoshiumi-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "星海光来の強打時、[強打]が[速攻]×100%アップ。",
+        "pt": "Quando Hoshikai Mitsurai atinge, o [Super Bang] aumenta em 100% em 100%.",
+        "en": "When Hoshikai Mitsurai hits, the [Super Bang] increases by 100% by 100%."
+      },
+      {
+        "jp": "星海光来がコート上に居る場合、味方のサーブまたはブロック時、星海光来の[パワー]と[メンタル]が10%アップ。最高5スタック",
+        "pt": "Se Seikai Mitsurai estiver na quadra, quando um aliado serve ou bloqueia, o [poder] de Seikai Mitsurai e [mental] aumentam em 10%. Até 5 pilhas",
+        "en": "If Seikai Mitsurai is on the court, when an ally serves or blocks, Seikai Mitsurai's [power] and [mental] increase by 10%. Up to 5 stacks"
+      }
+    ]
+  },
+  "hoshiumi-ur.r3": {
+    "characterId": "hoshiumi-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "hoshiumi-ur.r4": {
+    "characterId": "hoshiumi-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "試合開始時、星海光来の[意識]と[反応]が[意識]と[反応]の合計値の85%にアップ。",
+        "pt": "No início da partida, a consciência e a reação de Hoshikai Mitsurai aumentaram para 85% do valor total da consciência e reação.",
+        "en": "At the start of the match, Hoshikai Mitsurai's consciousness and reaction increased to 85% of the total value of consciousness and reaction."
+      },
+      {
+        "jp": "＜八面六臂の大活躍＞がナイスプレーになった場合、＜八面六臂の大活躍＞のクールダウンをリセットし、星海光来のスタミナが10回復する",
+        "pt": "Se \"A Grande Atividade dos Oito Face Six Arms\" se tornar um bom spray, a recarga para \"A Grande Atividade dos Oito Face Six Arms\" é redefinida e a resistência de Seikai Mitsurai se recuperará 10",
+        "en": "If \"The Great Activity of the Eight-Face Six Arms\" becomes a nice spray, the cooldown for \"The Great Activity of the Eight-Face Six Arms\" is reset and Seikai Mitsurai's stamina will recover 10"
+      }
+    ]
+  },
+  "hoshiumi-ur.r5": {
+    "characterId": "hoshiumi-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "iwaizumi-ssr.r1": {
+    "characterId": "iwaizumi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "iwaizumi-ssr.r2": {
+    "characterId": "iwaizumi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "岩泉一がコート上に居る場合、味方コート上のメンバーの[パワー]が15%アップ",
+        "pt": "Se Iwaizumi Kazu estiver na quadra, o poder de todos os membros da quadra aumenta em 15%.",
+        "en": "If Iwaizumi Kazu is on the court, the [power] of all members on the court increases by 15%."
+      }
+    ]
+  },
+  "iwaizumi-ssr.r3": {
+    "characterId": "iwaizumi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "iwaizumi-ssr.r4": {
+    "characterId": "iwaizumi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<正面対決>追加効果：今回の強打での相手のブロック威力が、ブロックをしたメンバーの[ブロック]×20%ダウン",
+        "pt": "<Front Showdown> Efeito adicional: a potência do bloco do oponente neste poderosa hit é reduzida em 20% para os membros que bloquearam o bloco.",
+        "en": "<Front Showdown> Additional Effect: The block power of the opponent in this powerful hit is reduced by 20% for the members who blocked the block."
+      }
+    ]
+  },
+  "iwaizumi-ssr.r5": {
+    "characterId": "iwaizumi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kageyama-ssr.r1": {
+    "characterId": "kageyama-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kageyama-ssr.r2": {
+    "characterId": "kageyama-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<予想外の攻撃>追加効果：今回のツーアタックでは影山飛雄（練習）の[意識]と[パワー]が10%アップ。2ラリー以内、味方メンバーの[意識]と[パワー]が5%アップ",
+        "pt": "<Ataque inesperado> Efeito adicional: Neste ataque de dois ataques, a consciência de Kageyama Tomoo (prática) e [poder] aumentou 10%. Dentro de 2 rally, a conscientização e o poder dos aliados aumentam em 5%",
+        "en": "<Unexpected Attack> Additional Effect: In this two-attack, Kageyama Tomoo (practice)'s [consciousness] and [power] increased by 10%. Within 2 rally, allies' awareness and power increase by 5%"
+      }
+    ]
+  },
+  "kageyama-ssr.r3": {
+    "characterId": "kageyama-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kageyama-ssr.r4": {
+    "characterId": "kageyama-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "味方のスパイク（強打・速攻）がナイスプレーになった場合、<予想外の攻撃>のクールダウンが8回減る",
+        "pt": "Se os picos de seus aliados (ataques rápidos e apoiados) se tornarem agradáveis, a recarga para <ataques inesperados> será reduzida em 8 vezes.",
+        "en": "If your allies' spikes (supported, fast attacks) become nice, the cooldown for <unexpected attacks> will be reduced by 8 times."
+      }
+    ]
+  },
+  "kageyama-ssr.r5": {
+    "characterId": "kageyama-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kageyama-ur.r1": {
+    "characterId": "kageyama-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kageyama-ur.r2": {
+    "characterId": "kageyama-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "影山飛雄の[パワー]が20%アップ。",
+        "pt": "O [Power] de Kageyama Tomoo aumentou 20%.",
+        "en": "Kageyama Tomoo's [power] has increased by 20%."
+      },
+      {
+        "jp": "[負けず嫌い]効果を消費する場合、今回のサーブ・ツーアタック・スパイク（強打・速攻）をするメンバーの[意識]がさらに15%アップ。この効果はボールがネットを2回越えるまで持続する。",
+        "pt": "Ao consumir o efeito [comandante], a [consciência] dos membros que jogam esse swort-swort-sweet (hit smart-hit) aumentará em 15%adicionais. Este efeito dura até que a bola passe pela rede duas vezes.",
+        "en": "When consuming the [Commander] effect, the [consciousness] of members who play this serve-to-attack-spike (smart-hit-hit) will increase by an additional 15%. This effect lasts until the ball has passed the net twice."
+      },
+      {
+        "jp": "影山飛雄のプレーで[負けず嫌い]効果を消費した場合、[負けず嫌い]効果を1スタック獲得し、今回のプレーの威力が対応するパラメータ×15%アップ。[意識]がさらに20%アップ。この効果はボールがネットを2回越えるまで持続する。",
+        "pt": "Se você consumir o efeito [plenário] na peça de Kageyama Tomoo, você ganhará 1 pilha de efeito [plenário], e o poder dessa peça aumenta em 15% pelos parâmetros correspondentes. [Consciência] aumentou 20%. Este efeito dura até que a bola passe pela rede duas vezes.",
+        "en": "If you consume the [Commoner] effect in Kageyama Tomoo's play, you will gain 1 stack of [Commoner] effect, and the power of this play increases by 15% by the corresponding parameters. [Consciousness] increased by 20%. This effect lasts until the ball has passed the net twice."
+      },
+      {
+        "jp": "[負けず嫌い]効果を3スタック以上持っていて、今回のサーブ・ツーアタック・スパイク（強打・速攻）をするメンバーの[攻撃テクニック]が10%アップ。この効果はボールがネットを2回越えるまで持続する",
+        "pt": "[Comandante] Os membros que têm 3 ou mais pilhas de efeitos [comandantes] e que usam picos de serviço (acertos inteligentes, ataques rápidos) aumentaram 10%. Este efeito dura até que a bola cruze a rede duas vezes.",
+        "en": "[Commander] The members who have 3 or more stacks of [Commander] effects and who use serve-to-attack spikes (smart hits, quick attacks) have increased by 10%. This effect lasts until the ball has crossed the net twice."
+      }
+    ]
+  },
+  "kageyama-ur.r3": {
+    "characterId": "kageyama-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kageyama-ur.r4": {
+    "characterId": "kageyama-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "影山飛雄の[トス]が15%アップ。影山飛雄がコート上に居て、味方メンバーの速攻・ツースタック時、影山飛雄の[トス]500につき、対応するプレーをするメンバーの[パワー]が6%アップ。最大60%アップ可能。",
+        "pt": "O [Toss] de Kageyama Toshio aumentou 15%. Quando Kageyama Tomoo está na quadra, quando todos os aliados são rápidos e dois empilhados, o 500 de Kageyama Tomooo, o [poder] dos jogadores correspondentes aumenta em 6%. Aumento de até 60%.",
+        "en": "Kageyama Toshio's [toss] has increased by 15%. When Kageyama Tomoo is on the court, when all allies are quick and two-stacked, Kageyama Tomoo's [toss] 500, the [power] of the corresponding players increases by 6%. Up to 60% increase."
+      },
+      {
+        "jp": "影山飛雄のスキル発動時、影山飛雄の他のスキルのクールダウンはボールがネットを超える回数1回分減る",
+        "pt": "Quando a habilidade de Kageyama Tomoo é ativada, a recarga de outras habilidades da bola de Kageyama Tomoo é reduzida por uma vez.",
+        "en": "When Kageyama Tomoo's skill is activated, the cooldown of other skills by Kageyama Tomoo's ball is reduced by one time."
+      }
+    ]
+  },
+  "kageyama-ur.r5": {
+    "characterId": "kageyama-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kenma-sp.r1": {
+    "characterId": "kenma-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kenma-sp.r2": {
+    "characterId": "kenma-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "孤爪研磨(花見)のトス・ツーアタック時、このプレー発生後最初の味方のスパイク（強打・速攻）・ツーアタックをするメンバーの[パワー]が孤爪研磨(花見)の[反応]×100%アップ。最大100%アップ可能。この効果はボールがネットを2回越えるまで持続する",
+        "pt": "Ao jogar e dois atacar em Kozume Kenma (visualização de Hana), os picos dos primeiros aliados (sucessos fortes, ataques rápidos) e dois membros do ataque após essa jogada aumentaram 100% [reação] de Kozume Kenma (visualização de Hana). Até 100% de aumento. Este efeito dura até que a bola cruze a rede duas vezes.",
+        "en": "When Tossing and Two Attacking at Kozume Kenma (Hana Viewing), the first allies' spikes (strong hits, quick attacks) and two attack members after this play has increased by 100% [reaction] of Kozume Kenma (Hana Viewing). Up to 100% increase. This effect lasts until the ball has crossed the net twice."
+      }
+    ]
+  },
+  "kenma-sp.r3": {
+    "characterId": "kenma-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kenma-sp.r4": {
+    "characterId": "kenma-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "[隙をなくす守備]効果1スタックにつき、相手メンバーの[意識]が1%、[パワー]が2%ダウン。",
+        "pt": "[Defesa para eliminar lacunas] Para cada pilha de efeitos, a consciência do membro oposta é reduzida em 1% e o poder é reduzido em 2%.",
+        "en": "[Defense to eliminate gaps] For each stack of effects, the opposing member's consciousness is reduced by 1% and the power is reduced by 2%."
+      },
+      {
+        "jp": "[隙をなくす守備]効果のスタック数が8を超えた場合、相手メンバーの[意識]がさらに5%、[パワー]がさらに10%ダウン。",
+        "pt": "Se a contagem de pilhas para o efeito [Defesa eliminar o balanço] exceder 8, a consciência do membro oposta será reduzida em 5% adicionais e o [poder] será reduzido em 10% adicionais.",
+        "en": "If the stack count for [Defense to Eliminate Swing] effect exceeds 8, the opposing member's consciousness will be reduced by an additional 5% and the [power] will be reduced by an additional 10%."
+      },
+      {
+        "jp": "孤爪研磨(花見)がコート上に居る場合、味方失点時、[隙をなくす守備]効果を3スタック獲得する",
+        "pt": "Se Kozume Kenma (Hanabi) estiver na quadra, quando os aliados têm uma meta, obtenha três pilhas de [defesa defensiva para eliminar lacunas] efeito",
+        "en": "If Kozume Kenma (Hanabi) is on the court, when allies have a goal, get 3 stacks of [defensive defense to eliminate gaps] effect"
+      }
+    ]
+  },
+  "kenma-sp.r5": {
+    "characterId": "kenma-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kenma-ssr.r1": {
+    "characterId": "kenma-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kenma-ssr.r2": {
+    "characterId": "kenma-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<トリッキーなプレー>発動時、[繋ぐ]効果を2スタック獲得する",
+        "pt": "Ao desencadear <Tricky Play>, ganhe 2 pilhas de efeitos [Connect]",
+        "en": "When triggering <Tricky Play>, gain 2 stacks of [Connect] effects"
+      }
+    ]
+  },
+  "kenma-ssr.r3": {
+    "characterId": "kenma-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kenma-ssr.r4": {
+    "characterId": "kenma-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "セット開始時、孤爪研磨がコート上に居る場合、[繋ぐ]効果を4スタック獲得する",
+        "pt": "Quando o conjunto começa, se Kozume Kenma estiver na quadra, obtenha 4 pilhas de efeitos [de conexão]",
+        "en": "When the set starts, if Kozume Kenma is on the court, get 4 stacks of [connecting] effects"
+      }
+    ]
+  },
+  "kenma-ssr.r5": {
+    "characterId": "kenma-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kentaro-mad-dog-ssr.r1": {
+    "characterId": "kentaro-mad-dog-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kentaro-mad-dog-ssr.r2": {
+    "characterId": "kentaro-mad-dog-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "京谷賢太郎の強打がナイスプレーになった場合、ブロックとレシーブをする相手メンバーがさらに5のスタミナを失う",
+        "pt": "Se o estrondo de Kyotani Kentaro é um bom sucesso, o oponente que bloqueia e recebe perderá mais 5 resistência.",
+        "en": "If Kyotani Kentaro's bang is a nice hit, the opponent who blocks and receives will lose another 5 stamina."
+      }
+    ]
+  },
+  "kentaro-mad-dog-ssr.r3": {
+    "characterId": "kentaro-mad-dog-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kentaro-mad-dog-ssr.r4": {
+    "characterId": "kentaro-mad-dog-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<爆発的な強打>追加効果：この強打でレシーブをする相手メンバーのスタミナが50%以下の場合、該当メンバーの[レシーブ]が18%ダウン",
+        "pt": "<Explosive Slugging> Efeito adicional: Se a resistência do membro adversário que recebe este estrondo estiver abaixo de 50%, o [recebimento] do membro correspondente será reduzido em 18%.",
+        "en": "<Explosive Slugging> Additional Effect: If the stamina of the opposing member receiving this bang is below 50%, the [receive] of the corresponding member will be reduced by 18%."
+      }
+    ]
+  },
+  "kentaro-mad-dog-ssr.r5": {
+    "characterId": "kentaro-mad-dog-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kita-ssr.r1": {
+    "characterId": "kita-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kita-ssr.r2": {
+    "characterId": "kita-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<“ちゃんとやんねん”>効果変更：[確実な行動]効果の獲得条件を[北信介のレシーブがナイスプレーにならなかった場合]から[味方のレシーブがナイスプレーにならなかった場合]に変更",
+        "pt": "<\"É realmente bom\"> Mudança de efeito: [Ação segura] mudou a condição para obter o efeito de [se o receptor de Kita Shinsuke não se tornar bom] [se o receptor de Ally não se tornar bom]",
+        "en": "<\"Is it really good\"> Effect change: [Secure action] Changed the condition for obtaining the effect from [If Kita Shinsuke's receiver does not become nice] to [If ally's receiver does not become nice]"
+      }
+    ]
+  },
+  "kita-ssr.r3": {
+    "characterId": "kita-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kita-ssr.r4": {
+    "characterId": "kita-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "北信介がレシーブをミスしなかった場合、味方のチーム士気が10アップ。北信介がコート上に居る場合、味方メンバーの必殺技発動時、該当メンバーのスタミナが10回復する",
+        "pt": "Se Kita Shinsuke não cometer um erro ao receber, o moral da equipe de seus aliados aumentará em 10. Se Kita Shinsuke estiver na quadra, quando o movimento especial de um membro do aliado for ativado, a resistência do membro correspondente se recuperará 10.",
+        "en": "If Kita Shinsuke does not make a mistake in receiving, the team morale of his allies will increase by 10. If Kita Shinsuke is on the court, when an ally member's special move is activated, the corresponding member's stamina will recover 10."
+      }
+    ]
+  },
+  "kita-ssr.r5": {
+    "characterId": "kita-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "koganegawa-ssr.r1": {
+    "characterId": "koganegawa-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "koganegawa-ssr.r2": {
+    "characterId": "koganegawa-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "黄金川貫至が前衛に居る場合、相手コート上のメンバーの[強打]が4%ダウン",
+        "pt": "Se Koganekawa Kanashi estiver na linha de frente, o [apoio] dos membros no tribunal adversário será reduzido em 4%.",
+        "en": "If Koganekawa Kanashi is in the front line, the [support] of members on the opposing court will be reduced by 4%."
+      }
+    ]
+  },
+  "koganegawa-ssr.r3": {
+    "characterId": "koganegawa-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "koganegawa-ssr.r4": {
+    "characterId": "koganegawa-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<期待の新兵器>追加効果：味方前衛が全てブロックメンバーの場合、今回のツーアタック威力がさらに[トス]×15%アップ",
+        "pt": "<Nova arma esperada> Efeito adicional: se todas as vanguardas forem membros do bloco, esse poder de dois ataques aumentará 15%.",
+        "en": "<Expected New Weapon> Additional Effect: If all all vanguards are block members, this two-attack power will be increased by 15%."
+      }
+    ]
+  },
+  "koganegawa-ssr.r5": {
+    "characterId": "koganegawa-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "komori-ur.r1": {
+    "characterId": "komori-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "komori-ur.r2": {
+    "characterId": "komori-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "古森元也がコート上に居て、[次に繋げる]効果のスタック数が5以上の場合、[次に繋げる]効果1スタックにつき、味方の必殺技ではないレシーブの威力がレシーブをするメンバーの[レシーブ]×4%、古森元也のトス威力が[トス]×5%アップ",
+        "pt": "Se Furumori Motoya estiver na quadra e o número de pilha de [Connect to Next] Efeito é 5 ou mais, para cada pilha de [conectar -se ao próximo] efeito, o poder de receber o movimento especial de um aliado aumenta em 4%, e o Furumori Motoya's Toss Power em 5%.",
+        "en": "If Furumori Motoya is on the court and the stack number of [connect to next] effect is 5 or more, for each stack of [connect to next] effect, the power of receiving not an ally's special move increases by 4%, and Furumori Motoya's toss power by 5%."
+      },
+      {
+        "jp": "[次に繋げる]効果のスタック数が5以上で、味方がスパイク（強打・速攻）を決めた場合、<巧みなトス>のクールダウンはボールがネットを超える回数6回分減る",
+        "pt": "[Conecte -se ao próximo] Se o número da pilha de efeitos for 5 ou mais e seus aliados fizer um pico (ataque inteligente/ataque rápido), a recarga do <Desenvolvimento de Toss> diminui 6 vezes a bola excede a rede.",
+        "en": "[Connect to the next] If the effect stack number is 5 or more and your allies make a spike (smart hit/quick attack), the cooldown of the <developing toss> decreases by 6 times the ball exceeds the net."
+      }
+    ]
+  },
+  "komori-ur.r3": {
+    "characterId": "komori-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "komori-ur.r4": {
+    "characterId": "komori-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "古森元也がコート上に居る場合、味方後衛の[反応]が15%アップ。",
+        "pt": "Se Furumori Motoya estiver na quadra, a [reação] dos guardas traseiros aliados aumenta em 15%.",
+        "en": "If Furumori Motoya is on the court, the [reaction] of allied rear guards increases by 15%."
+      },
+      {
+        "jp": "古森元也がコート上に居る場合、味方レシーブ時、レシーブをしたメンバーの[パワー]が[反応]×50%アップ。最大60%アップ可能。この効果はボールがネットを2回越えるまで持続する",
+        "pt": "Se Furumori Motoya estiver na quadra, o [poder] dos membros que recebeu o aliado aumenta em 50% [resposta] ao receber o aliado. Aumento de até 60%. Este efeito dura até que a bola cruze a rede duas vezes.",
+        "en": "If Furumori Motoya is on the court, the [power] of the members who received the ally increases by 50% [response] when receiving the ally. Up to 60% increase. This effect lasts until the ball has crossed the net twice."
+      }
+    ]
+  },
+  "komori-ur.r5": {
+    "characterId": "komori-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "konoha-ssr.r1": {
+    "characterId": "konoha-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "konoha-ssr.r2": {
+    "characterId": "konoha-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "木葉秋紀のレシーブ結果がBADにならなかった場合、このプレー発生後最初のトスをする味方メンバーの[トス]が10%、[意識]が8%アップ",
+        "pt": "Se o resultado da recepção de Kiba Akinori não se tornar ruim, o primeiro membro do lançamento após essa jogada aumentará em 10% e a consciência em 8%.",
+        "en": "If Kiba Akinori's reception result does not become BAD, the first tossing member after this play will increase toss by 10% and consciousness by 8%."
+      }
+    ]
+  },
+  "konoha-ssr.r3": {
+    "characterId": "konoha-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "konoha-ssr.r4": {
+    "characterId": "konoha-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "木葉秋紀がコート上に居て、味方がチーム士気覚醒を発動している間、レシーブ結果がBADにならなかった場合、このプレーはチーム士気覚醒の持続時間を消費しない",
+        "pt": "Se Kiba Akinori estiver na quadra e os resultados do destinatário não se tornarem ruins enquanto seus aliados estão no acordado do moral da equipe, essa peça não consumirá a duração do despertar do moral da equipe.",
+        "en": "If Kiba Akinori is on the court and the recipient results do not become BAD while his allies are on the team morale awakening, this play will not consume the duration of Team Morale awakening."
+      }
+    ]
+  },
+  "konoha-ssr.r5": {
+    "characterId": "konoha-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kuro-sp.r1": {
+    "characterId": "kuro-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kuro-sp.r2": {
+    "characterId": "kuro-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "黒尾鉄朗（花火大会）のボールタッチ後、次のスパイク（強打・速攻）をする味方メンバーの[強打/速攻]が黒尾鉄朗（花火大会）の[ブロック]×20%アップ。最高1600アップ可能。",
+        "pt": "Depois de tocar a bola no Kuroo Tetsuro (exibição de fogos de artifício), o membro do aliado que toca o próximo pico (sucessos fortes, acertos rápidos) aumentará os [blocos] x 20% da Kuroo Tetsuro (exibição de fogos de artifício). Até 1600 podem ser aumentados.",
+        "en": "After touching the ball at Kuroo Tetsuro (Fireworks Display), the ally member who plays the next spike (strong hits, quick hits) will increase the [Blocks] x 20% from Kuroo Tetsuro (Fireworks Display). Up to 1600 can be increased."
+      },
+      {
+        "jp": "スパイク（強打・速攻）をするメンバーが後衛に居る場合、該当メンバーの[攻撃テクニック]が20%アップ。この効果はボールがネットを2回越えるまで持続する",
+        "pt": "Se houver membros que são picos (sucessos fortes, ataques rápidos) na retaguarda, a [técnica de ataque] do membro relevante aumentará 20%. Este efeito dura até que a bola cruze a rede duas vezes.",
+        "en": "If there are members who are spikes (strong hits, quick attacks) in the rear guard, the [attack technique] of the relevant member will be increased by 20%. This effect lasts until the ball has crossed the net twice."
+      }
+    ]
+  },
+  "kuro-sp.r3": {
+    "characterId": "kuro-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kuro-sp.r4": {
+    "characterId": "kuro-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "黒尾鉄朗（花火大会）のサーブ時、味方メンバーの[強打/速攻]が40%、味方後衛の[レシーブ]が30%アップ。この効果は1ラリー持続する。",
+        "pt": "Ao servir em Kuroo Tetsuro (exibição de fogos de artifício), os membros aliados [Brack/Fast] aumentaram 40%e os membros aliados '[recebem] aumentaram 30%. Este efeito dura 1 rally.",
+        "en": "When serving at Kuroo Tetsuro (fireworks display), allied members' [Brack/Fast] increased by 40%, and allied members' [Receive] increased by 30%. This effect lasts for 1 rally."
+      },
+      {
+        "jp": "黒尾鉄朗（花火大会）の[守備テクニック]が15%アップ。黒尾鉄朗（花火大会）が後衛に居る場合、[守備テクニック]がさらに15%アップ",
+        "pt": "Kuroo Tetsuro (Festival de Fireworks) [Técnicas defensivas] aumentaram 15%. Se o Kuroo Tetsuro (exibição de fogos de artifício) estiver na parte traseira, a [técnica defensiva] aumentará em 15% adicionais de 15%",
+        "en": "Kuroo Tetsuro (Fireworks Festival)'s [defensive techniques] have been increased by 15%. If Kuroo Tetsuro (Fireworks Display) is in the rear, the [defensive technique] will increase by an additional 15%"
+      }
+    ]
+  },
+  "kuro-sp.r5": {
+    "characterId": "kuro-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kuroo-ssr.r1": {
+    "characterId": "kuroo-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kuroo-ssr.r2": {
+    "characterId": "kuroo-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<安定した攻撃>効果変更：[チャージ]効果のスタック数制限がなくなる",
+        "pt": "<Ataque estável> Mudança de efeito: [Charge] Limites de pilha de efeito não mais",
+        "en": "<Stable Attack> Effect Change: [Charge] Effect Stack Limits No longer"
+      }
+    ]
+  },
+  "kuroo-ssr.r3": {
+    "characterId": "kuroo-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kuroo-ssr.r4": {
+    "characterId": "kuroo-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<全面ブロック>発動後、スパイク（強打・速攻）をした相手メンバーに[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）",
+        "pt": "<Bloco completo> Após a ativação, o membro do oponente que aumenta (sucessos fortes, sucessos rápidos) dá um efeito desfavorável (queda de 10% em [acertos fortes/ataques rápidos])",
+        "en": "<Full Block> After activating, the opponent member who spikes (strong hits, fast hits) gives an unfavorable effect (down 10% from [strong hits/fast attacks])"
+      }
+    ]
+  },
+  "kuroo-ssr.r5": {
+    "characterId": "kuroo-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "lev-ssr.r1": {
+    "characterId": "lev-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "lev-ssr.r2": {
+    "characterId": "lev-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "灰羽リエーフがブロック時、スパイク（強打・速攻）をした相手メンバーが不利効果を持っている場合、灰羽リエーフの[ブロック]が5%アップ",
+        "pt": "Quando Haiba Liev bloqueia, se o membro do oponente que pula (sucessos ou acertos rápidos) tiver uma desvantagem, o [bloco] de Haiba Liev aumenta em 5%",
+        "en": "When Haiba Liev blocks, if the opponent member who spikes (supported or quick hits) has a disadvantage, Haiba Liev's [block] increases by 5%"
+      }
+    ]
+  },
+  "lev-ssr.r3": {
+    "characterId": "lev-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "lev-ssr.r4": {
+    "characterId": "lev-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<打点の高いスパイク>追加効果：味方のトス結果がPERFECTになった場合、今回の速攻の威力が[速攻]×12%アップ",
+        "pt": "<SPIKE com RBI alto> Efeito adicional: se o lançamento dos aliados resultar em perfeito, o poder desse ataque rápido aumentará em 12%.",
+        "en": "<Spike with high RBI> Additional effect: If the allies' toss result in PERFECT, the power of this quick attack will increase by 12%."
+      }
+    ]
+  },
+  "lev-ssr.r5": {
+    "characterId": "lev-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "nishinoya-sp.r1": {
+    "characterId": "nishinoya-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "nishinoya-sp.r2": {
+    "characterId": "nishinoya-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "＜チームの危機を救う＞効果変更：スキルのクールダウン減少条件を[味方メンバーがナイスプレーをした場合]から[味方または相手メンバーがナイスプレーをした場合]に変更。",
+        "pt": "<Save Team Crisis> Mudança de efeito: altere a condição de redução de recarga de habilidade de [se um membro do aliado for uma boa jogada] para [se um aliado ou membro adversário fizer uma boa peça].",
+        "en": "<Save team crisis> Effect change: Change the skill cooldown reduction condition from [If an ally member makes a nice play] to [If an ally or opposing member makes a nice play]."
+      },
+      {
+        "jp": "西谷夕(放課後)のトスがナイスプレーになった場合、＜足レシーブ＞のクールダウンはボールがネットを超える回数1回分減り、味方メンバーのメインパラメータが12%アップ。この効果はボールがネットを3回越えるまで持続する",
+        "pt": "Se o lançamento de Nishitani Yu (depois da escola) for bom, a recarga para a recepção do pé é reduzida em uma vez a bola excede a rede e os principais parâmetros de aliados aumentam em 12%. Esse efeito dura até que a bola exceda a rede três vezes.",
+        "en": "If Nishitani Yu (after school)'s toss is nice, the cooldown for foot reception is reduced by one time the ball exceeds the net, and the main parameters of allies increase by 12%. This effect lasts until the ball has exceeded the net three times."
+      }
+    ]
+  },
+  "nishinoya-sp.r3": {
+    "characterId": "nishinoya-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "nishinoya-sp.r4": {
+    "characterId": "nishinoya-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "西谷夕(放課後)がコート上に居る場合、味方メンバーの[反応]が10%アップ。",
+        "pt": "Se Nishitani Yu (depois da escola) estiver na quadra, as respostas dos membros dos Aliados aumentarão em 10%.",
+        "en": "If Nishitani Yu (after school) is on the court, allies' members' responses will increase by 10%."
+      },
+      {
+        "jp": "西谷夕(放課後)がコート上に居て、相手のスパイク（強打・速攻）がナイスプレーになった時、味方後衛の[反応]が15%アップ。この効果はボールがネットを4回越えるまで持続する",
+        "pt": "Quando Nishitani Yu (depois da escola) está na quadra e o pico do oponente (sucessos fortes, ataques rápidos) se torna uma boa jogada, a resposta da retaguarda aliada aumenta em 15%. Esse efeito dura até que a bola tenha superado a rede quatro vezes.",
+        "en": "When Nishitani Yu (after school) is on the court and the opponent's spike (strong hits, quick attacks) becomes a nice move, the allied rear guard's response increases by 15%. This effect lasts until the ball has surpassed the net four times."
+      }
+    ]
+  },
+  "nishinoya-sp.r5": {
+    "characterId": "nishinoya-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "nishinoya-ssr.r1": {
+    "characterId": "nishinoya-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "nishinoya-ssr.r2": {
+    "characterId": "nishinoya-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<ローリングサンダー>追加変更：発動時にプラスで消費するスタミナが10に減る。",
+        "pt": "<Rolling Thunder> Alterações adicionais: Quando ativado, a resistência consumiu positivamente para 10.",
+        "en": "<Rolling Thunder> Additional changes: When activated, stamina consumed positively to 10."
+      },
+      {
+        "jp": "<ローリングサンダー>追加効果：今回のレシーブ威力がさらに[レシーブ]×10%アップ",
+        "pt": "<Rolling Thunder> Efeito adicional: a energia do receptor desta vez foi aumentada em 10% [recebimento]",
+        "en": "<Rolling Thunder> Additional effect: This time's receiver power has been increased by 10% [Receive]"
+      }
+    ]
+  },
+  "nishinoya-ssr.r3": {
+    "characterId": "nishinoya-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "nishinoya-ssr.r4": {
+    "characterId": "nishinoya-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "西谷夕の各セット1回目のレシーブとカバー威力がアップ。レシーブ威力が[レシーブ]×30%、カバー威力が[カバー]×30%アップ。このプレーは必ずNORMAL以上になる",
+        "pt": "A primeira recepção e o poder de cobertura de Nishitani Yu aumentaram. A energia de recebimento é aumentada em 30%e a energia de cobertura é aumentada em 30%. Esta peça sempre será normal ou superior",
+        "en": "Nishitani Yu's first reception and coverage power increased. Receive power is increased by 30%, and cover power is increased by 30%. This play will always be NORMAL or higher"
+      }
+    ]
+  },
+  "nishinoya-ssr.r5": {
+    "characterId": "nishinoya-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "ohira-ssr.r1": {
+    "characterId": "ohira-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "ohira-ssr.r2": {
+    "characterId": "ohira-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "大平獅音のレシーブあるいは強打がナイスプレーになった場合、味方セッターが次にトスを上げる時、[意識]が8%、[パワー]が15%アップ",
+        "pt": "Se a recepção ou batida de Ohira Shion for agradável, na próxima vez que um Setter Ally aumentar o arremesso, a [consciência] aumenta em 8% e [poder] aumenta em 15%.",
+        "en": "If Ohira Shion's reception or banging is nice, the next time an ally setter raises the toss, the [consciousness] increases by 8% and [power] increases by 15%."
+      }
+    ]
+  },
+  "ohira-ssr.r3": {
+    "characterId": "ohira-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "ohira-ssr.r4": {
+    "characterId": "ohira-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "大平獅音のレシーブあるいは強打がナイスプレーになった場合、味方メンバーの必殺技のクールダウンが2回減る",
+        "pt": "Se a recepção ou batida de Ohira Shion é bom, a recarga dos movimentos especiais dos membros dos aliados é reduzida duas vezes",
+        "en": "If Ohira Shion's reception or banging is nice, the cooldown of the special moves of allies' members is reduced twice"
+      }
+    ]
+  },
+  "ohira-ssr.r5": {
+    "characterId": "ohira-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oikawa-ssr.r1": {
+    "characterId": "oikawa-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oikawa-ssr.r2": {
+    "characterId": "oikawa-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<一か八かのサーブ>追加効果：及川徹（練習）がサーブをミスしない。及川徹（練習）がサーブ時、[意識]が15%、[パワー]が20%アップ",
+        "pt": "<1 ou 8 servir> Efeito adicional: Oikawa toru (prática) não comete um erro no saque. Quando Oikawa Toru (prática) serve, [a consciência] aumenta em 15% e [o poder] aumenta em 20%",
+        "en": "<1 or 8 serve> Additional effect: Oikawa Toru (practice) does not make a mistake in serve. When Oikawa Toru (practice) serves, [consciousness] increases by 15% and [power] increases by 20%"
+      }
+    ]
+  },
+  "oikawa-ssr.r3": {
+    "characterId": "oikawa-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oikawa-ssr.r4": {
+    "characterId": "oikawa-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<一か八かのサーブ>発動時、[攻撃のリズム]効果を2スタック獲得する。<一か八かのサーブ>で得点を決めた場合、クールダウンをリセットする",
+        "pt": "Quando <1 ou 8 servir> é ativado, obtenha 2 pilhas de efeitos de [ritmo de ataque]. Se você marcar um gol com <1 ou 8 servir>, redefina a recarga",
+        "en": "When <1 or 8 serve> is activated, gain 2 stacks of [Attack Rhythm] effects. If you score a goal with <1 or 8 serve>, reset the cooldown"
+      }
+    ]
+  },
+  "oikawa-ssr.r5": {
+    "characterId": "oikawa-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oikawa-ur.r1": {
+    "characterId": "oikawa-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "oikawa-ur.r2": {
+    "characterId": "oikawa-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "及川徹の[サーブ]が18%アップ。",
+        "pt": "O saque de Oikawa Toru aumentou 18%.",
+        "en": "Oikawa Toru's serve increased by 18%."
+      },
+      {
+        "jp": "[攻撃のリズム]効果を消費するたびに、味方メンバーの[強打]が5%アップ。最高5スタック",
+        "pt": "Cada vez que você consome o efeito [do ritmo de ataque], os membros aliados [slugging] aumentam em 5%. Até 5 pilhas",
+        "en": "Each time you consume the [Attack Rhythm] effect, allied members' [Slugging] increases by 5%. Up to 5 stacks"
+      }
+    ]
+  },
+  "oikawa-ur.r3": {
+    "characterId": "oikawa-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "oikawa-ur.r4": {
+    "characterId": "oikawa-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "及川徹のサーブ時、味方コート上のメンバーが[意識]が15%、[パワー]が15%アップ。この効果はボールがネットを3回超えるまで持続する。",
+        "pt": "Quando Oikawa Toru atende, todos os membros do tribunal ganharam consciência em 15% e poder em 15%. Este efeito dura até que a bola exceda a rede três vezes.",
+        "en": "When Oikawa Toru serves, all members on the court gained consciousness by 15% and power by 15%. This effect lasts until the ball exceeds the net three times."
+      },
+      {
+        "jp": "及川徹のサーブ後に、ボールがネットを2回越えるまでの間に味方が得点する場合、<大王様のジャンプサーブ>のクールダウンをリセットする",
+        "pt": "Se seus aliados pontuarem antes que a bola cruzasse a rede duas vezes depois que Oikawa Toru servir, redefina a recarga para <King's Jump Serir>.",
+        "en": "If your allies score before the ball has crossed the net twice after Oikawa Toru serve, reset the cooldown for <King's Jump Serve>."
+      }
+    ]
+  },
+  "oikawa-ur.r5": {
+    "characterId": "oikawa-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "osamu-ur.r1": {
+    "characterId": "osamu-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "osamu-ur.r2": {
+    "characterId": "osamu-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "宮治の速攻時、レシーブをする相手メンバーが[制圧]不利効果を持っている場合、今回の速攻威力が[速攻]×60%アップ",
+        "pt": "Quando o rápido ataque de Miyaji, se o membro do oponente que recebe o receptor tiver um efeito de desvantagem, o poder desse ataque rápido aumentará em 60%.",
+        "en": "When Miyaji's quick attack, if the opponent member who receives the receiver has a disadvantage effect, the power of this quick attack will increase by 60%."
+      }
+    ]
+  },
+  "osamu-ur.r3": {
+    "characterId": "osamu-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "osamu-ur.r4": {
+    "characterId": "osamu-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "宮治が速攻を決めた場合、このプレー発生後の2回の味方の必殺技の発動時、必殺技を発動するメンバーの[攻撃テクニック]と[守備テクニック]が20%アップ",
+        "pt": "Se Miyaji decidir atacar rapidamente, quando o movimento especial do companheiro de equipe será ativado no segundo turno após a ocorrência desta jogada, a [técnica de ataque] e a [técnica defensiva] dos membros que ativam o movimento especial aumentarão em 20%.",
+        "en": "If Miyaji decides to attack quickly, when the teammate's special move is activated in the second round after this play occurs, the [attack technique] and [defensive technique] of the members who activate the special move will increase by 20%."
+      }
+    ]
+  },
+  "osamu-ur.r5": {
+    "characterId": "osamu-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "oshiro-ssr.r1": {
+    "characterId": "oshiro-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oshiro-ssr.r2": {
+    "characterId": "oshiro-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "ラリー開始時、尾白アランが[息抜きタイム]効果を3スタック獲得する。[息抜きタイム]効果1スタックにつき、[攻撃テクニック]がアップ",
+        "pt": "No início da manifestação, Oshira Alan ganha 3 pilhas de efeitos [do tempo da respiração]. [Tempo de respiração] [Técnica de ataque] é aumentada para cada pilha de efeitos",
+        "en": "At the start of the rally, Oshira Alan gains 3 stacks of [Breathing Time] effects. [Breathing Time] [Attack Technique] is increased for each stack of effects"
+      }
+    ]
+  },
+  "oshiro-ssr.r3": {
+    "characterId": "oshiro-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "oshiro-ssr.r4": {
+    "characterId": "oshiro-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "1ラリーに2回、尾白アランがコート上に居る場合、味方メンバーのスタミナが回復する時、尾白アランのスタミナが8回復する",
+        "pt": "Se Oshira Alan estiver na quadra duas vezes em uma manifestação, quando a resistência de um membro de um membro se recupera, Oshira Alan recupera 8 resistência",
+        "en": "If Oshira Alan is on the court twice in one rally, when an ally member's stamina recovers, Oshira Alan recovers 8 stamina"
+      }
+    ]
+  },
+  "oshiro-ssr.r5": {
+    "characterId": "oshiro-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "rintaro-ssr.r1": {
+    "characterId": "rintaro-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "rintaro-ssr.r2": {
+    "characterId": "rintaro-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "角名倫太郎の必殺技発動時、相手前衛に[困惑]不利効果を1スタック付与する。[困惑]不利効果1スタックにつき、[ブロック]が10%ダウン。この効果はボールがネットを8回超えるまで持続する",
+        "pt": "Quando o movimento especial de Kakuna Rintarou é ativado, a vanguarda do oponente fornece uma pilha de efeitos de desvantagem. [Confuso] [Block] é reduzido em 10% para cada pilha de desvantagens. Este efeito dura até que a bola exceda a rede 8 vezes.",
+        "en": "When Kakuna Rintarou's special move is activated, the opponent's vanguard gives one stack of disadvantage effects. [Confusing] [Block] is reduced by 10% for each stack of disadvantages. This effect lasts until the ball exceeds the net 8 times."
+      }
+    ]
+  },
+  "rintaro-ssr.r3": {
+    "characterId": "rintaro-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "rintaro-ssr.r4": {
+    "characterId": "rintaro-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "角名倫太郎が速攻を決めた場合、[攻撃テクニック]が7%アップ。最高5スタック",
+        "pt": "Se Kakuna Rintaro decidir atacar rapidamente, sua técnica de ataque aumentará 7%. Até 5 pilhas",
+        "en": "If Kakuna Rintaro decides to attack quickly, his attack technique will increase by 7%. Up to 5 stacks"
+      }
+    ]
+  },
+  "rintaro-ssr.r5": {
+    "characterId": "rintaro-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "sasaya-ssr.r1": {
+    "characterId": "sasaya-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "sasaya-ssr.r2": {
+    "characterId": "sasaya-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "笹谷武仁が不利効果の影響を受けない。相手にリードされている場合、笹谷武仁の[ブロック]と[強打]が10%アップ",
+        "pt": "Sasaya Takehito não é afetado pelo efeito desvantajoso. Se o oponente estiver liderando, Sasaya Takehito's [Block] e [Sharp] aumentam em 10%",
+        "en": "Sasaya Takehito is not affected by the disadvantageous effect. If the opponent is leading, Sasaya Takehito's [Block] and [Sharp] increase by 10%"
+      }
+    ]
+  },
+  "sasaya-ssr.r3": {
+    "characterId": "sasaya-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "sasaya-ssr.r4": {
+    "characterId": "sasaya-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<隙のないディフェンス>と<強力アタック>のクールダウンが2回減る",
+        "pt": "<< Defesa sem abertura >> e <strong Attack> recargas são reduzidas duas vezes",
+        "en": "<<no-open defense>> and <strong attack> cooldowns are reduced twice"
+      }
+    ]
+  },
+  "sasaya-ssr.r5": {
+    "characterId": "sasaya-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "semi-ssr.r1": {
+    "characterId": "semi-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "semi-ssr.r2": {
+    "characterId": "semi-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "瀬見英太がサービスエースを決めた場合、<これだけは自由>のクールダウンをリセットする",
+        "pt": "Se o Semi Eita decidir assinar um ACE de serviço, redefinir o recado para <isto é gratuito>.",
+        "en": "If Semi Eita decides to sign a service ace, reset the cooldown for <This is free>."
+      }
+    ]
+  },
+  "semi-ssr.r3": {
+    "characterId": "semi-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "semi-ssr.r4": {
+    "characterId": "semi-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "瀬見英太の[サーブ]が[意識]×50%アップ",
+        "pt": "Semi eita [servir] aumenta em 50%",
+        "en": "Semi Eita's [serve] increases by 50%"
+      }
+    ]
+  },
+  "semi-ssr.r5": {
+    "characterId": "semi-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "shirabu-ssr.r1": {
+    "characterId": "shirabu-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "shirabu-ssr.r2": {
+    "characterId": "shirabu-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "味方が強打スキル発動時、味方全員の[意識]が1%、[反応]が2%アップ。最高5スタック",
+        "pt": "Quando um aliado ativa uma poderosa habilidade de sucesso, a conscientização de todos os aliados aumenta em 1% e as respostas em 2%. Até 5 pilhas",
+        "en": "When an ally activates a powerful hit skill, all allies' awareness increases by 1% and responses by 2%. Up to 5 stacks"
+      }
+    ]
+  },
+  "shirabu-ssr.r3": {
+    "characterId": "shirabu-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "shirabu-ssr.r4": {
+    "characterId": "shirabu-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "各セットで初めて<スパイカーを活かすトス>を発動した時、発動後のクールダウンを必要としなくなる。今回のトスは必ずナイスプレーになる",
+        "pt": "Quando você ativa um <Toss que utiliza o Spyker> pela primeira vez em cada conjunto, você não precisa mais esfriar depois que ele foi ativado. Este sorteio definitivamente será bom",
+        "en": "When you activate a <Toss that Make Use of Spyker> for the first time in each set, you no longer need to cool down after it has been activated. This toss will definitely be nice"
+      }
+    ]
+  },
+  "shirabu-ssr.r5": {
+    "characterId": "shirabu-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "sugawara-sp.r1": {
+    "characterId": "sugawara-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "sugawara-sp.r2": {
+    "characterId": "sugawara-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "菅原孝支(放課後)のスタミナが80未満の場合、菅原孝支(放課後)のボールタッチ時、スタミナが5回復する。",
+        "pt": "Se a resistência de Sugawara Takashi (depois da escola) for inferior a 80, quando a resistência de Sugawara Takashi (depois da escola) se recuperará por 5.",
+        "en": "If Sugawara Takashi (after school)'s stamina is less than 80, when Sugawara Takashi (after school)'s stamina will recover by 5."
+      },
+      {
+        "jp": "菅原孝支(放課後)がコート上に居る場合、味方得点時、得点したメンバーのスタミナが10回復し、[意識]が8%、[反応]が8%アップ。最高2スタック",
+        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados pontuarem, a resistência da equipe marcada se recuperará em 10 e [a consciência] aumentará em 8% e [a reação] aumentará em 8%. Até 2 pilhas",
+        "en": "If Sugawara Takashi (After School) is on the court, when allies score, the stamina of the team scored will recover by 10, and [consciousness] will increase by 8% and [reaction] will increase by 8%. Up to 2 stacks"
+      }
+    ]
+  },
+  "sugawara-sp.r3": {
+    "characterId": "sugawara-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "sugawara-sp.r4": {
+    "characterId": "sugawara-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "菅原孝支(放課後)がコート上に居る場合、味方メンバーのメインパラメータが10%アップ。",
+        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, os principais parâmetros dos membros aliados aumentarão 10%.",
+        "en": "If Sugawara Takashi (after school) is on the court, the main parameters of allied members will be increased by 10%."
+      },
+      {
+        "jp": "菅原孝支(放課後)がコート上に居る場合、味方得点時、味方メンバーの[攻撃テクニック]が4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック。",
+        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados marcarem, os 'membros' dos aliados [técnica de ataque] aumentam em 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas.",
+        "en": "If Sugawara Takashi (After School) is on the court, when allies score, allies' members' [attack technique] increases by 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks."
+      },
+      {
+        "jp": "菅原孝支(放課後)がコート上に居る場合、味方失点時、味方メンバーの[守備テクニック]が4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック。",
+        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados têm uma meta, as [técnicas defensivas] de aliados aumentam em 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas.",
+        "en": "If Sugawara Takashi (After School) is on the court, when allies have a goal, the [defensive techniques] of allies increase by 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks."
+      },
+      {
+        "jp": "味方が失点したラリーのボールがネットを超える回数が5回以下の場合、味方メンバーの[守備テクニック]がさらに4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック",
+        "pt": "Se a bola de manifestação que seus aliados desistiram das metas forem menos de cinco vezes que a rede, a [técnica defensiva] de seus aliados aumentará em mais 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas",
+        "en": "If the rally ball that your allies have given up goals is less than five times than the net, the [defensive technique] of your allies will increase by an additional 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks"
+      }
+    ]
+  },
+  "sugawara-sp.r5": {
+    "characterId": "sugawara-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "tanaka-ssr.r1": {
+    "characterId": "tanaka-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tanaka-ssr.r2": {
+    "characterId": "tanaka-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<切り込み隊長>効果変更：威力がアップするプレーが[各セット1回目の強打]から[各セット2回目までの強打]に変更される",
+        "pt": "<Cutting Commander> Mudança de efeito: as peças que aumentam a energia foram alteradas de [hits de bateria para cada conjunto] para [hits de bateria para cada configuração até o segundo acerto]",
+        "en": "<Cutting Commander> Effect Change: Plays that increase power have been changed from [Battery hits for each set] to [Battery hits for each set up until the second hit]"
+      }
+    ]
+  },
+  "tanaka-ssr.r3": {
+    "characterId": "tanaka-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tanaka-ssr.r4": {
+    "characterId": "tanaka-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<スーパークロス>で得点を決めた場合、コート上の味方メンバーの[強打]が40%アップ。1セットに1回発動可能",
+        "pt": "Se você marcar um gol com <Supercross>, os aliados da quadra receberão um aumento de 40% em [Superbs]. Pode ser ativado uma vez por conjunto",
+        "en": "If you score a goal with <Supercross>, allies on the court will get a 40% increase in [superbs]. Can be activated once per set"
+      }
+    ]
+  },
+  "tanaka-ssr.r5": {
+    "characterId": "tanaka-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tatsuo-ssr.r1": {
+    "characterId": "tatsuo-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tatsuo-ssr.r2": {
+    "characterId": "tatsuo-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "鷲尾辰生がコート上に居る場合、味方得点時、味方のチーム士気が10アップ。",
+        "pt": "Se Washio Tatsuo estiver na quadra, o moral da equipe de aliados aumenta em 10 quando eles marcarem.",
+        "en": "If Washio Tatsuo is on the court, the team morale of allies increases by 10 when they score."
+      },
+      {
+        "jp": "味方がチーム士気覚醒を発動している間、味方得点時、鷲尾辰生の[ブロック]が5%アップ。最高3スタック",
+        "pt": "Enquanto seus aliados ativam o despertar do moral da equipe, o [Block] de Washio Tatsuo aumenta em 5% quando eles pontuam. Até 3 pilhas",
+        "en": "While your allies activate Team Morale Awakening, Washio Tatsuo's [Block] increases by 5% when they score. Up to 3 stacks"
+      }
+    ]
+  },
+  "tatsuo-ssr.r3": {
+    "characterId": "tatsuo-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tatsuo-ssr.r4": {
+    "characterId": "tatsuo-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "鷲尾辰生のブロック結果がBADにならなかった場合、このプレー発生後最初のブロックをする味方メンバーの[ブロック]が15%アップ",
+        "pt": "Se o resultado do bloco de Washio Tatsuo não se tornar ruim, o [bloco] de todos os membros do aliado que bloqueará o primeiro bloco depois que esse jogo ocorreu aumentou 15%.",
+        "en": "If Washio Tatsuo's block result does not become BAD, the [block] of all ally members who will block the first block after this play has occurred increased by 15%."
+      }
+    ]
+  },
+  "tatsuo-ssr.r5": {
+    "characterId": "tatsuo-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tendo-ssr.r1": {
+    "characterId": "tendo-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tendo-ssr.r2": {
+    "characterId": "tendo-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "天童覚がコート上に居る場合、試合開始時、相手メンバーに[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）",
+        "pt": "Se Time Kaku estiver na quadra, o oponente receberá um efeito de desvantagem [de raiva] no início da partida ([[Bang/Fast] é reduzido em 10%)",
+        "en": "If Tendo Kaku is on the court, the opponent will receive an [anger] disadvantage effect at the start of the match ([Bang/Fast] is reduced by 10%)"
+      }
+    ]
+  },
+  "tendo-ssr.r3": {
+    "characterId": "tendo-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tendo-ssr.r4": {
+    "characterId": "tendo-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "天童覚の[ブロック]が10%アップ。",
+        "pt": "O [bloco] de Tevo Kaku aumentou 10%.",
+        "en": "Tendo Kaku's [Block] has increased by 10%."
+      },
+      {
+        "jp": "天童覚がブロック時、スパイク（強打・速攻）をした相手メンバーが不利効果を持っている場合、今回のブロックでは天童覚の[反応]が10%アップ",
+        "pt": "Se o membro do oponente que pular (Smart Hits/Quantas) quando os blocos de Tendo Kaku têm uma desvantagem, a [reação] de Tendo Kaku aumentará 10% neste bloco.",
+        "en": "If the opponent member who spikes (smart hits/quicks) when Tendo Kaku blocks has a disadvantage, Tendo Kaku's [reaction] increases by 10% in this block."
+      }
+    ]
+  },
+  "tendo-ssr.r5": {
+    "characterId": "tendo-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "terushima-ssr.r1": {
+    "characterId": "terushima-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "terushima-ssr.r2": {
+    "characterId": "terushima-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "照島遊児がコート上に居る場合、味方のコート上にレシーブメンバーが1名いるごとに、味方後衛の[レシーブ]と[カバー]が6%アップ",
+        "pt": "Se Terushima Yuji estiver na quadra, cada membro receptor no tribunal aumentará o [Receber] e [cobertura] da retaguarda aliada em 6%.",
+        "en": "If Terushima Yuji is on the court, each receiving member on the court will increase the [Receive] and [Cover] of the allied rear guard by 6%."
+      }
+    ]
+  },
+  "terushima-ssr.r3": {
+    "characterId": "terushima-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "terushima-ssr.r4": {
+    "characterId": "terushima-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "照島遊児が[もっともっと遊ぶ]効果を4スタック所持している場合、<痛快スパイク>のクールダウンをリセットする。照島遊児が強打時、[もっともっと遊ぶ]効果を4スタック消費し、今回の強打威力が[強打]×35%アップ。[もっともっと遊ぶ]効果1スタックにつき、[強打/速攻]が2.5%アップ。最高4スタック",
+        "pt": "Se Terushima Yuji tiver quatro pilhas de [tocar cada vez mais] efeitos, redefina a recarga para <filigando picos>. Quando Terushima Yuji acerta, ele consome 4 pilhas de efeito [jogam cada vez mais], e o poder desse poderoso hit aumenta em 35%. [Jogue cada vez mais] para cada pilha de efeitos, [Super Bang/Fast] aumenta em 2,5%. Até 4 pilhas",
+        "en": "If Terushima Yuji has four stacks of [play more and more] effects, reset the cooldown for <relaxing spikes>. When Terushima Yuji hits, he consumes 4 stacks of [play more and more] effect, and the power of this powerful hit increases by 35%. [Play more and more] For each stack of effects, [Super Bang/Fast] increases by 2.5%. Up to 4 stacks"
+      }
+    ]
+  },
+  "terushima-ssr.r5": {
+    "characterId": "terushima-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tsuki-sp.r1": {
+    "characterId": "tsuki-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "tsuki-sp.r2": {
+    "characterId": "tsuki-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "[攻撃]効果を持っている場合、月島蛍（花火大会）の[攻撃テクニック]が15%、[守備テクニック]が20%アップ。",
+        "pt": "Se o efeito do ataque estiver presente, o Tsukishima Firefly (Tecnique de Ataques) de Tsukishima (Técnica de Ataque] aumenta em 15% e a [técnica defensiva] aumenta em 20%.",
+        "en": "If the attack effect is present, Tsukishima Firefly (fireworks display)'s [attack technique] increases by 15% and [defensive technique] increases by 20%."
+      },
+      {
+        "jp": "[守備]効果を持っている場合、月島蛍（花火大会）の[守備テクニック]が15%、[攻撃テクニック]が20%アップ。",
+        "pt": "Se tiver um efeito [defensivo], as técnicas de Tsukishima Hotaru (Técnicas Defensivas] aumentam em 15% e a [técnica de ataque] aumenta em 20%.",
+        "en": "If it has a [defensive] effect, Tsukishima Hotaru (fireworks display)'s [defensive techniques] increase by 15% and [attack technique] increases by 20%."
+      },
+      {
+        "jp": "＜優れた頭脳＞効果変更：",
+        "pt": "<Excelente cérebro> Mudanças de efeito:",
+        "en": "<Excellent brain> Effect changes:"
+      },
+      {
+        "jp": "月島蛍（花火大会）の[速攻]アップ条件を＜味方のブロックスキル発動時＞から[味方のブロックスキル発動時、または月島蛍（花火大会）がボールタッチする時、または不利効果を持つ相手メンバーがボールタッチする時]に変更。",
+        "pt": "A condição [rapidamente] para Tsukishima hotaru (exibição de fogos de artifício) foi alterada de <Quando a habilidade do bloco de Ally é ativada> para [quando a habilidade do bloco de Ally é ativada, quando Tsukishima hotaru (fogos de artifício) toca a bola, ou quando um membro do oponente com um efeito de desdobramento toca o bala",
+        "en": "The [quickly] condition for Tsukishima Hotaru (Fireworks Display) has been changed from <When ally's block skill is activated> to [When ally's block skill is activated, when Tsukishima Hotaru (Fireworks Display) touches the ball, or when an opponent member with a disadvantageous effect touches the ball]."
+      },
+      {
+        "jp": "月島蛍（花火大会）の[ブロック]アップ条件を＜味方の速攻スキル発動時＞から[味方の速攻スキル発動時、または月島蛍（花火大会）がボールタッチする時、または不利効果を持つ相手メンバーがボールタッチする時]に変更。",
+        "pt": "A condição para [bloqueio] para Tsukishima hotaru (exibição de fogos de artifício) foi alterada de <quando a habilidade rápida de um aliado é ativada> para [quando a habilidade rápida de um aliado é ativada, quando o Tsukishima HOTARU (fogos de artifício exibe) toca a bola, ou quando um membro adversário com um efeito desgosto toca toca os].",
+        "en": "The condition for [blocking] for Tsukishima Hotaru (fireworks display) has been changed from <When an ally's quick skill is activated> to [When an ally's quick skill is activated, when Tsukishima Hotaru (fireworks display) touches the ball, or when an opposing member with a disadvantageous effect touches the ball]."
+      }
+    ]
+  },
+  "tsuki-sp.r3": {
+    "characterId": "tsuki-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "tsuki-sp.r4": {
+    "characterId": "tsuki-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "月島蛍（花火大会）の[メンタル]と[パワー]が40%アップ。",
+        "pt": "A mentalidade e o poder da Tsukishima Firefly (exibição de fogos de artifício) foram aumentados em 40%.",
+        "en": "The mentality and power of Tsukishima Firefly (fireworks display) has been increased by 40%."
+      },
+      {
+        "jp": "月島蛍（花火大会）のブロックがナイスプレーになった場合、今回のブロック威力が[ブロック]×40%アップ。相手前衛に[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）。",
+        "pt": "Se os blocos em Tsukishima Firefly (exibição de fogos de artifício) forem bem exibidos, a potência desse bloco aumentará em 40%. Dá um efeito de desvantagem [raiva] à vanguarda do oponente (queda de 10% para [Batalha/Fast]).",
+        "en": "If the blocks at Tsukishima Firefly (Fireworks Display) are nicely displayed, the power of this block will increase by 40%. Gives an [anger] disadvantage effect to the opponent's vanguard (down 10% for [Battle/Fast])."
+      },
+      {
+        "jp": "月島蛍（花火大会）の速攻がナイスプレーになった場合、今回の速攻威力が[速攻]×40%アップ。このプレーはブロックされない",
+        "pt": "Se a potência rápida do ataque rápido de Tsukishima HOLSARU (Fireworks Display) se tornar um bom spray, a potência rápida do ataque desta vez será aumentada em 40%. Esta peça não está bloqueada",
+        "en": "If Tsukishima Hotaru (Fireworks Display)'s quick attack power becomes a nice spray, the quick attack power this time will be increased by 40%. This play is not blocked"
+      }
+    ]
+  },
+  "tsuki-sp.r5": {
+    "characterId": "tsuki-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "tsuki-ssr.r1": {
+    "characterId": "tsuki-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tsuki-ssr.r2": {
+    "characterId": "tsuki-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "月島蛍のブロック時、レシーブをする味方メンバーの[レシーブ]が3%アップ。最高3スタック",
+        "pt": "Quando o Tsukishima HODARU bloqueia, o [recebimento] de todos os membros do aliado que receberam o jogo aumentou 3%. Até 3 pilhas",
+        "en": "When Tsukishima Hotaru blocks, the [receive] of all ally members receiving the game increased by 3%. Up to 3 stacks"
+      }
+    ]
+  },
+  "tsuki-ssr.r3": {
+    "characterId": "tsuki-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "tsuki-ssr.r4": {
+    "characterId": "tsuki-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<ご挨拶>追加効果：発動後、相手前衛に[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）",
+        "pt": "<Saudações> Efeito adicional: Após a ativação, dê um efeito de desvantagem ao garde do oponente (queda de 10% para [Battle/Fast])",
+        "en": "<Greetings> Additional effect: After activation, give the opponent's front-garde a disadvantage effect (down 10% for [Battle/Fast])"
+      }
+    ]
+  },
+  "tsuki-ssr.r5": {
+    "characterId": "tsuki-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "ushijima-ur.r1": {
+    "characterId": "ushijima-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "ushijima-ur.r2": {
+    "characterId": "ushijima-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "＜”絶対王者”＞のクールダウンはボールがネットを4回超えるまでとなる。",
+        "pt": "O \"campeão absoluto\" esfria até a bola exceder a rede quatro vezes.",
+        "en": "The \"Absolute Champion\" cools down until the ball exceeds the net four times."
+      },
+      {
+        "jp": "味方メンバーがナイスプレーをした場合、<“絶対王者”>のクールダウンが1回減る",
+        "pt": "Se um membro do aliado fizer uma boa jogada, o recarga para o <Campeão Absoluto> será reduzido por um",
+        "en": "If an ally member makes a nice play, the cooldown for <Absolute Champion> will be reduced by one"
+      }
+    ]
+  },
+  "ushijima-ur.r3": {
+    "characterId": "ushijima-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "ushijima-ur.r4": {
+    "characterId": "ushijima-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "牛島若利の[意識]が倍になる。",
+        "pt": "Dobra [a consciência] de Ushijima Wakatoshi.",
+        "en": "Ushijima Wakatoshi's [consciousness] doubles."
+      },
+      {
+        "jp": "牛島若利がナイスプレーをした場合、2のスタミナを回復する",
+        "pt": "Se Ushijima Wakatoshi fizer um bom spray, ele restaurará 2 resistência",
+        "en": "If Ushijima Wakatoshi makes a nice spray, he will restore 2 stamina"
+      }
+    ]
+  },
+  "ushijima-ur.r5": {
+    "characterId": "ushijima-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "yaku-ssr.r1": {
+    "characterId": "yaku-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yaku-ssr.r2": {
+    "characterId": "yaku-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<完璧なレシーブ>追加効果：今回のレシーブ威力がさらに[レシーブ]×20%アップ",
+        "pt": "<Perfect Receber> Efeito adicional: a energia do receptor desta vez foi aumentada em 20%",
+        "en": "<Perfect Receive> Additional Effect: This time's receiver power has been increased by 20%"
+      }
+    ]
+  },
+  "yaku-ssr.r3": {
+    "characterId": "yaku-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yaku-ssr.r4": {
+    "characterId": "yaku-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "相手のマッチポイントになると、夜久衛輔の[レシーブ]と[カバー]が10%アップ",
+        "pt": "Quando os match points do oponente se tornam pontos de partida, o Yoku Esuke [recebe] e [capa] aumentam em 10%.",
+        "en": "When the opponent's match points become match points, Yoku Esuke's [Receive] and [Cover] increase by 10%."
+      }
+    ]
+  },
+  "yaku-ssr.r5": {
+    "characterId": "yaku-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yamagata-ssr.r1": {
+    "characterId": "yamagata-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yamagata-ssr.r2": {
+    "characterId": "yamagata-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "山形隼人がコート上に居る場合、試合開始時、味方後衛の[レシーブ]が10%アップ。この効果は3ラリー持続する",
+        "pt": "Se Yamagata Hayato estiver na quadra, o [recebimento] de guardas traseiros aliados aumentará 10% no início da partida. Este efeito dura 3 rally",
+        "en": "If Yamagata Hayato is on the court, the [receive] of allied rear guards will increase by 10% at the start of the match. This effect lasts 3 rally"
+      }
+    ]
+  },
+  "yamagata-ssr.r3": {
+    "characterId": "yamagata-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yamagata-ssr.r4": {
+    "characterId": "yamagata-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "味方メンバーがナイスプレーをした場合、<堅実なレシーブ>のクールダウンが2回減る",
+        "pt": "Se um aliado fizer uma boa jogada, a recarga de <Solid Recender> será reduzida duas vezes.",
+        "en": "If an ally makes a nice play, the cooldown of <Solid Receive> will be reduced twice."
+      }
+    ]
+  },
+  "yamagata-ssr.r5": {
+    "characterId": "yamagata-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yui-ssr.r1": {
+    "characterId": "yui-ssr",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yui-ssr.r2": {
+    "characterId": "yui-ssr",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "銀島結の[レシーブ]が15%アップ。銀島結の各セット初めてのレシーブは必ず失点しない",
+        "pt": "Ginjima Yui's [Receba] aumentou 15%. A primeira recepção de Ginjima Yui em cada conjunto não será concedida.",
+        "en": "Ginjima Yui's [Receive] has increased by 15%. Ginjima Yui's first reception in each set will not be conceded."
+      }
+    ]
+  },
+  "yui-ssr.r3": {
+    "characterId": "yui-ssr",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "yui-ssr.r4": {
+    "characterId": "yui-ssr",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "銀島結のコート上に居て、味方メンバーのレシーブ結果がBADにならなかった場合、銀島結の[意識]が12%アップ。この効果は1ラリー持続する",
+        "pt": "Se o Tribunal de Ginjima Yui e os resultados recebidos de aliados não se tornarem ruins, a [consciência] de Ginjima Yui aumentará 12%. Este efeito dura 1 rally",
+        "en": "If Ginjima Yui's court and the receiving results of allies do not become BAD, Ginjima Yui's [consciousness] will increase by 12%. This effect lasts 1 rally"
+      }
+    ]
+  },
+  "yui-ssr.r5": {
+    "characterId": "yui-ssr",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 10%",
+        "en": "Main parameters increased by 10%"
+      }
+    ]
+  }
+}

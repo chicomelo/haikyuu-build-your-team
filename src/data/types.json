@@ -1,0 +1,44 @@
+{
+  "quick": {
+    "name": {
+      "jp": "速攻",
+      "pt": "Ataque Rápido",
+      "en": "Quick"
+    }
+  },
+  "receive": {
+    "name": {
+      "jp": "レシーブ",
+      "pt": "Recepção",
+      "en": "Receive"
+    }
+  },
+  "block": {
+    "name": {
+      "jp": null,
+      "pt": "Bloqueio",
+      "en": "Block"
+    }
+  },
+  "power": {
+    "name": {
+      "jp": null,
+      "pt": "Ataque Potente",
+      "en": "Power"
+    }
+  },
+  "serve": {
+    "name": {
+      "jp": null,
+      "pt": "Saque",
+      "en": "Serve"
+    }
+  },
+  "setter": {
+    "name": {
+      "jp": null,
+      "pt": "Levantador",
+      "en": "Setter"
+    }
+  }
+}

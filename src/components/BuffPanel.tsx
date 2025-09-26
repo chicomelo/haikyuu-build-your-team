@@ -2,10 +2,21 @@ import { computeBuffs } from "../lib/rules";
 import { useStore } from "../state/store";
 import type { Buff } from "../lib/types";
 import { fixMojibake } from "../lib/textFix";
-import { useState } from "react";
+import { useState, Fragment } from "react";
 import { X, ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { useIsMobile } from "../lib/hooks/useMediaQuery";
+
+function renderMultiline(text: string) {
+  if (!text) return text;
+  const lines = String(text).split(/\r?\n/);
+  return lines.map((line, idx) => (
+    <Fragment key={idx}>
+      {line}
+      {idx < lines.length - 1 ? <br /> : null}
+    </Fragment>
+  ));
+}
 
 export function BuffPanel() {
   const { t, i18n } = useTranslation();
@@ -126,12 +137,8 @@ function BuffButton({
 
       {open && (
         <div
-          className="pl-4 md:absolute md:left-16 md:transform md:-translate-x-1/2 md:bottom-full md:mb-2 md:w-64 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
-          style={{
-            zIndex: 1000,
-            bottom: "100%",
-            marginBottom: "0.5rem",
-          }}
+          className="pl-4 md:absolute md:right-full md:top-1/2 md:-translate-y-1/2 md:mr-2 md:w-80 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
+          style={{ zIndex: 1000 }}
         >
           <button
             onClick={() => {
@@ -144,8 +151,9 @@ function BuffButton({
           <div className="font-medium mb-2 text-sm hidden md:block">
             {buff.name}
           </div>
-          <div className="leading-relaxed text-sm">{description}</div>
-          <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-full w-0 h-0 border-l-4 border-r-4 border-t-4 border-l-transparent border-r-transparent border-t-black/90"></div>
+          <div className="leading-relaxed text-sm">{renderMultiline(description)}</div>
+          {/* Arrow pointing to the button (right side of tooltip) */}
+          <div className="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 translate-x-full w-0 h-0 border-y-4 border-y-transparent border-l-4 border-l-black/90" />
         </div>
       )}
     </div>

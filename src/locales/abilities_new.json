@@ -1,0 +1,3974 @@
+{
+  "akaashi-sp.a1": {
+    "name": {
+      "pt": "Organizador de time",
+      "en": "Team Organizer",
+      "jp": "チームのまとめ役"
+    },
+    "description": {
+      "pt": "O [Saque] do Akaashi Kyoji (Garotos da Praia) aumenta em 13/15/18%. Quando a moral do time de um aliado sobe, o Akaashi Kyoji (Garotos da Praia) ganha 1 acúmulo do efeito [Mente Tranquila] a cada 10 pontos de moral. Cada acúmulo de [Mente Tranquila] aumenta o [Levantamento] dele em 1,5%, até 10 acúmulos. Enquanto o Despertar da Moral do Time não estiver ativo, todos os acúmulos de [Mente Tranquila] são consumidos quando o Akaashi Kyoji (Beach Boy) toca na bola. Cada vez que um acúmulo de [Mente Tranquila] é consumido, o [Empenho] do Akaashi Kyoji (Garotos da Praia) aumenta em 3%, chegando a no máximo 30%. Esse efeito dura por 2 passagens pela rede.",
+      "en": "Akaashi Kyoji (Beach Boy)’s [S] increases by 13/15/18%. When an ally's team morale increases, Akaashi Kyoji (Beach Boy) gains 1 stack of the [Calm Mind] effect for every 10 increase in team morale. Each stack of [Calm Mind] increases [Set] by 1.5%. Up to 10 stacks. While Team Morale Awakening is not active, all [Calm Mind] stacks are consumed when Akaashi Kyoji (Beach Boy) touches the ball. Each time one stack of [Calm Mind] is consumed, Akaashi Kyoji (Beach Boy)’s [Spirit] increases by 3%. This effect can be increased by up to 30%. This effect lasts for 2 net crossings.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akaashi-sp.a2": {
+    "name": {
+      "pt": "Aproveitamento Maximo",
+      "en": "Bring out 100% of your training",
+      "jp": "練習の100%を引き出す"
+    },
+    "description": {
+      "pt": "Keiji Akaashi (Garotos da Praia) executa um Levantamento com poder de 140/155/170% do seu [Levantamento]. Depois dessa jogada, na próxima vez que ele ativar o Superior, o [Levantamento] dele aumenta em 15%. Esse efeito dura por 2 passagens pela rede.",
+      "en": "Keiji Akaashi (Beach Boy) performs a Set with 140/155/170% of [Set] as power. After this play occurs, the next time Keiji Akaashi (Beach Boy) activates his Ultimate, his [Set] is increased by 15%. This effect lasts for 2 net crossings.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akaashi-sp.a3": {
+    "name": {
+      "pt": "Atacar",
+      "en": "Attacking Set",
+      "jp": "攻撃を仕掛けるトス"
+    },
+    "description": {
+      "pt": "Enquanto um aliado estiver com o Despertar da Moral do Time ativo, quando o Keiji Akaashi (Garotos da Praia) tocar na bola, 5 acúmulos de [Mente Tranquila] são consumidos e o [Empenho] dele aumenta em 70%. Esse efeito dura por 2 passagens pela rede.Se o levantamento do Keiji Akaashi (Garotos da Praia) for um Acerto Crítico, a [Percepção] do primeiro jogador a cortar (Ataque Potente/Ataque Rápido) depois dessa jogada aumenta em 50% da [Percepção] do Keiji Akaashi (Garotos da Praia), até no máximo 60%.Se essa cortada for um Ataque Potente, a [Percepção] de quem realizou a cortada recebe mais 50% da [Percepção] do Keiji Akaashi (Garotos da Praia), até no máximo 60%. Quando [Mostre 100% do Seu Treino] for ativado, para cada acúmulo de [Mente Tranquila] que ele tiver, o [Ataque Potente] de quem fizer a cortada aumenta em 3/3,5/4%, até no máximo 24/28/32%.",
+      "en": "While an ally has activated Team Morale Awakening, when Keiji Akaashi (Beach Boy) touches the ball, 5 stacks of [Calm Mind] are consumed, and Keiji Akaashi (Beach Boy)'s [Spirit] is increased by 70%. This effect lasts for 2 net crossings. If Keiji Akaashi (Beach Boy)'s set is a Critical Hit, the [Awareness] of the first player to spike (Power Attack/Quick Attack) after this play is increased by 50% of Keiji Akaashi (Beach Boy)'s [Awareness] Stat, up to a maximum of 60%. If this spike is a Power Attack, the [Awareness] of the team member who performed the spike will be increased by an additional 50% of Keiji Akaashi (Beach Boys)’s [Awareness]. Up to a maximum of 60%. When [Bring out 100% of Your Training] is activated, for each stack of [Calm Mind] he has, the [Power Attack] of the member performing the spike will increase by 3/3.5/4%, up to a maximum of 24/28/32%",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akaashi-sp.a4": {
+    "name": {
+      "pt": "Jogada Decisiva",
+      "en": "Decisive Blow",
+      "jp": "決定的な一撃"
+    },
+    "description": {
+      "pt": "Akaashi Kyoji (Garotos da Praia) executa uma Largada do Levantador com poder de 260/280/300/320/340% do seu [Levantamento]. A Largada do Levantador não pode ser bloqueada. Se essa largada for um Acerto Crítico, o tempo de recarga de [Mostre 100% do Seu Treino] é reduzido em 4 passagens pela rede.Ganha 1 acúmulo de [Mente Tranquila].",
+      "en": "Akaashi Kyoji (Beach Boy) performs a Setter Dump with a power of 260/280/300/320/340% of [Set]. The Setter Dump cannot be blocked. If this Dump is a Critical Hit, the cooldown of [Bring Out 100% of Your Practice] is reduced by 4 net crossings. Gain 1 stack of [Calm Mind].",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akaashi-ssr.a1": {
+    "name": {
+      "pt": "CLAREZA EM MOVIMENTO",
+      "en": "Instant Insight",
+      "jp": "瞬時の洞察力"
+    },
+    "description": {
+      "pt": "Enquanto KEIJI AKAASHI estiver em quadra, quando um colega de time realiza um Bloqueio ou Recepção PERFEITOS, remove todas as penalidades desse jogador, aumenta a Percepção do AKAASHI em 8% e aumenta o Moral do seu time em 3",
+      "en": "When Keiji Akaashi is on the court and an ally achieves a PERFECT block or receive, all of that ally’s adverse effects are reset. Keiji Akaashi’s [Awareness] increases by 8/10/12% and allies’ team morale increases by 3.",
+      "jp": "赤葦京治がコート上に居て、味方メンバーのブロック・レシーブ結果がPERFECTの場合、該当メンバーの不利効果を全てリセットする。\n赤葦京治の[意識]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）、味方のチーム士気が3アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "akaashi-ssr.a2": {
+    "name": {
+      "pt": "CONTRAPONTO TÁTICO",
+      "en": "The Brain of Fukurodani",
+      "jp": "“梟谷の頭脳”"
+    },
+    "description": {
+      "pt": "KEIJI AKAASHI realiza uma Largada do Levantador impossível de bloquear com 120% do seu atributo Levantamento. Se esse ataque marcar, seu próximo Saque ganha 10% de potência adicional com base no atributo Saque do sacador",
+      "en": "Keiji Akaashi performs a setter dump with 120/135/150% of [Set] as power. This attack cannot be blocked. If a point is scored with this setter dump, the power of the first teammate’s serve after this play is increased by 10% of that teammate’s [Serve] as power.",
+      "jp": "赤葦京治が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のツーアタックをする。ツーアタックはブロックされない。\n今回のツーアタックで得点を決めた場合、このプレー発生後最初の味方のサーブ威力が該当メンバーの[サーブ]×10%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "akaashi-ssr.a3": {
+    "name": {
+      "pt": "FLUXO ALTRUÍSTA",
+      "en": "Devoted Set",
+      "jp": "献身的なトス"
+    },
+    "description": {
+      "pt": "Aumenta o atributo Levantamento de KEIJI AKAASHI em 8%. Enquanto seu time estiver em [Reforço de Moral do Time], para cada 4 de Moral obtido, aumenta a Percepção de AKAASHI em 1.2%. Quando AKAASHI realiza um Levantamento Superior, a próxima Cortada do seu time terá a garantia de ser Superior",
+      "en": "Increases Keiji Akaashi’s [Set] by 8/10/12%. While Team Morale Awakening is active, for every 4 increase in team morale, Keiji Akaashi’s [Awareness] increases by 1.2/1.7/2.3%. If his set results in a nice play, the first spike [Power Attack/Quick Attack] by an ally after this play is guaranteed to be a NICE play.",
+      "jp": "赤葦京治の[トス]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n味方がチーム士気覚醒を発動している間、味方のチーム士気が4アップするごとに、赤葦京治の[意識]が（Lv1: 1.2%, Lv2: 1.75%, Lv3: 2.3%）アップ。\n赤葦京治のトスがナイスプレーになった場合、このプレー発生後最初の味方のスパイク（強打・速攻）は必ずナイスプレーになる"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "akaashi-ssr.a4": {
+    "name": {
+      "pt": "CONJUNTO CONSISTENTE",
+      "en": "The Usual Set",
+      "jp": "“いつも通り”のトス"
+    },
+    "description": {
+      "pt": "KEIJI AKAASHI realiza um Levantamento com 240% do seu atributo Levantamento",
+      "en": "Keiji Akaashi sets with 240/255/270/285/300% of [Set] as power.",
+      "jp": "赤葦京治が[トス]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285, Lv5: 300）の威力のトスをする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "akagi-ssr.a1": {
+    "name": {
+      "pt": "Defesa que Aumenta a Seriedade",
+      "en": "Seriousness boosting save",
+      "jp": "士気を高めるカバー"
+    },
+    "description": {
+      "pt": "Aumenta a [Recepção] e a [Defesa] de Akagi Michinari em 8/10/12%. Aumenta a Moral do Time em 10 quando Akagi recebe ou defende.",
+      "en": "Increases Akagi Michinari's [Receive] and [Save] by 8%/10%/12%. Increases team morale by 10 when Akagi Michinari receives or Saves.",
+      "jp": "赤木路成の[レシーブ]と[カバー]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n赤木路成のレシーブ・カバー時、味方のチーム士気が10アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akagi-ssr.a2": {
+    "name": {
+      "pt": "Um Líbero Confiável",
+      "en": "A reliable libero",
+      "jp": "頼もしいリベロ"
+    },
+    "description": {
+      "pt": "Akagi Michinari executa uma Defesa com poder igual a 120/135/150% de [Defesa]. Aumenta a [Técnica de Defesa] dos aliados em 4/6/8% até a bola cruzar a rede 6 vezes.",
+      "en": "Akagi Michinari will Save with a power equal to 120%/135%/150% of [Save]. Increases the [Defensive Technique] of allies by 4%/6%/8%. This effect lasts until the ball has crossed the net 6 times.",
+      "jp": "赤木路成が[カバー]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のカバーをする。\n味方メンバーの[守備テクニック]が（Lv1: 4%, Lv2: 6%, Lv3: 8%）アップ。この効果はボールがネットを6回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akagi-ssr.a3": {
+    "name": {
+      "pt": "Perseguir a Bola com a Mão",
+      "en": "Chase the ball with your hand",
+      "jp": "諦めずにボールを追う"
+    },
+    "description": {
+      "pt": "A [Recepção] de Akagi Michinari aumenta em 10/12/14%. Quando ele está em quadra, um oponente que faz uma cortada poderosa recebe 1 acúmulo de [Aproximação] (reduz [Ataque Potente] em 8/10/12% por acúmulo até a bola cruzar a rede 3 vezes). Se o oponente já tiver [Aproximação], a [Técnica de Defesa] dos aliados aumenta em 4/6/8% por 3 cruzamentos.",
+      "en": "Akagi Michinari's [Receive] is increased by 10%/12%/14%. When Akagi Michinari is on the court, an opposing member who hits a powerful shot will be inflicted with one stack of the [Approaching] disadvantage. For each stack of the [Approaching] disadvantage, [Approaching] will decrease [Power Attack] by 8%/10%/12%. This effect lasts until the ball goes over the net three times. When Akagi Michinari is on the court and an opposing member who hits a powerful shot already has the [Approaching] disadvantage, allied members' [Defensive Technique] will be increased by 4%/6%/8%. This effect lasts until the ball goes over the net three times.",
+      "jp": "赤木路成の[レシーブ]が（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。\n赤木路成がコート上に居る場合、強打をする相手メンバーに[迫る]不利効果を1スタック付与する。[迫る]不利効果1スタックにつき、[強打]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）ダウン。この効果はボールがネットを3回超えるまで持続する。\n赤木路成がコート上に居て、強打をする相手メンバーに既に[迫る]不利効果が付与されている場合、味方メンバーの[守備テクニック]が8%アップ。この効果はボールがネットを3回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "akagi-ssr.a4": {
+    "name": {
+      "pt": "Recepção Corajosa",
+      "en": "Gutsy Receive",
+      "jp": "根性レシーブ"
+    },
+    "description": {
+      "pt": "Akagi Michinari recebe com 240/255/270/285/300% de [Recepção] como poder.",
+      "en": "Akagi Michinari receives with 240%/255%/270%/285%/300% of [Receive] as power.",
+      "jp": "赤木路成が[レシーブ]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "aone-sp.a1": {
+    "name": {
+      "pt": "Parede Poderosa",
+      "en": "Mighty Wall",
+      "jp": "強大な壁"
+    },
+    "description": {
+      "pt": "O [Reflexo] de Aone Takanobu (Garotos da Praia) aumenta em 10/13/16%. Se o Vigor dele for menor que 80, seus [Bloqueio] e [Saque] aumentam em 10%. Ao bloquear, se o resultado for bloqueio duplo ou triplo, para cada membro bloqueador com habilidade de bloqueio, o poder do bloqueio aumenta em 20% do [Bloqueio] de Aone Takanobu (Garotos da Praia).",
+      "en": "Aone Takanobu (Beach Boys)'s [Reflex] is increased by 10/13/16%. If Aone Takanobu (Beach Boys)'s Stamina is less than 80, his [Block] and [Serve] are increased by 10%. When Aone Takanobu (Beach Boys) blocks, if this play results in a 2-person or 3-person block, for each member with a block skill among the blocking members, the block power of this play is increased with 20% of Aone Takanobu (Beach Boys)'s [Block] Stat as power.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "aone-sp.a2": {
+    "name": {
+      "pt": "Saque em Suspensão que Motiva o Time",
+      "en": "Team Motivating Jump Serve",
+      "jp": "士気を高めるジャンプサーブ"
+    },
+    "description": {
+      "pt": "Aone Takanobu (Garotos da Praia) realiza um Saque em Suspensão com 140/160/180% de [Saque] como poder. O tempo de recarga da habilidade do levantador oponente aumenta em 4× o número de cruzamentos de rede. Ao sair da quadra, se Aone ativou o [Saque em Suspensão que Motiva o Time] durante a partida, a [Técnica de Ataque] e a [Técnica de Defesa] dos seus jogadores aumentam em 5%. Se os acúmulos de [Bloqueio Rígido] forem 3 ou mais, aumentam em mais 5%. Dura até a próxima partida de Aone. (Cada acúmulo de [Bloqueio Rígido] concede +10% de [Reflexo], máx. 20).",
+      "en": "Takanobu Aone (Beach Boys) performs a Jump Serve with 140/160/180% of [Serve] as power. The cooldown of the opposing setter's skill is increased by 4 times the number of times the ball has crossed the net (Example, 2 net crossings × 4 = +8 cooldown). When Takanobu Aone (Beach Boys) leaves the court, if Takanobu Aone (Beach Boys) has activated [Team Motivating Jump Serve] during this match, the [Offensive Technique] and [Defensive Technique] of your players are increased by 5%, and if the number of stacks of the [Tough Block] effect is 3 or more, the [Offensive Technique] and [Defensive Technique] of your players are increased by 5% more. This effect lasts until Takanobu Aone (Beach Boys)'s next match. (Each stack of [Tough Block] increases [Reflex] by 10%, with a maximum of 20 stacks).",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "aone-sp.a3": {
+    "name": {
+      "pt": "Paredes Fortes e Altas",
+      "en": "Strong and High Walls",
+      "jp": "強く高い壁"
+    },
+    "description": {
+      "pt": "Quando Aone Takanobu (Garotos da Praia) está em quadra, cada vez que um oponente faz um ataque (Ataque Potente/Rápido), o atacante ganha 1 acúmulo de [Trancado]. No início da partida, todos os oponentes ganham 1 acúmulo de [Trancado]. Se o Aone Takanobu (Garotos da Praia) estiver na quadra e um oponente tiver 2 acúmulos de [Trancado], esse oponente irá consumir todos os acúmulos de [Trancado] dele, e o Aone Takanobu (Garotos da Praia) ganha [Bloqueio Rígido]. Com mais de 2 acúmulos de [Bloqueio Rígido], o [Bloqueio] dele aumenta em 10% de [Bloqueio] como poder. Com mais de 4 acúmulos de [Bloqueio Rígido], o tempo de recarga de [Bloqueio Afiado e Conduzido] cai para 8 cruzamentos de rede (12 → 8). Com mais de 6 acúmulos de [Bloqueio Rígido], o [Empenho] dele aumenta em 10%. Com mais de 8 acúmulos de [Bloqueio Rígido], o tempo de recarga de [Bloqueio Afiado e Conduzido] cai para 4 cruzamentos de rede (8 → 4).",
+      "en": "When Takanobu Aone (Beach Boys) is on the court, each time an opposing player performs an attack (Power Attack/Quick Attack), the attacker gains 1 stack of [Locked On]. At the start of the match, all opposing players gain 1 stack of [Locked On]. If Takanobu Aone (Beach Boys) is on the court and an opposing player has two stacks of [Locked On], that player will consume all of their stacks of [Locked On], and Aone Takanobu (Beach Boys) will gain [Tough Block]. If Aone Takanobu (Beach Boys) has more than 2 stacks of [Tough Block], his Block is increased by 10% of [Block] as power. If Takanobu Aone (Beach Boys) has more than 4 stacks of [Tough Block], the cooldown of [Sharp, Leading Block] decreases to 8 net crossings (12 net crossings → 8 net crossings). If Takanobu Aone (Beach Boys) has more than 6 stacks of [Tough Block], his [Spirit] increases by 10%. If Takanobu Aone (Beach Boys) has more than 8 stacks of [Tough Block], the cooldown of [Sharp, Leading Block] further decreases to 4 net crossings (8 net crossings → 4 net crossings).",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "aone-sp.a4": {
+    "name": {
+      "pt": "Bloqueio Afiado e Conduzido",
+      "en": "Sharp, Leading Block",
+      "jp": "鋭いリードブロック"
+    },
+    "description": {
+      "pt": "Aone Takanobu (Garotos da Praia) bloqueia com 260/275/290/305/320% do [Bloqueio]. Aumenta a Moral do Time em 15.",
+      "en": "Takanobu Aone (Beach Boys) blocks with 260/275/290/305/320% of [Block] Stat as power. Increases team morale by 15.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "aone-ssr.a1": {
+    "name": {
+      "pt": "ACE DE BARREIRA",
+      "en": "LOCK DOWN ACE",
+      "jp": "ロックオン"
+    },
+    "description": {
+      "pt": "Quando o resultado de um Bloqueio de TAKANOBU AONE for PERFEITO, marca o atacante adversário, reduzindo a potência da próxima cortada dele em 10% dos atributos Ataque Potente/Ataque Rápido e aumentando o consumo de Vigor dele em 30%",
+      "en": "When TAKANOBU AONE achieves a PERFECT Block result, marks the opponent spiker, reducing their next spike's power by 10% of Power/Quick Attack Stat and increasing their Stamina consumption by 30%",
+      "jp": "青根高伸のブロック結果がPERFECTの場合、今回のスパイク（強打・速攻）をした相手メンバーをロックオンする。ロックオンされたメンバーは次のスパイク（強打・速攻）で威力が[強打/速攻]×（Lv1: 10%, Lv2: 12.5%, Lv3: 15%）ダウン、スタミナ消費が30%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "aone-ssr.a2": {
+    "name": {
+      "pt": "ATAQUE FORTE",
+      "en": "HEAVY STRIKE",
+      "jp": "力強いスパイク"
+    },
+    "description": {
+      "pt": "TAKANOBU AONE realiza uma Cortada Rápida com 120% do atributo Ataque Rápido como poder",
+      "en": "TAKANOBU AONE performs a Quick Attack with 120% of Quick Attack Stat as power",
+      "jp": "青根高伸が[速攻]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力の速攻をする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 6回超える",
+        "pt": "Até a bola passar pela rede 6 vezes",
+        "en": "Until the ball crosses the net 6 times"
+      }
+    }
+  },
+  "aone-ssr.a3": {
+    "name": {
+      "pt": "COBERTURA DE BLOQUEIO TOTAL",
+      "en": "TRI-WALL FORMATION",
+      "jp": "完全ブロック"
+    },
+    "description": {
+      "pt": "Quando TAKANOBU AONE bloqueia, para cada jogador do tipo Bloqueio do seu lado (1), aumenta a potência do Bloqueio em 1% do atributo Bloqueio; quando toda a linha de ataque (3 jogador(es)) for do tipo Bloqueio, aumenta a potência do Bloqueio em mais 4% do atributo Bloqueio",
+      "en": "When TAKANOBU AONE blocks, for each Block-type player on your side (1), increases Block power by 1% of Block Stat; when all 3 front row players are of Block-type, increases Block power by an additional 4% of Block Stat",
+      "jp": "青根高伸がブロック時、味方コート上にブロックメンバーが1名いるごとに、威力が[ブロック]×（Lv1: 1%, Lv2: 2%, Lv3: 3%）アップ。味方前衛の3名がブロックメンバーの場合、威力がさらに[ブロック]×4%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "aone-ssr.a4": {
+    "name": {
+      "pt": "PILAR DE FERRO",
+      "en": "IRON PILLAR",
+      "jp": "鉄壁”の中枢"
+    },
+    "description": {
+      "pt": "TAKANOBU AONE realiza um Bloqueio com 195% do atributo Bloqueio como poder; ao bloquear a Cortada Potente de um adversário, aumenta a potência desse bloqueio em mais 9% do atributo Bloqueio",
+      "en": "TAKANOBU AONE performs a Block with 195% of Block Stat as power; when blocking an opponent's Power Spike, increases this block's power by an additional 9% of Block Stat",
+      "jp": "青根高伸が[ブロック]×（Lv1: 195%, Lv2: 210%, Lv3: 225%, Lv4: 240%, Lv5: 255%）の威力のブロックをする。相手が強打をした場合、今回のブロック威力がさらに[ブロック]×10%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 12回超える",
+        "pt": "Até a bola passar pela rede 12 vezes",
+        "en": "Until the ball crosses the net 12 times"
+      }
+    }
+  },
+  "atsumu-ur.a1": {
+    "name": {
+      "pt": "Jogada Imprevisível",
+      "en": "Unpredictable Play",
+      "jp": "型に嵌らないプレー"
+    },
+    "description": {
+      "pt": "Quando Miya Atsumu realiza um saque, se o alvo for um ponto fraco da defesa adversária, o poder do saque aumenta em 30/40/50% de [Saque]. Se não for em ponto fraco, a [Recepção] dos seus jogadores da linha de trás aumenta em 10/12/14% por 1 rali.",
+      "en": "When Miya Atsumu performs a serve, if the serve is aimed at a weak spot in the opposing team's defense, the power of that serve is increased by 30%/40%/50% of [Serve] Stat as power. When the serve is not aimed at a weak spot in the opposing team's defense, the [Receive] of your back row players increases by 10%/12%/14%. This effect lasts for one rally (one full point).",
+      "jp": "宮侑のサーブ時、相手の守備が弱い所を狙ってサーブを打つと、今回のサーブ威力が[サーブ]×（Lv1: 30%, Lv2: 40%, Lv3: 50%）アップ。\n相手の守備が弱い所を狙わずにサーブを打つと、味方後衛の[レシーブ]が（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。この効果は1ラリー持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "atsumu-ur.a2": {
+    "name": {
+      "pt": "Levantamento Delicado",
+      "en": "Delicate Set",
+      "jp": "丁寧なトス"
+    },
+    "description": {
+      "pt": "Miya Atsumu executa um Passe com 125/140/155% de [Passe] como poder. Esse Passe remove todas as penalidades do jogador que vai atacar (Potente/Rápido).",
+      "en": "Miya Atsumu will set with 125%/140%/155% of [Set] as power. This set resets all debuffs of the player who spikes (Power Attack/Quick Attack).",
+      "jp": "宮侑が[トス]×（Lv1: 125%, Lv2: 140%, Lv3: 155%）のトスをする。\nこのプレーでは、スパイク（強打・速攻）をするメンバーの不利効果を全てリセットする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "atsumu-ur.a3": {
+    "name": {
+      "pt": "Levantamento Devoto e Sincero",
+      "en": "Devoted and Sincere Set",
+      "jp": "真摯で献身的なトス"
+    },
+    "description": {
+      "pt": "Aumenta o [Passe] de Miya Atsumu em 8/11/14%. Quando um jogador seu realiza uma ação e o resultado não é PERFEITO, Atsumu ganha 2 acúmulos de [Timing Perfeito]. Cada acúmulo aumenta o [Passe] em 2% (máx. 10). Ao levantar, ele consome 1 acúmulo, aumentando a [Técnica de Ataque] e o [Ataque Rápido] do atacante em 2.5. Dura por 10 cruzamentos.",
+      "en": "Increases Miya Atsumu's [Set] by 8%/11%/14%. When one of your players performs an action, and the result is not Perfect, Miya Atsumu gains two stacks of [Perfect Timing]. Each stack of [Perfect Timing] increases [Set] by 2%, with a maximum of 10 stacks. When Miya Atsumu sets, he consumes one stack of [Perfect Timing], increasing the [Attack Technique] and [Quick Attack] Stats of the player who spikes (Power Attack/Quick Attack) by 2.5. This effect lasts for 10 net crossings.",
+      "jp": "宮侑の[トス]が（Lv1: 8%, Lv2: 11%, Lv3: 14%）アップ。\n味方メンバーのプレーがナイスプレーにならなかった場合、宮侑が[どんぴしゃり]効果を2スタック獲得する。[どんぴしゃり]効果1スタックにつき、[トス]が2%アップ。最高10スタック。\n宮侑のトス時、[どんぴしゃり]効果を1スタック消費するごとに、スパイク（強打・速攻）をするメンバーの[攻撃テクニック]が2.5%、[速攻]が2.5%アップ。この効果はボールがネットを10回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "atsumu-ur.a4": {
+    "name": {
+      "pt": "Saque das Duas Espadas",
+      "en": "Twin Swords Serve",
+      "jp": "二刀流サーブ"
+    },
+    "description": {
+      "pt": "Miya Atsumu alterna entre Saque em Suspensão e Saque Flutuante com Salto. Flutuante com Salto: 230/245/275/290% de [Saque] como poder; impede o uso de Superiores de [Ataque Potente/Ataque Rápido] por 2 cruzamentos. Saque em Suspensão: 260/275/290/305/320% de [Saque] como poder; a cada 3 de Moral do Time, a [Percepção] de Atsumu aumenta em 1% por 2 cruzamentos.",
+      "en": "Miya Atsumu alternates between a Jump Serve and a Jump Float Serve. Jump Float Serve: Miya Atsumu performs a Jump Float Serve with 230%/245%/275%/290% of [Serve] as power. Opposing players cannot usar [Power Attack] or [Quick Attack] ultimates. This effect lasts for 2 net crossings. Jump Serve: Miya Atsumu performs a Jump Serve with 260%/275%/290%/305%/320% of [Serve] as power. For every 3 Team Morale, Miya Atsumu's [Awareness] will increase by 1%. This effect lasts for 2 net crossings.",
+      "jp": "宮侑がジャンプフローターサーブとスパイクサーブを交代で打つ。\nジャンプフローターサーブ：宮侑が[サーブ]×（Lv1: 230%, Lv2: 245%, Lv3: 260%, Lv4: 275%, Lv5: 290%）の威力のジャンプフローターサーブをする。相手メンバーは強打・速攻必殺技が発動不可となる。この効果はボールがネットを2回超えるまで持続する\nスパイクサーブ：宮侑が[サーブ]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力のスパイクサーブをする。味方のチーム士気3につき、宮侑の[意識]が1%アップ。この効果はボールがネットを2回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "azumane-ssr.a1": {
+    "name": {
+      "pt": "DEFESA PROFICIENTE",
+      "en": "PROFICIENT DEFENSE",
+      "jp": "熟練守備"
+    },
+    "description": {
+      "pt": "ASAHI AZUMANE realiza uma Recepção com 120% do atributo Recepção como poder",
+      "en": "ASAHI AZUMANE performs a Receive with 120% of Receive Stat as power",
+      "jp": "東峰旭が[レシーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）のレシーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "azumane-ssr.a2": {
+    "name": {
+      "pt": "SAQUE RÁPIDO",
+      "en": "BULLET SERVE",
+      "jp": "弾丸サーブ"
+    },
+    "description": {
+      "pt": "ASAHI AZUMANE realiza um Saque em Suspensão com 120% do atributo Saque como poder",
+      "en": "ASAHI AZUMANE performs a Jump Serve with 120% of Serve Stat as power",
+      "jp": "東峰旭が[サーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）のサーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "azumane-ssr.a3": {
+    "name": {
+      "pt": "AURA DO ACE",
+      "en": "ACE'S AURA",
+      "jp": "“サムライ”エース"
+    },
+    "description": {
+      "pt": "Quando o Vigor de ASAHI AZUMANE estiver acima de 70, a potência de sua Cortada Potente aumenta em 15% do atributo Ataque Potente",
+      "en": "When ASAHI AZUMANE's Stamina is above 70, increases his Power Spike's power by 15% of Power Attack Stat",
+      "jp": "東峰旭のスタミナが70以上の場合、強打威力が[強打]×（Lv1: 15%, Lv2: 17.5%, Lv3: 20%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "azumane-ssr.a4": {
+    "name": {
+      "pt": "CORTADA CARREGADA",
+      "en": "CHARGED SPIKE",
+      "jp": "強烈スパイク"
+    },
+    "description": {
+      "pt": "ASAHI AZUMANE consome 30 de Vigor adicional para realizar uma Cortada Potente com 235% do atributo Ataque Potente como poder, recebendo 1 acúmulos de “Carga de Poder”; ao usar a habilidade [CORTADA CARREGADA], cada acúmulo de “Carga de Poder” aumenta a potência da Cortada Potente em 50% do atributo Ataque Potente",
+      "en": "ASAHI AZUMANE consumes 30 additional Stamina to perform a Power Spike with 235% of Power Attack Stat as power, receives 1 stacks of \"Power Charge\"; when casting [CHARGED SPIKE] skill, each stack of \"Power Charge\" increases Power Spike power by 50% of Power Attack Stat",
+      "jp": "東峰旭がプラスで30のスタミナを消費して、[強打]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%）の威力の強打をし、さらに[チャージ]を1スタック獲得する。\n<強烈スパイク>発動時、[チャージ]1スタックにつき、強打威力が[強打]×50%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "bokuto-sp.a1": {
+    "name": {
+      "pt": "Animar",
+      "en": "Enliven",
+      "jp": "盛り上げる"
+    },
+    "description": {
+      "pt": "O [Ataque Potente] de Kotaro Bokuto (Garotos da Praia) aumenta em 13/16/19%. Quando ele está em quadra, os efeitos de aumento de Moral para aliados, exceto 'Encorajar', são reduzidos em 100%; a cada 10 de Moral reduzida, o jogador ganha 1 acúmulo de 'Unidos'. Por acúmulo, os atributos básicos dos aliados aumentam em 0.16%, até 199 acúmulos.",
+      "en": "Kotaro Bokuro (Beach Boys)’s [Power Attack] increases by 13%/16%/19%. When Kotaro Bokuto (Beach Boys) is on the court, the effects of team morale boosts for allies other than 'Encourage' are reduced by 100%, and for every 10 morale boost reduced, the player gains 1 stack of the 'United' effect. For each stack of the 'United' effect, the Basic stats of allied members increase by 0.16%. Up to 199 stacks. When Kotaro Bokuto (Swimming) is on the court, his teammates will...",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-sp.a2": {
+    "name": {
+      "pt": "Participação Defensiva",
+      "en": "Defensive Participation",
+      "jp": "守備参加"
+    },
+    "description": {
+      "pt": "Kotaro Bokuto (Garotos da Praia) recebe com [Recepção] × 140/160/180% de poder. Ganha 3 acúmulos de [Unidos].",
+      "en": "Kotaro Bokuto (Sea Bathing) receives with [Receive] × 140%/160%/180% as power. Gain 3 stacks of the [Unity] effect.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-sp.a3": {
+    "name": {
+      "pt": "Sempre Animado!",
+      "en": "Always Cheerful!",
+      "jp": "いつも元気！"
+    },
+    "description": {
+      "pt": "Se estiver com [Melhor Condição], quando Kotaro Bokuto (Garotos da Praia) ativa o Superior, seu [Ataque Potente] aumenta em 1% por acúmulo de [Unidos] (máx. +70%) até a bola cruzar a rede duas vezes. Além disso, por acúmulo de [Unidos], o poder do seu Ataque Potente aumenta em [Ataque Potente] × 1.5% (máx. +120%) até a bola cruzar a rede duas vezes. Após o Superior, ele ganha [Altos e Baixos].",
+      "en": "If you have the [Best Condition] effect, when Kotaro Bokuto (Beach Boys) activates his Ultimate, his [Power Attack] is increased by 1% for each stack of [United] effect. Up to a maximum of 70% increase is possible. This effect lasts until the ball goes over the net twice. Also, for each stack of [United] effect, the power of his Power Attack is increased by [Power Attack] × 1.5%. Up to a maximum of 120% increase is possible. This effect lasts until the ball goes over the net twice. After Kotaro Bokuto (Swimming in the Sea) activates his Ultimate, Kotaro Bokuto (Swimming in the Sea) will gain [Ups and Downs].",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-sp.a4": {
+    "name": {
+      "pt": "Cortada Milagrosa",
+      "en": "Miracle Spike",
+      "jp": "ミラクルスパイク"
+    },
+    "description": {
+      "pt": "Kotaro Bokuto (Garotos da Praia) realiza uma Cortada com 260/280/300/320/340% do [Ataque Potente]. Para cada acúmulo de [Unidos], a [Técnica de Ataque] dele aumenta em 0.75%, até 30%, até a bola cruzar a rede duas vezes.",
+      "en": "Kotaro Bokuto (Beach Boys) will perform a spike with power equal to 260%/280%/300%/320%/340% of his [Power Attack]. For each stack of [United] effect, Kotaro Bokuto (Beach Boys)’s [Attack Technique] will increase by 0.75%. Up to a maximum of 30% increase is possible. This effect lasts until the ball goes over the net twice.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-ur.a1": {
+    "name": {
+      "pt": "MOTOR DO HYPE",
+      "en": "Influence of Enthusiasm",
+      "jp": "熱狂の影響力"
+    },
+    "description": {
+      "pt": "Quando KOTARO BOKUTO entra na quadra, aumenta o Moral do seu time em 20. Enquanto ele estiver na quadra, cada toque dos seus jogadores aumenta o Moral em 4. O efeito Reforço de Moral do Time se torna: todos os jogadores têm os Atributos Básicos aumentados em 32% com duração de 4 toques do seu time",
+      "en": "When Bokuto Kotaro plays, team morale of allies increases by 20%/25%/30%. When Bokuto Kotaro is on the court, team morale of allies increases by 4 when an allied member touches the ball. Effect of team morale awakening for allies changed: Basic stats of all members on the court increase by 32%/36%/40%. Lasts until allies touch the ball four times.",
+      "jp": "木兎光太郎の出場時、味方のチーム士気が（Lv1: 20, Lv2: 25, Lv3: 30）アップ。\n木兎光太郎がコート上に居る場合、味方メンバーがボールタッチ時、味方のチーム士気が4アップ。\n味方のチーム士気覚醒の効果変更: コート上のメンバーのメインパラメータが（Lv1: 32%, Lv2: 36%, Lv3: 40%）アップ。味方4回ボールタッチまで持続"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-ur.a2": {
+    "name": {
+      "pt": "GRANDE SACADOR",
+      "en": "Big Server",
+      "jp": "ビッグサーバー"
+    },
+    "description": {
+      "pt": "KOTARO BOKUTO realiza um Saque em Suspensão com 125% do atributo Saque dele como poder",
+      "en": "Kotaro Bokuto performs a jump serve with [Serve] × 125%/140%/155% power.",
+      "jp": "木兎光太郎が[サーブ]×（Lv1: 125%, Lv2: 140%, Lv3: 155%）の威力のジャンプサーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "bokuto-ur.a3": {
+    "name": {
+      "pt": "MUDANÇA DE HUMOR",
+      "en": "Ups and Downs in Mood",
+      "jp": "調子の浮き沈み"
+    },
+    "description": {
+      "pt": "No estado [Empolgado], o Ataque Potente de KOTARO BOKUTO aumenta em 12% e a Força em 18%. Em [Desanimado], ele não pode usar habilidades de Cortada. BOKUTO entra em [Empolgado] quando seu time entra em [Reforço de Moral do Time], e entra em [Desanimado] quando isso termina. Ao fim de cada turno, ele sai de [Desanimado]",
+      "en": "While under the effect of [Excellent Condition], Kotaro Bokuto's [Power Attack] is increased by 12%/15%/18% and his [Power] is increased by 18%/22.5%/27%. While under the effect of [Depressed Mode], Kotaro Bokuto cannot activate Power Attack skills. When an ally activates Team Morale Awakening, Kotaro Bokuto gains the [Excellent Condition] effect. When the team morale awakening of an ally ends, Kotaro Bokuto will gain the [Depressed Mode] effect. At the end of each rally, Kotaro Bokuto loses the [Sad Mode] effect.",
+      "jp": "[絶好調]効果を持っている場合、木兎光太郎の[強打]が（Lv1: 12%, Lv2: 15%, Lv3: 18%）、[パワー]が（Lv1: 18%, Lv2: 22.5%, Lv3: 27%）アップ。\n[しょぼくれモード]効果を持っている場合、木兎光太郎は強打スキルを発動できない。\n味方がチーム士気覚醒を発動する時、木兎光太郎が[絶好調]効果を獲得する。\n味方のチーム士気覚醒が終了すると、木兎光太郎が[しょぼくれモード]効果を獲得する。\n各ラリー終了時に、木兎光太郎が[しょぼくれモード]効果を失う。"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "bokuto-ur.a4": {
+    "name": {
+      "pt": "ACE FORMADO PELO TIME",
+      "en": "Ace Thanks to Everyone",
+      "jp": "皆のおかげのエース"
+    },
+    "description": {
+      "pt": "KOTARO BOKUTO realiza uma Cortada Potente com 260% de seu atributo Ataque Potente. Se essa Cortada for Superior, sua Força aumenta em 12% e o Moral do seu time aumenta em 16",
+      "en": "Kotaro Bokuto performs a Power Attack with the power of [Power Attack] × 260%/275%/290%/305%/320%. If this hit is a nice play, Kotaro Bokuto's [Power] increases by 12%/14%/16%/18%/20% and his team's morale increases by 16.",
+      "jp": "木兎光太郎が[強打]×（Lv1: 260%, Lv2: 275%, Lv3: 290%）の威力の強打をする。\nこの強打がナイスプレーになった場合、木兎光太郎の[パワー]が（Lv1: 12%, Lv2: 14%, Lv3: 16%）、味方のチーム士気が16アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "daichi-ssr.a1": {
+    "name": {
+      "pt": "RECEPÇÃO SEGURA",
+      "en": "STEADY RECEPTION",
+      "jp": "熟練レシーブ"
+    },
+    "description": {
+      "pt": "Quando DAICHI SAWAMURA realiza uma Recepção, restaura 3 de Vigor do jogador com o menor Vigor do seu lado",
+      "en": "When DAICHI SAWAMURA performs a Receive, restores 3 Stamina to the teammate with the lowest Stamina.",
+      "jp": "澤村大地がレシーブ時、コート上の一番スタミナが低い味方メンバーのスタミナが（Lv1: 3%, Lv2: 5%, Lv3: 7%）回復する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "daichi-ssr.a2": {
+    "name": {
+      "pt": "CORTADA MARRETA",
+      "en": "SLEDGEHAMMER SPIKE",
+      "jp": "パワースパイク"
+    },
+    "description": {
+      "pt": "DAICHI SAWAMURA realiza uma Cortada Potente com 120% do seu atributo Ataque Potente",
+      "en": "DAICHI SAWAMURA performs a Power Spike with 120% of his Power Attack Stat.",
+      "jp": "澤村大地が[強打]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力の強打をする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "daichi-ssr.a3": {
+    "name": {
+      "pt": "ALICERCE DO TIME",
+      "en": "TEAM BACKBONE",
+      "jp": "大黒柱"
+    },
+    "description": {
+      "pt": "Enquanto DAICHI SAWAMURA estiver presente, a potência de Recepção dos jogadores da linha de defesa do seu lado aumenta em 10% do atributo Recepção deles",
+      "en": "While DAICHI SAWAMURA is present, increases receive power of your side's back row players by 10% of their Receive Stat",
+      "jp": "澤村大地がコート上に居る場合、味方後衛のレシーブ威力が該当メンバーの[レシーブ]×（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "daichi-ssr.a4": {
+    "name": {
+      "pt": "DEFESA CONFIÁVEL",
+      "en": "RELIABLE DEFENSE",
+      "jp": "堅実な守り"
+    },
+    "description": {
+      "pt": "DAICHI SAWAMURA realiza uma Recepção com 220% do seu atributo Recepção. Se a próxima Cortada do seu lado for uma Cortada Potente, aumenta a potência dessa cortada em 15% do atributo Ataque Potente do atacante",
+      "en": "DAICHI SAWAMURA performs a Receive with 220% of his Receive Stat. If your side's next Spike is a Power Spike, increases that spike's power by 15% of the spiker's Power Attack Stat.",
+      "jp": "澤村大地が[レシーブ]×（Lv1: 220%, Lv2: 235%, Lv3: 250%, Lv4: 265%, Lv5: 280%）の威力のレシーブをする。\nこのプレー発生後の最初のスパイクが強打の場合、威力が該当メンバーの[強打]×15%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "futakuchi-ssr.a1": {
+    "name": {
+      "pt": "AUTORIDADE DO CAPITÃO",
+      "en": "CAPTAIN'S AUTHORITY",
+      "jp": "チームを引っ張る主将"
+    },
+    "description": {
+      "pt": "Enquanto KENJI FUTAKUCHI estiver presente, aumenta a potência do Bloqueio do seu lado em 8% do atributo Bloqueio de cada jogador",
+      "en": "While KENJI FUTAKUCHI is present, increases your side's Block power by 8% of each player's Block Stat",
+      "jp": "二口堅治がコート上に居る場合、味方のブロック威力が該当メンバーの[ブロック]×（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "futakuchi-ssr.a2": {
+    "name": {
+      "pt": "INÍCIO DE ATAQUE",
+      "en": "INITIATE ATTACK",
+      "jp": "アタック開始"
+    },
+    "description": {
+      "pt": "KENJI FUTAKUCHI realiza um Saque em Suspensão com 120% do atributo Saque como poder",
+      "en": "KENJI FUTAKUCHI performs a Jump Serve with 120% of Serve Stat as power",
+      "jp": "二口堅治が[サーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のジャンプサーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 6回超える",
+        "pt": "Até a bola passar pela rede 6 vezes",
+        "en": "Until the ball crosses the net 6 times"
+      }
+    }
+  },
+  "futakuchi-ssr.a3": {
+    "name": {
+      "pt": "DEFESA CRESCENTE",
+      "en": "RAISING DEFENSE",
+      "jp": "ディフェンスを築く"
+    },
+    "description": {
+      "pt": "Enquanto KENJI FUTAKUCHI estiver presente, para cada jogador do tipo Bloqueio do seu lado (1), aumenta a potência do Bloqueio em 0.5% do atributo Bloqueio",
+      "en": "While KENJI FUTAKUCHI is present, for each Block-type player on your side (1), increases Block power by 0.5% of Block Stat",
+      "jp": "二口堅治がコート上に居る場合、味方コート上にブロックメンバーが1名いるごとに、ブロック威力が該当メンバーの[ブロック]×（Lv1: 0.5%, Lv2: 1%, Lv3: 2%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "futakuchi-ssr.a4": {
+    "name": {
+      "pt": "MURALHA DE FERRO INDESTRUTÍVEL",
+      "en": "UNBREAKABLE IRON WALL",
+      "jp": "鉄壁の威厳"
+    },
+    "description": {
+      "pt": "KENJI FUTAKUCHI realiza um Bloqueio com 195% do atributo Bloqueio como poder; quando o jogador adversário que está cortando for afetado por uma penalidade, aumenta o poder desse bloqueio em mais 10% do atributo Bloqueio",
+      "en": "KENJI FUTAKUCHI performs a Block with 195% of Block Stat as power; when the opponent's spiking player is affected by a debuff, increases this block's power by an additional 10% of Block Stat",
+      "jp": "二口堅治が[ブロック]×（Lv1: 195%, Lv2: 210%, Lv3: 225%, Lv4: 240%, Lv5: 255%）の威力のブロックをする。スパイク（強打・速攻）をした相手メンバーが不利効果を持っている場合、今回のブロック威力がさらに[ブロック]×10%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 12回超える",
+        "pt": "Até a bola passar pela rede 12 vezes",
+        "en": "Until the ball crosses the net 12 times"
+      }
+    }
+  },
+  "goshiki-ssr.a1": {
+    "name": {
+      "pt": "ATENDENDO ÀS EXPECTATIVAS",
+      "en": "Meet Expectations",
+      "jp": "期待に応える"
+    },
+    "description": {
+      "pt": "Quando TSUTOMU GOSHIKI marca, aumenta o Moral do seu lado em 8",
+      "en": "When Tsutomu Goshiki scores, team morale is increased by 8/10/12.",
+      "jp": "五色工が得点を決めた時、味方のチーム士気が（Lv1: 8, Lv2: 10, Lv3: 12）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "goshiki-ssr.a2": {
+    "name": {
+      "pt": "RECEPÇÃO SIMPLES",
+      "en": "Pure Receive",
+      "jp": "純粋なレシーブ"
+    },
+    "description": {
+      "pt": "TSUTOMU GOSHIKI realiza uma Recepção com 120% do atributo Recepção como poder",
+      "en": "Tsutomu Goshiki receives with 120/135/150% of [Receive] as power.",
+      "jp": "五色工が[レシーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）のレシーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "goshiki-ssr.a3": {
+    "name": {
+      "pt": "FUTURO ACE",
+      "en": "Next Ace",
+      "jp": "次期エース"
+    },
+    "description": {
+      "pt": "No encerramento de cada turno, TSUTOMU GOSHIKI recebe 1 acúmulo do potencializador [Afiado]; cada acúmulo de [Afiado] aumenta o atributo Ataque Potente em 2.5%, até 5 acúmulos",
+      "en": "At the end of each rally, Tsutomu Goshiki gains one stack of [Sharpness] effect. Each stack of [Sharpness] increases [Power Attack] by 2.5/3.3/5%. Up to 5 stacks.",
+      "jp": "各ラリー終了時に、五色工が[キレキレ]効果を1スタック獲得する。[キレキレ]効果1スタックにつき、[強打]が（Lv1: 2.5%, Lv2: 3.0%, Lv3: 3.5%）アップ。最高5スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "goshiki-ssr.a4": {
+    "name": {
+      "pt": "FAZEDOR DE MILAGRES",
+      "en": "Make a Miracle",
+      "jp": "奇跡を起こす"
+    },
+    "description": {
+      "pt": "TSUTOMU GOSHIKI realiza uma Cortada Potente com 225% do atributo Ataque Potente como poder; para essa Cortada Potente, a Percepção de GOSHIKI aumenta em 10%",
+      "en": "Tsutomu Goshiki performs a Power Attack with 225/240/255/270/285% of [Power Attack] as power. This move increases [Awareness] by 10%.",
+      "jp": "五色工が[強打]×（Lv1: 225%, Lv2: 240%, Lv3: 255%, Lv4: 270%, Lv5: 285%）の威力の強打をする。このプレーでは[意識]が10%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "haruki-ssr.a1": {
+    "name": {
+      "pt": "Mestre da Defesa",
+      "en": "Master of Defense",
+      "jp": "守備の達人"
+    },
+    "description": {
+      "pt": "A [Recepção] de Haruki Komi aumenta em 8/10/12%. Se o resultado da sua recepção não for RUIM, a Moral do Time adversário diminui em 12.",
+      "en": "Haruki Komi’s [Receive] is increased by 8/10/12%. If his receive result is not BAD, the opponent’s team morale decreases by 12.",
+      "jp": "小見春樹の[レシーブ]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n小見春樹のレシーブ結果がBADにならなかった場合、相手のチーム士気が12ダウン"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "haruki-ssr.a2": {
+    "name": {
+      "pt": "Lubrificante da Equipe (0_0)",
+      "en": "Team Lubricant (0_0)",
+      "jp": "チームの潤滑油"
+    },
+    "description": {
+      "pt": "Haruki Komi realiza uma Defesa que usa 110/125/140% de [Defesa] como poder. Se o resultado não for RUIM, os atributos principais dos aliados aumentam em 5/6.5/8% por 1 rali.",
+      "en": "Haruki Komi performs a save that usars 110/125/140% of [Save] as power. If the result of this play is not BAD, the main stats of allies increase by 5/6.5/8% for 1 rally.",
+      "jp": "小見春樹が[カバー]×（Lv1: 110%, Lv2: 125%, Lv3: 140%）の威力のカバーをする。\nこのプレーでは、結果がBADにならなかった場合、味方メンバーのメインパラメータが（Lv1: 5%, Lv2: 6.5%, Lv3: 8%）アップ。この効果は1ラリー持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "haruki-ssr.a3": {
+    "name": {
+      "pt": "Recepção Comprovada",
+      "en": "Proven Receiving",
+      "jp": "定評のあるレシーブ"
+    },
+    "description": {
+      "pt": "Quando Haruki Komi recebe e o oponente dispara um ataque poderoso, a potência dessa recepção aumenta em 30/40/50% de [Recepção] como poder.",
+      "en": "When Haruki Komi receives a ball and the opponent hits a powerful one, the power of the receive increases by 30/40/50% of [Receive] as power.",
+      "jp": "小見春樹がレシーブ時、相手が強打をした場合、レシーブ威力が[レシーブ]×（Lv1: 30%, Lv2: 40%, Lv3: 50%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "haruki-ssr.a4": {
+    "name": {
+      "pt": "Centro da Defesa",
+      "en": "Center of Defense",
+      "jp": "守備の中心"
+    },
+    "description": {
+      "pt": "Haruki Komi executa uma recepção com 235/250/265/280/295% de [Recepção] como poder.",
+      "en": "Haruki Komi performs a receive that usars 235/250/265/280/295% of [Receive] as power.",
+      "jp": "小見春樹が[レシーブ]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hayaseiomi-ur.a1": {
+    "name": {
+      "pt": "Ataque Persistente",
+      "en": "Persistent Attack",
+      "jp": "持続的な攻撃"
+    },
+    "description": {
+      "pt": "O [Ataque Potente] de Kiyoomi Sakusa aumenta em 10/12.5/15% e sua [Recepção] em 20/22/25%. Quando ele recebe um ataque, o [Ataque Potente] aumenta em 6% (até 3 acúmulos), durando até o seu próximo Ataque Potente. Quando ele acerta uma Jogada Potente, a [Recepção] aumenta em 15% até a sua próxima recepção.",
+      "en": "Kiyoomi Sakusa's [Power Hit] increases by 10%/12.5%/15%, and his [Receive] increases by 20%/22%/25%. When he receives an attack, [Power Attack] increases by 6%, stacking up to 3 times, lasting until his next Power Attack. When he hits a Powerful Shot, [Receive] increases by 15% until his next receive.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hayaseiomi-ur.a2": {
+    "name": {
+      "pt": "Tomar Todas as Precauções",
+      "en": "Take All Precautions",
+      "jp": "万全を期す"
+    },
+    "description": {
+      "pt": "Realiza uma Recepção ×1 com 50/70/90% de poder. Se ao receber exceder [Recepção] × 170%, o [Reflexo] aumenta em 10% e o tempo de recarga é reduzido em 2× os cruzamentos. Se ao receber exceder a [Recepção] × 200%, a [Técnica de Defesa] aumenta em 15% até o fim da partida.",
+      "en": "Performs a [Receive] ×1 receive with 50%/70%/90% power. If receiving exceeds [Receiving] × 170%, [Reflex] increases by 10% and <Preparedness> cooldown is reduced by 2× the ball crossings. If receiving exceeds [Receiving] × 200%, [Defensive Technique] increases by 15%. Lasts until the match ends.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hayaseiomi-ur.a3": {
+    "name": {
+      "pt": "Ponta Superior",
+      "en": "Top Spiker",
+      "jp": "トップスパイカー"
+    },
+    "description": {
+      "pt": "Estando em quadra, quando aliados fazem boa jogada (receber, defender, bloquear), ganha 1 acúmulo de [Perfeccionismo]. Cada acúmulo aumenta a [Recepção] e o [Ataque Potente] em 6%, até 20 acúmulos. Ao atacar, a [Percepção] aumenta em 10% por acúmulo, até a bola cruzar a rede duas vezes.",
+      "en": "When on the court, if allies perform a Nice Play (receive, Save, block), gain a stack of [Perfectionism]. Each stack increases [Receive] and [Power Hit] by 6%, up to 20 stacks. When hitting, [Awareness] increases by 10% per stack. Lasts until the ball crosses the net twice.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hayaseiomi-ur.a4": {
+    "name": {
+      "pt": "Cortadas que Mudam a Trajetória pela Rotação",
+      "en": "Spikes that change trajectory by rotating",
+      "jp": "回転により軌道を変えるスパイク"
+    },
+    "description": {
+      "pt": "Executa um [Ataque Potente] com × 260/280/300/320/340% de poder. Se estiver na linha de trás, a potência aumenta em [Ataque Potente] × 40%. Em caso de boa jogada, a próxima recepção do oponente é reduzida em [Recepção] × 15%.",
+      "en": "Performs a [Power Hit] with power × 260%/280%/300%/320%/340%. If in the back row, power increases by [Power Hit] × 40%. If a Nice Play occurs, the opponent's next receive is reduced by [Receive] × 15%.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hinata-sp.a1": {
+    "name": {
+      "pt": "Manipular o Momento",
+      "en": "Manipulate the Moment",
+      "jp": "一瞬を操る"
+    },
+    "description": {
+      "pt": "Quando Hinata Shoyo (Hanami) está em quadra, a [Técnica de Defesa] de todos os jogadores da linha de frente aumenta em 10/13/16%. Quando o resultado da jogada de Hinata Shoyo for Perfeita, sua [Técnica de Ataque] aumenta em 3/3.5/4% com no máximo 4 acúmulos.",
+      "en": "When Hinata Shoyo (Hanami) is on the court, the [Defensive Technique] of all front line players is increased by 10/13/16%. When Hinata Shoyo's play result is Perfect, his [Offensive Technique] is increased by 3/3.5/4% with a maximum of 4 stacks.",
+      "jp": "日向翔陽(花見)がコート上に居る場合、味方前衛の[守備テクニック]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。\n日向翔陽(花見)のプレーがナイスプレーになった場合、日向翔陽(花見)の[攻撃テクニック]が（Lv1: 3%, Lv2: 3.5%, Lv3: 4%）アップ。最高4スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "hinata-sp.a2": {
+    "name": {
+      "pt": "Um Apoio",
+      "en": "A Foot Hold (such a sick reference to his receive)",
+      "jp": "足掛かりとなる一本"
+    },
+    "description": {
+      "pt": "Hinata Shoyo (Hanami) recebe uma bola com 140/160/180% de [Recepção] como poder e os atributos base do seu time aumentam em 12%. Esse efeito dura por 6 cruzamentos de rede.",
+      "en": "Hinata Shoyo (Hanami) receives a ball with 140/160/180% of [Receive] as power, and your team's base Stats increase by 12%. This effect for 6 net crossings.",
+      "jp": "日向翔陽(花見)が[レシーブ]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のレシーブをし、味方メンバーのメインパラメータが12%アップ。この効果はボールがネットを6回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "hinata-sp.a3": {
+    "name": {
+      "pt": "Contra-ataque",
+      "en": "Counterattack",
+      "jp": "切り返しの一撃"
+    },
+    "description": {
+      "pt": "Quando Hinata Shoyo (Hanami) está na linha de trás, a [Técnica de Defesa] dos aliados na linha de trás aumenta em 10/13/16%. Quando ele está em quadra e a recepção do time não for RUIM, seu [Ataque Rápido] aumenta em 12/16/20% pelos próximos dois cruzamentos de rede. Se a recepção do companheiro for Perfeita, o Ataque Rápido de Hinata Shoyo (Hanami) após essa jogada aumenta em 100%.",
+      "en": "When Hinata Shoyo (Hanami) is in the back row, the [Defensive Technique] of allied back row players is increased by 10/13/16%. When Hinata Shoyo (Hanami) is on the court and the team's receive result is not BAD, his [Quick Attack] Stat is increased by 12/16/20% for the next two net crossings. If the teammate's receive is a PERFECT play, Hinata Shoyo's (Hanami) quick attack after this play occurs is increased by 100%.",
+      "jp": "日向翔陽(花見)が後衛に居る場合、味方後衛の[守備テクニック]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。\n日向翔陽(花見)がコート上に居て、味方のレシーブ結果がBADにならなかった場合、日向翔陽(花見)の[速攻]が（Lv1: 12%, Lv2: 16%, Lv3: 20%）アップ。この効果はボールがネットを2回越えるまで持続する。\n味方のレシーブがナイスプレーになった場合、このプレー発生後最初の日向翔陽(花見)の速攻時、日向翔陽(花見)の[意識]が100%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "hinata-sp.a4": {
+    "name": {
+      "pt": "Salto Alto",
+      "en": "High Jump",
+      "jp": "高く跳び発つ"
+    },
+    "description": {
+      "pt": "Hinata Shoyo (Hanami) realiza um Ataque Rápido com 260/275/290% de [Ataque Rápido] como poder. Se for Perfeita, a potência aumenta em mais 40/45/50% de [Ataque Rápido].",
+      "en": "Hinata Shoyo (Hanami) performs a quick attack with 260/275/290% of [Quick Attack] as power. If this play is Perfect, the power increases by an additional 40/45/50% of [Quick Attack].",
+      "jp": "日向翔陽(花見)が[速攻]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力の速攻をする。このプレーがナイスプレーになった場合、威力がさらに[速攻]×（Lv1: 40%, Lv2: 45%, Lv3: 50%, Lv4: 55%, Lv5: 60%）アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "hinata-ssr.a1": {
+    "name": {
+      "pt": "O GRANDE CHAMARIZ",
+      "en": "THE GREATEST DECOY",
+      "jp": "最強の囮"
+    },
+    "description": {
+      "pt": "Enquanto SHOYO HINATA estiver presente, aumenta os atributos Ataque Potente/Ataque Rápido dos jogadores do seu lado em 7%",
+      "en": "While SHOYO HINATA is present, increases Power/Quick Attack Stat of players on your side by 7%",
+      "jp": "日向翔陽がコート上に居る場合、コート上の速攻メンバーは[強打/速攻]が（Lv1: 7%, Lv2: 10%, Lv3: 13%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "hinata-ssr.a2": {
+    "name": {
+      "pt": "DUO DE ATAQUE RÁPIDO",
+      "en": "QUICK DUO",
+      "jp": "速攻コンビ"
+    },
+    "description": {
+      "pt": "Quando SHOYO HINATA realiza uma Cortada Rápida e o jogador que está passando é do tipo Ataque Rápido, aumenta a potência dessa cortada em 15% do atributo Ataque Rápido do jogador",
+      "en": "When SHOYO HINATA performs a Quick Attack and the setter is a Quick Attack-type player, increases this spike's power by 15% of that setter's Quick Attack Stat.",
+      "jp": "日向翔陽が速攻時、トスをしたメンバーが速攻メンバーの場合、威力が該当メンバーの[速攻]×（Lv1: 15%, Lv2: 17%, Lv3: 19%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "hinata-ssr.a3": {
+    "name": {
+      "pt": "UNO COM A BOLA",
+      "en": "ON THE BALL",
+      "jp": "ボールと仲良し"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de SHOYO HINATA em 6%; quando HINATA realiza uma jogada Superior, aumenta a Percepção em mais 4%, até 1 acúmulos",
+      "en": "Increases SHOYO HINATA's Awareness by 6%. When HINATA lands a Critical hit, additionally increases Awareness by 4%, stacking up to 1 times.",
+      "jp": "日向翔陽の[意識]が（Lv1: 6%, Lv2: 7%, Lv3: 7%）アップ。ナイスプレーをすると、[意識]がさらに（Lv1: 4%, Lv2: 4%, Lv3: 5%）アップ。最高1スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "hinata-ssr.a4": {
+    "name": {
+      "pt": "JOVEM ALADO",
+      "en": "SOARING TEEN",
+      "jp": "羽ばたく雛鳥"
+    },
+    "description": {
+      "pt": "SHOYO HINATA realiza uma Cortada Rápida com 235% do atributo Ataque Rápido como poder; quando essa cortada conquista um resultado Superior, aumenta seu poder em 20% do atributo Ataque Rápido",
+      "en": "SHOYO HINATA performs a Quick Attack with 235% of his Quick Attack Stat as power. If this spike is a Critical hit, increases its power by an additional 20% of his Quick Attack Stat.",
+      "jp": "日向翔陽が[速攻]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%）の威力の速攻をする。このプレーがナイスプレーになった場合、威力がさらに[速攻]×20%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "hirugami-ur.a1": {
+    "name": {
+      "pt": "O Núcleo do Sistema Kamomedai",
+      "en": "The Core Of The Kamomedai System",
+      "jp": "鴎台システムの中軸"
+    },
+    "description": {
+      "pt": "Quando Hirugami Sachiro saca, sua [Atenção] aumenta em 12/16/20%. Estando em quadra, aliados ganham 1 acúmulo de [Sistema] ao bloquear (cada acúmulo aumenta os atributos básicos dos aliados em 8%, até 5 acúmulos; dura até o aliado pontuar). Cada acúmulo também aumenta os atributos básicos de Hirugami em 10% adicionais.",
+      "en": "When Hirugami Sachiro serves, his [Attention] increases by 12%/16%/20%. When he is on the court, allies gain one stack of the [System] effect when blocking. Each stack increases allies' Basic stats by 8%, up to 5 stacks. Lasts until the ally scores. Each stack also increases Hirugami Sachiro's base Stats by an additional 10%.",
+      "jp": "昼神幸郎のサーブ時、[意識]が（Lv1: 12%, Lv2: 16%, Lv3: 20%）アップ。\n昼神幸郎がコート上に居る場合、味方ブロック時、味方メンバーが[システム]効果を1スタック獲得する。[システム]効果1スタックにつき、味方メンバーのメインパラメータが8%アップ。最高5スタック。この効果は味方得点まで持続する。\n[システム]効果1スタックにつき、昼神幸郎のメインパラメータがさらに10%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hirugami-ur.a2": {
+    "name": {
+      "pt": "Saque Psicologicamente Pressionante",
+      "en": "A Psychologically Pressing Serve",
+      "jp": "心理的に追い込むサーブ"
+    },
+    "description": {
+      "pt": "Executa um Saque Flutuante com Salto com 140/160/180% de [Saque] como poder. Se for uma boa jogada, encerra o Despertar de Moral do oponente, impedindo-o de ganhar Moral por 1 rali.",
+      "en": "Performs a jump floater serve with a power of 140%/160%/180% of his [Serve]. If this play is a nice play, the opponent's team morale awakening ends, preventing them from gaining team morale with one rally.",
+      "jp": "昼神幸郎が[サーブ]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のジャンプフローターサーブをする。このプレーがナイスプレーになった場合、相手のチーム士気覚醒が終了する。1ラリー以内、相手がチーム士気を獲得できなくなる"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hirugami-ur.a3": {
+    "name": {
+      "pt": "A Defesa é o Melhor Ataque",
+      "en": "Defense Is The Best Attack",
+      "jp": "防御こそ最大の攻撃"
+    },
+    "description": {
+      "pt": "Quando Hirugami está em quadra, ganha 1 acúmulo de [Bloqueio Forte] cada vez que a bola cruza a rede. Quando um aliado bloqueia, o efeito depende do número de acúmulos de [Bloqueio Forte].\n2 acúmulos: poder de Bloqueio aumenta em 15/20/25% do [Bloqueio] dos bloqueadores por dois cruzamentos de rede.\n3 acúmulos: poder de Recepção aumenta em 15/20/25% da [Recepção] dos recebedores.",
+      "en": "When Hirugami Sachiro is on the court, gain one stack of the [Strong Block] effect each time the ball goes over the net. When an ally blocks, effects depend on the number of [Strong Block] stacks.\n2 stacks: Block power increases by 15%/20%/25% of the blocking members' [Block] until the ball goes over the net twice.\n3 stacks: Receive power increases by 15%/20%/25% of the receiving members' [Receive].",
+      "jp": "昼神幸郎がコート上に居る場合、ボールがネットを超えるたびに、[頑固なブロック]効果を1スタック獲得する。味方ブロック時、[頑固なブロック]効果のスタック数によって異なる効果が発動する。\n2スタック：ブロック威力がブロックをするメンバーの[ブロック]×（Lv1: 15%, Lv2: 20%, Lv3: 25%）アップ。この効果はボールがネットを2回越えるまで持続する\n3スタック：レシーブ威力がレシーブをするメンバーの[レシーブ]×（Lv1: 15%, Lv2: 20%, Lv3: 25%）アップ。この効果はボールがネットを2回超えるまで持続する\n4スタック：スパイク（強打・速攻）威力がスパイクをするメンバーの[強打/速攻]×（Lv1: 15%, Lv2: 20%, Lv3: 25%）アップ。この効果はボールがネットを2回超えるまで持続する\nラリー終了時に、[強固なブロック]効果を全て消費する。[強固なブロック]効果を1スタック消費するごとに、味方メンバーの[攻撃テクニック]が5%、[守備テクニック]が5%アップ。この効果は1ラリー持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hirugami-ur.a4": {
+    "name": {
+      "pt": "O Deus Imóvel do Dia",
+      "en": "The Immovable God of Day",
+      "jp": "“不動の昼神”"
+    },
+    "description": {
+      "pt": "Bloqueia com [Bloqueio] × 260/275/290/305/320% de poder. Se o oponente disparar um ataque poderoso, o bloqueio aumenta em [Bloqueio] × 40/45/50/55/60%.",
+      "en": "Blocks with a power of [Block] × 260%/275%/290%/305%/320%. If the opponent hits a powerful blow, the block's power increases by [Block] × 40%/45%/50%/55%/60%.",
+      "jp": "昼神幸郎が[ブロック]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力のブロックをする。\n相手が強打をした場合、今回のブロック威力が[ブロック]×（Lv1: 40%, Lv2: 45%, Lv3: 50%, Lv4: 55%, Lv5: 60%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hoshiumi-ur.a1": {
+    "name": {
+      "pt": "Quebrar a Cadeia",
+      "en": "Break The Chain",
+      "jp": "連鎖を断ち切る"
+    },
+    "description": {
+      "pt": "Quando Hoshiumi Korai está em quadra e um aliado bloqueia, a cada 50 de [Bloqueio] dos bloqueadores, a potência da Cortada do adversário (Potente/Rápida) é reduzida pelos jogadores atacantes do time [Ataque Potente/Ataque Rápido] × 0.3/0.4/0.5% (máx. 30%). Para cada 1% reduzido na cortada do oponente, a potência da próxima habilidade de Hoshiumi aumenta em 1%.",
+      "en": "When Hoshiumi Korai is on the court and an ally blocks, for every 50 of the blocking team members [Block], the power of the opponent's spike (Power Attack/Quick Attack) is reduced by the spiking team members [Power Attack/Quick Attack] × 0.3%/0.4%/0.5% (maximum 30%). For every 1% decrease in the opponent's spike power, the power of Hoshiumi Korai's next skill is increased by 1%.",
+      "jp": "星海光来がコート上に居る場合、味方ブロック時、ブロックをするメンバーの[ブロック]50につき、相手のスパイク（強打・速攻）威力がスパイクをするメンバーの[強打/速攻]×（Lv1: 0.3%ダウン（最高30%）, Lv2: 0.4%ダウン（最高40%）, Lv3: 0.5%ダウン（最高50%））。相手のスパイク（強打・速攻）が1%ダウンするごとに、星海光来の次のスキル威力が1%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hoshiumi-ur.a2": {
+    "name": {
+      "pt": "Ótimo Desempenho em Todas as Áreas",
+      "en": "Great Performance In All Areas",
+      "jp": "八面六臂の大活躍"
+    },
+    "description": {
+      "pt": "Hoshiumi Korai pode ativar múltiplas habilidades de jogadas (compartilham tempo de recarga).\nSaque-Cortada: Realiza um Saque-Cortada com a potência de [Saque] × 140/160/180% de poder.\nRecepção: Recebe com a potência de [Recepção] × 140/160/180% de poder.\nBloqueio: Bloqueia com a potência de [Bloqueio] × 140/160/180% de poder.",
+      "en": "Hoshiumi Korai can activate multiple play skills. These skills share a cooldown.\nSpike Serve: Performs a spike serve with the power of [Serve] × 140%/160%/180%.\nReceive: Receives with the power of [Receive] × 140%/160%/180%.\nBlock: Blocks with the power of [Block] × 140%/160%/180%.",
+      "jp": "星海光来がマルチなプレースキルを発動できる。これらのプレースキルはクールダウンを共有する。\nスパイクサーブ：星海光来が[サーブ]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のスパイクサーブをする\nレシーブ：星海光来が[レシーブ]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のレシーブをする\nブロック：星海光来が[ブロック]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hoshiumi-ur.a3": {
+    "name": {
+      "pt": "Nº 1 em Pontuar",
+      "en": "No 1 Point Getter",
+      "jp": "No.1ポイントゲッター"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Potente] de Hoshiumi Korai em 16/20/24%. Ao ativar ganha 1 acúmulo de [All-Rounder]. Quando a habilidade de Hoshiumi está ativada, o efeito [All-Rounder] é consumido, e diferentes efeitos são ativados dependendo da jogada.\nPancada Poderosa: Aumenta a[Atenção] em 14/17/20% até a bola cruzar a rede duas vezes.\nSaque: reduz a [Recepção] dos jogadores da linha de trás do oponente em 14/17/20% até a bola cruzar a rede duas vezes.",
+      "en": "Increases Hoshiumi Korai's [Power Attack] by 16%/20%/24%. When <All-Rounded Exploitation> is activated, gain one stack of [All-Rounder]. When Hoshiumi Korai's skill is activated, the [All-Rounder] effect is consumed, and different effects are activated depending on the play.\nPowerful Blow: Increases [Attention] by 14%/17%/20% until the ball goes over the net twice.\nServe: Reduces the opponent's back row player's [Receive] by 14%/17%/20% until the ball goes over the net twice.",
+      "jp": "星海光来の[強打]が16%アップ。\n＜八面六臂の大活躍＞発動時、[オールラウンダー]効果を1スタック獲得する。星海光来のスキル発動時、[オールラウンダー]効果を消費し、プレーによって異なる効果が発動する。\n強打：星海光来の[意識]が（Lv1: 14%, Lv2: 17%, Lv3: 20%）アップ。この効果はボールがネットを2回超えるまで持続する\nサーブ：相手後衛の[レシーブ]が（Lv1: 14%, Lv2: 17%, Lv3: 20%）ダウン。この効果はボールがネットを2回超えるまで持続する\nレシーブ：星海光来の[反応]が（Lv1: 14%, Lv2: 17%, Lv3: 20%）アップ。この効果はボールがネットを2回超えるまで持続する\nブロック：星海光来の[ブロック]50につき、相手のスパイク（強打・速攻）威力がスパイクをするメンバーの［強打/速攻］×（Lv1: 0.3%, Lv2: 0.4, Lv3: 0.5%）ダウン"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "hoshiumi-ur.a4": {
+    "name": {
+      "pt": "Lança Brilhante",
+      "en": "Shining Spear",
+      "jp": "輝く矛"
+    },
+    "description": {
+      "pt": "Executa um ataque poderoso com [Ataque Potente] × 265/280/295/310/325% de poder. Se estiver na linha de frente, a potência desse ataque aumenta em [Ataque Potente] × 40/45/50/55/60%.",
+      "en": "Performs a powerful attack with a power of [Power Attack] × 265%/280%/295%/310%/325%. If in the front line, the power of this attack is increased by [Power Attack] × 40%/45%/50%/55%/60%.",
+      "jp": "星海光来が[強打]×（Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%）の威力の強打をする。\n星海光来が前衛に居る場合、今回の強打威力が[強打]×（Lv1: 40%, Lv2: 45%, Lv3: 50%, Lv4: 55%, Lv5: 60%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "iwaizumi-ssr.a1": {
+    "name": {
+      "pt": "FORÇA DO ACE",
+      "en": "Ace's Strength",
+      "jp": "エースの実力"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de HAJIME IWAIZUMI em 5% e a Força em 10%",
+      "en": "Increases HAJIME IWAIZUMI's Awareness by 5% and Strength by 10%",
+      "jp": "岩泉一の[意識]が（Lv1: 5%, Lv2: 5%, Lv3: 8%）、[パワー」が（Lv1: 10%, Lv2: 15%, Lv3: 15%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "iwaizumi-ssr.a2": {
+    "name": {
+      "pt": "DEFESA FOCADA",
+      "en": "Focusard Defense",
+      "jp": "揺るがぬ意思"
+    },
+    "description": {
+      "pt": "HAJIME IWAIZUMI realiza uma Recepção com 120% do atributo Recepção como poder",
+      "en": "HAJIME IWAIZUMI performs a Receive with 120% of Receive Stat as power",
+      "jp": "岩泉一が[レシーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）のレシーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "iwaizumi-ssr.a3": {
+    "name": {
+      "pt": "APOIO DO VICE-CAPITÃO",
+      "en": "Vice-Captain's Rally",
+      "jp": "副主将の気迫"
+    },
+    "description": {
+      "pt": "Enquanto HAJIME IWAIZUMI estiver presente, aumenta a Força dos jogadores do seu lado em 6%",
+      "en": "While HAJIME IWAIZUMI is present, increases Strength of players on your side by 6%",
+      "jp": "岩泉一がコート上に居る場合、味方コート上のメンバーの[パワー]が（Lv1: 6%, Lv2: 8.5%, Lv3: 11%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "iwaizumi-ssr.a4": {
+    "name": {
+      "pt": "MANO A MANO",
+      "en": "Head-to-Head",
+      "jp": "正面対決"
+    },
+    "description": {
+      "pt": "HAJIME IWAIZUMI realiza uma Cortada Potente com 240% do atributo Ataque Potente como poder; quando essa cortada conquistar um resultado Superior, aumenta sua potência em 15% do atributo Ataque Potente",
+      "en": "HAJIME IWAIZUMI performs a Power Spike with 240% of Power Attack Stat as power; when this spike achieves Critical result, increases its power by 15% of Power Attack Stat",
+      "jp": "岩泉一が[強打]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力の強打をする。このプレーがナイスプレーになった場合、威力がさらに[強打]×15%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "kageyama-ssr.a1": {
+    "name": {
+      "pt": "SAQUE COMPLICADO",
+      "en": "Manipulate the Moment",
+      "jp": "キレッキレのサーブ"
+    },
+    "description": {
+      "pt": "TOBIO KAGEYAMA (Treino) realiza um Saque em Suspensão com 120% do atributo Saque como poder.",
+      "en": "When Hinata Shoyo (Flower Viewing) is on the court, the [Defensive Technique] of all front line players is increased by 10/13/16%. When Hinata Shoyo makes a nice play, his [Offensive Technique] is increased by 3/3.5/4%. Up to 4 stacks.",
+      "jp": "影山飛雄（練習）が[サーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のジャンプサーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kageyama-ssr.a2": {
+    "name": {
+      "pt": "OBSERVADOR AFIADO",
+      "en": "Stepping Stone",
+      "jp": "優れた観察眼"
+    },
+    "description": {
+      "pt": "TOBIO KAGEYAMA (Treino) realiza um Levantamento com 115% do atributo Levantamento como poder; para essa jogada, a Força dos atacantes do seu lado aumenta em 10%",
+      "en": "Hinata Shoyo (Flower Viewing) receives a ball with 140/160/180% of his receive Stat, and allies’ base Stats increase by 12%. This effect for 6 net crossings.",
+      "jp": "影山飛雄（練習）が[トス]×（Lv1: 115%, Lv2: 130%, Lv3: 145%）の威力のトスをする。\nこのプレーでは、スパイク（強打・速攻）をするメンバーの[パワー]が10%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kageyama-ssr.a3": {
+    "name": {
+      "pt": "ASCENSÃO DO CAMPEÃO",
+      "en": "Counterattack",
+      "jp": "静かなる王の誕生"
+    },
+    "description": {
+      "pt": "Enquanto TOBIO KAGEYAMA (Treino) estiver presente, aumenta a Percepção dos jogadores do seu lado em 10% e aumenta a potência da Cortada em 6% dos atributos Ataque Potente/Ataque Rápido do jogador",
+      "en": "When Hinata Shoyo (Flower Viewing) is in the back row, the [Defensive Technique] of allied back row players is increased by 10/13/16%. When Hinata Shoyo (Flower Viewing) is on the court and the team’s receive result is not BAD, his [Quick Attack] Stat is increased by 12/16/20% for the next two net crossings. If the teammate’s receive is a PERFECT play, Hinata Shoyo’s (Flower Viewing) quick attack after this play occurs is increased by 100%.",
+      "jp": "影山飛雄（練習）がコート上に居る場合、味方コート上のメンバーの意識が10%、スパイク（強打・速攻）威力が該当メンバーの[強打/速攻]×（Lv1: 6%, Lv2: 8%, Lv3: 10%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kageyama-ssr.a4": {
+    "name": {
+      "pt": "LARGADA SURPRESA",
+      "en": "Jump High",
+      "jp": "予想外の攻撃"
+    },
+    "description": {
+      "pt": "TOBIO KAGEYAMA (Treino) realiza uma Largada do Levantador impossível de bloquear com 225% do atributo Passe como poder",
+      "en": "Hinata Shoyo (Flower Viewing) performs a quick attack with 260/275/290% of [Quick Attack] as power. If this play is a nice play, the power increases by an additional [Quick Attack] x 40/45/50%.",
+      "jp": "影山飛雄（練習）が[トス]×（Lv1: 225%, Lv2: 240%, Lv3: 255%, Lv4: 270%, Lv5: 285%）の威力のツーアタックをする。ツーアタックはブロックされない"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "kageyama-ur.a1": {
+    "name": {
+      "pt": "Levantador Gênio",
+      "en": "Genius Setter",
+      "jp": "天才セッター"
+    },
+    "description": {
+      "pt": "Kageyama Tobio realiza um levantamento com poder de [Passe] × 120/135/150%. Ao levantar, o [Ataque Rápido] do companheiro que vai atacar é aumentado em [Passe] × 15%. Esse efeito dura até a bola passar para o outro lado da rede.",
+      "en": "Kageyama Tobio sets with a power of [Set] x 120/135/150%. When he sets, the [Quick Attack] of the member who spikes is increased by his [Set] x 15%. This effect lasts until the ball goes over the net.",
+      "jp": "影山飛雄が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のトスをする。\n影山飛雄のトス時、スパイク（強打・速攻）をするメンバーの[速攻]が影山飛雄の[トス]×15%アップ。この効果はボールがネットを2回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kageyama-ur.a2": {
+    "name": {
+      "pt": "Saque Assassino",
+      "en": "Murder Serve",
+      "jp": "殺人サーブ"
+    },
+    "description": {
+      "pt": "Kageyama Tobio realiza um Saque em Suspensão forte com uma potência de 130/145/160% de seu [Saque]. Se essa jogada for um saque perfeito, a [Técnica de Ataque] de seus colegas de time é aumentada em 10%. Esse efeito dura até a bola cruzar a rede 6 vezes.",
+      "en": "Kageyama Tobio performs a powerful jump serve with a power of 130/145/160% of his [Serve]. If this play is a perfect serve, his teammates’ [Attack Technique] is increased by 10%. This effect lasts until the ball has crossed the net 6 times.",
+      "jp": "影山飛雄が[サーブ]×（Lv1: 130%, Lv2: 145%, Lv3: 160%）の威力のパワージャンプサーブをする。このプレーがナイスプレーになった場合、味方メンバーの[攻撃テクニック]が10%アップ。この効果はボールがネットを6回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kageyama-ur.a3": {
+    "name": {
+      "pt": "Rei Silencioso",
+      "en": "Silent King",
+      "jp": "静かなる王"
+    },
+    "description": {
+      "pt": "Aumenta a [Técnica de Ataque] de Kageyama Tobio em 8/10/12%. Quando ele está na quadra e o Saque, o Ataque Rápido ou a Cortada do oponente for uma boa jogada, Kageyama ganha 1 acúmulo do efeito de [Empenho Competitivo] até 5 acúmulos. Quando ele está na quadra e um aliado saca, faz um Ataque Rápido ou faz uma Cortada, 1 acúmulo do efeito de [Empenho Competitivo] é consumido, e a [Percepção] do jogador executando o Saque, Ataque Rápido ou Cortada é aumentado em 20/25/30%. Esse efeito dura até a bola passar pro outro lado da rede duas vezes. No começo de um rally, Kageyama ganhará um acúmulo do efeito de [Empenho Competitivo]",
+      "en": "Increases Kageyama Tobio’s [Attack Technique] by 8/10/12%. When he is on the court and the opponent’s Serve, Quick Attack, or Spike is a nice play, he gains 1 stack of the [Competitive Spirit] effect. Up to 5 stacks. When he is on the court and an ally Serves, Quick Attacks, or Spikes, 1 stack of [Competitive Spirit] effect is consumed, and the [Awareness] of the member performing the Serve, Quick Attack, or Spike is increased by 20/25/30%. This effect lasts until the ball goes over the net twice. At the start of a rally, he will gain one stack of the [Competitive Spirit] effect.",
+      "jp": "影山飛雄の[攻撃テクニック]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n影山飛雄がコート上に居て、相手のサーブ・ツーアタック・スパイク（強打・速攻）がナイスプレーになった場合、影山飛雄のが[負けず嫌い]効果を1スタック獲得する。最高5スタック。\n影山飛雄がコート上に居て、味方メンバーのサーブ・ツーアタック・スパイク（強打・速攻）時、[負けず嫌い]効果を1スタック消費し、サーブ・ツーアタック・スパイク（強打・速攻）をするメンバーの[意識]が（Lv1: 20%, Lv2: 25%, Lv3: 30%）アップ。この効果はボールがネットを2回越えるまで持続する。\nラリー開始時、影山飛雄が[負けず嫌い]効果を1スタック獲得する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kageyama-ur.a4": {
+    "name": {
+      "pt": "Dominar o Jogo",
+      "en": "Dominate the Game",
+      "jp": "ゲームを支配する"
+    },
+    "description": {
+      "pt": "Kageyama Tobio executa um Ataque Rápido com poder equivalente a 240/255/270/285/300% do levantamento. O Ataque Rápido não pode ser bloqueado. O tempo de recarga da habilidade de bloqueio da linha de frente do oponente aumenta em 4× o número de cruzamentos de rede ocorridos.",
+      "en": "Kageyama Tobio performs a Quick Attack with a power equal to 240/255/270/285/300% of the set. The Quick Attack cannot be blocked. The cooldown of the opponent’s frontline block skill during the cooldown increases by 4 times the number of times the ball goes over the net.",
+      "jp": "影山飛雄が[トス]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力のツーアタックをする。ツーアタックはブロックされない。\n相手前衛のクールダウン中のブロックスキルのクールダウンはボールがネットを越える回数4回分増える"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kenma-sp.a1": {
+    "name": {
+      "pt": "Liderança",
+      "en": "Leadership",
+      "jp": "リーダーシップ"
+    },
+    "description": {
+      "pt": "Quando Kozume Kenma (Hanami) está em quadra, o [Reflexo] dos aliados aumenta em 10/13/16%. Ao estar em quadra e um aliado receber ou salvar, ele ganha 1 acúmulo de [Defesa que Elimina Aberturas] e o [Reflexo] dos aliados aumenta em 1.5%, até 10 acúmulos. Se o resultado da recepção/defesa do aliado não for RUIM, ganha mais 1 acúmulo.",
+      "en": "When Kozume Kenma (Hanami) is on the court, allied members' [Reflex] is increased by 10/13/16%. When he is on the court and an allied member receives or Saves, he gains one stack of the [Defense that Eliminates Openings] effect, allied members' [Reflex] is increased by 1.5%. Up to 10 stacks. If the results of an allied member's receive or Save is not BAD, he gains one more stack of the [Defense that Eliminates Openings] effect.",
+      "jp": "孤爪研磨(花見)がコート上に居る場合、味方メンバーの[反応]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。\n孤爪研磨(花見)がコート上に居て、味方メンバーのレシーブ・カバー時、[隙をなくす守備]効果を1スタック獲得する。[隙をなくす守備]効果1スタックにつき、味方メンバーの[反応]が1.5%アップ。最高10スタック。\n味方メンバーのレシーブ・カバーの結果がBADにならなかった場合、[隙をなくす守備]効果をさらに1スタック獲得する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kenma-sp.a2": {
+    "name": {
+      "pt": "Levantamento Sem Movimento Desperdiçado",
+      "en": "Set With No Wasted Movement",
+      "jp": "極小モーションのトス"
+    },
+    "description": {
+      "pt": "Kozume Kenma (Hanami) realiza um levantamento com 140/160/180% de [Passe] como poder. Se o atacante (Ataque Potente/Ataque Rápido) após essa jogada estiver na linha de trás, o poder do ataque aumenta em 20%.",
+      "en": "Kozume Kenma (Hanami) performs a set with 140/160/180% of [Set] as power. If the player who attacks (Power Attack/Quick Attack) after this play occurs is in the back row, the power of the attack will be increased by 20%.",
+      "jp": "孤爪研磨(花見)が[トス]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のトスをする。\nこのプレー発生後最初の味方のスパイク（強打・速攻）をするメンバーが後衛に居る場合、スパイク（強打・速攻）威力が該当メンバーの[強打/速攻]×20%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kenma-sp.a3": {
+    "name": {
+      "pt": "Procurar Falhas",
+      "en": "Look For Flaws",
+      "jp": "弱点を探る"
+    },
+    "description": {
+      "pt": "Quando Kozume Kenma (Hanami) realiza um Passe ou uma Largada, sua [Percepção] aumenta em 40/60/80% de [Reflexo] como poder. Se ele estiver em quadra e o bloqueio do aliado não for RUIM, o poder da Cortada atual do oponente (Ataque Potente/Ataque Rápido) aumenta em 10/13/16% do [Ataque Potente/Ataque Rápido] correspondente (efeito de enfraquecimento para o oponente).",
+      "en": "When Kozume Kenma (Hanami) performs a Set or Setter Dump, his [Awareness] increases by 40/60/80% of [Reflex] as power. If he is on the court and his teammate's block result is not BAD, the power of the opponent's current spike (Power Attack/Quick Attack) is increased by the corresponding member's [Power Attack/Quick Attack] by 10/13/16%.",
+      "jp": "孤爪研磨(花見)のトス・ツーアタック時、[意識]が[反応]×（Lv1: 40%, Lv2: 60%, Lv3: 80%）アップ。\n孤爪研磨(花見)がコート上に居て、味方のブロック結果がBADにならなかった場合、相手の今回のスパイク（強打・速攻）威力が該当メンバーの[強打/速攻]×（Lv1: 10%, Lv2: 13%, Lv3: 16%）ダウン"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kenma-sp.a4": {
+    "name": {
+      "pt": "Jogada que Confunde o Adversário",
+      "en": "Play That Confusars The Opponent",
+      "jp": "相手を翻弄させるプレー"
+    },
+    "description": {
+      "pt": "Kozume Kenma (Hanami) realiza uma Largada com 255/270/285/300/315% de [Passe] como poder. Não pode ser bloqueado. Após essa jogada, quando um oponente realizar a primeira Cortada (Ataque Potente/Ataque Rápido), a [Potência] desse jogador é reduzido em 40% por 2 cruzamentos de rede.",
+      "en": "Kozume Kenma (Hanami) performs a Setter Dump with 255/270/285/300/315% of [Set] as power. Setter Dump cannot be blocked. After this play occurs, the first time an opposing player spikes (Power Attack/Quick Attack), the [Power] of that player is reduced by 40%. This effect lasts for 2 net crossings.",
+      "jp": "孤爪研磨(花見)が[トス]×（Lv1: 255%, Lv2: 270%, Lv3: 285%, Lv4: 300%, Lv5: 315%）の威力のツーアタックをする。ツーアタックはブロックされない。\nこのプレー発生後最初の相手メンバーのスパイク（強打・速攻）時、スパイク（強打・速攻）をするメンバーの[パワー]が40%ダウン。この効果はボールがネットを2回越えるまで持続する。"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "kenma-ssr.a1": {
+    "name": {
+      "pt": "VISÃO DIVINA",
+      "en": "DIVINE VISION",
+      "jp": "鋭い観察眼"
+    },
+    "description": {
+      "pt": "Enquanto KENMA KOZUME estiver presente, aumenta a potência de Recepção dos jogadores do seu lado em 8% do atributo Recepção deles; quando o resultado do passe de Kozume ou da Recepção do seu lado for PERFEITO, recebe 1 acúmulo do Potencializador [Vôlei de Praia]. Cada acúmulo aumenta o atributo Recepção dos jogadores do seu lado em 3%, até 6 acúmulos",
+      "en": "While KENMA KOZUME is on the court, increases your side's players' Receive power by 8% of their Receive Stat. When Kozume's Set or your side's Receive results in PERFECT, gain 1 stack(s) of 'Keep It Alive'. Each stack increases Receive power of your side's players by 3%, up to 6 stacks.",
+      "jp": "孤爪研磨がコート上にいる場合、味方メンバーのレシーブ威力が該当メンバーの[レシーブ]×（Lv1: 8%, Lv2: 10%, Lv3: 13%）アップ。\n孤爪研磨のトスあるいは味方のレシーブの結果がPERFECTの場合、[繋ぐ]効果を1スタック獲得する。[繋ぐ]効果1スタックにつき、味方全員の[レシーブ]が3%アップ。最高6スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kenma-ssr.a2": {
+    "name": {
+      "pt": "LEVANTAMENTO FIRME",
+      "en": "STEADY SETTING",
+      "jp": "優秀なトス"
+    },
+    "description": {
+      "pt": "KENMA KOZUME realiza um Passe com 120% do atributo Passe como poder",
+      "en": "KENMA KOZUME performs a Set with 120% of his Set Stat.",
+      "jp": "孤爪研磨が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のトスをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kenma-ssr.a3": {
+    "name": {
+      "pt": "TIME CORAÇÃO",
+      "en": "THE BRAIN",
+      "jp": "音駒の心臓"
+    },
+    "description": {
+      "pt": "Enquanto KENMA KOZUME estiver presente, aumenta a potência de Recepção dos jogadores do seu lado em 6% do atributo Recepção deles; quando o Potencializador [Vôlei de Praia] exceder 5 acúmulos, aumenta a potência de Recepção dos jogadores do seu lado em 150% do atributo Recepção e Defesa em 150%. Quando o jogador do seu lado falhar em uma Recepção/Defesa, consome 6 acúmulos do [Vôlei de Praia] para mudar o resultado para PERFEITO",
+      "en": "While KENMA KOZUME is on the court, increases your side's players' Receive power by 6% of their Receive Stat. If 'Keep It Alive' exceeds 5 stacks, additionally increases their Receive power by 150% and Save power by 150%. When your side's Receive or Save fails, consumes 6 stacks of 'Keep It Alive' to convert the result to PERFECT.",
+      "jp": "孤爪研磨がコート上にいる場合、味方メンバーのレシーブ威力が該当メンバーの[レシーブ]×（Lv1: 6%, Lv2: 8%, Lv3: 10%）アップ。\n[繋ぐ]効果を6スタック以上持っている場合、味方メンバーのレシーブ威力が[レシーブ]×150%、カバー威力が[カバー]×150%アップ。\n味方メンバーがレシーブ・カバーをミスした場合、[繋ぐ]効果を6スタック消費して、失点せずに、結果をPERFECTに変更する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kenma-ssr.a4": {
+    "name": {
+      "pt": "LARGADA ENGANOSA",
+      "en": "DECEPTIVE DUMP",
+      "jp": "トリッキーなプレー"
+    },
+    "description": {
+      "pt": "KENMA KOZUME realiza uma Largada do Levantador impossível de bloquear com 220% do atributo Passe como poder",
+      "en": "KENMA KOZUME performs an unblockable Setter Dump with 220% of his Set Stat.",
+      "jp": "孤爪研磨が[トス]×（Lv1: 220%, Lv2: 235%, Lv3: 250%, Lv4: 265%, Lv5: 280%）の威力のツーアタックをする。ツーアタックはブロックされない"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "kentaro-mad-dog-ssr.a1": {
+    "name": {
+      "pt": "ATAQUE FEROZ",
+      "en": "FIERCE ATTACK",
+      "jp": "狂犬の攻撃"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de KENTARO KYOTANI em 8% e o atributo Ataque Potente em 5%",
+      "en": "Increases KENTARO KYOTANI's Awareness by 8% and Power Attack Stat by 5%",
+      "jp": "京谷賢太郎の[意識]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）、[強打」が（Lv1: 5%, Lv2: 6%, Lv3: 7%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kentaro-mad-dog-ssr.a2": {
+    "name": {
+      "pt": "SAQUE CACHORRO LOUCO",
+      "en": "MAD DOG SERVE",
+      "jp": "諸刃のサーブ"
+    },
+    "description": {
+      "pt": "KENTARO KYOTANI realiza um Saque com 130% do atributo Saque como poder; para esse Saque, a Percepção aumenta em 15%, com uma chance fixa de 10% de falhar",
+      "en": "KENTARO KYOTANI performs a Serve with 130% of his Serve Stat. For this Serve, his Awareness increases by 15%, with a fixed 10% chance to fail",
+      "jp": "京谷賢太郎が[サーブ]×（Lv1: 130%, Lv2: 145%, Lv3: 160%）の威力のサーブをする。このプレーでは[意識]が15%アップし、10%の確率でサーブミスになる"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kentaro-mad-dog-ssr.a3": {
+    "name": {
+      "pt": "EXPLOSÃO DE FORÇA",
+      "en": "STRENGTH BURST",
+      "jp": "爆発的な力"
+    },
+    "description": {
+      "pt": "Aumenta a Força de KENTARO KYOTANI em 18%",
+      "en": "Increases KENTARO KYOTANI's Strength by 18%",
+      "jp": "京谷賢太郎の[パワー]が（Lv1: 18%, Lv2: 22%, Lv3: 26%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kentaro-mad-dog-ssr.a4": {
+    "name": {
+      "pt": "PRESA DO CACHORRO LOUCO",
+      "en": "MAD DOG'S FANG",
+      "jp": "爆発的な強打"
+    },
+    "description": {
+      "pt": "KENTARO KYOTANI realiza uma Cortada Potente com 210% do atributo Ataque Potente como poder, reduzindo o bloqueio do adversário e o Vigor dos jogadores receptores em 10",
+      "en": "KENTARO KYOTANI performs a Power Spike with 210% of his Power Attack Stat, reducing the Stamina of the opponent's blocking and receiving players by 10",
+      "jp": "京谷賢太郎が[強打]×（Lv1: 210%, Lv2: 225%, Lv3: 240%, Lv4: 255%, Lv5: 270%）の威力の強打をする。\nこの強打ではブロックとレシーブをした相手メンバーが10のスタミナを失う"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kita-ssr.a1": {
+    "name": {
+      "pt": "Repetição, Continuidade e Cautela",
+      "en": "Repetition, continuity, and caution",
+      "jp": "“反復・継続・丁寧”"
+    },
+    "description": {
+      "pt": "Aumenta os atributos Básicos de Kita Shinsuke em 6/8/10%. Se o resultado da [Recepção] de Kita for RUIM, a [Técnica de Defesa] aumenta em 80% de [Reflexo] como poder.",
+      "en": "Increases Kita Shinsuke's Basic Stats by 6%/8%/10%. If Kita's [Receive] result is BAD, Kita's [Defensive Technique] is increased by 80% of [Reflex] as power. Note: This is an increase of [Defensive Technique] by the value of [Reflex].",
+      "jp": "北信介のメインパラメータが（Lv1: 6%, Lv2: 8%, Lv3: 10%）アップ。\n北信介のプレーはナイスプレーが発生しない。北信介の[守備テクニック]が[反応]×80%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kita-ssr.a2": {
+    "name": {
+      "pt": "Jogada Calma",
+      "en": "Calm Play",
+      "jp": "落ち着いたプレー"
+    },
+    "description": {
+      "pt": "Kita Shinsuke executa uma [Defesa] com 120/135/150% de [Defesa] como poder.",
+      "en": "Kita Shinsuke performs a [Save] with 120%/135%/150% of [Save] Stat as power.",
+      "jp": "北信介が[カバー]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のカバーをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kita-ssr.a3": {
+    "name": {
+      "pt": "Vou Fazer do Jeito Certo",
+      "en": "I'll Do It Properly",
+      "jp": "“ちゃんとやんねん”"
+    },
+    "description": {
+      "pt": "A [Recepção] de Kita Shinsuke aumenta em 8/10/12%. Ele realiza uma [Recepção]; se o resultado não for PERFEITO, ganha 1 acúmulo de [Ação Confiável] (+3% [Recepção], até 3). Com 3 acúmulos, consome 3 para aumentar a [Técnica de Ataque] dos jogadores da linha de frente em 10% por 8 cruzamentos.",
+      "en": "Kita Shinsuke's [Receive] Stat is increased by 8%/10%/12%. Kita Shinsuke performs a [Receive]. If the [Receive] result is not Perfect, he gains 1 stack of [Reliable Action]. Each stack of [Reliable Action] increases Kita Shinsuke's [Receive] Stat by 3%, up to a maximum of 3 stacks. If Kita Shinsuke possesses 3 or stacks of [Reliable Action], consume 3 stacks of [Reliable Action] increase [Attack Technique] of your side's front row players by 10%. This effect lasts for 8 net crossings.",
+      "jp": "北信介の[レシーブ]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n北信介のレシーブがナイスプレーにならなかった場合、[確実な行動]効果を1スタック獲得する。[確実な行動]効果1スタックにつき、[レシーブ]が3%アップ。最高3スタック。\n[確実な行動]効果を3スタック以上持っている場合、[確実な行動]効果を3スタック消費して、味方前衛の[攻撃テクニック]が10%アップ。この効果はボールがネットを8回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kita-ssr.a4": {
+    "name": {
+      "pt": "Jogada Sólida",
+      "en": "Solid Play",
+      "jp": "堅実なプレー"
+    },
+    "description": {
+      "pt": "Kita Shinsuke realiza uma [Recepção] com 235/250/265/280/295% de [Recepção] como poder.",
+      "en": "Kita Shinsuke performs a [Receive] with 235%/250%/265%/280%/295% of [Receive] Stat power.",
+      "jp": "北信介が[レシーブ]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "koganegawa-ssr.a1": {
+    "name": {
+      "pt": "LEVANTADOR NOVATO",
+      "en": "Rookie Setter",
+      "jp": "新米セッター"
+    },
+    "description": {
+      "pt": "KANJI KOGANEGAWA realiza um Passe com 120% do atributo Passe como poder",
+      "en": "KANJI KOGANEGAWA performs a Set with 120% of his Set Stat.",
+      "jp": "黄金川貫至が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のトスをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 6回超える",
+        "pt": "Até a bola passar pela rede 6 vezes",
+        "en": "Until the ball crosses the net 6 times"
+      }
+    }
+  },
+  "koganegawa-ssr.a2": {
+    "name": {
+      "pt": "FAÍSCA DE BLOQUEIO",
+      "en": "Block Spark",
+      "jp": "発展途上"
+    },
+    "description": {
+      "pt": "KANJI KOGANEGAWA realiza um Bloqueio com 105% do atributo Bloqueio como poder; enquanto KANJI KOGANEGAWA estiver presente, ao bloquear a Cortada Potente de um adversário, aumenta a potência de Bloqueio do seu lado em 3% do atributo Bloqueio de cada jogador que estiver bloqueando",
+      "en": "KANJI KOGANEGAWA performs a Block with 105% of his Block Stat. While he is on the court, when the opponent performs a Power Spike, your side's blocking players gain 3% additional Block power based on their own Block Stat.",
+      "jp": "黄金川貫至が[ブロック]×（Lv1: 105%, Lv2: 120%, Lv3: 135%）の威力のブロックをする。黄金川貫至がコート上に居る場合、相手強打時、味方のブロック威力がブロックをするメンバーの[ブロック]×3%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 8回超える",
+        "pt": "Até a bola passar pela rede 8 vezes",
+        "en": "Until the ball crosses the net 8 times"
+      }
+    }
+  },
+  "koganegawa-ssr.a3": {
+    "name": {
+      "pt": "MURALHA DE FERRO III",
+      "en": "Iron Wall III",
+      "jp": "三枚目の鉄壁"
+    },
+    "description": {
+      "pt": "Enquanto KANJI KOGANEGAWA estiver presente, aumenta a potência da habilidade de Bloqueio dos outros jogadores do seu lado em 2% do atributo Bloqueio de cada jogador que estiver bloqueando",
+      "en": "While KANJI KOGANEGAWA is on the court, increases Block power of your other players' Block skills by 2% of their Block Stat.",
+      "jp": "黄金川貫至がコート上に居る場合、味方のブロックスキルの威力が該当メンバーの[ブロック]×（Lv1: 2%, Lv2: 2.5%, Lv3: 3%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "koganegawa-ssr.a4": {
+    "name": {
+      "pt": "LARGADA RELÂMPAGO",
+      "en": "Flash Dump",
+      "jp": "期待の新兵器"
+    },
+    "description": {
+      "pt": "KANJI KOGANEGAWA realiza uma Largada do Levantador impossível de bloquear com 210% do atributo Passe como poder",
+      "en": "KANJI KOGANEGAWA performs an unblockable Setter Dump with 210% of his Set Stat.",
+      "jp": "黄金川貫至が[トス]×（Lv1: 210%, Lv2: 225%, Lv3: 240%, Lv4: 255%, Lv5: 270%）の威力のツーアタックをする。ツーアタックはブロックされない"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 8回超える",
+        "pt": "Até a bola passar pela rede 8 vezes",
+        "en": "Until the ball crosses the net 8 times"
+      }
+    }
+  },
+  "komori-ur.a1": {
+    "name": {
+      "pt": "Peça-chave da Equipe",
+      "en": "Key Person Of The Team",
+      "jp": "チームのキーマン"
+    },
+    "description": {
+      "pt": "Estando em quadra, a [Técnica de Defesa] de todos os jogadores aliados da linha de trás aumenta em 10/13/16%. No início do rali, ganha 6 acúmulos de [Conectar ao Próximo]; cada acúmulo aumenta o [Passe] em 3% e o [Reflexo] em 5%, até 10.",
+      "en": "When on the court, all allied backcourt players' [Defensive Technique] increases by 10%/13%/16%. Gains 6 stacks of [Connect to Next] at rally start; each stack increases [Set] by 3% and [Reflex] by 5%, up to 10 stacks.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "komori-ur.a2": {
+    "name": {
+      "pt": "Levantamento Habilidoso",
+      "en": "Skillful Set",
+      "jp": "巧みなトス"
+    },
+    "description": {
+      "pt": "Realiza Passe com [Passe] × 140/160/180% de poder, aumentando a Moral do time em 10. A primeira Cortada (Potente/Rápida) de um aliado após isso aumenta a [Atenção] do atacante em 15% até a bola cruzar a rede duas vezes.",
+      "en": "Sets with power × 140%/160%/180% of [Set], increasing teammates' morale by 10. The first spike (Power Attack/Quick Attack) by an ally after this increases the spiker's [Attention] by 15% until the ball crosses the net twice.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "komori-ur.a3": {
+    "name": {
+      "pt": "Criar o Fluxo do Jogo",
+      "en": "Create The Flow Of The Game",
+      "jp": "ゲームの流れを作る"
+    },
+    "description": {
+      "pt": "A [Recepção] aumenta em 12/16/20%. Quando um aliado ativa uma recepção não-especial ou Komori ativa uma recepção especial, consome 2 acúmulos de [Conectar ao Próximo] para aumentar a recepção em [Recepção] × 30% e a primeira Cortada de um aliado depois disso aumenta o poder dessa cortada (Potente/Rápida) em 20%.",
+      "en": "[Receive] increases by 12%/16%/20%. When an ally activates a non-special receive or Komori activates a receive special, consumes 2 stacks of [Connect to Next] to increase receive power by [Receive] × 30% and the first ally spike after this increases that spike's (Power Attack/Quick Attack) power by 20%.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "komori-ur.a4": {
+    "name": {
+      "pt": "Recepção que Cria Impulso",
+      "en": "Receive That Creates Momentum",
+      "jp": "流れを作り上げるレシーブ"
+    },
+    "description": {
+      "pt": "Recebe com [Recepção] × 260/275/290/305/320% de poder. A primeira Cortada de um aliado após isso (Potente/Rápida) aumenta a [Técnica de Ataque] do atacante em 20% até a bola cruzar a rede duas vezes.",
+      "en": "Receives with power × 260%/275%/290%/305%/320% of [Receive]. The first ally spike (Power Attack/Quick Attack) after this increases the spiker's [Attack Technique] by 20% until the ball crosses the net twice.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "konoha-ssr.a1": {
+    "name": {
+      "pt": "Recepção Excelente",
+      "en": "Excellent Receive",
+      "jp": "優れたレシーブ"
+    },
+    "description": {
+      "pt": "A [Recepção] de Akinori Konoha aumenta em 8/10/12%. Enquanto o Despertar de Moral estiver ativo, suas [Recepção] e [Defesa] aumentam em 10%.",
+      "en": "Akinori Konoha [Receive] is increased by 8/10/12%. While Team Morale Awakening is activated, his [Receive] and [Save] are increased by 10%.",
+      "jp": "木葉秋紀の[レシーブ]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。味方がチーム士気覚醒を発動している間、木葉秋紀の[レシーブ]と[カバー]が10%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "konoha-ssr.a2": {
+    "name": {
+      "pt": "Uma Combinação Primorosa",
+      "en": "An Exquisite Combination",
+      "jp": "絶妙なコンビネーション"
+    },
+    "description": {
+      "pt": "Akinori Konoha realiza uma Defesa com 120/135/150% de [Defesa] como poder.",
+      "en": "Akinori Konoha performs a save with 120/135/150% of [Cover] as power.",
+      "jp": "木葉秋紀が[カバー]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のカバーをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "konoha-ssr.a3": {
+    "name": {
+      "pt": "Bloqueio do Polivalente",
+      "en": "All-Rounder's Block",
+      "jp": "オールラウンダーのブロック"
+    },
+    "description": {
+      "pt": "Quando Akinori Konoha está na linha de frente, o [Bloqueio] e o [Ataque Potente/Ataque Rápido] de todos os aliados na linha de frente aumentam em 8/10/12%. Se ele estiver na linha de trás, a [Recepção] e a [Defesa] de todos os aliados na linha de trás aumentam em 8/10/12%.",
+      "en": "When Akinori Konoha is in the front row, the [Block] and [Power Attack/Quick Attack] of all allies in the front row is increased by 8/10/12%. If he is in the back row, the [Receive] and [Save] of all allies in the back row is increased by 8/10/12%.",
+      "jp": "木葉秋紀が前衛に居る場合、味方前衛の[ブロック]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）、[強打/速攻]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n木葉秋紀が後衛に居る場合、味方後衛の[レシーブ]と[カバー]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "konoha-ssr.a4": {
+    "name": {
+      "pt": "Sr. Habilidoso (mas Pobre)",
+      "en": "Mr. Skillful Poor",
+      "jp": "Mr.器用貧乏"
+    },
+    "description": {
+      "pt": "Akinori Konoha recebe com 225/240/255/270/285% de [Recepção] como poder. Se o resultado não for RUIM, a Moral do Time aumenta em 20.",
+      "en": "Akinori Konoha receives with 225/240/255/270/285% of [Receive] as power. If the result of this play is not BAD, team morale is increased by 20.",
+      "jp": "木葉秋紀が[レシーブ]×（Lv1: 225%, Lv2: 240%, Lv3: 255%）の威力のレシーブをする。\nこのプレーでは、結果がBADにならなかった場合、味方のチーム士気が20アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "kuro-sp.a1": {
+    "name": {
+      "pt": "A Torre de Comando Imbatível",
+      "en": "The Command Tower That Cannot Be Beaten",
+      "jp": "喰えない司令塔"
+    },
+    "description": {
+      "pt": "Quando Kuroo Tetsuro (Hanabi) está em quadra, o [Empenho] dos aliados na mesma linha de Kuroo Tetsuro (Hanabi) aumenta em 20/25/30%. Depois que ele toca na bola, o poder da próxima jogada do mesmo tipo que a jogada de Kuroo Tetsuro (Hanabi) é aumentado em 40% × o parâmetro correspondente do membro que fará a jogada. Se a jogada de Kuroo Tetsuro (Hanabi) for crítica, um membro aleatório do time adversário recebe a desvantagem [Raiva] ([Ataque Potente/Ataque Rápido] será reduzido em 10%).",
+      "en": "When Kuroo Tetsuro (Hanabi) is on the court, the [Spirit] of allied members in the same row as Kuroo Tetsuro (Hanabi) is increased by 20/25/30%. After he touches the ball, the power of the next play of the same type as Kuroo Tetsuro (Hanabi) is increased by 40% x the corresponding parameter of the member making the play. If Kuroo Tetsuro (Hanabi)’s play is a critical play, a random member on the opposing court will be given the [Rage] disadvantage (([Power Attack/Quick Attack] will be reduced by 10%).",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kuro-sp.a2": {
+    "name": {
+      "pt": "Recepção Habilidosa",
+      "en": "Skillfull Receive",
+      "jp": "巧みなレシーブ"
+    },
+    "description": {
+      "pt": "Kuroo Tetsuro (Hanabi) realiza uma recepção com poder igual a [Recepção] × 140/160/180%. Se essa jogada for crítica, o poder dessa recepção aumenta em [Recepção] × 20%.",
+      "en": "Kuroo Tetsuro (Hanabi) performs a receive with power equal to [Receive] x 140/160/180%. If this play is a critical play, the power of this receive is increased by [Receive] x 20%.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kuro-sp.a3": {
+    "name": {
+      "pt": "Um Jogador Completo, Sem Falhas",
+      "en": "A Flawless, All-Around Player",
+      "jp": "隙のない万能型プレイヤー"
+    },
+    "description": {
+      "pt": "Quando Kuroo Tetsuro (Hanabi) está na linha de frente/trás e toca na bola, seu [Reflexo] aumenta em 50% × o [Reflexo] de cada outro aliado na linha de frente/trás (máximo 100%), e seu [Empenho] aumenta em 50% × o [Empenho] de cada outro aliado na linha de frente/trás (máximo 100%). Além disso, quando Kuroo Tetsuro (Hanabi) está na linha de frente, a [Técnica de Ataque] dos aliados aumenta em 14/17/20%, e seu poder de bloqueio aumenta em [Bloqueio] × 45%. Além disso, quando Kuroo Tetsuro está na linha de trás, a [Técnica de Defesa] dos aliados aumenta em 14/17/20%, e seu poder de recepção aumenta em [Recepção] × 45%.",
+      "en": "When Kuroo Tetsuro (Hanabi) is in the front/back row and touches the ball, his [Reflex] is increased by 50% x the [Reflex] of each other allied member in the front/back row (maximum 100%), and his [Spirit] is increased by 50% x the [Spirit] of each other allied member in the front/back row (maximum 100%). Furthermore, when Kuroo Tetsuro (Hanabi) is in the front line, the [Attack Technique] of allied members is increased by 14/17/20%, and his block power is increased by [Block] x 45%. Furthermore when Kuroo Tetsuro is in the back row, the [Defensive Technique] of allied members increases by 14/17/20%, and his receiving power increases by [Receive] x 45%.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kuro-sp.a4": {
+    "name": {
+      "pt": "Bloqueio Desagradável",
+      "en": "Unpleasant Block",
+      "jp": "“不快”なブロック"
+    },
+    "description": {
+      "pt": "Kuroo Tetsuro (Hanabi) realiza um bloqueio com poder de [Bloqueio] × 280/300/320/340/360%. Se esse bloqueio não devolver a bola para a quadra adversária, a primeira recepção de um aliado após essa jogada não resultará em ponto. Se esse bloqueio devolver a bola para a quadra adversária, os atributos principais de todos os aliados aumentam em 15%. Esse efeito dura até a bola atravessar a rede 8 vezes.",
+      "en": "Kuroo Tetsuro (Hanabi) performs a block with the power of [Block] x 280/300/320/340/360%. If this block does not bounce the ball back into the opponents court, the first ally’s reception after this play will not result in a point. If this block bounces the ball back into the opponents court, the main stats of all allied members will increase by 15%. This effect lasts until the ball goes over the net 8 times.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "kuroo-ssr.a1": {
+    "name": {
+      "pt": "AURA DO ESPECIALISTA",
+      "en": "EXPERT'S AURA",
+      "jp": "達人のオーラ"
+    },
+    "description": {
+      "pt": "Enquanto TETSURO KUROO (Treino) estiver presente, aumenta a Força dos jogadores do tipo Ataque Rápido do seu lado em 16%",
+      "en": "While TETSURO KUROO (Practice) is present, increases Strength of Quick Attack-type players on your side by 16%",
+      "jp": "黒尾鉄朗（練習）がコート上に居る場合、コート上の速攻メンバーの[パワー]が（Lv1: 16%, Lv2: 20%, Lv3: 24%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kuroo-ssr.a2": {
+    "name": {
+      "pt": "ATAQUE FERRENHO",
+      "en": "STEADY OFFENSE",
+      "jp": "安定した攻撃"
+    },
+    "description": {
+      "pt": "TETSURO KUROO (Treino) realiza uma Cortada Rápida com 125% do atributo Ataque Rápido como poder, recebe 1 acúmulo de “Carga de Poder”; ao usar a habilidade [Ataque Ferrenho], cada acúmulo de [Carga de Poder] aumenta a potência da cortada em 15% do atributo Ataque Rápido, até 2 acúmulos",
+      "en": "TETSURO KUROO (Practice) performs a Quick Attack with 125% of Quick Attack Stat as power, receives 1 stacks of 'Power Charge'; when casting [Steady Offense] skill, each stack of 'Power Charge' increases spike power by 15% of Quick Attack Stat, up to 2 stacks",
+      "jp": "黒尾鉄朗（練習）が[速攻]×（Lv1: 125%, Lv2: 145%, Lv3: 165%）の威力の速攻をし、[チャージ]効果を1スタック獲得する。\n<安定した攻撃>発動時、[チャージ]1スタックにつき速攻威力が[速攻]×15%アップ。最高2スタック"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "kuroo-ssr.a3": {
+    "name": {
+      "pt": "TORRE DE CONTROLE DO BLOQUEIO",
+      "en": "BLOCK CONTROL TOWER",
+      "jp": "ブロックの司令塔"
+    },
+    "description": {
+      "pt": "Enquanto TETSURO KUROO (Treino) estiver presente, aumenta o atributo Bloqueio dos jogadores do seu lado em 8%",
+      "en": "While TETSURO KUROO (Practice) is present, increases Block Stat of players on your side by 8%",
+      "jp": "黒尾鉄朗（練習）がコート上に居る場合、味方コート上のメンバーの[ブロック]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "kuroo-ssr.a4": {
+    "name": {
+      "pt": "BLOQUEIO TOTAL",
+      "en": "LOCKDOWN",
+      "jp": "全面ブロック"
+    },
+    "description": {
+      "pt": "TETSURO KUROO (Treino) realiza um Bloqueio com 170% do atributo Bloqueio como poder; quando outros jogadores da linha de ataque do tipo Bloqueio estão presentes, aumenta a potência desse bloqueio em 15% do atributo Bloqueio",
+      "en": "TETSURO KUROO (Practice) performs a Block with 170% of Block Stat as power; when other front row Block-type players are present, increases this block's power by 15% of Block Stat",
+      "jp": "黒尾鉄朗（練習）が[ブロック]×（Lv1: 170%, Lv2: 185%, Lv3: 200%, Lv4: 215%, Lv5: 230%）の威力のブロックをする。前衛に他のブロックメンバーが居る場合、今回のブロック威力が[ブロック]×15%アップ"
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "lev-ssr.a1": {
+    "name": {
+      "pt": "MUDANÇA TÁTICA",
+      "en": "TRIGGERED BURST",
+      "jp": "戦術変更"
+    },
+    "description": {
+      "pt": "Enquanto LEV HAIBA estiver presente, e quando o seu lado conseguir uma recepção PERFEITA, aumenta a potência da próxima Cortada Rápida dele em 15% do atributo Ataque Rápido",
+      "en": "While LEV HAIBA is on the court, when your side achieves a PERFECT Receive, his next Quick Attack gains 15% of his Quick Attack Stat as additional power.",
+      "jp": "灰羽リエーフがコート上に居て、味方のレシーブ結果がPERFECTの場合、灰羽リエーフの次の速攻威力が[速攻]×（Lv1: 15%, Lv2: 17%, Lv3: 19%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "lev-ssr.a2": {
+    "name": {
+      "pt": "BLOQUEIO DE MOMENTUM",
+      "en": "MOMENTUM BLOCK",
+      "jp": "気迫に満ちたブロック"
+    },
+    "description": {
+      "pt": "LEV HAIBA realiza um Bloqueio com 105% do atributo Bloqueio como poder",
+      "en": "LEV HAIBA performs a Block with 105% of his Block Stat.",
+      "jp": "灰羽リエーフが[ブロック]×（Lv1: 105%, Lv2: 120%, Lv3: 135%）の威力のブロックをする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "lev-ssr.a3": {
+    "name": {
+      "pt": "ATLETISMO NATURAL",
+      "en": "GIFTED ATHLETE",
+      "jp": "恵まれた体躯"
+    },
+    "description": {
+      "pt": "Quando LEV HAIBA realiza uma Cortada Rápida e o jogador adversário que está bloqueando tem uma penalidade, reduz a potência de bloqueio dele em 10% do atributo Bloqueio do jogador que está bloqueando",
+      "en": "When LEV HAIBA performs a Quick Attack and the opponent's blocker is affected by a debuff, reduces that blocker's Block power by 10% of their Block Stat.",
+      "jp": "灰羽リエーフが速攻時、ブロックをする相手メンバーが不利効果を持っている場合、今回のブロック威力が該当メンバーの[ブロック]×（Lv1: 10%, Lv2: 12.5%, Lv3: 15%）ダウン"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "lev-ssr.a4": {
+    "name": {
+      "pt": "CORTADA TALENTOSA",
+      "en": "TALENTED SPIKE",
+      "jp": "打点の高いスパイク"
+    },
+    "description": {
+      "pt": "LEV HAIBA realiza uma Cortada Rápida com 245% do atributo Ataque Rápido como poder",
+      "en": "LEV HAIBA performs a Quick Attack with 245% of his Quick Attack Stat.",
+      "jp": "灰羽リエーフが[速攻]×（Lv1: 245%, Lv2: 260%, Lv3: 275%, Lv4: 290%, Lv5: 305%）の威力の速攻をする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "nishinoya-sp.a1": {
+    "name": {
+      "pt": "Aceleração de Classe Mundial",
+      "en": "World-Class Acceleration",
+      "jp": "トップクラスの瞬発力"
+    },
+    "description": {
+      "pt": "O [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 10/13/16%. Quando um membro do time adversário faz uma jogada Perfeita, o [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 1.5%, até 10 acúmulos. Dura até a bola cruzar a rede 6 vezes.",
+      "en": "Nishinoya Yu (After School)'s [Reflex] is increased by 10%/13%/16%. When an opposing team member makes a Perfect play, Nishinoya Yu (After School)'s [Reflex] is increased by 1.5%. Stacks up to 10 times. This effect lasts until the ball goes over the net 6 times.",
+      "jp": "西谷夕(放課後)の[反応]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。\n相手メンバーがナイスプレーをした場合、西谷夕(放課後)の[反応]が1.5%アップ。最高4スタック。この効果はボールがネットを6回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "nishinoya-sp.a2": {
+    "name": {
+      "pt": "Passe A",
+      "en": "A-Pass",
+      "jp": "Aパス"
+    },
+    "description": {
+      "pt": "O [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 10/13/16%. Quando um membro do time adversário faz uma jogada Perfeita, o [Reflexo] de Nishinoya Yu (Depois da Escola) aumenta em 1.5%, até 10 acúmulos. Dura até a bola cruzar a rede 6 vezes.",
+      "en": "Nishinoya Yu (After School) sets the ball with 140%/160%/180% of [Set] as power. Nishinoya Yu (After School)'s [Attention] increases by 100% of [Reflex] as power. This effect lasts for two net crossings.",
+      "jp": "西谷夕(放課後)が[トス]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のトスをする。\n西谷夕(放課後)の[意識]が[反応]×100%アップ。この効果はボールがネットを2回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "nishinoya-sp.a3": {
+    "name": {
+      "pt": "Salvar o Time na Crise",
+      "en": "Save the Team in Crisis",
+      "jp": "チームの危機を救う"
+    },
+    "description": {
+      "pt": "O [Empenho] de Nishinoya Yu (Depois da Escola) aumenta em 20/25/30%. Quando um aliado faz uma jogada Perfeita, o tempo de recarga da Recepção com o Pé é reduzido em um cruzamento de rede.",
+      "en": "Nishinoya Yu (After School)'s [Spirit] is increased by 20%/25%/30%. When an ally makes a perfect play, the cooldown of Foot Receive is reduced by one time the ball goes over the net.",
+      "jp": "西谷夕(放課後)の[メンタル]が（Lv1: 20%, Lv2: 25%, Lv3: 30%）アップ。\n味方メンバーがナイスプレーをした場合、＜足レシーブ＞のクールダウンはボールがネットを超える回数1回分減る"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "nishinoya-sp.a4": {
+    "name": {
+      "pt": "Recepção com o Pé",
+      "en": "Foot Receive",
+      "jp": "足レシーブ"
+    },
+    "description": {
+      "pt": "Nishinoya Yu (Depois da Escola) executa uma recepção com 260/275/290% de [Recepção] como poder. A [Recepção] dele aumenta em 20%. Dura por dois cruzamentos de rede.",
+      "en": "Nishinoya Yu (After School) performs a receive with 260%/275%/290% of [Receive] as power. Nishinoya Yu (After School)'s [Receive] is increased by 20%. This effect lasts for two net crossings.",
+      "jp": "西谷夕(放課後)が[レシーブ]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力のレシーブをする。\n西谷夕(放課後)の[レシーブ]が20%アップ。この効果はボールがネットを2回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "nishinoya-ssr.a1": {
+    "name": {
+      "pt": "DEUS GUARDIÃO",
+      "en": "GUARDIAN DEITY",
+      "jp": "守護神"
+    },
+    "description": {
+      "pt": "Quando o resultado do teste de resistência de YU NISHINOYA não for RUIM, aumenta o poder da próxima habilidade de Cortada Potente usada pelo seu jogador do tipo Potência em 15% de seu atributo Ataque Potente.",
+      "en": "When YU NISHINOYA's Save result is not BAD, increases the power of the next Power Spike skill usard by your Power-type player by 15% of his Power Attack Stat",
+      "jp": "西谷夕のカバーがBADではない場合、このプレー発生後最初の強打メンバーによる強打スキルの威力が、該当メンバーの[強打]×（Lv1: 15%, Lv2: 17.5%, Lv3: 20%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "nishinoya-ssr.a2": {
+    "name": {
+      "pt": "LÍBERO EXCEPCIONAL",
+      "en": "LIBERO SUPREME",
+      "jp": "ベストリベロ"
+    },
+    "description": {
+      "pt": "YU NISHINOYA realiza uma Defesa com 120% do atributo Defesa como poder",
+      "en": "YU NISHINOYA performs a Save with 120% of Save Stat as power",
+      "jp": "西谷夕が[カバー]×（Lv1: 120%, Lv2: 140%, Lv3: 160%）の威力のカバーをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "nishinoya-ssr.a3": {
+    "name": {
+      "pt": "REFORÇO DE MORAL",
+      "en": "INSPIRE MORALE",
+      "jp": "メンバーへの励まし"
+    },
+    "description": {
+      "pt": "Quando YU NISHINOYA entra na quadra, aumenta o Moral do seu lado em 18",
+      "en": "When YU NISHINOYA enters the court, increases your Team Morale by 18",
+      "jp": "西谷夕が出場時、チーム士気が（Lv1: 15, Lv2: 20, Lv3: 25）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "nishinoya-ssr.a4": {
+    "name": {
+      "pt": "ROLLING THUNDER",
+      "en": "ROLLING THUNDER",
+      "jp": "ローリングサンダー"
+    },
+    "description": {
+      "pt": "YU NISHINOYA consome 20 de Vigor adicional para realizar uma recepção com 220% da potência do atributo Recepção; se o resultado da Recepção não for RUIM, reduz a recarga da próxima habilidade de Cortada Potente do seu lado em 6 cruzamentos de rede",
+      "en": "YU NISHINOYA consumes 20 additional Stamina to perform a Receive with 220% of Receive Stat power; if the Receive result is not BAD, reduces the cooldown of your side's next Power Spike skill by 6 net crossings",
+      "jp": "西谷夕がプラスで20のスタミナを消費して、[レシーブ]×（Lv1: 220%, Lv2: 235%, Lv3: 250%, Lv4: 265%, Lv5: 280%）の威力のレシーブをする。\nレシーブ結果がBADにならなかった場合、このプレー発生後最初の強打スキルのクールダウンはボールがネットを超える回数6回分減る"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "ohira-ssr.a1": {
+    "name": {
+      "pt": "DEFESA POTENTE",
+      "en": "Strong Defense",
+      "jp": "強力なディフェンス"
+    },
+    "description": {
+      "pt": "Quando REON OHIRA recebe a Cortada Rápida Superior de um adversário, aumenta a potência de recepção em 40% do atributo Recepção de OHIRA",
+      "en": "When Ohira Reon receives, if the opponent's quick attack is a NICE play, the power of this receive is 40/55/70% of [Receive] as power.",
+      "jp": "大平獅音がレシーブ時、相手の速攻がナイスプレーになった場合、今回のレシーブ威力が[レシーブ]×（Lv1: 40%, Lv2: 55%, Lv3: 70%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "ohira-ssr.a2": {
+    "name": {
+      "pt": "DEFESA DE PONTO DE VIRADA",
+      "en": "Defense That Changes The Flow",
+      "jp": "流れを変える守備"
+    },
+    "description": {
+      "pt": "REON OHIRA realiza uma Recepção com 120% do atributo Recepção como poder",
+      "en": "Ohira Reon receives with 120/135/150% of [Receive] as power.",
+      "jp": "大平獅音が[レシーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）のレシーブをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "ohira-ssr.a3": {
+    "name": {
+      "pt": "BENKEI BENEVOLENTE",
+      "en": "The Gentle “Benkei”",
+      "jp": "温和な”弁慶”"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de REON OHIRA em 5% e o Reflexo em 10%",
+      "en": "Ohira Reon's [Awareness] is increased by 5/5/8%, and his [Reflex] is increased by 10/15/15%.",
+      "jp": "大平獅音の[意識]が（Lv1: 5%, Lv2: 5%, Lv3: 8%）、[反応]が（Lv1: 10%, Lv2: 15%, Lv3: 15%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "ohira-ssr.a4": {
+    "name": {
+      "pt": "CORTADA DEVASTADORA",
+      "en": "Power Spikes",
+      "jp": "パワフルなスパイク"
+    },
+    "description": {
+      "pt": "REON OHIRA realiza uma Cortada Potente com 240% do atributo Ataque Potente como poder",
+      "en": "Ohira Reon makes a powerful spike with 240/255/270/285/300% of [Power Attack] as power.",
+      "jp": "大平獅音が[強打]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力の強打をする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "oikawa-ssr.a1": {
+    "name": {
+      "pt": "VISÃO DA QUADRA",
+      "en": "COURT VISION",
+      "jp": "洞察力"
+    },
+    "description": {
+      "pt": "Aumenta o atributo Passe de TORU OIKAWA (Treino) em 10%; quando o jogador do seu lado usa uma habilidade de Cortada, recebe 1 acúmulo do Potencializador [Tempo do Ataque], cada acúmulo do Potencializador [Tempo do Ataque] aumenta a Percepção dos jogadores do seu lado em 1%, até 10 acúmulos",
+      "en": "Increases TORU OIKAWA (Practice)'s Set Stat by 10%. When your players cast a Spike skill, they gain 1 stack(s) of 'Attack Tempo'. Each stack increases your players' Awareness by 1%, up to 10 stacks.",
+      "jp": "及川徹（練習）の[トス]が（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。\n味方メンバーの強打・速攻スキル発動時、[攻撃のリズム]効果を1スタック獲得する。\n[攻撃のリズム]効果1スタックにつき、味方コート上のメンバーの[意識]が1%アップ。最高10スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "oikawa-ssr.a2": {
+    "name": {
+      "pt": "MUDANÇA DE JOGO",
+      "en": "GAME CHANGER",
+      "jp": "流れを引き寄せる"
+    },
+    "description": {
+      "pt": "Enquanto TORU OIKAWA (Treino) estiver presente, no início de cada turno, quando seu lado estiver perdendo, aumenta todos os atributos básicos dos jogadores do seu lado em 6%, com duração de 8 cruzamentos de rede",
+      "en": "While TORU OIKAWA (Practice) is on the court, at the start of each turn, if your side is behind, increases all basic Stats of your players by 6%, lasting for 8 net crossings.",
+      "jp": "及川徹（練習）がコート上に居る場合、ラリー開始時、得点が相手にリードされている場合、味方全員のメインパラメータが（Lv1: 6%, Lv2: 9%, Lv3: 12%）アップ。この効果はボールがネットを8回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "oikawa-ssr.a3": {
+    "name": {
+      "pt": "TORRE DE COMANDO",
+      "en": "CONTROL TOWER",
+      "jp": "司令塔"
+    },
+    "description": {
+      "pt": "Enquanto TORU OIKAWA (Treino) estiver presente, aumenta a Percepção dos jogadores do seu lado em 6%; cada acúmulo do Potencializador [Tempo do Ataque] proporciona um aumento adicional de 1% na Percepção dos jogadores do seu lado",
+      "en": "While TORU OIKAWA (Practice) is on the court, increases your players’ Awareness by 6%. Each stack of 'Attack Tempo' provides an additional 1% Awareness.",
+      "jp": "及川徹（練習）がコート上に居る場合、味方コート上のメンバーの[意識]が（Lv1: 6%, Lv2: 9%, Lv3: 12%）アップ。"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "oikawa-ssr.a4": {
+    "name": {
+      "pt": "SAQUE DUPLO SENTIDO",
+      "en": "DOUBLE-EDGED SERVE",
+      "jp": "一か八かのサーブ"
+    },
+    "description": {
+      "pt": "TORU OIKAWA (Treino) realiza um Saque em Suspensão Potente com 240% do atributo Saque como poder; para esse Saque, a Percepção de OIKAWA (Treino) aumenta em 15%, esse Saque tem uma chance fixa de 5% de falhar",
+      "en": "TORU OIKAWA (Practice) performs a Power Jump Serve with 240% of his Serve Stat. For this Serve, his Awareness increases by 15%. This Serve has a 5% chance to fail.",
+      "jp": "及川徹（練習）が[サーブ]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力のパワージャンプサーブをする。\nこのプレーでは及川徹（練習）の[意識]が15%アップし、5%の確率でサーブミスになる"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "oikawa-ur.a1": {
+    "name": {
+      "pt": "LEVANTAMENTO DO GRANDE REI",
+      "en": "The King's Set",
+      "jp": "大王様のトス"
+    },
+    "description": {
+      "pt": "TORU OIKAWA realiza um Passe com 120% do atributo Passe como poder; quando os jogadores do seu lado conseguem uma Cortada Superior, eles recebem 1 acúmulo de “Tempo do Ataque”. Cada acúmulo aumenta a Percepção dos jogadores do seu lado em 1%, até 10 acúmulos",
+      "en": "Oikawa Tooru Sets with 120/135/150% of [Set] as power. If a teammate on the court performs a play, and the result is Perfect, he gains 1 stack of [Offensive Rhythm]. For each stack of [Offensive Rhythm], the [Awareness] of your deployed players increases by 1%, with a maximum of 10 stacks.",
+      "jp": "及川徹が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のトスをする。\n味方コート上のメンバーがナイスプレーをした場合、[攻撃のリズム]効果を1スタック獲得する。[攻撃のリズム]効果1スタックにつき、味方コート上のメンバーの[意識]が1%アップ。最高10スタック"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "oikawa-ur.a2": {
+    "name": {
+      "pt": "LARGADA DO GRANDE REI",
+      "en": "Unparalleled Talent",
+      "jp": "圧倒的なセンス"
+    },
+    "description": {
+      "pt": "TORU OIKAWA realiza uma Largada do Levantador impossível de bloquear com 115% do atributo Passe como poder; enquanto OIKAWA estiver presente, aumenta a Força dos jogadores do tipo Potente do seu lado em 20%",
+      "en": "Oikawa Tooru performs a setter dump with 115% of [Set] as power. The setter dump cannot be blocked. If Oikawa Tooru is on the court, a Power Attack on an allied court member's [Power] is increased by 20%.",
+      "jp": "及川徹が[トス]×（Lv1: 115%, Lv2: 130%, Lv3: 145%）の威力のツーアタックをする。ツーアタックはブロックされない。\n及川徹がコート上に居る場合、味方コート上の強打メンバーの[パワー]が20%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "oikawa-ur.a3": {
+    "name": {
+      "pt": "LÍDER DA QUADRA",
+      "en": "Conductor",
+      "jp": "指揮者"
+    },
+    "description": {
+      "pt": "Enquanto TORU OIKAWA estiver presente, aumenta a Percepção dos jogadores do seu lado em 10%; quando o jogador do seu lado usar uma habilidade de Cortada Potente, consome 6 acúmulos do Potencializador [Tempo do Ataque] para garantir um resultado Superior para essa cortada",
+      "en": "When Oikawa Tooru is on the court, the [Awareness] of your players on the court is increased by 10/14/18%. (If Oikawa has 6+ stacks of [Offensive Rhythm]). When one of your players performs a Power Attack skill, consumes 6 stacks of [Offensive Rhythm], and a Perfect result is guaranteed.",
+      "jp": "及川徹がコート上に居る場合、味方コート上のメンバーの意識が（Lv1: 10%, Lv2: 14%, Lv3: 18%）アップ。味方が強打スキル発動時、[攻撃のリズム]効果を6スタック消費し、必ずナイスプレーになる"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "oikawa-ur.a4": {
+    "name": {
+      "pt": "SAQUE EM SUSPENSÃO DO GRANDE REI",
+      "en": "The Great King's Jump Serve",
+      "jp": "大王様のジャンプサーブ"
+    },
+    "description": {
+      "pt": "TORU OIKAWA realiza um Saque em Suspensão Potente com 260% do atributo Saque como poder; para esse Saque, a Percepção de OIKAWA aumenta em 20% e a Força aumenta em 20%",
+      "en": "Oikawa Tooru performs a Jump Serve with 260/275/290/305/320% with [Serve] as power. This play increases his [Awareness] by 20% and his [Power] by 20%.",
+      "jp": "及川徹が[サーブ]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力のパワージャンプサーブをする。このプレーでは[意識]が20%、[パワー]が20%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "osamu-ur.a1": {
+    "name": {
+      "pt": "Ataque Flexível",
+      "en": "Flexible Offense",
+      "jp": "柔軟性に富んだ攻撃"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Rápido] de Miya Osamu em 10/12/14%. Início da partida: a [Percepção] de Osamu cai para 0% e, para cada 1% reduzido, a [Técnica de Ataque] aumenta em 1%. (Priorize empilhar [Percepção] para esta habilidade).",
+      "en": "Increases Miya Osamu's [Quick Attack] by 10%/12%/14%. Beginning of match: Miya Osamu's [Awareness] decreases to 0%, and for every 1% decrease, Miya Osamu's [Attack Technique] increases by 1%. Note: Stacking Osamu's Awareness should be priority for this skill alone.",
+      "jp": "宮治の[速攻]が（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。試合開始時、宮治の[意識]が0%に減少し、1%減少するごとに、宮治の[攻撃テクニック]が1%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "osamu-ur.a2": {
+    "name": {
+      "pt": "Saque em Suspensão Frio",
+      "en": "Cool Jump Serve",
+      "jp": "冷静なジャンプサーブ"
+    },
+    "description": {
+      "pt": "Miya Osamu executa um Saque em Suspensão com 120/135/150% de [Saque]. Se o recebedor adversário tiver [Supressão], a [Técnica de Ataque] de Osamu aumenta em 10% por 8 cruzamentos.",
+      "en": "Miya Osamu performs a Jump Serve with 120%/135%/150% of [Serve] Stat as power. If the opponent's receiver has the debuff [Suppression], Miya Osamu's [Attack Technique] is increased by 10%. This effect lasts for 8 net crossings.",
+      "jp": "宮治が[サーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のジャンプサーブをする。レシーブをする相手メンバーが[制圧]不利効果を持っている場合、宮治の[攻撃テクニック]が10%アップ。この効果はボールがネットを8回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "osamu-ur.a3": {
+    "name": {
+      "pt": "Multitalentoso",
+      "en": "Multi-talented",
+      "jp": "マルチな能力"
+    },
+    "description": {
+      "pt": "Aumenta a [Técnica de Ataque] de Miya Osamu em 10/13/16%. Quando ele ataca ou saca, aplica 1 acúmulo de [Supressão] nos jogadores da linha de trás adversária (cada acúmulo reduz a [Recepção] em 10%). Dura por 10 cruzamentos.",
+      "en": "Increases Miya Osamu's [Attack Technique] by 10%/13%/16%. When Miya Osamu performs an attack or serve, he inflicts one stack of the debuff [Suppression] on the opponent's back row players. (Players with the debuff [Suppression] have their [Receive] Stat reduced by 10%, per stack). This effect lasts for 10 net crossings.",
+      "jp": "宮治の[攻撃テクニック]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。宮治の速攻またはサーブ時、相手後衛に[制圧]不利効果を1スタック付与する（[レシーブ]が10%ダウン）。この効果はボールがネットを10回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "osamu-ur.a4": {
+    "name": {
+      "pt": "Contra-ataque Flexível",
+      "en": "Flexible Counter Attack",
+      "jp": "柔軟性のある速攻"
+    },
+    "description": {
+      "pt": "Miya Osamu realiza um Ataque Rápido com 260/275/290/305/320% de [Ataque Rápido]. O [Ataque Rápido] dele aumenta em 40% de [Técnica de Ataque] por 2 cruzamentos. (Sinergiza com a [Técnica de Ataque] ganha em Ataque Flexível). SR2: se o recebedor inimigo tiver [Supressão], a potência aumenta em mais 60% de [Ataque Rápido]. SR4: após o Ataque Rápido, as próximas duas vezes que um aliado ativar um Superior, a [Técnica de Ataque/Defesa] desse jogador aumentará em 20%.",
+      "en": "Miya Osamu performs a quick attack with 260%/275%/290%/305%/320% of [Quick Attack] as power. Miya Osamu's [Quick Attack] Stat is increased by 40% of [Attack Technique]. This effect lasts for 2 net crossings. Note: This is influenced by the [Attack Technique] gained by Flexible Offense. Skill Resonance 2: When Miya Osamu performs a quick attack, if the opponent's receiver has the debuff [Suppression], the attack's power will increase by 60% of [Quick Attack] Stat. Skill Resonance 4: When Miya Osamu performs a quick attack, the next two time one of your side's players activates their ultimate, [Attack Technique] and [Defensive Technique] of that player will increase by 20%.",
+      "jp": "宮治の[速攻]×（Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%）の威力の速攻をする。宮治の[速攻]が[攻撃テクニック]×40%アップ。この効果はボールがネットを2回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "oshiro-ssr.a1": {
+    "name": {
+      "pt": "Controle de Ritmo",
+      "en": "Rhythm Control",
+      "jp": "リズム調整"
+    },
+    "description": {
+      "pt": "Sempre que Oshiro Alan consumir 10 de Vigor, ganha 1 acúmulo de [Respiração Rápida]. Cada acúmulo aumenta a [Técnica de Ataque] em 3/3.5/4%. Ao final do rali, todos os acúmulos são consumidos; para cada um, Oshiro recupera 4 de Vigor.",
+      "en": "Every time Oshiro Alan consumes 10 stamina, he gains 1 stack of [Quick Breather]. Each stack of [Quick Breather] effects increases [Attack Technique] by 3%/3.5%/4%. At the end of a rally, all [Quick Breather] effects are consumed. For every stack of [Breathing Time] that is consumed, Oshiro Alan reSaves 4 stamina.",
+      "jp": "尾白アランがスタミナを10消費するたびに、[息抜きタイム]効果を1スタック獲得する。[息抜きタイム]効果1スタックにつき、[攻撃テクニック]が（Lv1: 3%, Lv2: 3.5%, Lv3: 4%）アップ。\nラリー終了時に、[息抜きタイム]効果を全て消費する。[息抜きタイム]効果を1スタック消費するごとに、尾白アランのスタミナが4回復する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "oshiro-ssr.a2": {
+    "name": {
+      "pt": "Saque Altamente Técnico",
+      "en": "Highly Skilled Serve",
+      "jp": "技量の高いサーブ"
+    },
+    "description": {
+      "pt": "Ojiro Alan executa um Saque em Suspensão com 110/125/140% de [Saque] como poder. O recebedor adversário terá a [Recepção] reduzida em 10% por 6 cruzamentos.",
+      "en": "Ojiro Alan performs a Jump Serve with 110%/125%/140% of [Serve] Stat as power. The opponent receiver will have their [Receive] reduced by 10%. This effect lasts for six net crossings.",
+      "jp": "尾白アランが[サーブ]×（Lv1: 110%, Lv2: 125%, Lv3: 140%）の威力のジャンプサーブをする。レシーブをする相手メンバーの[レシーブ]が10%ダウン。この効果はボールがネットを6回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "oshiro-ssr.a3": {
+    "name": {
+      "pt": "Investida Agressiva",
+      "en": "Aggressive Assault",
+      "jp": "アグレッシブな攻撃"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Potente] de Oshiro Alan em 6/8/10% e o [Saque] em 6/8/10%. Ao realizar um Ataque Potente, consome 60% do Vigor atual e aumenta o poder do ataque em 30/40/50% de [Ataque Potente].",
+      "en": "Increases Oshiro Alan's [Power Attack] by 6%/8%/10% and [Serve] by 6%/8%/10%. When Oshiro Alan performs a Power Attack, 60% of his current stamina is consumed, and this power attack increases by 30%/40%/50% of [Power Attack] as power.",
+      "jp": "尾白アランの[強打]が（Lv1: 6%, Lv2: 8%, Lv3: 10%）、[サーブ]が（Lv1: 6%, Lv2: 8%, Lv3: 10%）アップ。尾白アランの強打時、現在のスタミナの60%を消費し、今回の強打威力が[強打]×（Lv1: 30%, Lv2: 40%, Lv3: 50%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "oshiro-ssr.a4": {
+    "name": {
+      "pt": "Cortada Trovejante",
+      "en": "Thunderous Spike",
+      "jp": "轟音スパイク"
+    },
+    "description": {
+      "pt": "Ojiro Alan executa um Ataque Potente com 240/255/270/285/300% de [Ataque Potente] como poder.",
+      "en": "Ojiro Alan performs a power attack with 240%/255%/270%/285%/300% of [Power Attack] as power.",
+      "jp": "尾白アランが[強打]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力の強打をする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "rintaro-ssr.a1": {
+    "name": {
+      "pt": "Fechar o Ângulo",
+      "en": "Close The Course",
+      "jp": "コースを封じる"
+    },
+    "description": {
+      "pt": "Aumenta o [Bloqueio] de Rintaro Suna em 10/12/14%. Se ele estiver em quadra e o atacante adversário estiver sob [Confusão], o poder de bloqueio do time aumenta em 15/20/25% do [Bloqueio] do bloqueador.",
+      "en": "Increases Rintaro Suna's [Block] by 10%/12%/14%. When he is on the court and an opposing team member who spikes has the disadvantage effect of [Confusion], the power of the team's block increases by 15%/20%/25% of the blocking team member's [Block].",
+      "jp": "角名倫太郎の[ブロック]×（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。\n角名倫太郎がコート上に居て、スパイク（強打・速攻）をした相手メンバーが[困惑]不利効果を持っている場合、味方のブロック威力がブロックをするメンバーの[ブロック]×（Lv1: 15%, Lv2: 20%, Lv3: 25%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "rintaro-ssr.a2": {
+    "name": {
+      "pt": "Bloqueio Hábil",
+      "en": "Skilled Block",
+      "jp": "熟練ブロック"
+    },
+    "description": {
+      "pt": "Rintaro Suna bloqueia com 20/35/50% do poder do ataque.",
+      "en": "Rintaro Suna blocks with 20%/35%/50% of the attack's power.",
+      "jp": "角名倫太郎が[ブロック]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のブロックをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "rintaro-ssr.a3": {
+    "name": {
+      "pt": "Jogada que Pega o Oponente Desprevenido",
+      "en": "A Play that Catches the Opponent Off Guard",
+      "jp": "相手の逆を突くプレー"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Rápido] de Rintaro Suna em 10/12/14%. Ao realizar Ataque Rápido, aplica 1 acúmulo de [Confusão] na linha de frente adversária. Cada acúmulo reduz o [Bloqueio] em 10%, por até 8 cruzamentos de rede.",
+      "en": "Increases Rintaro Suna's [Quick Attack] by 10%/12%/14%. When he is on a quick attack, he inflicts 1 stack of the [Confusion] effect on the opponent's front line. For each stack of [Confusion], their [Block] is reduced by 10%. This effect lasts until the ball has crossed the net 8 times.",
+      "jp": "角名倫太郎の[速攻]が（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。\n角名倫太郎の速攻時、相手前衛に[困惑]不利効果を1スタック付与する。[困惑]不利効果1スタックに着き、[ブロック]が10%ダウン。この効果はボールがネットを8回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "rintaro-ssr.a4": {
+    "name": {
+      "pt": "Cortadas com Amplo Ponto de Impacto",
+      "en": "Spikes With a Wide Impact Point",
+      "jp": "打点の横幅の広いスパイク"
+    },
+    "description": {
+      "pt": "Rintaro Suna realiza um Ataque Rápido com 240/255/270/285/300% de [Ataque Rápido] como poder.",
+      "en": "Rintaro Suna performs a quick attack with 240%/255%/270%/285%/300% of [Quick Attack] as power.",
+      "jp": "角名倫太郎が[速攻]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力の速攻をする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "sasaya-ssr.a1": {
+    "name": {
+      "pt": "RESPOSTA CALMA",
+      "en": "CALM RESPONSE",
+      "jp": "冷静な観察"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de TAKEHITO SASAYA em 5%; enquanto SASAYA estiver presente, aumenta o Reflexo dos jogadores do seu lado em 5%",
+      "en": "Increases TAKEHITO SASAYA's Awareness by 5%; while Sasaya is present, increases Reflex of players on your side by 5%",
+      "jp": "笹谷武仁の[意識]が（Lv1: 5%, Lv2: 6%, Lv3: 7%）アップ。笹谷武仁がコート上に居る場合、味方メンバーの[反応]が（Lv1: 5%, Lv2: 6%, Lv3: 7%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "sasaya-ssr.a2": {
+    "name": {
+      "pt": "DEFESA IMPENETRÁVEL",
+      "en": "IMPENETRABLE DEFENSE",
+      "jp": "隙のないディフェンス"
+    },
+    "description": {
+      "pt": "TAKEHITO SASAYA realiza um Bloqueio com 105% do atributo Bloqueio como poder",
+      "en": "TAKEHITO SASAYA performs a Block with 105% of Block Stat as power",
+      "jp": "笹谷武仁が[ブロック]×（Lv1: 105%, Lv2: 120%, Lv3: 135%）の威力のブロックをする。"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 8回超える",
+        "pt": "Até a bola passar pela rede 8 vezes",
+        "en": "Until the ball crosses the net 8 times"
+      }
+    }
+  },
+  "sasaya-ssr.a3": {
+    "name": {
+      "pt": "MURALHA DE FERRO FORTIFICADA",
+      "en": "FORTIFIED IRON WALL",
+      "jp": "三枚目の鉄壁"
+    },
+    "description": {
+      "pt": "Enquanto TAKEHITO SASAYA estiver presente, quando seu lado estiver perdendo, aumenta a potência da habilidade de Bloqueio do seu lado em mais 3% do atributo Bloqueio de cada jogador que estiver bloqueando e aumenta o Reflexo desses jogadores em 5%",
+      "en": "While TAKEHITO SASAYA is present, when your side is behind, increases your side's Block skill power by an additional 3% of each blocking player's Block Stat and increases blocking players' Reflex by 5%",
+      "jp": "笹谷武仁がコート上に居て、得点が相手にリードされている場合、味方のブロックスキルの威力がさらに該当メンバーの[ブロック]×（Lv1: 3%, Lv2: 3.5%, Lv3: 4%）アップし、ブロックをするメンバーの[反応]が5%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "sasaya-ssr.a4": {
+    "name": {
+      "pt": "JOGADA AGRESSIVA",
+      "en": "AGGRESSIVE PLAY",
+      "jp": "期待の新兵器"
+    },
+    "description": {
+      "pt": "TAKEHITO SASAYA realiza uma Cortada Potente com 240% do atributo Ataque Potente como poder",
+      "en": "TAKEHITO SASAYA performs a Power Spike with 240% of Power Attack Stat as power",
+      "jp": "笹谷武仁が[強打]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力の強打をする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "ボールがネットを 8回超える",
+        "pt": "Até a bola passar pela rede 8 vezes",
+        "en": "Until the ball crosses the net 8 times"
+      }
+    }
+  },
+  "semi-ssr.a1": {
+    "name": {
+      "pt": "POSSE DE BOLA",
+      "en": "Control",
+      "jp": "コントロール"
+    },
+    "description": {
+      "pt": "Quando EITA SEMI saca, reduz a potência de recepção dos jogadores da linha de defesa do adversário em 13% do atributo Recepção deles, durando 4 cruzamentos de rede",
+      "en": "When Eita Semi performs a serve, the opposing receiver's Receive is reduced by 13/15.5/18% of that player's [Receive] as power. This effect lasts for 4 net crossings.",
+      "jp": "瀬見英太がサーブ時、相手後衛のレシーブ威力が該当メンバーの[レシーブ]×（Lv1: 13%, Lv2: 15.5%, Lv3: 18%）ダウン。この効果はボールがネットを4回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "semi-ssr.a2": {
+    "name": {
+      "pt": "LEVANTAMENTO ENGANOSO",
+      "en": "Prototype Assembly",
+      "jp": "変幻自在の組み立て"
+    },
+    "description": {
+      "pt": "EITA SEMI realiza um Passe com 120% do atributo Passe como poder",
+      "en": "Semi Eita performs a Set with 120/135/150% of [Set] as power.",
+      "jp": "瀬見英太が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のトスをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "semi-ssr.a3": {
+    "name": {
+      "pt": "DESEMPENHO PREMIUM",
+      "en": "Demonstration of Ability",
+      "jp": "実力発揮"
+    },
+    "description": {
+      "pt": "Ao sacar, aumenta a Percepção de EITA SEMI em 5% e a Força em 10%",
+      "en": "When Eita Semi serves, [Awareness] increases by 5/5/8% and [Power] increases by 10/15/15%.",
+      "jp": "瀬見英太がサーブ時、[意識]が（Lv1: 5%, Lv2: 5%, Lv3: 8%）、[パワー]が（Lv1: 10%, Lv2: 15%, Lv3: 20%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "semi-ssr.a4": {
+    "name": {
+      "pt": "SAQUE INSPIRADOR",
+      "en": "This Much is Free",
+      "jp": "これだけは自由"
+    },
+    "description": {
+      "pt": "EITA SEMI realiza um Saque em Suspensão com 220% do atributo Saque como poder; ao marcar um Ace, aumenta a Percepção em 3% e o Reflexo em 6% para os jogadores do seu lado",
+      "en": "Eita Semi performs a Jump Serve with a power of 220/235/250/265/280% of his [Serve]. If he scores an ace with this serve, his teammates' [Awareness] will increase by 3% and [Reflex] by 6%.",
+      "jp": "瀬見英太が[サーブ]×（Lv1: 220%, Lv2: 235%, Lv3: 250%, Lv4: 265%, Lv5: 280%）の威力のジャンプサーブをする。\n今回のサーブでサービスエースを決めた場合、味方メンバーの[意識]が3%、[反応]が6%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "shirabu-ssr.a1": {
+    "name": {
+      "pt": "INABALÁVEL",
+      "en": "As Usual",
+      "jp": "”いつも通り”"
+    },
+    "description": {
+      "pt": "Aumenta o atributo Passe de KENJIRO SHIRABU em 10%; quando SHIRABU passa para um atacante com a característica Ataque Potente, aumenta a potência dessa Cortada Potente em 8% do atributo Ataque Potente do atacante",
+      "en": "Increases Kenjiro Shirabu's [Set] by 10/13/16%. If the member who spikes [Power Attack/Quick Attack] is a power hitter, the power of this spike increases by 8% of that member's [Power Attack].",
+      "jp": "白布賢二郎の[トス]が（Lv1: 10%, Lv2: 13%, Lv3: 16%）アップ。\n白布賢二郎がトスを上げて、スパイク（強打・速攻）をするメンバーが強打メンバーの場合、今回の強打威力が該当メンバーの[強打]×8%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "shirabu-ssr.a2": {
+    "name": {
+      "pt": "LARGADA CALCULADA",
+      "en": "Simple Setter Dump",
+      "jp": "シンプルなツーアタック"
+    },
+    "description": {
+      "pt": "KENJIRO SHIRABU realiza uma Largada do Levantador impossível de bloquear com 120% do atributo Passe como poder",
+      "en": "Kenjiro Shirabu performs a setter dump with 120/135/150% of [Set] as power. This cannot be blocked.",
+      "jp": "白布賢二郎が[トス]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のツーアタックをする。ツーアタックはブロックされない"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "shirabu-ssr.a3": {
+    "name": {
+      "pt": "HABILIDADES DE AJUSTE",
+      "en": "Correction Ability",
+      "jp": "修正能力"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de KENJIRO SHIRABU em 9%",
+      "en": "Kenjiro Shirabu's [Awareness] increases by 9/12/15%.",
+      "jp": "白布賢二郎の[意識]が（Lv1: 9%, Lv2: 12%, Lv3: 15%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "shirabu-ssr.a4": {
+    "name": {
+      "pt": "ATIVANDO O ACE",
+      "en": "Set That Makes the Most of the Spiker",
+      "jp": "スパイカーを生かすトス"
+    },
+    "description": {
+      "pt": "KENJIRO SHIRABU realiza um Passe com 210% do atributo Passe como poder; para esse Passe, a Percepção de SHIRABU aumenta em 10%",
+      "en": "Kenjiro Shirabu sets with 210/225/240/250/270% of [Set] as power. This move increases [Awareness] by 10%.",
+      "jp": "白布賢二郎が[トス]×（Lv1: 210%, Lv2: 225%, Lv3: 240%, Lv4: 255%, Lv5: 270%）の威力のトスをする。このプレーでは[意識]が10%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "sugawara-sp.a1": {
+    "name": {
+      "pt": "Apoiar o Ataque",
+      "en": "Support the Attack",
+      "jp": "攻撃を支える"
+    },
+    "description": {
+      "pt": "Quando Sugawara Koshi (Depois da Escola) está em quadra e um aliado da linha de frente ativa uma habilidade de bloqueio, o [Bloqueio] do bloqueador aumenta em 5/6.25/7.5% × a soma do [Bloqueio] do outro aliado da linha de frente (máximo 1000/1250/1500). Dura até a bola cruzar a rede duas vezes. Quando ele está em quadra e um aliado da linha de trás recebe, a [Recepção] do recebedor aumenta em 5/6.25/7.5% × a soma da [Recepção] do outro aliado da linha de trás (máx. 1000/1250/1500). Dura até a bola cruzar a rede duas vezes.",
+      "en": "When Sugawara Koshi (After School) is on the court and a frontline ally activates a block skill, the blocking member's [Block] is increased by 5%/6.25%/7.5% × the total value of the other frontline ally's [Block]. A maximum increase of 1000/1250/1500 is possible. This effect lasts until the ball goes over the net twice. When Sugawara Koshi (After School) is on the court and a backline ally receives the ball, the receiving member's [Receive] is increased by 5%/6.25%/7.5% × the total value of the other backline ally's [Receive]. A maximum increase of 1000/1250/1500 is possible. This effect lasts until the ball goes over the net twice.",
+      "jp": "菅原孝支(放課後)がコート上に居て、味方前衛のブロックスキル発動時、ブロックをするメンバーの[ブロック]が他の味方前衛の[ブロック]の合計値×（Lv1: 5%, Lv2: 6.25%, Lv3: 7.5%）アップ。最大（Lv1: 1000%, Lv2: 1250%, Lv3: 1500%）アップ可能。この効果はボールがネットを2回越えるまで持続する。\n菅原孝支(放課後)がコート上に居て、味方後衛のレシーブ時、レシーブをするメンバーの[レシーブ]が他の味方後衛の[レシーブ]の合計値×（Lv1: 5%, Lv2: 6.25%, Lv3: 7.5%）アップ。最大（Lv1: 1000%, Lv2: 1250%, Lv3: 1500%）アップ可能。この効果はボールがネットを2回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "sugawara-sp.a2": {
+    "name": {
+      "pt": "Saque habilidoso que explora fraquezas",
+      "en": "A skillful serve that exploit weaknesses",
+      "jp": "相手の隙をつく巧みなサーブ"
+    },
+    "description": {
+      "pt": "Sugawara Koushi (Depois da Escola) executa um Saque com poder [Serve] × 140/160/180%. Aumenta a Moral do Time em 10. Aumenta os atributos base dos aliados em 12/14/16% por 1 rali.",
+      "en": "Sugawara Koushi (After School) Serves with power equal to [Serve] × 140%/160%/180%. Increases team morale by 10. Increases Basic stats of allied members by 12%/14%/16%. This effect lasts for 1 rally.",
+      "jp": "菅原孝支(放課後)が[サーブ]×（Lv1: 140%, Lv2: 160%, Lv3: 180%）の威力のサーブをする。\n味方メンバーのメインパラメータが（Lv1: 12%, Lv2: 14%, Lv3: 16%）アップ。この効果は1ラリー持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "sugawara-sp.a3": {
+    "name": {
+      "pt": "Preparação Cuidadosa",
+      "en": "Careful setup",
+      "jp": "丁寧なセットアップ"
+    },
+    "description": {
+      "pt": "Sugawara Koushi (Depois da Escola) aumenta o Vigor em 13/16/20%. Na primeira participação dele, os aliados consomem 50% do Vigor atual deles e, a cada 6 Vigores consumidos, os atributos base dos aliados aumentam em 1%/1.3%/1.6%. Após a primeira participação, os aliados recuperam 15 de Vigor ao fim de cada rali, por 4 ralis.",
+      "en": "Sugawara Koushi (After School) Increases stamina by 13%/16%/20%. When Sugawara Koushi (After School) first participates, allied members will consume 50% of their current stamina, and for every 6 stamina consumed, allied members' Basic stats will increase by 1%/1.3%/1.6%. After Sugawara Koushi (After School)'s first participation, allied members' stamina will reSave 15 at the end of each rally. This effect lasts for 4 rallies.",
+      "jp": "菅原孝支(放課後)の[トス]が（Lv1: 13%, Lv2: 16%, Lv3: 20%）アップ。\n菅原孝支(放課後)の初めての出場時、味方メンバーの現在のスタミナの50%を消費し、スタミナを6消費するごとに、味方メンバーのメインパラメータが（Lv1: 1%, Lv2: 1.3%, Lv3: 1.6%）アップ。\n菅原孝支(放課後)の初めての出場時、各ラリー終了時に味方メンバーのスタミナが15回復する。この効果は4ラリー持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "sugawara-sp.a4": {
+    "name": {
+      "pt": "Jogada Sinalizada",
+      "en": "Sign Play",
+      "jp": "サインプレー"
+    },
+    "description": {
+      "pt": "Sugawara Koushi (Depois da Escola) consome 15 de Vigor extra e realiza um levantamento com 60% ([Passe] × 2) / 80% ([Passe] × 2) / 300% / 20% ([Passe] × 3) / 40% ([Passe] × 3) de poder. O primeiro companheiro a atacar (Ataque Potente/Ataque Rápido) após essa jogada aumenta a [Técnica de Ataque] em 2.0% até a bola cruzar a rede duas vezes.",
+      "en": "Sugawara Koushi (After School) consumes an additional 15 stamina and performs a set with 60% ([Set] × 2) / 80% ([Set] × 2) / 300% / 20% ([Set] × 3) / 40% power ([Set] × 3). The first member to spike (Power Attack/Quick Attack) after this play increases the [Attack Technique] by 2.0%. This effect lasts until the ball goes over the net twice.",
+      "jp": "菅原孝支(放課後)がプラスで15のスタミナを消費し、[トス]×（Lv1: 260%, Lv2: 280%, Lv3: 300%, Lv4: 320%, Lv5: 340%）の威力のトスをする。\nこのプレー発生後最初のスパイク（強打・速攻）をするメンバーの[攻撃テクニック]が20%アップ。この効果はボールがネットを2回越えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tanaka-ssr.a1": {
+    "name": {
+      "pt": "ENTRADA DO ACE",
+      "en": "THE ACE ARRIVES",
+      "jp": "切り込み隊長"
+    },
+    "description": {
+      "pt": "Aumenta a potência da 1° Cortada Potente de RYUNOSUKE TANAKA em cada partida em 25% do atributo Ataque Potente",
+      "en": "Increases the power of RYUNOSUKE TANAKA's 1st Power Spike in each match by 25% of Power Attack Stat",
+      "jp": "田中龍之介の各セット1回目の強打威力が[強打]×（Lv1: 25%, Lv2: 40%, Lv3: 55%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tanaka-ssr.a2": {
+    "name": {
+      "pt": "ESPÍRITO OBSTINADO",
+      "en": "TENACIOUS SPIRIT",
+      "jp": "強い意志"
+    },
+    "description": {
+      "pt": "RYUNOSUKE TANAKA realiza uma Recepção com 115% do atributo Recepção como poder; para essa Recepção, o Reflexo de TANAKA aumenta em 10%",
+      "en": "RYUNOSUKE TANAKA performs a Receive with 115% of Receive Stat as power; for this Receive, TANAKA's Reflex increases by 10%",
+      "jp": "田中龍之介が[レシーブ]×（Lv1: 115%, Lv2: 130%, Lv3: 145%）のレシーブをする。このプレーでは[反応]が10%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "tanaka-ssr.a3": {
+    "name": {
+      "pt": "PAIXÃO ARDENTE",
+      "en": "BURNING PASSION",
+      "jp": "熱血激昂"
+    },
+    "description": {
+      "pt": "Aumenta a potência da Cortada Potente de RYUNOSUKE TANAKA em 10% do atributo Ataque Potente; sua Cortada Potente reduz o bloqueio do adversário e o Vigor dos jogadores receptores em 5",
+      "en": "Increases RYUNOSUKE TANAKA's Power Spike power by 10% of Power Attack Stat; his Power Spike reduces opponent's blocking and receiving players' Stamina by 5",
+      "jp": "田中龍之介の強打威力が[強打]×（Lv1: 10%, Lv2: 12%, Lv3: 14%）アップ。田中龍之介の強打時、ブロックとレシーブをする相手メンバーがさらにスタミナを5失う"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tanaka-ssr.a4": {
+    "name": {
+      "pt": "SUPERCORTADA INTERNA",
+      "en": "SUPER INNER CROSS",
+      "jp": "スーパークロス"
+    },
+    "description": {
+      "pt": "RYUNOSUKE TANAKA consome 5 de Vigor extra para realizar uma Cortada Curta na Diagonal com 250% do atributo Ataque Potente como poder. Se essa for a 1° cortada de TANAKA no set, aumenta a potência da cortada em mais 30% do atributo Ataque Potente de TANAKA",
+      "en": "RYUNOSUKE TANAKA consumes 5 extra Stamina to perform a Short Diagonal Spike with 250% of Power Attack Stat as power; when this is TANAKA's first spike in this set, increases spike power by an additional 30% of TANAKA's Power Attack Stat",
+      "jp": "田中龍之介がプラスで5のスタミナを消費して、[強打]×（Lv1: 250%, Lv2: 260%, Lv3: 275%, Lv4: 290%, Lv5: 305%）のインナースパイクをする。このプレーでは田中龍之介が本セットでの1回目の強打の場合、威力がさらに[強打]×30%アップ"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "tatsuo-ssr.a1": {
+    "name": {
+      "pt": "Bloqueio Intimidante",
+      "en": "An Intimidating Block",
+      "jp": "威圧感のあるブロック"
+    },
+    "description": {
+      "pt": "O [Bloqueio] de Tatsuki Washio aumenta em 8/10/12%. Ao bloquear, o poder da primeira recepção do companheiro após essa jogada aumenta em 20% de [Recepção]. Se o bloqueio dele não for RUIM, o próximo bloqueio dele aumenta em 20% de [Bloqueio].",
+      "en": "Tatsuki Washio’s [Block] is increased by 8/10/12%. When he blocks, the power of the first teammate’s receive after this play is increased by 20% of [Receive] as power. If his block result is not BAD, the next time he blocks, it is increased by 20% of [Block] as power.",
+      "jp": "鷲尾辰生の[ブロック]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n鷲尾辰生がブロック時、このプレー発生後最初の味方のレシーブ威力が該当メンバーの[レシーブ]×20%アップ。\n鷲尾辰生のブロック結果がBADにならなかった場合、鷲尾辰生が次のブロック時、[ブロック]が20%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tatsuo-ssr.a2": {
+    "name": {
+      "pt": "Ataque de Alta Pontuação",
+      "en": "High Scoring Attack",
+      "jp": "打点の高い攻撃"
+    },
+    "description": {
+      "pt": "Tatsuki Washio executa um Ataque Rápido com 120/135/150% de [Ataque Rápido] como poder.",
+      "en": "Tatsuki Washio performs a quick attack with 120/135/150% of [Quick Attack] as power.",
+      "jp": "鷲尾辰生が[速攻]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力の速攻をする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tatsuo-ssr.a3": {
+    "name": {
+      "pt": "Trabalhador de Talento Oculto",
+      "en": "A Worker With Hidden Talent",
+      "jp": "実力を秘めた仕事人"
+    },
+    "description": {
+      "pt": "Quando um oponente faz uma boa jogada, o [Bloqueio] e o [Ataque Rápido] de Tatsuki Washio aumentam em 2/2.5/3%, até 5 acúmulos.",
+      "en": "When an opposing team member makes a NICE play, Tatsuki Washio’s [Block] and [Quick Attack] are increased by 2/2.5/3%. Up to 5 stacks.",
+      "jp": "相手メンバーがナイスプレーをした場合、鷲尾辰生の[ブロック]と[速攻]が（Lv1: 2%, Lv2: 2.5%, Lv3: 3%）アップ。最高5スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tatsuo-ssr.a4": {
+    "name": {
+      "pt": "Bloqueio que Aproveita o Corpo Alto",
+      "en": "A Block That Takes Advantage Of Its Tall Body (?lol)",
+      "jp": "長身を活かしたブロック"
+    },
+    "description": {
+      "pt": "Tatsuki Washio bloqueia com 220/235/250/265/280% de [Bloqueio] como poder.",
+      "en": "Tatsuki Washio blocks with 220/235/250/265/280% of [Block] as power.",
+      "jp": "鷲尾辰生が[ブロック]×（Lv1: 220%, Lv2: 235%, Lv3: 250%）の威力のブロックをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tendo-ssr.a1": {
+    "name": {
+      "pt": "MAVERICK",
+      "en": "My own pace",
+      "jp": "マイペース"
+    },
+    "description": {
+      "pt": "Aumenta o Reflexo de SATORI TENDO em 12%",
+      "en": "Tendo Satoru's [Reflex] increases by 12/17/22%.",
+      "jp": "天童覚の[反応]が（Lv1: 12%, Lv2: 17%, Lv3: 22%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tendo-ssr.a2": {
+    "name": {
+      "pt": "ATAQUE RÁPIDO SURPRESA",
+      "en": "A surprise attack",
+      "jp": "意表を突く速攻"
+    },
+    "description": {
+      "pt": "SATORI TENDO realiza uma Cortada Rápida com 120% do atributo Ataque Rápido como poder",
+      "en": "Tendo Satoru makes a Quick Attack with 120/135/150% of [Quick Attack] Stat as power.",
+      "jp": "天童覚が[速攻]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力の速攻をする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "tendo-ssr.a3": {
+    "name": {
+      "pt": "BLOQUEIO DE JOGO MENTAL",
+      "en": "Block Psychological Warfare",
+      "jp": "ブロックの心理戦"
+    },
+    "description": {
+      "pt": "Quando SATORI TENDO realiza um Bloqueio Superior, a recarga do INSTINTO SELVAGEM é reduzida em 1 cruzamento de rede",
+      "en": "If Satoru Tendo's block results in a good play, the cooldown of Sharp Reading is reduced by 1/2/3 for the number of times the ball goes over the net.",
+      "jp": "天童覚のブロックがナイスプレーになった場合、＜鋭い”読み”＞のクールダウンはボールがネットを超える回数（Lv1: 1回分, Lv2: 2回分, Lv3: 3回分）減る"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tendo-ssr.a4": {
+    "name": {
+      "pt": "INSTINTO SELVAGEM",
+      "en": "Sharp “reading”",
+      "jp": "鋭い”読み”"
+    },
+    "description": {
+      "pt": "SATORI TENDO realiza um Bloqueio com 220% do atributo Bloqueio como poder; ao bloquear a Cortada Superior de um adversário, aumenta o Reflexo de TENDO em 15% para esse bloqueio",
+      "en": "Satoru Tendo blocks with a power of 220/235/250/265/280% of his [Block]. If the opponent's spike (Powerful or Quick Attack) is a nice play, Satoru Tendo's [Reflex] is increased by 15%.",
+      "jp": "天童覚が[ブロック]×（Lv1: 220%, Lv2: 235%, Lv3: 250%, Lv4: 265%, Lv5: 280%）の威力のブロックをする。\n相手のスパイク（強打・速攻）がナイスプレーになった場合、今回のブロックでは天童覚の[反応]が15%アップ"
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "terushima-ssr.a1": {
+    "name": {
+      "pt": "Espírito Livre",
+      "en": "Free Spirit",
+      "jp": "自由奔放"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Potente] de Terushima Yuji em 8/10/12%. Quando ele está em quadra e o resultado da recepção, Defesa ou Passe de um aliado não for RUIM, Terushima Yuji ganha 1 acúmulo de [Brincar Mais, Brincar Mais]. Cada acúmulo aumenta o [Ataque Potente/Ataque Rápido] em 2.5%, até 4 acúmulos.",
+      "en": "Increases Terushima Yuji's [Power Attack] by 8%/10%/12%. When he is on the court and the result of a receive, save, or set by an ally is not a BAD result, Terushima Yuji gains 1 stack of the [Play More, Play More] effect. Each stack increases [Power Attack/Quick Attack] by 2.5%. Up to 4 stacks.",
+      "jp": "照島遊児の[強打]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。照島遊児がコート上に居て、味方メンバーのレシーブ・カバー・トスの結果がBADにならなかった場合、照島遊児が[もっともっと遊ぶ]効果を1スタック獲得する。 [もっともっと遊ぶ]効果1スタックにつき、[強打/速攻]が2.5%アップ。最高4スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "terushima-ssr.a2": {
+    "name": {
+      "pt": "Saque Divertido",
+      "en": "Fun Serve",
+      "jp": "楽しいサーブ"
+    },
+    "description": {
+      "pt": "Terushima Yuji executa um Saque em Suspensão com 120/135/150% de [Saque] como poder.",
+      "en": "Terushima Yuji performs a jump serve with 120%/135%/150% of [Serve] as power.",
+      "jp": "照島遊児が[サーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のサーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "？",
+        "pt": "Desconhecido",
+        "en": "Unknown"
+      }
+    }
+  },
+  "terushima-ssr.a3": {
+    "name": {
+      "pt": "Asoviva",
+      "en": "Asoviva",
+      "jp": "アソビバ"
+    },
+    "description": {
+      "pt": "Para cada membro recebedor na sua equipe, a [Recepção] de Terushima Yuji aumenta em 4/5/6%. Se ele errar uma recepção, nenhum ponto é perdido. O tempo de recarga desse efeito dura até a bola cruzar a rede 10 vezes.",
+      "en": "For each receiving team member on the team's court, Terushima Yuji's [Receive] increases by 4%/5%/6%. If he misses a receive, no points are lost. The cooldown for this effect lasts until the ball has crossed the net 10 times.",
+      "jp": "味方コート上にレシーブメンバーが1名いるごとに、照島遊児の[レシーブ]が（Lv1: 4%, Lv2: 5%, Lv3: 6%）アップ。照島遊児がレシーブをミスした場合、失点にはならない。この効果のクールダウンはボールがネットを10回越えるまでとなる"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "terushima-ssr.a4": {
+    "name": {
+      "pt": "Cortada Empolgante",
+      "en": "Exciting Spike",
+      "jp": "痛快スパイク"
+    },
+    "description": {
+      "pt": "Terushima Yuji executa uma Cortada Potente com 235/250/265/280/295% de [Ataque Potente]. Se marcar ponto, a [Recepção] dos aliados aumenta em 10% por 3 cruzamentos de rede.",
+      "en": "Terushima Yuji hits a powerful spike with 235%/250%/265%/280%/295% of [Power Attack] as power. If this scores a point, the [Receive] of allies will increase by 10%. This effect will last until the ball has crossed the net 3 times.",
+      "jp": "照島遊児が[強打]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%,）の威力の強打をする。今回の強打で得点を決めた場合、味方メンバーの[レシーブ]が10%アップ。この効果はボールがネットを3回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "？",
+        "pt": "Desconhecido",
+        "en": "Unknown"
+      }
+    }
+  },
+  "tsuki-sp.a1": {
+    "name": {
+      "pt": "Grande Cérebro",
+      "en": "Great Brain",
+      "jp": "優れた頭脳"
+    },
+    "description": {
+      "pt": "Quando um membro do time adversário estiver sob um efeito desfavorável, a [Percepção] e o [Reflexo] de Tsukishima Kei (Festival de Fogos de Artifício) aumentam em 15/20/25%, e a [Técnica de Ataque] e a [Técnica de Defesa] dos aliados aumentam em 10%. Dura por 1 rali. Quando um aliado ativa uma habilidade de bloqueio, o [Ataque Rápido] de Tsukishima Kei (Festival de Fogos de Artifício) aumenta em 3% (até 10 acúmulos). Quando um aliado ativa uma habilidade de Ataque Rápido, o [Bloqueio] de Tsukishima Kei (Festival de Fogos de Artifício) aumenta em 3% (até 10 acúmulos).",
+      "en": "When a member on the opponent's court is under an unfavorable effect, Tsukishima Kei (Fireworks Festival)'s [Awareness] and [Reflex] are increased by 15%/20%/25%, and allied members' [Offensive Technique] and [Defensive Technique] are increased by 10%. This effect lasts for 1 rally. When an ally activates a block skill, Tsukishima Kei's (Fireworks Festival) [Quick Attack] is increased by 3%. Up to 10 stacks. When an ally's quick attack skill is activated, Tsukishima Kei's (Fireworks Festival) [Block] is increased by 3%. Up to 10 stacks.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsuki-sp.a2": {
+    "name": {
+      "pt": "Bloqueio é um Sistema",
+      "en": "Block is a System",
+      "jp": "「ブロックはシステム」"
+    },
+    "description": {
+      "pt": "Tsukishima Kei (Festival de Fogos de Artifício) bloqueia com poder de [Bloqueio] × 300/325/350%. Aumenta o [Reflexo] dos defensores traseiros aliados em 10% e o [Empenho] em 20%. Dura até a bola cruzar a rede duas vezes.",
+      "en": "Tsukishima Kei (Fireworks Festival) Blocks with the power of [Lock] x 300%/325%/350%. Increases the [Reflex] of allied rear guards by 10% and [Spirit] by 20%. This effect lasts until the ball crosses the net twice.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsuki-sp.a3": {
+    "name": {
+      "pt": "Observar Calmamente a Situação",
+      "en": "Calmly Watch the Battle Situation",
+      "jp": "冷静に戦況を見つめる"
+    },
+    "description": {
+      "pt": "No início da partida, se a [Técnica de Ataque] de Tsukishima Kei (Festival de Fogos de Artifício) for ≥ a [Técnica de Defesa], ele recebe o efeito [Ataque I/II/III]; caso contrário, recebe [Defesa I/II/III]. Com [Ataque I/II/III], o tempo de recarga de 'Bloqueio é um Sistema' é reduzido em 4× o número de cruzamentos de rede, mas a potência dessa habilidade é reduzida em [Bloqueio] × 100/80/60%. [Ataque Rápido] é reduzido em 20/30/40.",
+      "en": "At the start of the match, if Tsukishima Kei (Fireworks Festival)'s [Attack Technique] is equal to or greater than [Defensive Technique], he gains the [Attack I/II/III] effect. If [Defensive Technique] is greater than [Attack Technique], he gains the [Defensive I/II/III] effect. If you have the [Attack I/II/III] effect, the cooldown of 'Block is a System' is reduced by 4 times the number of times the ball has gone over the net. The power of 'Block is a System' is reduced by [Block] x 100%/80%/60%. [Quick Attack] is reduced by 20/30/40.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsuki-sp.a4": {
+    "name": {
+      "pt": "Ataques que Aproveitam sua Altura",
+      "en": "Spikes that make usar of his height",
+      "jp": "長身を活かしたスパイク"
+    },
+    "description": {
+      "pt": "Tsukishima Kei (Festival de Fogos de Artifício) realiza um Ataque Rápido com potência de [Ataque Rápido] × 260%/280%/300%/320%/340%. Se algum oponente tiver efeito desfavorável, a potência desse ataque rápido aumenta em [Ataque Rápido] × 60%.",
+      "en": "Tsukishima Kei (Fireworks Festival) performs a quick attack with a power of [Quick Attack] x 260%/280%/300%/320%/340%. If a member on the opponent's court has an adverse effect, the power of this quick attack increases by [Quick Attack] x 60%.",
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsuki-ssr.a1": {
+    "name": {
+      "pt": "COMPOSTURA DO KARASUNO",
+      "en": "KARASUNO'S COMPOSURE",
+      "jp": "烏野の理性"
+    },
+    "description": {
+      "pt": "Enquanto KEI TSUKISHIMA estiver presente, aumenta a Força dos jogadores do tipo Ataque Rápido do seu lado em 10%",
+      "en": "While KEI TSUKISHIMA is on the court, increases the Strength of your Quick Attack-type players by 10%",
+      "jp": "月島蛍がコート上に居る場合、コート上の速攻メンバーの[パワー]が（Lv1: 10%, Lv2: 12.5%, Lv3: 15%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tsuki-ssr.a2": {
+    "name": {
+      "pt": "ATAQUE RÁPIDO TÁTICO",
+      "en": "TACTICAL QUICK ATTACK",
+      "jp": "クレバーな速攻"
+    },
+    "description": {
+      "pt": "KEI TSUKISHIMA realiza uma Cortada Rápida com 115% do atributo Ataque Rápido. Quando um jogador do seu lado usar uma habilidade de Cortada, aumenta a Percepção desse jogador em 5%",
+      "en": "KEI TSUKISHIMA performs a Quick Attack with 115% of his Quick Attack Stat. The next time a teammate casts a Spike skill, their Awareness is increased by 5%",
+      "jp": "月島蛍が[速攻]×（Lv1: 115%, Lv2: 130%, Lv3: 145%）の威力の速攻をする。このプレー発生後、次の強打・速攻スキル発動時、該当メンバーの[意識]が5%アップ"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "tsuki-ssr.a3": {
+    "name": {
+      "pt": "NASCER DA LUA",
+      "en": "MOONRISE",
+      "jp": "月の出"
+    },
+    "description": {
+      "pt": "Enquanto KEI TSUKISHIMA estiver presente, aumenta a potência de Bloqueio dos jogadores da linha de ataque do seu lado em 8% do atributo Bloqueio deles",
+      "en": "While KEI TSUKISHIMA is present, increases Block power of your side's front row players by 8% of their Block Stat",
+      "jp": "月島蛍がコート上に居る場合、味方前衛のブロック威力が該当メンバーの[ブロック]×（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "tsuki-ssr.a4": {
+    "name": {
+      "pt": "RÉPLICA DO KEI",
+      "en": "KEI'S RETORT",
+      "jp": "ご挨拶"
+    },
+    "description": {
+      "pt": "KEI TSUKISHIMA realiza um Bloqueio com 195% do atributo Bloqueio como poder; aplica a Penalidade “Provocar” ao atacante adversário (reduz os atributos Ataque Potente/Ataque Rápido em 10%)",
+      "en": "KEI TSUKISHIMA performs a Block with 195% of his Block Stat as power. Applies the \"Enrage\" debuff to the opposing spiker (reducing their Power/Quick Attack Stats by 10%)",
+      "jp": "月島蛍が[ブロック]×（Lv1: 195%, Lv2: 210%, Lv3: 225%, Lv4: 240%, Lv5: 255%）の威力のブロックをする。\nスパイク（強打・速攻）をした相手メンバーに[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）"
+    },
+    "cooldown": {
+      "value": 12,
+      "text": {
+        "jp": "12",
+        "pt": "12",
+        "en": "12"
+      }
+    }
+  },
+  "tsukishima-sp.a1": {
+    "name": {
+      "pt": "Um ótimo cérebro",
+      "en": "A great brain",
+      "jp": "優れた頭脳"
+    },
+    "description": {
+      "pt": null,
+      "en": null,
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsukishima-sp.a2": {
+    "name": {
+      "pt": "\"Os blocos são o sistema\"",
+      "en": "\"Blocks are the system\"",
+      "jp": "「ブロックはシステム」"
+    },
+    "description": {
+      "pt": null,
+      "en": null,
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsukishima-sp.a3": {
+    "name": {
+      "pt": "Eu calmamente olho para a situação de guerra",
+      "en": "I calmly look at the war situation",
+      "jp": "冷静に戦況を見つめる"
+    },
+    "description": {
+      "pt": null,
+      "en": null,
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "tsukishima-sp.a4": {
+    "name": {
+      "pt": "Espigões que fazem uso da sua altura",
+      "en": "Spikes that make use of your tallness",
+      "jp": "長身を活かしたスパイク"
+    },
+    "description": {
+      "pt": null,
+      "en": null,
+      "jp": null
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "ushijima-ur.a1": {
+    "name": {
+      "pt": "NO RITMO",
+      "en": "IN THE GROOVE",
+      "jp": "ノッてきた"
+    },
+    "description": {
+      "pt": "Aumenta a Percepção de WAKATOSHI USHIJIMA em 8%; enquanto USHIJIMA estiver presente, no encerramento de cada turno, aumenta a Percepção dele em 3%",
+      "en": "Increases WAKATOSHI USHIJIMA's Awareness by 8%. While he is on the court, his Awareness increases by an additional 3% at the end of each turn.",
+      "jp": "牛島若利の[意識]が（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ。\n牛島若利がコート上に居る場合、各ラリー終了後に牛島若利の[意識]が（Lv1: 3%, Lv2: 3.5%, Lv3: 4%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "ushijima-ur.a2": {
+    "name": {
+      "pt": "SAQUE DOMINADOR",
+      "en": "DOMINATING SERVE",
+      "jp": "パワフルサーブ"
+    },
+    "description": {
+      "pt": "WAKATOSHI USHIJIMA realiza um Saque em Suspensão com 125% do atributo Saque como poder; quando esse saque se torna Superior, os jogadores receptores não podem usar habilidades; ao marcar um Ace, reduz a recarga do SAQUE DOMINADOR em 4 cruzamentos de rede",
+      "en": "WAKATOSHI USHIJIMA performs a Jump Serve with 125% of his Serve Stat. If this Serve is a Critical Serve, the receiving players cannot cast skills. When this Serve scores, reduces DOMINATING SERVE's cooldown by 4 net crossings.",
+      "jp": "牛島若利が[サーブ]×（Lv1: 125%, Lv2: 140%, Lv3: 155%）の威力のジャンプサーブをする。\nこのプレーがナイスプレーになった場合、レシーブをする相手メンバーはスキルが発動不可となる。\n今回のサーブでサービスエースを決めた場合、<パワフルサーブ>のクールダウンが4回減る"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "ushijima-ur.a3": {
+    "name": {
+      "pt": "ESTILO ACE",
+      "en": "STRENGTH BURST",
+      "jp": "王者の風格"
+    },
+    "description": {
+      "pt": "Quando os jogadores do seu lado realizam jogadas Superiores, aumenta os Atributos Básicos de WAKATOSHI USHIJIMA em 1.5%, acumulando até 8 vezes; quando USHIJIMA marca, remove todos os efeitos de penalidade dele",
+      "en": "Increases WAKATOSHI USHIJIMA's Strength by 18%.",
+      "jp": "牛島若利がナイスプレーをした場合、牛島若利のメインパラメータが（Lv1: 1.5%, Lv2: 2%, Lv3: 2%）アップ。最高8スタック。\n牛島若利が得点を決めた場合、自身の不利効果を全てリセットする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "ushijima-ur.a4": {
+    "name": {
+      "pt": "ACE INCONTESTÁVEL",
+      "en": "CRUSHING SPIKE",
+      "jp": "“絶対王者”"
+    },
+    "description": {
+      "pt": "WAKATOSHI USHIJIMA realiza uma Cortada Potente com 250% do atributo Ataque Potente como poder; quando USHIJIMA realiza um desempenho Superior, reduz a recarga de [ACE INCONTESTÁVEL] em 1 cruzamento de rede",
+      "en": "WAKATOSHI USHIJIMA performs a Power Spike with 220% of his Power Attack Stat. This Spike deals an additional 30% damage to the opponent's Libero.",
+      "jp": "牛島若利が[強打]×（Lv1: 250%, Lv2: 265%, Lv3: 280%, Lv4: 295%, Lv5: 310%）の威力の強打をする。\n牛島若利がナイスプレーをした場合、<“絶対王者”>のクールダウンが1回減る"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "yaku-ssr.a1": {
+    "name": {
+      "pt": "MESTRE DA DEFESA",
+      "en": "Key To Defense",
+      "jp": "守備の要"
+    },
+    "description": {
+      "pt": "Enquanto MORISUKE YAKU estiver presente, quando seu lado realizar uma Recepção que não seja RUIM, aumenta os atributos de Recepção e Defesa de YAKU em 3%, acumulando até 5 vezes",
+      "en": "When Morisuke Yaku is on the court and a teammate's receiving result is not BAD, Morisuke Yaku's [Receive] and [Save] are increased by 3/4/5% with a maximum of 5 stacks.",
+      "jp": "夜久衛輔がコート上に居て、味方のレシーブ結果がBADにならなかった場合、夜久衛輔の[レシーブ]と[カバー]が（Lv1: 3%, Lv2: 4%, Lv3: 5%）アップ。最高5スタック"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "yaku-ssr.a2": {
+    "name": {
+      "pt": "ESCUDO CONFIÁVEL",
+      "en": "Reliable Defense",
+      "jp": "頼もしい守備"
+    },
+    "description": {
+      "pt": "Enquanto MORISUKE YAKU estiver presente, aumenta a potência de Cortada Rápida dos jogadores do tipo Ataque Rápido do seu lado em 8% do atributo Ataque Rápido deles",
+      "en": "When Morisuke Yaku is on the court, the Quick Attack of your Quick Attack Specialist on the court is increased by 8/10/12% of that player's [Quick Attack] Stat as power.",
+      "jp": "夜久衛輔がコート上に居る場合、味方コート上の速攻メンバーの速攻威力が該当メンバーの[速攻]×（Lv1: 8%, Lv2: 10%, Lv3: 12%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "yaku-ssr.a3": {
+    "name": {
+      "pt": "LÍBERO DEFINITIVO",
+      "en": "Super Libero",
+      "jp": "スーパーリベロ"
+    },
+    "description": {
+      "pt": "Aumenta o atributo Recepção de MORISUKE YAKU em 11%; quando o resultado da Recepção de YAKU for NORMAL, muda para PERFEITO",
+      "en": "Morisuke Yaku's [Receive] is increased by 11/13/15%. If the result is NORMAL, it changes to PERFECT.",
+      "jp": "夜久衛輔の[レシーブ]が（Lv1: 11%, Lv2: 13%, Lv3: 15%）アップ。レシーブの結果がNORMALになった場合、PERFECTに変更する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "yaku-ssr.a4": {
+    "name": {
+      "pt": "RECEPÇÃO CONFIÁVEL",
+      "en": "Perfect Receive",
+      "jp": "完璧なレシーブ"
+    },
+    "description": {
+      "pt": "MORISUKE YAKU realiza uma Recepção com 240% do atributo Recepção como poder",
+      "en": "Morisuke Yaku performs a Receive with 240/255/270/285/300% of [Receive] as power.",
+      "jp": "夜久衛輔が[レシーブ]×（Lv1: 240%, Lv2: 255%, Lv3: 270%, Lv4: 285%, Lv5: 300%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "yamagata-ssr.a1": {
+    "name": {
+      "pt": "DESEMPENHO ESTÁVEL",
+      "en": "Stable Ability",
+      "jp": "安定した実力"
+    },
+    "description": {
+      "pt": "Aumenta o Reflexo de HAYATO YAMAGATA em 13%",
+      "en": "Yamagata Hayato's [Reflex] is increased by 13/20/15%.",
+      "jp": "山形隼人の[反応]が（Lv1: 13%, Lv2: 20%, Lv3: 25%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "yamagata-ssr.a2": {
+    "name": {
+      "pt": "DEFESA AMPLA",
+      "en": "Wide Range of Defense",
+      "jp": "広い守備範囲"
+    },
+    "description": {
+      "pt": "HAYATO YAMAGATA realiza uma Defesa com 120% do atributo Defesa como poder",
+      "en": "Yamagata Hayato performs a save with [Save] × 120/135/150% as their power.",
+      "jp": "山形隼人が[カバー]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のカバーをする"
+    },
+    "cooldown": {
+      "value": 6,
+      "text": {
+        "jp": "6",
+        "pt": "6",
+        "en": "6"
+      }
+    }
+  },
+  "yamagata-ssr.a3": {
+    "name": {
+      "pt": "REFLEXOS RÁPIDOS",
+      "en": "Reflexes",
+      "jp": "反射神経"
+    },
+    "description": {
+      "pt": "Quando o adversário consegue um bloqueio PERFEITO, aumenta a potência de Defesa de HAYATO YAMAGATA em 40% de seu atributo Defesa",
+      "en": "If the opponent's block result is PERFECT, Yamagata Hayato's save increases by [Save] × 40/50/60%.",
+      "jp": "相手のブロック結果がPERFECTになった場合、山形隼人のカバー威力が[カバー]×（Lv1: 40%, Lv2: 50%, Lv3: 60%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "なし",
+        "pt": "Sem recarga",
+        "en": "No cooldown"
+      }
+    }
+  },
+  "yamagata-ssr.a4": {
+    "name": {
+      "pt": "RECEPÇÃO SÓLIDA",
+      "en": "Solid receiving",
+      "jp": "堅実なレシーブ"
+    },
+    "description": {
+      "pt": "HAYATO YAMAGATA realiza uma Recepção com 235% do atributo Recepção como poder",
+      "en": "Yamagata Hayato receives with [Receive] × 235/250/265/280/295% as his power.",
+      "jp": "山形隼人が[レシーブ]×（Lv1: 235%, Lv2: 250%, Lv3: 265%, Lv4: 280%, Lv5: 295%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": 8,
+      "text": {
+        "jp": "8",
+        "pt": "8",
+        "en": "8"
+      }
+    }
+  },
+  "yui-ssr.a1": {
+    "name": {
+      "pt": "Ataque e Defesa Estáveis",
+      "en": "Stable Offense and Defense",
+      "jp": "安定した攻守"
+    },
+    "description": {
+      "pt": "Aumenta o [Ataque Potente] de Ginjima Yui em 6/8/10% e a [Recepção] em 6/8/10%. Quando ele recebe, se o oponente realizar um Ataque Potente, a potẽncia dessa recepção aumenta em [Recepção] × 15/25/35%.",
+      "en": "Increases Ginjima Yui's [Power Attack] by 6%/8%/10% and [Receive] by 6%/8%/10%. When Ginjima Yui receives, if the opponent performs a Power Attack, the power of this receive increases by [Receive] × 15%/25%/35%.",
+      "jp": "銀島結の[強打]が（Lv1: 6%, Lv2: 8%, Lv3: 10%）、[レシーブ]が（Lv1: 6%, Lv2: 8%, Lv3: 10%）アップ。\n銀島結のレシーブ時、相手が強打をした場合、今回のレシーブ威力が[レシーブ]×（Lv1: 15%, Lv2: 25%, Lv3: 35%）アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "yui-ssr.a2": {
+    "name": {
+      "pt": "Recepção Poderosa",
+      "en": "Powerful Receive",
+      "jp": "強力レシーブ"
+    },
+    "description": {
+      "pt": "Ginjima Yui recebe com [Recepção] × 120/135/150% de poder.",
+      "en": "Ginjima Yui receives with a power of [Receive] × 120%/135%/150%.",
+      "jp": "銀島結の[レシーブ]×（Lv1: 120%, Lv2: 135%, Lv3: 150%）の威力のレシーブをする"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "yui-ssr.a3": {
+    "name": {
+      "pt": "Um Ataque Entusiasmado",
+      "en": "An Enthusiastic Attack",
+      "jp": "責任感と熱意に溢れる攻撃"
+    },
+    "description": {
+      "pt": "Sempre que houver um recebedor na equipe, a [Técnica de Ataque] de Ginjima Yui aumenta em 2/2.5/3%. Se a recepção do companheiro não for RUIM, o [Ataque Potente] de Ginjima Yui aumenta em 15% por até quatro cruzamentos de rede.",
+      "en": "Whenever there is one receiving member on the team, Ginjima Yui's [Attack Technique] increases by 2%/2.5%/3%. If the receiving result of the team member is not BAD, Ginjima Yui's [Power Attack] increases by 15%. This effect lasts until the ball goes over the net four times.",
+      "jp": "味方コート上にレシーブメンバーが1名いるごとに、銀島結の[攻撃テクニック]が（Lv1: 2%, Lv2: 2.5%, Lv3: 3%）アップ。\n味方メンバーのレシーブ結果がBADにならなかった場合、銀島結の[強打]が15%アップ。この効果はボールがネットを4回超えるまで持続する"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  },
+  "yui-ssr.a4": {
+    "name": {
+      "pt": "Um Golpe Poderoso",
+      "en": "A Powerful Blow",
+      "jp": "強烈な一発"
+    },
+    "description": {
+      "pt": "Ginjima Yui executa um ataque poderoso com [Ataque Potente] × 225/240/255/270/285% de poder. Se estiver na linha de trás, a potência aumenta em [Ataque Potente] × 30%.",
+      "en": "Ginjima Yui will perform a powerful attack with a power of [Power Attack] × 225%/240%/255%/270%/285%. If Ginjima Yui is in the rear guard, the power of this powerful attack will increase by [Power Attack] × 30%.",
+      "jp": "銀島結が[強打]×（Lv1: 225%, Lv2: 240%, Lv3: 255%, Lv4: 270%, Lv5: 285%）の威力の強打をする。\n銀島結の後衛に居る場合、今回の強打威力が[強打]×30%アップ"
+    },
+    "cooldown": {
+      "value": null,
+      "text": null
+    }
+  }
+}

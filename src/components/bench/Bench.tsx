@@ -1,6 +1,8 @@
 import { useDroppable, useDraggable } from "@dnd-kit/core";
 import { useStore, getPlayerById } from "../../state/store";
 import { useTranslation } from "react-i18next";
+import { useIsMobile } from "../../lib/hooks/useMediaQuery";
+import { GripVertical } from "lucide-react";
 
 function BenchSlot({ index }: { index: number }) {
   const { t } = useTranslation();
@@ -21,9 +23,11 @@ function BenchSlot({ index }: { index: number }) {
   } = useDraggable(
     player ? { id: `player:${player.id}` } : { id: `bench-empty-${index}` }
   );
-  const dragStyle = transform
+  const isMobile = useIsMobile();
+  const dragStyle: any = transform
     ? { transform: `translate3d(${transform.x}px, ${transform.y}px, 0)` }
-    : undefined;
+    : {};
+  dragStyle.touchAction = isDragging ? "none" : "auto";
 
   // Verificar se há um jogador sendo arrastado
   const isPlayerBeingDragged =
@@ -53,25 +57,46 @@ function BenchSlot({ index }: { index: number }) {
       } grid place-items-center bg-black/30 overflow-hidden`}
     >
       {player && !isDragging ? (
-        player.avatar ? (
-          <img
-            ref={setDragRef as any}
-            {...listeners}
-            {...attributes}
-            style={dragStyle}
-            src={player.avatar}
-            alt={player.name}
-            className={`w-full h-full object-contain ${
-              isDragging ? "opacity-60" : ""
-            }`}
-          />
-        ) : (
-          <div className="text-xs">{player.name}</div>
-        )
+        <div className="relative w-full h-full">
+          {isMobile && (
+            <div
+              className="absolute top-1 left-1 z-10 inline-flex items-center justify-center w-5 h-5 rounded bg-black/40 text-white/80 hover:text-white cursor-grab active:cursor-grabbing drag-handle md:hidden"
+              {...listeners}
+              {...attributes}
+              aria-label="Drag handle"
+            >
+              <GripVertical size={12} />
+            </div>
+          )}
+          {player.avatar ? (
+            <img
+              ref={setDragRef as any}
+              {...listeners}
+              {...attributes}
+              style={dragStyle}
+              src={player.avatar}
+              alt={player.name}
+              className={`w-full h-full object-contain ${
+                isDragging ? "opacity-60" : ""
+              }`}
+              draggable={false}
+            />
+          ) : (
+            <div
+              ref={setDragRef as any}
+              {...listeners}
+              {...attributes}
+              style={dragStyle}
+              className="text-xs"
+            >
+              {player.name}
+            </div>
+          )}
+        </div>
       ) : isOver && isPlayerBeingDragged ? (
         <div className="text-center text-cyan-400/90 p-1">
           <div className="text-xs font-semibold">{t("slots.drop_here")}</div>
-          <div className="text-[10px] opacity-80">{t("slots.drop_here_description")}</div>
+          {/* <div className="text-[10px] opacity-80">{t("slots.drop_here_description")}</div> */}
         </div>
       ) : (
         <div className="text-xl text-white/60">+</div>

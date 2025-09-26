@@ -111,7 +111,7 @@ export function TeamHeader() {
             {dropdownOpen && (
               <div className="absolute top-full mt-1 left-0 bg-neutral-800 border border-white/10 rounded-md shadow-lg z-20 w-32">
                 <button
-                  className={`w-full text-left px-3 py-2 text-sm hover:bg-neutral-700 ${
+                  className={`w-full text-left px-3 py-2 text-sm hover:bg-neutral-700 rounded ${
                     language === "PT-BR" ? "bg-neutral-700" : ""
                   }`}
                   onClick={() => handleLanguageChange("PT-BR")}

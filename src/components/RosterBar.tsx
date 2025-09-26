@@ -1,18 +1,14 @@
-import { ChevronUp, X } from "lucide-react";
-
+﻿import { ChevronUp, X } from "lucide-react";
 import { useStore } from "../state/store";
-
 import { PlayerCard } from "./PlayerCard";
-
 import { useDroppable } from "@dnd-kit/core";
-
 import { useTranslation } from "react-i18next";
 import { useMemo } from "react";
 import type { PlayerType } from "../lib/types";
-import { PLAYER_TYPE_META } from "../lib/playerTypes";
+import { getPlayerTypeLabel } from "../lib/playerTypes";
 
 export function RosterBar() {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const players = useStore((s) => s.players);
   const team = useStore((s) => s.team);
@@ -166,7 +162,7 @@ export function RosterBar() {
                 </option>
                 {allPlayerTypes.map((pt) => (
                   <option key={pt} value={pt} className="bg-neutral-900">
-                    {t(PLAYER_TYPE_META[pt].labelKey)}
+                    {getPlayerTypeLabel(pt, i18n.language)}
                   </option>
                 ))}
               </select>

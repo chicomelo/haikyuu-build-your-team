@@ -1,0 +1,338 @@
+{
+  "a-forc-a-dos-ge-meos": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "A força dos Gêmeos",
+      "en": "Twin Power"
+    },
+    "description": {
+      "pt": "Quando Atsumu UR faz o passe e Osamu UR faz um Ataque Rápido Minus Tempo, aumenta o Ataque Rápido dessa jogada. Aumenta o Técnica de Ataque em 15%. O ataque não pode ser bloqueado.",
+      "en": "When Atsumu UR makes a pass and Osamu UR makes a Minus Tempo Quick Attack, increases the Quick Attack of that play. Increases Attack Technique by 15%. The attack cannot be blocked."
+    }
+  },
+  "a-matilha": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "A Matilha",
+      "en": "The Pack"
+    },
+    "description": {
+      "pt": "Aumenta o Ataque Potente de Iwaizumi SSR e Kentaro SSR.",
+      "en": "Increases Power Attack of Iwaizumi SSR and Kentaro SSR"
+    }
+  },
+  "a-s-milagroso-e-levantador-carinhoso": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Ás Milagroso e Levantador Carinhoso",
+      "en": "Miracle Ace and Caring Setter"
+    },
+    "description": {
+      "pt": "Bokuto UR sai da depressão. Quando Akaashi SSR faz o passe e Bokuto UR spika, aumenta o Ataque Potente desse golpe em 20% e eleva a Moral do Time em 15.",
+      "en": "Bokuto UR comes out of depression. When Akaashi SSR makes a pass and Bokuto UR Spikes, increases his Power Attack for that Spike by 20% and raises team morale by 15"
+    }
+  },
+  "ace-milagroso-e-levantador-carinhoso": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Ace Milagroso e Levantador Carinhoso",
+      "en": "Ace Miraculous and Caring Setter"
+    },
+    "description": {
+      "pt": "Aumenta o Passe de Akaashi SP. Com Moral ativa, aumenta o Ataque Potente de Bokuto SP em 18% e o Passe de Akaashi SP em 5%.",
+      "en": "Increases Akaashi SP’s Passing. When team morale is active, increases Bokuto SP’s Power Attack by 18% and Akaashi SP’s Passing by 5%"
+    }
+  },
+  "aliados-no-campo-de-treinamento": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Aliados no Campo de Treinamento",
+      "en": "Teammates At Training Camp"
+    },
+    "description": {
+      "pt": "Aliados em quadra que possuam habilidade de [Bloqueio] recebem +6%/7%/8%/9%/10% [Bloqueio].O tempo de recarga de <Block System> é reduzido em 2 cruzamentos de rede.Quando um aliado ativa uma habilidade de [Saque], aplica [Raiva] na linha de trás do oponente ([Ataque Potente]/[Ataque Rápido] −10%) por 8 cruzamentos de rede.",
+      "en": "Ally members on the court with a block skill gain +6%/7%/8%/9%/10% Block. The cooldown of <Block System> is reduced by 2 net crossings. When an ally member activates a serve skill, inflict Anger on the opponent’s back row (Power Attack / Quick Attack −10%) for 8 net crossings."
+    }
+  },
+  "amigos-de-longa-data": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Amigos de longa data",
+      "en": "Longtime Friends"
+    },
+    "description": {
+      "pt": "Aumenta os Stats de Hoshiumi UR. Aumenta o Bloqueio para os jogadores da linha de frente. Hoshiumi UR e Hirugami UR recebem um buff (sem info).",
+      "en": "The [Block] of allied frontline is increased. At the start of the match, Hoshiumi Korai gains the [All-Rounder] effect, and Hirugami gains the [Strong Block] effect."
+    }
+  },
+  "bests-para-a-vida": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Bests para a vida",
+      "en": "Besties for Life"
+    },
+    "description": {
+      "pt": "Aumenta o Ataque Potente de Ushijima UR e o Técnica de Defesa de Tendo SSR.",
+      "en": "Increases Ushijima UR’s Power Attack and Tendo SSR’s Defense Technique"
+    }
+  },
+  "cabec-a-dos-ge-meos": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Cabeça dos Gêmeos",
+      "en": "Twin Heads"
+    },
+    "description": {
+      "pt": "Aumenta o Técnica de Ataque de Osamu UR. Aumenta os Stats de Kita SSR. No início da partida, Atsumu ganha 3 acúmulos de Perfect Hit* (+2% de Passe cada, máx. 10). Kita SSR ganha bônus similar em Recepção (máx. 3). O primeiro Ataque Rápido dos gêmeos em cada set recebe +[Ataque Rápido] × 12%.",
+      "en": "Increases Osamu UR’s Attack Technique. Increases Kita SSR’s Stats. At the start of the match Atsumu gains 3 stacks of Perfect Hit*, each increasing his Passing by 2%. Max 10 stacks. Kita SSR gains a similar buff that increases his Receive. Max 3 stacks. The twins’ first Quick Attack per set is increased by Quick Attack × 12%"
+    }
+  },
+  "campea-o-absoluto-e-levantador-so-lido": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Campeão Absoluto e Levantador Sólido",
+      "en": "Absolute Champion and Steady Setter"
+    },
+    "description": {
+      "pt": "Quando Shirabu SSR faz o passe, Ushijima UR realiza um corte com 10% mais poder.",
+      "en": "When Shirabu SSR makes a pass, Ushijima UR Spikes with 10% more power"
+    }
+  },
+  "ce-rebro-e-comandante": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Cérebro e Comandante",
+      "en": "Brain and Commander"
+    },
+    "description": {
+      "pt": "Quando Kenma SSR faz o passe, Kuroo UR realiza um Ataque Rápido fortalecido.",
+      "en": "When Kenma SSR makes a pass, Kuro UR performs a strengthened Quick Attack"
+    }
+  },
+  "ce-rebro-e-comandante-sp": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Cérebro e Comandante SP",
+      "en": "Brain and Commander SP"
+    },
+    "description": {
+      "pt": "Quando Kenma SP e Kuroo SP estão em quadra, podem usar a habilidade de ataque rápido Cérebro e Comandante*",
+      "en": "When Kenma SP and Kuro SP are on court, can activate the quick attack skill Brain and Commander*"
+    }
+  },
+  "depois-da-escola": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Depois da Escola",
+      "en": "After School"
+    },
+    "description": {
+      "pt": "Aumenta o Reflexo de Nishinoya SP; quando a Stamina dele estiver baixa, aumenta ainda mais.",
+      "en": "Increases Nishinoya SP’s reflex; when his stamina is low, increases it even more"
+    }
+  },
+  "deus-guardia-o-e-ponta": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Deus Guardião e Ponta",
+      "en": "Guardian God and Wing Spiker"
+    },
+    "description": {
+      "pt": "Quando Nishinoya SSR ou Azumane SSR usam habilidade, ambos aumentam Técnica de Ataque e Técnica de Defesa.",
+      "en": "When Nishinoya SSR or Azumane SSR usar a skill, both increase their Attack Technique and Defense Technique"
+    }
+  },
+  "dupla-exce-ntrica": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Dupla Excêntrica",
+      "en": "Eccentric Duo"
+    },
+    "description": {
+      "pt": "Aumenta o poder de Ataque Rápido e a Percepção de Hinata e Kageyama.",
+      "en": "Increases Hinata and Kageyama’s quick attack power and Awareness."
+    }
+  },
+  "esquadra-o-de-kiyoko": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Esquadrão de Kiyoko",
+      "en": "Kiyoko Squad"
+    },
+    "description": {
+      "pt": "Ao pontuar, aumenta a Moral do Time.",
+      "en": "When scoring, increases Team Morale"
+    }
+  },
+  "festival-de-esporte": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Festival de Esporte",
+      "en": "Sports Festival"
+    },
+    "description": {
+      "pt": "Quando um aliado tocar na bola, consome 1 de [Stamina] e aumenta os atributos principais desse membro em 3%/3,5%/4%/4,5%/5% por 2 cruzamentos de rede.Se esse toque de bola for um [Bloqueio], o [Bloqueio] desse membro aumenta em +5% adicionais por 2 cruzamentos de rede.",
+      "en": "When an ally member touches the ball, consume 1 Stamina and increase that member’s main parameters by 3%/3.5%/4%/4.5%/5% for 2 net crossings. If that ball touch is a block, that member’s Block increases by an additional 5% for 2 net crossings."
+    }
+  },
+  "festival-fogos-de-artificio": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Festival Fogos de Artificio",
+      "en": "Fireworks Festival"
+    },
+    "description": {
+      "pt": "Atributos principais dos aliados aumentam em 6%.Ao fim de cada rali, aplica [Raiva] na linha de frente do oponente (os [Cortada Potente]/[Ataque Rápido] deles ficam –10%).Dura até a bola atravessar a rede 8 vezes.Se o alvo já tiver [Raiva], aplica [Distração] em vez disso (os [Cortada Potente]/[Ataque Rápido] ficam –20%).Também dura até a bola atravessar a rede 8 vezes.[Distração] não pode ser removido.",
+      "en": "Allies’ main stats increase by 6%.At the end of each rally, inflict [Angry] on the opponent’s front row (their [Power Spike]/[Quick Attack] –10%).This lasts until the ball has crossed the net 8 times.If a target already has [Angry], apply [Distracted] instead (their [Power Spike]/[Quick Attack] –20%).This also lasts until the ball has crossed the net 8 times.[Distracted] cannot be cleansed/removed."
+    }
+  },
+  "ge-nios-karasuno": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Gênios Karasuno",
+      "en": "Karasuno Geniusars"
+    },
+    "description": {
+      "pt": "Aumenta o Reflexo e a Recepção de Nishinoya SP. Quando Nishinoya usa o especial, Kageyama UR ganha um acúmulo de Competitive Spirit*. Se o especial for PERFECT, o primeiro corte (Power ou Quick) depois disso tem poder aumentado em 20% do Power do atacante.",
+      "en": "Increases Nishinoya SP’s reflex and Receive. When Nishinoya usars his special move, Kageyama UR gains one stack of Competitive Spirit*. If his special is a perfect play, the power of the first Spike (Power Attack or Quick Attack) after that play is increased by 20% of the attacker’s power"
+    }
+  },
+  "harmonia-perfeita": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Harmonia Perfeita",
+      "en": "Perfect Harmony"
+    },
+    "description": {
+      "pt": "Quando Oikawa UR faz o passe, Iwaizumi SSR realiza um corte com Ataque Potente aumentado. Ganha 2 acúmulos de [Ritmo de Ataque]*, cada um aumentando o Percepção da equipe em 1% (máx. 10).",
+      "en": "When Oikawa UR makes a pass, Iwaizumi SSR Spikes with increased Power Attack. Gains 2 stacks of Attack Rhythm*, each stack increases the team’s Awareness by 1%. Maximum of 10 stacks."
+    }
+  },
+  "natac-a-o": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Natação",
+      "en": "Swimming"
+    },
+    "description": {
+      "pt": "Aumenta a Moral do Time. Com Moral ativa, aumenta o Reflexo dos aliados em bloqueios duplos ou triplos.",
+      "en": "(Activates with 3 players) Increases team morale. When team morale is active, increases allies’ reflex in double or triple blocks"
+    }
+  },
+  "o-novo-capita-o-e-o-novato-alta-o": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "O Novo Capitão e o Novato Altão",
+      "en": "The New Captain and the Tall Rookie"
+    },
+    "description": {
+      "pt": "Aumenta o Bloqueio dos jogadores na linha de frente.",
+      "en": "Increases the Block of players in the front row"
+    }
+  },
+  "o-silencioso-e-o-sarca-stico": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "O Silencioso e o Sarcástico",
+      "en": "The Silent and the Sarcastic"
+    },
+    "description": {
+      "pt": "Permite que Aone SSR e Futakuchi SSR usem a habilidade [Bloqueio Duplo]*.",
+      "en": "Allows Aone SSR and Futakuchi SSR to usar the Double Block skill"
+    }
+  },
+  "observac-a-o-de-flores-de-cerejeira": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Observação de flores de cerejeira",
+      "en": "Cherry Blossom Viewing"
+    },
+    "description": {
+      "pt": "Aumenta o Percepção de Kenma SP. Aumenta o Ataque Rápido de Hinata SP quando a jogada for PERFECT.",
+      "en": "Increases Kenma SP’s Awareness. Increases Hinata SP’s Quick Attack if it is a perfect play"
+    }
+  },
+  "orientac-a-o-educacional": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Orientação Educacional",
+      "en": "Educational Guidance"
+    },
+    "description": {
+      "pt": "Aumenta a Recepção de Yaku SSR e o Ataque Rápido de Lev SSR.",
+      "en": "Increases Yaku SSR’s Receive and Lev SSR’s Quick Attack"
+    }
+  },
+  "parede-de-ferro": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Parede de Ferro",
+      "en": "Iron Wall"
+    },
+    "description": {
+      "pt": "Quando Koganegawa estiver em quadra, se pelo menos 2 membros incluídos neste Vínculo estiverem presentes, a Habilidade de Vínculo é ativada.Quando os aliados executarem um bloqueio duplo/triplo, os aliados da linha de frente recebem [Técnica de Defesa] +3%/4%/5%/6%/7% por 1 cruzamento de rede.Quando um aliado ativa uma habilidade de [Saque], o saque não falhará.Durante ralis em que um aliado ativa uma habilidade de [Saque], se os aliados executarem bloqueio duplo/triplo, ganha 1 acúmulo de [Poderoso Bloqueio] e [Criar Muralha de Ferro] (só ativa se o membro correspondente estiver em quadra).",
+      "en": "When Koganegawa is on the court, if at least 2 members included in the Bond Skill are present, the Bond Skill becomes active. When allies perform a 2-person/3-person block, front-row allies’ Defense Technique increases by 3%/4%/5%/6%/7% for 1 rally. When an ally activates a serve skill, the serve will not fail. During rallies where an ally activates a serve skill, if allies perform a 2-person/3-person block, gain 1 stack each of Powerful Block and Create Iron Wall (only activates if the corresponding member is on the court)."
+    }
+  },
+  "sol-vs-lua": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Sol vs Lua",
+      "en": "Sun vs Moon"
+    },
+    "description": {
+      "pt": "Quando um aliado faz um levantamento (Passe), a [Percepção] dele aumenta em 10%.Dura até a bola atravessar a rede 2 vezes.Se o Ataque Rápido do Shoyo Hinata (Hanami) virar um PERFECT, o tempo de recarga de 〈Pulo Alto〉 é reduzido em 2 contagens de atravessar a rede.Kei Tsuki (Festival de Fogos) recebe [Percepção] igual a 50% da [Percepção] do Hinata (Hanami), até +50%.Esse efeito dura até a bola atravessar a rede 4 vezes.",
+      "en": "When a player performs a set, [Awareness] increases. If Hinata SP performs a Quick Attack, and the result is critical, the cooldown of High Jump is reduced, and Tsukishima SP’s [Awareness] is increased."
+    }
+  },
+  "top-spiker-e-top-libero": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Top Spiker e Top Libero",
+      "en": "Top Spiker and Top Libero"
+    },
+    "description": {
+      "pt": "Sakusa UR aumenta seu Ataque Potente. Komori UR aumenta seu Recepção. Aumenta a Recepção dos aliados em 20%.",
+      "en": "Sakusa UR increases his Power Attack. Komori UR increases his Receive. Increases allies’ Receive by 20%"
+    }
+  },
+  "ws-de-shiratorizawa": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "WS de Shiratorizawa",
+      "en": "Shiratorizawa’s WS"
+    },
+    "description": {
+      "pt": "Aumenta o Ataque Potente de TODOS os jogadores presentes.",
+      "en": "Increases Power Attack of ALL players present"
+    }
+  }
+}

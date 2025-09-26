@@ -1,8 +1,8 @@
-// Teste direto para verificar a contagem de sinergias
-import rawPlayers from '../data/players.json'
+﻿// Teste direto para verificar a contagem de sinergias
+import { playersData } from '../lib/dataRegistry'
 import type { Player, Team } from '../lib/types'
 
-const playersInfo = rawPlayers as unknown as Player[]
+const playersInfo = playersData as Player[]
 
 // Criar um time de teste com Kageyama UR e Hinata SP
 const testTeam: Team = {
@@ -18,7 +18,7 @@ const testTeam: Team = {
   bench: []
 }
 
-// Função de teste
+// FunÃ§Ã£o de teste
 function directTest() {
   const byId = new Map(playersInfo.map(p => [p.id, p]))
   
@@ -38,9 +38,9 @@ function directTest() {
   for (const p of starters) {
     for (const link of p.links || []) {
       if (link.type === 'positional') {
-        const currentCount = positionalCounts.get(link.name) || 0
-        positionalCounts.set(link.name, currentCount + 1)
-        console.log(`Incrementando contagem de "${link.name}": ${currentCount + 1}`)
+        const currentCount = positionalCounts.get(link.key) || 0
+        positionalCounts.set(link.key, currentCount + 1)
+        console.log(`Incrementando contagem de "${link.key}": ${currentCount + 1}`)
       }
     }
   }

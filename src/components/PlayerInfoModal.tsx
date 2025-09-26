@@ -1,10 +1,23 @@
+import { Fragment } from "react";
 import { useTranslation } from "react-i18next";
 import { X } from "lucide-react";
 import { useStore, getPlayerById } from "../state/store";
 
-import { PLAYER_TYPE_META } from "../lib/playerTypes";
+import { getPlayerTypeLabel } from "../lib/playerTypes";
+import { resonanceDetails, pickLocalizedText } from "../lib/dataRegistry";
 import { getTranslatedBuffName } from "../lib/buffTranslations";
 import { getAbilityText } from "../lib/abilityTranslations";
+
+function renderMultiline(text: string) {
+  if (!text) return text;
+  const parts = text.split(/\r?\n/);
+  return parts.map((line, idx) => (
+    <Fragment key={idx}>
+      {line}
+      {idx < parts.length - 1 ? <br /> : null}
+    </Fragment>
+  ));
+}
 
 export function PlayerInfoModal() {
   const { t, i18n } = useTranslation();
@@ -15,6 +28,37 @@ export function PlayerInfoModal() {
   const p = getPlayerById(modalPlayerId);
   if (!p) return null;
 
+  const language = i18n.language;
+  const resonanceEntries = (p.skillResonances || [])
+    .map((res) => {
+      const detail = resonanceDetails[res.id];
+      if (!detail) return null;
+      const name = pickLocalizedText(detail.name, language) || res.id;
+      const effects = (detail.effects || [])
+        .map((effect) => pickLocalizedText(effect, language))
+        .filter((text): text is string => Boolean(text));
+      return {
+        id: res.id,
+        order: res.order,
+        required: res.requiredSkillLevel,
+        name,
+        effects,
+      };
+    })
+    .filter(
+      (
+        item
+      ): item is {
+        id: string;
+        order: number;
+        required: number | null | undefined;
+        name: string;
+        effects: string[];
+      } => Boolean(item)
+    );
+
+  const playerLinks = p.links || [];
+
   return (
     <div
       className="fixed inset-0 z-50 bg-black/60 flex items-center justify-center p-4 overflow-y-auto"
@@ -23,7 +67,7 @@ export function PlayerInfoModal() {
       <div
         role="dialog"
         aria-modal="true"
-        className="w-full relative max-w-5xl bg-neutral-900 border border-white/10 rounded-xl shadow-xl max-h-[90vh] md:max-h-[80vh] overflow-y-auto"
+        className="w-full relative max-w-6xl bg-neutral-900 border border-white/10 rounded-xl shadow-xl max-h-[90vh] md:max-h-[80vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
         <button
@@ -75,31 +119,22 @@ export function PlayerInfoModal() {
                     </div>
                   )}
 
-                  {p.links?.[0]?.name && (
-                    <>
-                      <div>
-                        <div className="opacity-70">
-                          {t("player_modal.synergies")}:
-                        </div>
-
-                        <ul className="list-disc list-inside">
-                          {(p.links || []).map((l) => {
-                            const keyOrName = l.key || l.name;
-                            const display = getTranslatedBuffName(
-                              keyOrName,
-                              i18n.language
-                            );
-                            if (l.name) {
-                              return <li key={l.key || l.name}>{display}</li>;
-                            } else {
-                              return (
-                                <li key={l.key || l.name}>Sem sinergia</li>
-                              );
-                            }
-                          })}
-                        </ul>
+                  {playerLinks.length > 0 && (
+                    <div>
+                      <div className="opacity-70">
+                        {t("player_modal.synergies")}:
                       </div>
-                    </>
+
+                      <ul className="list-disc list-inside">
+                        {playerLinks.map((l) => {
+                          const display = getTranslatedBuffName(
+                            l.key,
+                            i18n.language
+                          );
+                          return <li key={l.key}>{display}</li>;
+                        })}
+                      </ul>
+                    </div>
                   )}
                 </div>
               </div>
@@ -119,7 +154,7 @@ export function PlayerInfoModal() {
                     key={type}
                     className="inline-flex items-center px-3 py-1 rounded-full text-sm border border-white/10 bg-white/5"
                   >
-                    {t(PLAYER_TYPE_META[type].labelKey)}
+                    {getPlayerTypeLabel(type, i18n.language)}
                   </span>
                 ))}
               </div>
@@ -135,12 +170,45 @@ export function PlayerInfoModal() {
                   <div key={ab.id} className="space-y-1">
                     <div className="font-semibold">{name}</div>
                     <div className="opacity-90 leading-relaxed text-sm">
-                      {desc}
+                      {renderMultiline(desc)}
                     </div>
                   </div>
                 );
               })}
             </div>
+
+            {resonanceEntries.length > 0 && (
+              <>
+                <div className="border-t border-white/10 my-4" />
+                <div className="space-y-4">
+                  <div className="font-semibold">
+                    {t("player_modal.skill_resonances", "Skill Resonances")}
+                  </div>
+                  {resonanceEntries.map((res) => (
+                    <div key={res.id} className="space-y-1">
+                      <div className="font-semibold">
+                        {res.name}
+                        {res.required != null && (
+                          <span className="ml-2 text-xs uppercase tracking-wide opacity-70">
+                            {t("player_modal.required_skill_level", {
+                              level: res.required,
+                              defaultValue: "Required Skill Level: {{level}}",
+                            })}
+                          </span>
+                        )}
+                      </div>
+                      {res.effects.length > 0 && (
+                        <ul className="list-disc list-inside opacity-90 text-sm space-y-1">
+                          {res.effects.map((text, idx) => (
+                            <li key={idx}>{text}</li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </>
+            )}
           </div>
         </div>
       </div>
