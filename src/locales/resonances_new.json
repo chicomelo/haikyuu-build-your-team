@@ -11,8 +11,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -28,18 +28,8 @@
     "effects": [
       {
         "jp": "赤葦京治(海水浴)の[パワー]が30%アップ。",
-        "pt": "O [poder] de Akaashi Kyoji (natação) aumentou 30%.",
-        "en": "The [power] of Akaashi Kyoji (swimming) has increased by 30%."
-      },
-      {
-        "jp": "赤葦京治(海水浴)がコート上に居る場合、各ラリー終了時に味方のチーム士気が40アップ。",
-        "pt": "Se Akaashi Kyoji (nadando no mar) está na quadra, o moral da equipe de aliados aumenta em 40 no final de cada manifestação.",
-        "en": "If Akaashi Kyoji (swimming in the sea) is on the court, team morale of allies increases by 40 at the end of each rally."
-      },
-      {
-        "jp": "赤葦京治(海水浴)がコート上に居る場合、味方のチーム士気覚醒が発動していない間、味方メンバーの[レシーブ]と[ブロック]が25%アップ",
-        "pt": "Se Akaashi Kyoji (natação) estiver na quadra, os membros do aliado [recebem] e [blocos] aumentam em 25%, enquanto o despertar do moral da equipe de seus aliados não é ativado.",
-        "en": "If Akaashi Kyoji (swimming) is on the court, the ally members' [Receive] and [Block] increase by 25% while the team morale awakening of their allies is not activated."
+        "pt": "Atributo [Força] do Akaashi aumenta em 30%. 1 - Quando Akaashi está em quadra, a cada término de rally aumenta 40 de Moral do time aliado. 2 - Quando Akaashi está em quadra e enquanto o Reforço de Moral do Time não está ativado, os atributos [Recepção] e [Bloqueio] dos aliados aumentam em 25%.",
+        "en": "Akaashi's [Power] increases by 30%. 1 - While Akaashi is on the court, the allied team's morale increases by 40 at the end of each rally. 2 - While Akaashi is on the court and Team Morale Awakening is inactive, allies' [Receive] and [Block] increase by 25%."
       }
     ]
   },
@@ -55,8 +45,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -72,23 +62,8 @@
     "effects": [
       {
         "jp": "<練習の100%を引き出す>発動時、本セット内で獲得した[冷静な意識]効果の累計スタック1につき、スパイク（強打・速攻）をするメンバーの[パワー]が0.3％アップ。最大40%アップ可能。この効果はボールがネットを2回越えるまで持続する。",
-        "pt": "Quando ativado, para cada pilha cumulativa de efeito [consciência fria] adquirida neste conjunto, o [poder] dos membros que Spike (Smack/Quick Attack) aumentará 0,3%. Aumento de até 40%. Este efeito dura até que a bola passe pela rede duas vezes.",
-        "en": "When activated, for each cumulative stack of [Cold Consciousness] effect acquired in this set, the [Power] of members who spike (smack/quick attack) will increase by 0.3%. Up to 40% increase. This effect lasts until the ball has passed the net twice."
-      },
-      {
-        "jp": "今回のスパイクが強打の場合、強打をするメンバーの[パワー]がさらに0.8％アップ。最大80%アップ可能。この効果はボールがネットを2回越えるまで持続する。",
-        "pt": "Se esse pico for um forte golpe, o poder dos membros que atingiram o forte golpe aumentará em mais 0,8%. Aumento de até 80%. Este efeito dura até que a bola passe pela rede duas vezes.",
-        "en": "If this spike is a strong hit, the [power] of the members who hit the strong hit will increase by an additional 0.8%. Up to 80% increase. This effect lasts until the ball has passed the net twice."
-      },
-      {
-        "jp": "本セット内で獲得した[冷静な意識]効果の累計スタック1につき、<決定的な一撃>の威力が[トス]×0.6%アップ。最大100%アップ可能。",
-        "pt": "Para cada pilha cumulativa de efeitos [de consciência calma] adquiridos neste conjunto, o poder da greve decisiva> aumenta em 0,6%. Até 100% de aumento.",
-        "en": "For each cumulative stack of [Calm Consciousness] effects acquired in this set, the power of the <Decisive Strike> increases by 0.6%. Up to 100% increase."
-      },
-      {
-        "jp": "味方がチーム士気覚醒を発動している間、味方のチーム士気が5アップするごとに、味方のチーム士気覚醒が終了後最初の味方の必殺技発動時、該当メンバーの[パワー]が1%アップ。最大30%アップ可能",
-        "pt": "Enquanto seu aliado ativa o despertar do moral da equipe, a cada 5 aumento no moral da sua equipe, quando o moral da equipe do seu aliado é ativado, o [poder] do membro correspondente aumenta em 1% após o despertar do moral da equipe do aliado. Aumento de até 30%",
-        "en": "While your ally activates Team Morale Awakening, every 5 increase in your team morale, when your ally's team morale is activated, the [power] of the corresponding member increases by 1% after the ally's team morale awakening. Up to 30% increase"
+        "pt": "1 - Ao ativar a habilidade 2, juntamente com os buffs dessa habilidade, a cada 1 acúmulo do efeito \"Percepção Calma\", aumenta 0.3% do atributo [Força] do membro a realizar um Ataque Rápido/Potente, podendo aumentar no máximo até 40% e permanecendo esse efeito por 2 cruzamentos de rede. 2 - Se esse Ataque for do tipo Potente, aumenta em mais 0.8% o atributo [Força] desse aliado, podendo aumentar no máximo até 80% e permanecendo o efeito por 2 cruzamentos de rede. 3 - Para cada 1 acúmulo do efeito \"Percepção Calma\", o aumento da força de Larga da habilidade 4 aumenta em mais [Passe] x 0.6%, podendo aumentar até no máximo 100%. 4 - Enquanto o time aliado está com o Reforço da Moral do Time ativado, a cada 5 de aumento da Moral aumenta em 1% do atributo [Força] do primeiro aliado a ativar a habilidade 4 após o término do Reforço da Moral do Time, podendo aumentar até no máximo 30%.",
+        "en": "1 - When ability 2 is activated, along with its buffs, each stack of \"Calm Awareness\" increases the [Power] of the ally performing a Quick/Power Attack by 0.3%, up to 40%, for 2 net crossings. 2 - If that attack is a Power Attack, that ally gains an additional 0.8% [Power] per stack, up to 80%, lasting 2 net crossings. 3 - For each stack of \"Calm Awareness\", ability 4's Setter Dump gains additional power equal to [Set] × 0.6%, up to 100%. 4 - While the allied team has Team Morale Awakening active, every 5 morale gained increases the [Power] of the first ally to use ability 4 after Team Morale Awakening ends by 1%, up to 30%."
       }
     ]
   },
@@ -104,8 +79,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -306,8 +281,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -323,13 +298,8 @@
     "effects": [
       {
         "jp": "青根高伸(海水浴)がコート上に居る場合、相手メンバーが得点時、相手コート上のメンバーが[“ロックオン”]効果を1スタック獲得する。",
-        "pt": "Se aone Takanobu (natação) estiver na quadra, quando o membro do oponente pontuar, o membro do oponente ganha uma pilha de efeito [\"bloqueio\"].",
-        "en": "If Aone Takanobu (swimming) is on the court, when the opponent's member scores, the opponent's member gains one stack of [\"Lock-on\"] effect."
-      },
-      {
-        "jp": "1セットに1回、[強靭ブロック]効果のスタック数が6になった場合、<鋭いリードブロック>のクールダウンをリセットする",
-        "pt": "Uma vez por conjunto, se o número de pilhas para o efeito [Strong Block] for 6, redefina a recarga para <bloqueio de chumbo Sharp>.",
-        "en": "Once per set, if the number of stacks for the [Strong Block] effect is 6, reset the cooldown for <Sharp Lead Block>."
+        "pt": "1 - Quando Aone está em quadra e o time adversário pontuar, todos os oponentes em quadra recebem 1 acúmulo do efeito \"Foco\". 2 - Quando possui 6 acúmulos do efeito \"Bloqueio Resistente\", o CD da habilidade 4 do Aone é resetado. Isso ocorre 1 vez por rally.",
+        "en": "1 - When Ane is on the court and the opposing team scores, all opponents on the court receive 1 stack from the \"focus\" effect. 2 - When it has 6 stacks of the \"resistant\" block effect, Aone's skill 4 CD is reset. This occurs once per rally."
       }
     ]
   },
@@ -345,8 +315,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -362,13 +332,8 @@
     "effects": [
       {
         "jp": "青根高伸(海水浴)がコート上にいない場合、味方前衛の[ブロック]が25%アップ。",
-        "pt": "Se a Takanobu, que nadar no mar) não estiver na quadra, o [bloco] da Vanguard dos Aliados aumentará 25%.",
-        "en": "If Aone Takanobu (swimming in the sea) is not on the court, the [block] of allies' vanguard will increase by 25%."
-      },
-      {
-        "jp": "青根高伸(海水浴)の[反応]が100%を超えた場合、[反応]が1%超過するごとに、[メンタル]が1%アップ。最大60%アップ可能。",
-        "pt": "Se a [reação] de AONE Takanobu (natação) exceder 100%, toda vez que a [reação] excede 1%, o [mental] aumenta em 1%. Aumento de até 60%.",
-        "en": "If the [reaction] of Aone Takanobu (swimming) exceeds 100%, every time the [reaction] exceeds 1%, the [mental] increases by 1%. Up to 60% increase."
+        "pt": "1 - Quando Aone está no Banco, os aliados da Linha de Ataque/Frente recebem aumento de 25% no atributo [Bloqueio]. 2 - Quando o atributo [Reflexo] do Aone passar de 100%, a cada 1% a mais, aumenta 1% o seu atributo [Empenho], podendo aumentar até no máximo 60%.",
+        "en": "1 - When ANE is in the bank, Front Row Allies receive 25% increase in the [Block] attribute. 2 - When the [Reflex] attribute of the ANO exceeds 100%, every 1% more, increases its attribute [Spirit] and may increase up to a maximum of 60%."
       }
     ]
   },
@@ -384,8 +349,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -486,8 +451,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -503,13 +468,8 @@
     "effects": [
       {
         "jp": "宮侑の[パワー]が30%アップ。",
-        "pt": "O [poder] de Miya Yu aumentou 30%.",
-        "en": "Miya Yu's [power] has increased by 30%."
-      },
-      {
-        "jp": "宮侑が出場した際、[どんぴしゃり]効果を5スタック獲得する。[どんぴしゃり]効果1スタックにつき、[トス]が2%アップ。最高10スタック",
-        "pt": "Quando Miya Yu toca, você obtém 5 pilhas de efeitos [donpishari]. [Donpishari] Efeito: Aumenta [Jogue] em 2% por pilha. Até 10 pilhas",
-        "en": "When Miya Yu plays, you get 5 stacks of [Donpishari] effects. [Donpishari] Effect: Increases [Toss] by 2% per stack. Up to 10 stacks"
+        "pt": "[Força] do Atsumu aumenta em 30%. Quando Atsumu está presente recebe 5 acúmulos do efeito \"Jogada Perfeita/Precisa\". A cada acúmulo, aumenta 2% do atributo [Passe], acumulando até 10 vezes.",
+        "en": "Atsumu's [Power] increases by 30%. When Atsumu is on the court he gains 5 stacks of \"Perfect Set\". Each stack increases [Set] by 2%, up to 10 stacks."
       }
     ]
   },
@@ -525,8 +485,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -542,13 +502,8 @@
     "effects": [
       {
         "jp": "[どんぴしゃり]効果1スタックにつき、宮侑の[トス]がさらに3%アップ。",
-        "pt": "[Donpishari] Efeito: Miya Yu's [Toss] aumenta em 3%.",
-        "en": "[Donpishari] Effect: Miya Yu's [Toss] increases by 3%."
-      },
-      {
-        "jp": "宮侑が[どんぴしゃり]効果を消費すると、[どんぴしゃり]効果を5スタック獲得する。[どんぴしゃり]効果1スタックにつき、[トス]が2%アップ。最高10スタック",
-        "pt": "Quando Miya Yu consome o efeito [Donpishari], ele ganha 5 pilhas de efeitos [donpishari]. [Donpishari] Efeito: Aumenta [Jogue] em 2% por pilha. Até 10 pilhas",
-        "en": "When Miya Yu consumes the [Donpishari] effect, he gains 5 stacks of [Donpishari] effects. [Donpishari] Effect: Increases [Toss] by 2% per stack. Up to 10 stacks"
+        "pt": "A cada 1 acúmulo do efeito \"Jogada Perfeita/Precisa\", aumenta em 3% o atributo [Passe] do Atsumu. Quando Atsumu utiliza o efeito \"Jogada Perfeita/Precisa\", recebe 5 acúmulos do efeito. A cada acúmulo, o atributo [Passe] aumenta em 2%, podendo acumular até 10 vezes.",
+        "en": "Each stack of \"Perfect Set\" increases Atsumu's [Set] by 3%. Whenever Atsumu activates \"Perfect Set\", he gains 5 stacks. Each stack increases [Set] by 2%, up to 10 stacks."
       }
     ]
   },
@@ -564,8 +519,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -666,8 +621,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -683,13 +638,8 @@
     "effects": [
       {
         "jp": "[一致団結]効果1スタックにつき、木兎光太郎(海水浴)の[意識]が0.4%アップ。最大15%アップ可能。",
-        "pt": "[Unidade] Efeito: Cada pilha de efeitos aumenta a conscientização do kotaro kito (nadando no mar) em 0,4%. Aumento de até 15%.",
-        "en": "[Unity] Effect: Each stack of effects increases the awareness of Kotaro Kito (swimming in the sea) by 0.4%. Up to 15% increase."
-      },
-      {
-        "jp": "木兎光太郎(海水浴)の必殺技発動時、[パワー]が[意識]×85%アップ。最大100%アップ可能",
-        "pt": "Quando o movimento especial de Kotaro Kito (natação) aumenta seu [poder] em 85%. Aumento de até 100%",
-        "en": "When Kotaro Kito (swimming)'s special move increases his [power] by 85%. Up to 100% increase"
+        "pt": "A cada 1 acúmulo do efeito \"União\", o atributo [Percepção] do Bokuto aumenta em 0.4%, podendo chegar máximo até 15% de aumento. Ao ativar a habilidade 4 do Bokuto, o atributo [Força] aumenta em [Percepção] x 85%, podendo chegar até no máximo 100% de aumento.",
+        "en": "Every 1 stack of the \"Union\" effect, Bokuto's [Awareness] attribute increases by 0.4% and may reach up to 15% increase. By activating Bokuto's ability 4, the [power] attribute increases in [Awareness] X 85%, and may reach up to a maximum of 100% increase."
       }
     ]
   },
@@ -705,8 +655,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -722,13 +672,8 @@
     "effects": [
       {
         "jp": "味方のチーム士気覚醒が終了する場合、[一致団結]効果を8スタック獲得する。",
-        "pt": "Se o despertar do moral da equipe dos seus aliados termina, você ganha 8 pilhas de efeitos [da unidade].",
-        "en": "If your allies' team morale awakening ends, you gain 8 stacks of [Unity] effects."
-      },
-      {
-        "jp": "木兎光太郎(海水浴)が[絶好調]効果を持っている場合、[一致団結]効果1スタックにつき、[パワー]が3%アップ。最大150%アップ可能",
-        "pt": "Se Kotaro Kito (nadar no mar) tiver o efeito de [Best], o [poder] aumenta em 3% por pilha de efeitos [unitários]. Aumento de até 150%",
-        "en": "If Kotaro Kito (swimming in the sea) has the effect of [Best], the [Power] increases by 3% per stack of [Unity] effects. Up to 150% increase"
+        "pt": "Quando o Reforço de Moral do Time aliado encerrar, Bokuto recebe 8 acúmulos do efeito \"União\". Quando Bokuto possui o efeito \"Excelente Condição\", a cada 1 acúmulo do efeito \"União\" aumenta em 3% o atributo [Força] dele, podendo aumentar no máximo até 150%.",
+        "en": "When Team Morale Awakening Allied ends, Bokuto receives 8 stacks of the \"Union\" effect. When Bokuto has the \"excellent condition\" effect, every 1 stack of the \"union\" effect increases by 3% the [power] attribute, and may increase up to 150%."
       }
     ]
   },
@@ -744,8 +689,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -761,8 +706,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -778,8 +723,8 @@
     "effects": [
       {
         "jp": "木兎光太郎が[しょぼくれモード]効果を持っている間、味方メンバーは[チーム精神]効果を獲得する（メインパラメータが12%アップ）",
-        "pt": "Enquanto o Kotaro Kito tem o efeito do modo Shobokure, os membros aliados ganham o efeito mental da equipe (o parâmetro principal aumentou 12%)",
-        "en": "While Kotaro Kito has the Shobokure Mode effect, allied members gain the Team Mind effect (main parameter increased by 12%)"
+        "pt": "Enquanto Bokuto estiver com o efeito \"Desanimado\" ativo, os membros aliados recebem o efeito \"Ânimo do Time\", aumentando seus atributos básicos em 12%.",
+        "en": "While Bokuto is under the \"Depressed\" effect, allies gain the \"Team Spirit\" effect, increasing their basic attributes by 12%."
       }
     ]
   },
@@ -795,8 +740,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -812,13 +757,8 @@
     "effects": [
       {
         "jp": "木兎光太郎の[強打]が16%アップ。",
-        "pt": "O [slugging] de Kotaro Kito aumentou 16%.",
-        "en": "Kotaro Kito's [Slugging] has increased by 16%."
-      },
-      {
-        "jp": "木兎光太郎の強打結果がBADにならなかった場合、<皆のおかげのエース>のクールダウンをリセットする",
-        "pt": "Se o estrondo de Kotaro Kito resultar em ruim, redefina o recarga para <Ace graças a todos>",
-        "en": "If Kotaro Kito's bang results in BAD, reset the cooldown for <Ace Thanks to Everyone>"
+        "pt": "Atributo [Ataque Potente] do Bokuto aumenta em 16%. Se a jogada de Ataque Potente do Bokuto não for BAD, é resetado o CD da habilidade 4 do Bokuto.",
+        "en": "Bokuto's [Power Attack] increases by 16%. If Bokuto's Power Attack is not BAD, his ability 4 cooldown is reset."
       }
     ]
   },
@@ -834,8 +774,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -1201,8 +1141,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1218,8 +1158,8 @@
     "effects": [
       {
         "jp": "試合開始時、佐久早聖臣が[完璧主義]効果を5スタック獲得する。[完璧主義]効果1スタックにつき、レシーブ威力が[レシーブ]×6%、強打威力が[強打]×6%アップ。最高20スタック",
-        "pt": "No início da partida, Sakuhaya Seiomi ganha 5 pilhas de efeitos [perfeccionismo]. [Perfeccionismo] Para cada pilha de efeitos, a potência do receptor aumenta em 6%e a potência poderosa aumenta em 6%. Até 20 pilhas",
-        "en": "At the start of the match, Sakuhaya Seiomi gains 5 stacks of [Perfectionism] effects. [Perfectionism] For each stack of effects, the receiver power increases by 6%, and the powerful hit power increases by 6%. Up to 20 stacks"
+        "pt": "Ao iniciar a partida, Sakusa recebe 5 acúmulos do efeito \"Perfeccionismo\". A cada 1 acúmulo do efeito \"Perfeccionismo\", aumenta seus atributos [Recepção] x 6% e [Ataque Potente] x 6%. Esse efeito ocorre até 20 vezes.",
+        "en": "Upon starting the match, Sakusa receives 5 stacks of the \"perfectionism\" effect. With each stack of the \"perfectionism\" effect, it increases its [Receive] x 6% and [Power Attack] x 6% attributes. This effect occurs up to 20 times."
       }
     ]
   },
@@ -1235,8 +1175,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1252,8 +1192,8 @@
     "effects": [
       {
         "jp": "佐久早聖臣がコート上に居る場合、味方のレシーブ・カバー・ブロックがナイスプレーになった場合、レシーブ・カバー・ブロックをしたメンバーの[反応]10%につき、佐久早聖臣が[打ち破る]効果を1スタック獲得する。[打ち破る]効果1スタックにつき、[パワー]が10%アップ。最高15スタック。この効果は佐久早聖臣の次の強打まで持続する",
-        "pt": "Se Sakuhaya Seiomi estiver na quadra, se o bloco de cobertura do receptor de um aliado se tornar bom, Sakuhaya Seiomi ganhará 1 pilha de efeito para cada 10% das [reações] dos membros que receberam blocos de cobertura. [Quebra] Efeito: aumenta [poder] em 10% por pilha. Até 15 pilhas. Esse efeito dura até o próximo forte sucesso de Sakuhaya Seiomi.",
-        "en": "If Sakuhaya Seiomi is on the court, if an ally's receiver cover block becomes nice, Sakuhaya Seiomi will gain 1 stack of effect for every 10% of the [reactions] of the members who have received cover blocks. [Breaking] Effect: Increases [Power] by 10% per stack. Up to 15 stacks. This effect lasts until Sakuhaya Seiomi's next strong hit."
+        "pt": "Quando Sakusa está em quadra e as jogadas Recepção/Defesa/Bloqueio dos aliados são uma Jogada Crítica, a cada 10% do atributo [Reflex] do aliado que realizou uma Recepção/Defesa/Bloqueio Crítico, Sakusa recebe 1 acúmulo do efeito \"Atravessar\". A cada 1 acúmulo do efeito \"Atravessar\", aumenta 10% do atributo [Força] do Sakusa, podendo ocorrer esse efeito até no máximo 15 vezes. O efeito permanece até o próximo Ataque Potente do Sakusa.",
+        "en": "When Sakusa is on the court and the Receive/Defense/Block plays of the allies are a Nice Play, every 10% of the ally attribute [Reflex] who performed a Receive/Defense/Critical Block, Sakusa receives 1 stack of the \"crossing\" effect. With every 1 stack of the \"crossing\" effect, it increases 10% of Sakusa's [power] attribute, and this effect may occur up to a maximum of 15 times. The effect remains until the next Sakusa Power Attack."
       }
     ]
   },
@@ -1269,8 +1209,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1286,8 +1226,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1303,13 +1243,8 @@
     "effects": [
       {
         "jp": "日向翔陽(花見)の[攻撃テクニック]が20%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合、この速攻がブロックされず、相手メンバーの[意識]と[反応]が10%ダウン。この効果はボールがネットを3回越えるまで持続する。",
-        "pt": "Hinata Shoyo (Técnica de Ataques HANA) aumentou 20%. Se o ataque rápido de Hinata Shoyo (Hanagawa) se tornar um bom movimento, esse ataque rápido não será bloqueado e a [consciência] do membro adversário e [reação] será reduzida em 10%. Esse efeito dura até que a bola exceda a rede três vezes.",
-        "en": "Hinata Shoyo (Hana Viewing)'s [attack technique] has been increased by 20%. If Hinata Shoyo (Hanagawa)'s quick attack becomes a nice move, this quick attack will not be blocked, and the opposing member's [consciousness] and [reaction] will be reduced by 10%. This effect lasts until the ball has exceeded the net three times."
-      },
-      {
-        "jp": "今回の速攻で得点を決めた場合、相手メンバーの[意識]と[反応]がさらに10%ダウン。この効果はボールがネットを3回越えるまで持続する。",
-        "pt": "Se você pontuar rapidamente, desta vez, a [consciência] e a [reação] do membro adversário serão reduzidas em 10%adicionais. Esse efeito dura até que a bola exceda a rede três vezes.",
-        "en": "If you score quickly this time, the opposing member's [consciousness] and [reaction] will be reduced by an additional 10%. This effect lasts until the ball has exceeded the net three times."
+        "pt": "[Técnica de Ataque] do Hinata aumenta em 20%. 1 - Se o Ataque Rápido do Hinata se tornar uma Jogada Crítica, esse Ataque não será bloqueado e os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em 10%. Esse efeito permanece até 3 cruzamentos de rede. 2 - Se Hinata marcar ponto com esse Ataque Rápido, os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em mais 10%. Esse efeito permanece até 3 cruzamentos de rede.",
+        "en": "[Attack Technique] of Hinata increases by 20%. 1 - If Hinata's Quick Attack becomes a Nice Play, this attack will not be blocked and the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses. 2 - If Hinata marks a point with this Quick Attack, the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses."
       }
     ]
   },
@@ -1325,8 +1260,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1342,8 +1277,8 @@
     "effects": [
       {
         "jp": "日向翔陽(花見)の[パワー]が30%アップ。試合開始時、日向翔陽(花見)の[意識]が0%に減少し、1%減少するごとに、日向翔陽(花見)の[パワー]が2.5%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合の[パワー]が[意識]×40%アップ。最大60%アップ可能。",
-        "pt": "O [poder] de Hinata Shoyo (visualização de Hana) aumentou 30%. No início da partida, a consciência de Hinata Shoyo (Hanagawa) diminui para 0%e a cada diminuição de 1%, o poder de Hinata Shoyo (Hanagawa) aumenta 2,5%. Se o ataque rápido de Hinata Shoyo (Hana Viewing) se torna uma boa jogada, o [poder] aumenta em 40%. Aumento de até 60%.",
-        "en": "The [power] of Hinata Shoyo (Hana Viewing) has been increased by 30%. At the start of the match, Hinata Shoyo (Hanagawa)'s consciousness decreases to 0%, and with every 1% decrease, Hinata Shoyo (Hanagawa)'s power increases by 2.5%. If Hinata Shoyo (Hana Viewing)'s quick attack becomes a nice play, the [power] increases by 40%. Up to 60% increase."
+        "pt": "O atributo [Força] do Hinata aumenta em 30%. 1 - Ao iniciar a partida, o atributo [Percepção] do Hinata é reduzido para 0% e a cada 1% diminuido, o atributo [Força] do Hinata aumenta em 2.5%. 2 - Se o Ataque Rápido do Hinata resultar em uma Jogada Rápida, seu atributo [Força] aumenta em [Percepção] x 40%, chegando até no máximo 60%.",
+        "en": "Hinata's [power] attribute increases by 30%. 1 - When starting the starting, Hinata's [Awareness] attribute is reduced to 0% and every 1% decreased, Hinata's [power] attribute increases by 2.5%. 2 - If the Hinata Quick Attack results in a quick play, its [power] attribute increases in [Awareness] x 40%, up to a maximum of 60%."
       }
     ]
   },
@@ -1359,8 +1294,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1461,8 +1396,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1478,18 +1413,8 @@
     "effects": [
       {
         "jp": "相手がチーム士気覚醒を発動している間、昼神幸郎のサーブ時、[意識]が20%アップし、[強固なブロック]効果を1スタック獲得する。",
-        "pt": "Enquanto seu oponente ativa o despertar do moral da equipe, quando Hirugami Koro serve, a consciência aumenta em 20% e ganha 1 pilha de efeito [bloqueio forte].",
-        "en": "While your opponent activates Team Morale Awakening, when Hirugami Koro serves, consciousness increases by 20% and gains 1 stack of [Strong Block] effect."
-      },
-      {
-        "jp": "味方失点時、[強固なブロック]効果を1スタック獲得し、昼神幸郎のメインパラメータが10%アップ。この効果はボールがネットを4回超えるまで持続する。",
-        "pt": "Quando os aliados têm uma meta, eles ganham 1 pilha de efeito de [bloqueio forte], aumentando em 10%os parâmetros dos principais parâmetros de Hirugami Koro. Esse efeito dura até que a bola exceda a rede quatro vezes.",
-        "en": "When allies have a goal, they gain 1 stack of [Strong Block] effect, increasing Hirugami Koro's main parameters by 10%. This effect lasts until the ball exceeds the net four times."
-      },
-      {
-        "jp": "味方得点時、＜”不動の昼神”＞のクールダウンはボールがネットを超える回数6回分減る",
-        "pt": "Ao marcar um aliado, a recarga de \"Fudo no Hirugami\" reduz o número de vezes que a bola excede a rede em seis vezes.",
-        "en": "When scoring on an ally, the cooldown of \"Fudo no Hirugami\" reduces the number of times the ball exceeds the net by six times."
+        "pt": "Enquanto o time adversário está com o efeito Reforço de Moral do Time ativo, quando Hirugami for sacar, aumenta o atributo [Percepção] em 20% e recebe 1 acúmulo do efeito \"Bloqueio Rígido\". Quando o time adversário pontua, recebe 1 acúmulo do efeito \"Bloqueio Rígido\" e os atributos básicos do Hirugami aumentam em 10%, esse efeito dura até 4 cruzamentos de rede. Se o time aliado pontuar, o CD da habilidade 4 é reduzida para 6 cruzamentos de rede.",
+        "en": "While the opposing team has the active Team Morale Awakening effect, when Hirugami is withdrawing, increases the [Awareness] attribute by 20% and receives 1 stack of the \"rigid block\" effect. When the opposing team points out, it receives 1 stack of the \"rigid\" block effect and the basic attributes of Hirugami increase by 10%, this effect lasts up to 4 network intersections. If the ally team scores, the skill 4 CD is reduced to 6 network crosses."
       }
     ]
   },
@@ -1505,8 +1430,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1522,18 +1447,8 @@
     "effects": [
       {
         "jp": "昼神幸郎の[守備テクニック]が20%アップ。",
-        "pt": "As [técnicas defensivas de Hirugami Koro] aumentaram 20%.",
-        "en": "Hirugami Koro's [defensive techniques] has been increased by 20%."
-      },
-      {
-        "jp": "昼神幸郎がコート上に居る場合、スパイク（強打・速攻）をするメンバーに[乱す]不利効果を1スタック付与する。[乱す]不利効果1スタックにつき、[強打/速攻]が5%ダウン。この効果はボールがネットを4回超えるまで持続する。",
-        "pt": "Se Hirukami Koro estiver na quadra, uma pilha de desvantagens será dada aos membros que jogam picos (sucessos fortes, ataques rápidos). [Interrompido] Efeito de desvantagem: [Slugging/Fast] é reduzido em 5% para cada pilha. Esse efeito dura até que a bola exceda a rede quatro vezes.",
-        "en": "If Hirukami Koro is on the court, one stack of disadvantages will be given to members who play spikes (strong hits, quick attacks). [Disrupted] Disadvantage effect: [Slugging/Fast] is reduced by 5% for each stack. This effect lasts until the ball exceeds the net four times."
-      },
-      {
-        "jp": "相手メンバーに既に[乱す]効果が付与されている場合、＜”不動の昼神”＞のクールダウンはボールがネットを超える回数10回分減り、味方メンバーの[守備テクニック]が10%アップ。この効果はボールがネットを4回超えるまで持続する",
-        "pt": "Se o membro adversário já tiver recebido o efeito a interromper, o recarga \"Fudo no Hirugami\" reduzirá o número de vezes que a bola excede a rede 10 vezes, e as [técnicas defensivas] dos membros aliados aumentarão 10%. Esse efeito dura até que a bola exceda a rede quatro vezes.",
-        "en": "If the opposing member has already been given the effect to disrupt, the \"Fudo no Hirugami\" cooldown will reduce the number of times the ball exceeds the net by 10 times, and the [defensive techniques] of allied members will increase by 10%. This effect lasts until the ball exceeds the net four times."
+        "pt": "O atributo [Técnica de Defesa] do Hirugami aumenta em 20%. Quando Hirugami está em quadra, aplica 1 acúmulo da penalidade \"Perturbar\" ao adversário que for realizar um Ataque Rápido/Potente. A cada 1 acúmulo de \"Pertubar\", reduz em 5% o atributo [Ataque Rápido/Potente]. Esse efeito permanece até 4 cruzamentos de rede.",
+        "en": "Hirugami's [Defensive Technique] attribute increases by 20%. When Hirugami is on the court, he applies 1 stack of the \"disturbing\" penalty to the opponent who is going to perform a powerful Quick Attack. With every 1 stack of \"pertubar\", it reduces the attribute [Quick/Power Attack] by 5%. This effect remains up to 4 network crosses."
       }
     ]
   },
@@ -1549,8 +1464,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1566,8 +1481,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1583,13 +1498,8 @@
     "effects": [
       {
         "jp": "星海光来の強打時、[強打]が[速攻]×100%アップ。",
-        "pt": "Quando Hoshikai Mitsurai atinge, o [Super Bang] aumenta em 100% em 100%.",
-        "en": "When Hoshikai Mitsurai hits, the [Super Bang] increases by 100% by 100%."
-      },
-      {
-        "jp": "星海光来がコート上に居る場合、味方のサーブまたはブロック時、星海光来の[パワー]と[メンタル]が10%アップ。最高5スタック",
-        "pt": "Se Seikai Mitsurai estiver na quadra, quando um aliado serve ou bloqueia, o [poder] de Seikai Mitsurai e [mental] aumentam em 10%. Até 5 pilhas",
-        "en": "If Seikai Mitsurai is on the court, when an ally serves or blocks, Seikai Mitsurai's [power] and [mental] increase by 10%. Up to 5 stacks"
+        "pt": "Quando Korai for realizar um Ataque Potente, aumenta esse ataque em [Ataque Rápido] x 100%. Quando Korai estiver em quadra e o aliado for realizar um Saque ou Bloqueio, aumenta em 10% os atributos [Força] e [Empenho] dele. Esse efeito dura até 5 vezes.",
+        "en": "When Korai is performing a Power Attack, it increases this attack on [Quick Attack] X 100%. When Korai is on the court and the ally is to perform a serves or block, the attributes [power] and [Spirit] attributes its 10% increases by 10%. This effect lasts up to 5 times."
       }
     ]
   },
@@ -1605,8 +1515,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1622,13 +1532,8 @@
     "effects": [
       {
         "jp": "試合開始時、星海光来の[意識]と[反応]が[意識]と[反応]の合計値の85%にアップ。",
-        "pt": "No início da partida, a consciência e a reação de Hoshikai Mitsurai aumentaram para 85% do valor total da consciência e reação.",
-        "en": "At the start of the match, Hoshikai Mitsurai's consciousness and reaction increased to 85% of the total value of consciousness and reaction."
-      },
-      {
-        "jp": "＜八面六臂の大活躍＞がナイスプレーになった場合、＜八面六臂の大活躍＞のクールダウンをリセットし、星海光来のスタミナが10回復する",
-        "pt": "Se \"A Grande Atividade dos Oito Face Six Arms\" se tornar um bom spray, a recarga para \"A Grande Atividade dos Oito Face Six Arms\" é redefinida e a resistência de Seikai Mitsurai se recuperará 10",
-        "en": "If \"The Great Activity of the Eight-Face Six Arms\" becomes a nice spray, the cooldown for \"The Great Activity of the Eight-Face Six Arms\" is reset and Seikai Mitsurai's stamina will recover 10"
+        "pt": "Ao iniciar a partida, os atributos [Percepção] e [Empenho] do Korai aumentam em 85% do valor total da soma desses atributos. Se a jogada da habilidade 2 do Korai resultar em uma Jogada Crítica, reseta o CD dessa habilidade e Korai recupera 10 de vigor.",
+        "en": "When starting the match, Korai's [Awareness] and [Spirit] attributes increase by 85% of the total value of the sum of these attributes. If Korai's skill 2 play results in a Nice Play, reset the CD of this skill and Korai recovers 10 vigor."
       }
     ]
   },
@@ -1644,8 +1549,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1831,8 +1736,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1848,23 +1753,8 @@
     "effects": [
       {
         "jp": "影山飛雄の[パワー]が20%アップ。",
-        "pt": "O [Power] de Kageyama Tomoo aumentou 20%.",
-        "en": "Kageyama Tomoo's [power] has increased by 20%."
-      },
-      {
-        "jp": "[負けず嫌い]効果を消費する場合、今回のサーブ・ツーアタック・スパイク（強打・速攻）をするメンバーの[意識]がさらに15%アップ。この効果はボールがネットを2回越えるまで持続する。",
-        "pt": "Ao consumir o efeito [comandante], a [consciência] dos membros que jogam esse swort-swort-sweet (hit smart-hit) aumentará em 15%adicionais. Este efeito dura até que a bola passe pela rede duas vezes.",
-        "en": "When consuming the [Commander] effect, the [consciousness] of members who play this serve-to-attack-spike (smart-hit-hit) will increase by an additional 15%. This effect lasts until the ball has passed the net twice."
-      },
-      {
-        "jp": "影山飛雄のプレーで[負けず嫌い]効果を消費した場合、[負けず嫌い]効果を1スタック獲得し、今回のプレーの威力が対応するパラメータ×15%アップ。[意識]がさらに20%アップ。この効果はボールがネットを2回越えるまで持続する。",
-        "pt": "Se você consumir o efeito [plenário] na peça de Kageyama Tomoo, você ganhará 1 pilha de efeito [plenário], e o poder dessa peça aumenta em 15% pelos parâmetros correspondentes. [Consciência] aumentou 20%. Este efeito dura até que a bola passe pela rede duas vezes.",
-        "en": "If you consume the [Commoner] effect in Kageyama Tomoo's play, you will gain 1 stack of [Commoner] effect, and the power of this play increases by 15% by the corresponding parameters. [Consciousness] increased by 20%. This effect lasts until the ball has passed the net twice."
-      },
-      {
-        "jp": "[負けず嫌い]効果を3スタック以上持っていて、今回のサーブ・ツーアタック・スパイク（強打・速攻）をするメンバーの[攻撃テクニック]が10%アップ。この効果はボールがネットを2回越えるまで持続する",
-        "pt": "[Comandante] Os membros que têm 3 ou mais pilhas de efeitos [comandantes] e que usam picos de serviço (acertos inteligentes, ataques rápidos) aumentaram 10%. Este efeito dura até que a bola cruze a rede duas vezes.",
-        "en": "[Commander] The members who have 3 or more stacks of [Commander] effects and who use serve-to-attack spikes (smart hits, quick attacks) have increased by 10%. This effect lasts until the ball has crossed the net twice."
+        "pt": "[Força] do Kageyama aumenta em 20%. 1 - Se o efeito \"Competitivo\" for consumido, aumenta em 15% o atibuto [Percepção] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente, durando esse efeito até 2 cruzamentos de rede. 2 - Se em alguma jogada do Kageyama o efeito \"Competitivo\" for consumido, recebe 1 acúmulo desse efeito, aumentando a força dessa jogada em [Força do atributo do tipo da jogada, ex: Saque, Passe, etc.] x 15%. Aumenta em mais 20% de [Percepção]. Esse efeito dura até 2 passadas. 3 - Quando possui mais de 3 acúmulos do efeito \"Competitivo\", aumenta em 10% o atributo [Técnica de Ataque] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente. Esse efeito dura até 2 cruzamentos de rede.",
+        "en": "[power] from Kageyama increases by 20%. 1 - If the \"competitive\" effect is consumed, it increases the ally [Awareness] Atibuto [Awareness] for a Setter Dump/Quick Attack or powerful, lasting this effect up to 2 network intersections. 2 - If in any Kageyama move the \"competitive\" effect is consumed, it receives 1 stack of this effect, increasing the strength of this play in [Power of the Move's Atribute (serves, set, etc.)] x 15%. Increases by 20% more [Awareness]. This effect lasts up to 2 pasts. 3 - When it has more than 3 stacks of the \"competitive\" effect, the attribute [Attack Technique] of the ally is increased by 10% that is performing a Setter Dump/Quick Attack or powerful. This effect lasts up to 2 network crosses."
       }
     ]
   },
@@ -1880,8 +1770,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1897,13 +1787,8 @@
     "effects": [
       {
         "jp": "影山飛雄の[トス]が15%アップ。影山飛雄がコート上に居て、味方メンバーの速攻・ツースタック時、影山飛雄の[トス]500につき、対応するプレーをするメンバーの[パワー]が6%アップ。最大60%アップ可能。",
-        "pt": "O [Toss] de Kageyama Toshio aumentou 15%. Quando Kageyama Tomoo está na quadra, quando todos os aliados são rápidos e dois empilhados, o 500 de Kageyama Tomooo, o [poder] dos jogadores correspondentes aumenta em 6%. Aumento de até 60%.",
-        "en": "Kageyama Toshio's [toss] has increased by 15%. When Kageyama Tomoo is on the court, when all allies are quick and two-stacked, Kageyama Tomoo's [toss] 500, the [power] of the corresponding players increases by 6%. Up to 60% increase."
-      },
-      {
-        "jp": "影山飛雄のスキル発動時、影山飛雄の他のスキルのクールダウンはボールがネットを超える回数1回分減る",
-        "pt": "Quando a habilidade de Kageyama Tomoo é ativada, a recarga de outras habilidades da bola de Kageyama Tomoo é reduzida por uma vez.",
-        "en": "When Kageyama Tomoo's skill is activated, the cooldown of other skills by Kageyama Tomoo's ball is reduced by one time."
+        "pt": "O atributo [Passe] do Kageyama aumenta em 15%. Quando Kageyama está em quadra e o aliado for realizar um Ataque Rápido/Potente, a cada 500 de força do atributo [Passe] do Kageyama, aumenta em 6% o atributo [Força] do membro a atacar. O aumento ocorre até no máximo 60%. Quando Kageyama ativa uma habilidade, o CD de suas outras habilidades diminui 1 cruzamento de rede.",
+        "en": "Kageyama's [Set] attribute increases by 15%. When Kageyama is on the court and the ally will perform a powerful Quick Attack, every 500 of Kageyama's attribute, the attribute of the member to attack by 6% increases by 6%. The increase occurs up to a maximum of 60%. When Kageyama activates a skill, the CD of his other skills decreases 1 network crossing."
       }
     ]
   },
@@ -1919,8 +1804,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1936,8 +1821,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1953,8 +1838,8 @@
     "effects": [
       {
         "jp": "孤爪研磨(花見)のトス・ツーアタック時、このプレー発生後最初の味方のスパイク（強打・速攻）・ツーアタックをするメンバーの[パワー]が孤爪研磨(花見)の[反応]×100%アップ。最大100%アップ可能。この効果はボールがネットを2回越えるまで持続する",
-        "pt": "Ao jogar e dois atacar em Kozume Kenma (visualização de Hana), os picos dos primeiros aliados (sucessos fortes, ataques rápidos) e dois membros do ataque após essa jogada aumentaram 100% [reação] de Kozume Kenma (visualização de Hana). Até 100% de aumento. Este efeito dura até que a bola cruze a rede duas vezes.",
-        "en": "When Tossing and Two Attacking at Kozume Kenma (Hana Viewing), the first allies' spikes (strong hits, quick attacks) and two attack members after this play has increased by 100% [reaction] of Kozume Kenma (Hana Viewing). Up to 100% increase. This effect lasts until the ball has crossed the net twice."
+        "pt": "Quando Kenma for realizar um Passe/Largada, o próximo Ataque Rápido ou Potente/Largada que um aliado for fazer, aumentará o atributo [Força] desse aliado em atributo [Reflexo do Kenma] x 100%. Esse efeito permanece até 2 cruzamentos de rede.",
+        "en": "When Kenma is setting a set/setter dump, the next Quick Attack or powerful/setter dump that an ally is going to make, will increase the [power] attribute attribute [Kenma's Reflex] X 100%. This effect remains up to 2 network crosses."
       }
     ]
   },
@@ -1970,8 +1855,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -1986,19 +1871,9 @@
     },
     "effects": [
       {
-        "jp": "[隙をなくす守備]効果1スタックにつき、相手メンバーの[意識]が1%、[パワー]が2%ダウン。",
-        "pt": "[Defesa para eliminar lacunas] Para cada pilha de efeitos, a consciência do membro oposta é reduzida em 1% e o poder é reduzido em 2%.",
-        "en": "[Defense to eliminate gaps] For each stack of effects, the opposing member's consciousness is reduced by 1% and the power is reduced by 2%."
-      },
-      {
-        "jp": "[隙をなくす守備]効果のスタック数が8を超えた場合、相手メンバーの[意識]がさらに5%、[パワー]がさらに10%ダウン。",
-        "pt": "Se a contagem de pilhas para o efeito [Defesa eliminar o balanço] exceder 8, a consciência do membro oposta será reduzida em 5% adicionais e o [poder] será reduzido em 10% adicionais.",
-        "en": "If the stack count for [Defense to Eliminate Swing] effect exceeds 8, the opposing member's consciousness will be reduced by an additional 5% and the [power] will be reduced by an additional 10%."
-      },
-      {
-        "jp": "孤爪研磨(花見)がコート上に居る場合、味方失点時、[隙をなくす守備]効果を3スタック獲得する",
-        "pt": "Se Kozume Kenma (Hanabi) estiver na quadra, quando os aliados têm uma meta, obtenha três pilhas de [defesa defensiva para eliminar lacunas] efeito",
-        "en": "If Kozume Kenma (Hanabi) is on the court, when allies have a goal, get 3 stacks of [defensive defense to eliminate gaps] effect"
+        "jp": "[隙をなくす守備]効果1スタックにつき、相手メンバーの[意識]が1%、[パワー]が2%ダウン。\n[隙をなくす守備]効果のスタック数が8を超えた場合、相手メンバーの[意識]がさらに5%、[パワー]がさらに10%ダウン。\n孤爪研磨(花見)がコート上に居る場合、味方失点時、[隙をなくす守備]効果を3スタック獲得する",
+        "pt": "A cada 1 acúmulo do efeito \"Defesa que Elimina Chances\", diminui 1% do atributo [Percepção] dos adversários e diminui 2% do atributo [Força] dos adversários. 1 - Se o número de acúmulos disponível passar de 8, diminui em mais 5% do atributo [Percepção] e diminui em mais 10% do atributo [Força] do adversário. 2 - Quando Kenma está em quadra e o tima adversário pontua, Kenma recebe 3 acúmulos do efeito \"Defesa que Elimina Chances\".",
+        "en": "With every 1 stack of the \"defense that eliminates chances\" effect, it decreases 1% of opponents' [Awareness] attribute and decreases 2% of the [power] attribute of opponents. 1 - If the number of available stacks exceeds 8, decreases over 5% of the [Awareness] attribute and decreases in another 10% of the opponent's [power] attribute. 2 - When Kenma is on the court and the dye opponent points out, Kenma receives 3 stacks of the \"defense that eliminates chances\" effects."
       }
     ]
   },
@@ -2014,8 +1889,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2359,6 +2234,91 @@
       }
     ]
   },
+  "koganegawa-sp.r1": {
+    "characterId": "koganegawa-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "koganegawa-sp.r2": {
+    "characterId": "koganegawa-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "Quando o Kanji Koganegawa (Festival Esportivo) estiver em quadra, se a recepção do saque do oponente não for PERFEITA, o [Golpe Poderoso/Ataque Rápido] do membro da equipe adversária será reduzido em 16%. Este efeito durará até que a bola passe por cima da rede duas vezes.\nQuando <Parede Alta> entrar em recarga, o tempo de recarga de <Configuração de Distância Mais Curta> será reduzido em 4 vezes pelo número de vezes que a bola passar por cima da rede, e o Kanji Koganegawa (Festival Esportivo) recuperará 2 de estamina.\nO Kanji Koganegawa (Festival Esportivo) executará um saque com salto com potência igual a [Saque] x 180%, e a [Técnica Defensiva] do membro da equipe aliada será aumentada em 10%. Este efeito durará 1 conjunto.",
+        "en": "When Koganegawa Kanji (Sports Festival) is on the court, if the opponent's serve reception is not PERFECT, the opposing team member's [Power Hit/Quick Attack] will be reduced by 16%. This effect will last until the ball passes over the net twice. When <High Wall> goes on cooldown, the cooldown of <Shortest Distance Setting> will be reduced by 4 times by the number of times the ball passes over the net, and Koganegawa Kanji (Sports Festival) will recover 2 stamina. Koganegawa Kanji (Sports Festival) will perform a jump serve with power equal to [Serve] x 180%, and the allied team member's [Defensive Technique] will be increased by 10%. This effect will last for 1 set."
+      }
+    ]
+  },
+  "koganegawa-sp.r3": {
+    "characterId": "koganegawa-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "koganegawa-sp.r4": {
+    "characterId": "koganegawa-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "Se Koganegawa Kanji (Festival Esportivo) estiver na linha de frente, o tempo de recarga de <Parede Alta> será até que a bola cruze a rede quatro vezes.\nQuando o movimento especial de um aliado for ativado, o [Poder] e o [Mental] do membro correspondente aumentarão em 2% para cada acúmulo do efeito [Criar uma Parede Impenetrável]. É possível um aumento máximo de 10%.\nSe o membro correspondente tiver uma habilidade de bloqueio, [Poder] e [Mental] aumentarão em mais 35%.",
+        "en": "If Koganegawa Kanji (Sports Festival) is in the front line, the cooldown of <High Wall> will be until the ball crosses the net four times.\nWhen an ally's special move is activated, the corresponding member's [Power] and [Mental] will increase by 2% for each stack of the [Create an Impenetrable Wall] effect. A maximum increase of 10% is possible.\nIf the corresponding member has a blocking skill, [Power] and [Mental] will increase by an additional 35%."
+      }
+    ]
+  },
+  "koganegawa-sp.r5": {
+    "characterId": "koganegawa-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが10%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
   "komori-ur.r1": {
     "characterId": "komori-ur",
     "order": 1,
@@ -2371,8 +2331,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2388,13 +2348,8 @@
     "effects": [
       {
         "jp": "古森元也がコート上に居て、[次に繋げる]効果のスタック数が5以上の場合、[次に繋げる]効果1スタックにつき、味方の必殺技ではないレシーブの威力がレシーブをするメンバーの[レシーブ]×4%、古森元也のトス威力が[トス]×5%アップ",
-        "pt": "Se Furumori Motoya estiver na quadra e o número de pilha de [Connect to Next] Efeito é 5 ou mais, para cada pilha de [conectar -se ao próximo] efeito, o poder de receber o movimento especial de um aliado aumenta em 4%, e o Furumori Motoya's Toss Power em 5%.",
-        "en": "If Furumori Motoya is on the court and the stack number of [connect to next] effect is 5 or more, for each stack of [connect to next] effect, the power of receiving not an ally's special move increases by 4%, and Furumori Motoya's toss power by 5%."
-      },
-      {
-        "jp": "[次に繋げる]効果のスタック数が5以上で、味方がスパイク（強打・速攻）を決めた場合、<巧みなトス>のクールダウンはボールがネットを超える回数6回分減る",
-        "pt": "[Conecte -se ao próximo] Se o número da pilha de efeitos for 5 ou mais e seus aliados fizer um pico (ataque inteligente/ataque rápido), a recarga do <Desenvolvimento de Toss> diminui 6 vezes a bola excede a rede.",
-        "en": "[Connect to the next] If the effect stack number is 5 or more and your allies make a spike (smart hit/quick attack), the cooldown of the <developing toss> decreases by 6 times the ball exceeds the net."
+        "pt": "1 - Quando Komori está em quadra e ele possui mais que 5 acúmulos do efeito \"Conectar ao Próximo\", a cada 1 acúmulo do efeito \"Conectar ao Próximo\", aumenta a força de Recepção das habilidades de Recepção (apenas skill 1, 2 ou 3) em atributo [Recepção do aliado a receber] x 4% e aumenta a força de Passe do Komori em [Passe] x 5%.",
+        "en": "1 - When Komori is on the court and it has more than 5 stacks of the \"connect to the next\" effect, every 1 stack of the \"connect to the next\" effect, it increases the receiver force of receiver skills (only Skill 1, 2 or 3) in attribute [Ally Receive] x 4% and increases Komori's set force in [Set] x 5%."
       }
     ]
   },
@@ -2410,8 +2365,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2427,13 +2382,8 @@
     "effects": [
       {
         "jp": "古森元也がコート上に居る場合、味方後衛の[反応]が15%アップ。",
-        "pt": "Se Furumori Motoya estiver na quadra, a [reação] dos guardas traseiros aliados aumenta em 15%.",
-        "en": "If Furumori Motoya is on the court, the [reaction] of allied rear guards increases by 15%."
-      },
-      {
-        "jp": "古森元也がコート上に居る場合、味方レシーブ時、レシーブをしたメンバーの[パワー]が[反応]×50%アップ。最大60%アップ可能。この効果はボールがネットを2回越えるまで持続する",
-        "pt": "Se Furumori Motoya estiver na quadra, o [poder] dos membros que recebeu o aliado aumenta em 50% [resposta] ao receber o aliado. Aumento de até 60%. Este efeito dura até que a bola cruze a rede duas vezes.",
-        "en": "If Furumori Motoya is on the court, the [power] of the members who received the ally increases by 50% [response] when receiving the ally. Up to 60% increase. This effect lasts until the ball has crossed the net twice."
+        "pt": "1 - Quando Komori está em quadra, aumenta em 15% o atributo [Reflexo] dos aliados da Linha de Defesa/Trás. 2 - Quando Komori está em quadra e o aliado realiza uma Recepção, o atributo [Força] do aliado que realizou uma Recepção aumenta em [Reflexo do aliado que recebeu] x 50%, podendo aumentar até 60%. Esse efeito permanece por 2 cruzamentos de rede.",
+        "en": "1 - When Komori is on the court, the attribute of Back Row allies increases by 15%. 2 - When Komori is on the court and the ally performs a procedural, the [power] attribute of the ally who performed a receiver increases in [Reflex of the Receiving Ally] x 50%and can increase up to 60%. This effect remains for 2 network crosses."
       }
     ]
   },
@@ -2449,8 +2399,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2551,8 +2501,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2568,13 +2518,8 @@
     "effects": [
       {
         "jp": "黒尾鉄朗（花火大会）のボールタッチ後、次のスパイク（強打・速攻）をする味方メンバーの[強打/速攻]が黒尾鉄朗（花火大会）の[ブロック]×20%アップ。最高1600アップ可能。",
-        "pt": "Depois de tocar a bola no Kuroo Tetsuro (exibição de fogos de artifício), o membro do aliado que toca o próximo pico (sucessos fortes, acertos rápidos) aumentará os [blocos] x 20% da Kuroo Tetsuro (exibição de fogos de artifício). Até 1600 podem ser aumentados.",
-        "en": "After touching the ball at Kuroo Tetsuro (Fireworks Display), the ally member who plays the next spike (strong hits, quick hits) will increase the [Blocks] x 20% from Kuroo Tetsuro (Fireworks Display). Up to 1600 can be increased."
-      },
-      {
-        "jp": "スパイク（強打・速攻）をするメンバーが後衛に居る場合、該当メンバーの[攻撃テクニック]が20%アップ。この効果はボールがネットを2回越えるまで持続する",
-        "pt": "Se houver membros que são picos (sucessos fortes, ataques rápidos) na retaguarda, a [técnica de ataque] do membro relevante aumentará 20%. Este efeito dura até que a bola cruze a rede duas vezes.",
-        "en": "If there are members who are spikes (strong hits, quick attacks) in the rear guard, the [attack technique] of the relevant member will be increased by 20%. This effect lasts until the ball has crossed the net twice."
+        "pt": "1 - Logo após Kuroo tocar na bola, o próximo aliado a realizar Ataque Rápido/Potente terá a força de seu atributo [Ataque Rápido/Potente] aumentado em atributo [Bloqueio do Kuroo] x 20%, podendo aumentar no máximo até 1600 de força. 2 - Se o aliado a realizar o Ataque estiver na Linha de Defesa/Trás, o atributo [Técnica de Ataque] desse aliado é aumentado em 20%. Esse efeito permanece por 2 cruzamentos de rede.",
+        "en": "1 - Right after Kuroo touches the ball, the next ally to perform Quick Attack/Powerful will have the strength of its attribute [Quick/Power Attack] increased in attribute [Kuroo's Block] x 20%, and may increase up to 1600 strength. 2 - If the ally to perform the attack is on Back Row, the [Attack Technique] attribute of this ally is increased by 20%. This effect remains for 2 network crosses."
       }
     ]
   },
@@ -2590,8 +2535,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2607,13 +2552,8 @@
     "effects": [
       {
         "jp": "黒尾鉄朗（花火大会）のサーブ時、味方メンバーの[強打/速攻]が40%、味方後衛の[レシーブ]が30%アップ。この効果は1ラリー持続する。",
-        "pt": "Ao servir em Kuroo Tetsuro (exibição de fogos de artifício), os membros aliados [Brack/Fast] aumentaram 40%e os membros aliados '[recebem] aumentaram 30%. Este efeito dura 1 rally.",
-        "en": "When serving at Kuroo Tetsuro (fireworks display), allied members' [Brack/Fast] increased by 40%, and allied members' [Receive] increased by 30%. This effect lasts for 1 rally."
-      },
-      {
-        "jp": "黒尾鉄朗（花火大会）の[守備テクニック]が15%アップ。黒尾鉄朗（花火大会）が後衛に居る場合、[守備テクニック]がさらに15%アップ",
-        "pt": "Kuroo Tetsuro (Festival de Fireworks) [Técnicas defensivas] aumentaram 15%. Se o Kuroo Tetsuro (exibição de fogos de artifício) estiver na parte traseira, a [técnica defensiva] aumentará em 15% adicionais de 15%",
-        "en": "Kuroo Tetsuro (Fireworks Festival)'s [defensive techniques] have been increased by 15%. If Kuroo Tetsuro (Fireworks Display) is in the rear, the [defensive technique] will increase by an additional 15%"
+        "pt": "1 - Quando Kuroo realiza um Saque, o atributo [Ataque Rápido/Potente] dos aliados aumenta em 40% e o atributo [Recepção] dos aliados da Linha de Defesa/Trás aumenta em 30%. Esse efeito permanece por 1 rally. 2 - O atributo [Técncia de Defesa] do Kuroo aumenta em 15%. Se Kuroo estiver na Linha de Defesa/Trás, aumenta em mais 15% seu atributo [Técnica de Defesa].",
+        "en": "1 - When Kuroo performs a good is, allied [Quick/Power Attack] attribute increases by 40% and the [Receive] attribute of Back Row allies increases by 30%. This effect remains for 1 rally. 2 - Kuroo's [Defensive Technique] attribute increases by 15%. If Kuroo is in Back Row, its [Defensive Technique] attribute increases by 15%."
       }
     ]
   },
@@ -2629,8 +2569,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2716,6 +2656,91 @@
         "jp": "メインパラメータが10%アップ",
         "pt": "Os principais parâmetros aumentaram 10%",
         "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kuroo-ur.r1": {
+    "characterId": "kuroo-ur",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kuroo-ur.r2": {
+    "characterId": "kuroo-ur",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "<Aクイック>のクールダウンが0回に減る",
+        "pt": "<A rápido> recarga reduzido para 0 vezes",
+        "en": "<A Quick> cooldown reduced to 0 times"
+      }
+    ]
+  },
+  "kuroo-ur.r3": {
+    "characterId": "kuroo-ur",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
+      }
+    ]
+  },
+  "kuroo-ur.r4": {
+    "characterId": "kuroo-ur",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "<リーダーシップ>効果変更：発動条件が[黒尾鉄朗のブロック効果がPERFECTの場合]から[黒尾鉄朗のブロック時]に変更。今回のブロック威力がさらに[ブロック]×25%アップ",
+        "pt": "Mudança de efeito <Leeradeship>: As condições de ativação foram alteradas de [quando o efeito do bloco de Kuroo Tetsuro é perfeito para [quando o bloqueio de Kuroo Tetsuro]. Essa energia do bloco foi aumentada em 25% [bloco]",
+        "en": "<Leadership> Effect Change: Activation conditions have been changed from [When Kuroo Tetsuro's block effect is PERFECT] to [When Kuroo Tetsuro's blocking]. This block power has been increased by 25% [Block]"
+      }
+    ]
+  },
+  "kuroo-ur.r5": {
+    "characterId": "kuroo-ur",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Os principais parâmetros aumentaram 13%",
+        "en": "Main parameters increased by 13%"
       }
     ]
   },
@@ -2816,8 +2841,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2833,13 +2858,8 @@
     "effects": [
       {
         "jp": "＜チームの危機を救う＞効果変更：スキルのクールダウン減少条件を[味方メンバーがナイスプレーをした場合]から[味方または相手メンバーがナイスプレーをした場合]に変更。",
-        "pt": "<Save Team Crisis> Mudança de efeito: altere a condição de redução de recarga de habilidade de [se um membro do aliado for uma boa jogada] para [se um aliado ou membro adversário fizer uma boa peça].",
-        "en": "<Save team crisis> Effect change: Change the skill cooldown reduction condition from [If an ally member makes a nice play] to [If an ally or opposing member makes a nice play]."
-      },
-      {
-        "jp": "西谷夕(放課後)のトスがナイスプレーになった場合、＜足レシーブ＞のクールダウンはボールがネットを超える回数1回分減り、味方メンバーのメインパラメータが12%アップ。この効果はボールがネットを3回越えるまで持続する",
-        "pt": "Se o lançamento de Nishitani Yu (depois da escola) for bom, a recarga para a recepção do pé é reduzida em uma vez a bola excede a rede e os principais parâmetros de aliados aumentam em 12%. Esse efeito dura até que a bola exceda a rede três vezes.",
-        "en": "If Nishitani Yu (after school)'s toss is nice, the cooldown for foot reception is reduced by one time the ball exceeds the net, and the main parameters of allies increase by 12%. This effect lasts until the ball has exceeded the net three times."
+        "pt": "Mudança na habilidade 3 do Nishinoya: 1 - Ao invés de a condição ser >Jogada Crítica do aliado< para diminuir o CD da habilidade 4, vira >Jogada Crítica do aliado ou adversário<.  2 - Quando o Passe do Nishinoya for uma Jogada Crítica, diminui 1 passada da bola pela rede do CD da habilidade  4 e os atributos básicos dos aliados aumentam e 12%, permanecendo ese efeito por até 3 cruzamentos de rede.",
+        "en": "Change in Nishinoya's skill 3: 1 - Instead of the condition to be> Nice Play of the ally <to reduce skill CD 4, Vira> Nice Play of the ally or opponent <.  2 - When the Nishinoya set is a Nice Play, it decreases 1 pass from the ball by the Skill 4 CD network and the basic attributes of allies increase and 12%, remaining this effect for up to 3 network intersections."
       }
     ]
   },
@@ -2855,8 +2875,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -2872,13 +2892,8 @@
     "effects": [
       {
         "jp": "西谷夕(放課後)がコート上に居る場合、味方メンバーの[反応]が10%アップ。",
-        "pt": "Se Nishitani Yu (depois da escola) estiver na quadra, as respostas dos membros dos Aliados aumentarão em 10%.",
-        "en": "If Nishitani Yu (after school) is on the court, allies' members' responses will increase by 10%."
-      },
-      {
-        "jp": "西谷夕(放課後)がコート上に居て、相手のスパイク（強打・速攻）がナイスプレーになった時、味方後衛の[反応]が15%アップ。この効果はボールがネットを4回越えるまで持続する",
-        "pt": "Quando Nishitani Yu (depois da escola) está na quadra e o pico do oponente (sucessos fortes, ataques rápidos) se torna uma boa jogada, a resposta da retaguarda aliada aumenta em 15%. Esse efeito dura até que a bola tenha superado a rede quatro vezes.",
-        "en": "When Nishitani Yu (after school) is on the court and the opponent's spike (strong hits, quick attacks) becomes a nice move, the allied rear guard's response increases by 15%. This effect lasts until the ball has surpassed the net four times."
+        "pt": "1 - Quando Nishinoya está em quadra, aumenta o atributo [Reflexo] dos aliados em 10%. 2 - Quando Nishinoya está em quadra e o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, o atributo [Reflexo] dos aliados da Linha de Defesa/Atrás aumenta em 15%, permanecendo esse efeito por até 4 cruzamentos de rede.",
+        "en": "1 - When Nishinoya is on the court, the allies' attribute [Reflex] increases by 10%. 2 - When Nishinoya is on the court and the opponent's Quick Attack/Potent result in a Nice Play, the [Reflex] attribute of Back Row allies increases by 15%, remaining this effect by up to 4 network intersections."
       }
     ]
   },
@@ -2894,8 +2909,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -3171,8 +3186,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3188,13 +3203,8 @@
     "effects": [
       {
         "jp": "及川徹の[サーブ]が18%アップ。",
-        "pt": "O saque de Oikawa Toru aumentou 18%.",
-        "en": "Oikawa Toru's serve increased by 18%."
-      },
-      {
-        "jp": "[攻撃のリズム]効果を消費するたびに、味方メンバーの[強打]が5%アップ。最高5スタック",
-        "pt": "Cada vez que você consome o efeito [do ritmo de ataque], os membros aliados [slugging] aumentam em 5%. Até 5 pilhas",
-        "en": "Each time you consume the [Attack Rhythm] effect, allied members' [Slugging] increases by 5%. Up to 5 stacks"
+        "pt": "[Saque] do Oikawa aumenta em 18%. Cada vez que o efeito \"Tempo do Ataque\" é consumido aumenta o atributo [Saque Potente] dos aliados em 5%, acumulando até 5 vezes.",
+        "en": "Oikawa's [Serve] increases by 18%. Each time \"Attack Timing\" is consumed, allies' [Power Serve] increases by 5%, stacking up to 5 times."
       }
     ]
   },
@@ -3210,8 +3220,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3227,13 +3237,8 @@
     "effects": [
       {
         "jp": "及川徹のサーブ時、味方コート上のメンバーが[意識]が15%、[パワー]が15%アップ。この効果はボールがネットを3回超えるまで持続する。",
-        "pt": "Quando Oikawa Toru atende, todos os membros do tribunal ganharam consciência em 15% e poder em 15%. Este efeito dura até que a bola exceda a rede três vezes.",
-        "en": "When Oikawa Toru serves, all members on the court gained consciousness by 15% and power by 15%. This effect lasts until the ball exceeds the net three times."
-      },
-      {
-        "jp": "及川徹のサーブ後に、ボールがネットを2回越えるまでの間に味方が得点する場合、<大王様のジャンプサーブ>のクールダウンをリセットする",
-        "pt": "Se seus aliados pontuarem antes que a bola cruzasse a rede duas vezes depois que Oikawa Toru servir, redefina a recarga para <King's Jump Serir>.",
-        "en": "If your allies score before the ball has crossed the net twice after Oikawa Toru serve, reset the cooldown for <King's Jump Serve>."
+        "pt": "Quando é a vez de Oikawa sacar, os aliados em quadra recebem aumento dos atributos [Percepção] e [Força] em 15%, durando até 3 passadas da bola pela rede. Após o saque de Oikawa, se até o período de 2 cruzamentos de rede o time aliado tiver pontuado, é resetado o CD da habilidade 4 do Oikawa.",
+        "en": "When it is Oikawa's turn to serve, allies on the court gain +15% [Awareness] and [Power] for up to 3 net crossings. After Oikawa serves, if the allied team scores within 2 net crossings, ability 4's cooldown is reset."
       }
     ]
   },
@@ -3249,8 +3254,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3266,8 +3271,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3283,8 +3288,8 @@
     "effects": [
       {
         "jp": "宮治の速攻時、レシーブをする相手メンバーが[制圧]不利効果を持っている場合、今回の速攻威力が[速攻]×60%アップ",
-        "pt": "Quando o rápido ataque de Miyaji, se o membro do oponente que recebe o receptor tiver um efeito de desvantagem, o poder desse ataque rápido aumentará em 60%.",
-        "en": "When Miyaji's quick attack, if the opponent member who receives the receiver has a disadvantage effect, the power of this quick attack will increase by 60%."
+        "pt": "Quando Osamu for realizar um Ataque Rápido e o inimigo que for realizar a Recepção estiver sob o efeito debuff \"Controle\", esse Ataque será com uma força de [Ataque Rápido] x 60%.",
+        "en": "When Osamu performs a Quick Attack and the defender receiving it is affected by \"Control\", that attack gains additional power equal to [Quick Attack] × 60%."
       }
     ]
   },
@@ -3300,8 +3305,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3317,8 +3322,8 @@
     "effects": [
       {
         "jp": "宮治が速攻を決めた場合、このプレー発生後の2回の味方の必殺技の発動時、必殺技を発動するメンバーの[攻撃テクニック]と[守備テクニック]が20%アップ",
-        "pt": "Se Miyaji decidir atacar rapidamente, quando o movimento especial do companheiro de equipe será ativado no segundo turno após a ocorrência desta jogada, a [técnica de ataque] e a [técnica defensiva] dos membros que ativam o movimento especial aumentarão em 20%.",
-        "en": "If Miyaji decides to attack quickly, when the teammate's special move is activated in the second round after this play occurs, the [attack technique] and [defensive technique] of the members who activate the special move will increase by 20%."
+        "pt": "Após Osamu pontuar com um Ataque Rápido, nas próximas 2 vezes que um aliado ativar uma habilidade Suprema (skill 4), os atributos [Técnica de Ataque] e [Técnica de Defesa] desse aliado aumentam em 20% .",
+        "en": "After Osamu scores with a Quick Attack, the next two times an ally activates their ultimate (skill 4), that ally gains +20% [Attack Technique] and +20% [Defensive Technique]."
       }
     ]
   },
@@ -3334,8 +3339,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -3776,8 +3781,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -3793,13 +3798,8 @@
     "effects": [
       {
         "jp": "菅原孝支(放課後)のスタミナが80未満の場合、菅原孝支(放課後)のボールタッチ時、スタミナが5回復する。",
-        "pt": "Se a resistência de Sugawara Takashi (depois da escola) for inferior a 80, quando a resistência de Sugawara Takashi (depois da escola) se recuperará por 5.",
-        "en": "If Sugawara Takashi (after school)'s stamina is less than 80, when Sugawara Takashi (after school)'s stamina will recover by 5."
-      },
-      {
-        "jp": "菅原孝支(放課後)がコート上に居る場合、味方得点時、得点したメンバーのスタミナが10回復し、[意識]が8%、[反応]が8%アップ。最高2スタック",
-        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados pontuarem, a resistência da equipe marcada se recuperará em 10 e [a consciência] aumentará em 8% e [a reação] aumentará em 8%. Até 2 pilhas",
-        "en": "If Sugawara Takashi (After School) is on the court, when allies score, the stamina of the team scored will recover by 10, and [consciousness] will increase by 8% and [reaction] will increase by 8%. Up to 2 stacks"
+        "pt": "Se Sugawara estiver com menos de 80 de Vigor, ao tocar na bola ele recupera 5 de Vigor. Quando Sugawara está em quadra e o time aliado pontuar, o aliado que pontuar recupera 10 de Vigor e seus atributos [Reflexo] e [Percepção] aumentam em 8%, esse efeito acumula até 2 vezes.",
+        "en": "If Sugawara is less than 80 stamina when touching the ball he recovers 5 from stamina. When Sugawara is on the court and the ally team scores, the ally who scores recovers 10 from Stamina and his attributes [Reflex] and [Awareness] increase by 8%, this effect accumulates up to 2 times."
       }
     ]
   },
@@ -3815,8 +3815,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -3832,23 +3832,8 @@
     "effects": [
       {
         "jp": "菅原孝支(放課後)がコート上に居る場合、味方メンバーのメインパラメータが10%アップ。",
-        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, os principais parâmetros dos membros aliados aumentarão 10%.",
-        "en": "If Sugawara Takashi (after school) is on the court, the main parameters of allied members will be increased by 10%."
-      },
-      {
-        "jp": "菅原孝支(放課後)がコート上に居る場合、味方得点時、味方メンバーの[攻撃テクニック]が4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック。",
-        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados marcarem, os 'membros' dos aliados [técnica de ataque] aumentam em 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas.",
-        "en": "If Sugawara Takashi (After School) is on the court, when allies score, allies' members' [attack technique] increases by 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks."
-      },
-      {
-        "jp": "菅原孝支(放課後)がコート上に居る場合、味方失点時、味方メンバーの[守備テクニック]が4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック。",
-        "pt": "Se Sugawara Takashi (depois da escola) estiver na quadra, quando os aliados têm uma meta, as [técnicas defensivas] de aliados aumentam em 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas.",
-        "en": "If Sugawara Takashi (After School) is on the court, when allies have a goal, the [defensive techniques] of allies increase by 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks."
-      },
-      {
-        "jp": "味方が失点したラリーのボールがネットを超える回数が5回以下の場合、味方メンバーの[守備テクニック]がさらに4%アップ。この効果はボールがネットを8回越えるまで持続する。最高3スタック",
-        "pt": "Se a bola de manifestação que seus aliados desistiram das metas forem menos de cinco vezes que a rede, a [técnica defensiva] de seus aliados aumentará em mais 4%. Esse efeito dura até que a bola exceda a rede oito vezes. Até 3 pilhas",
-        "en": "If the rally ball that your allies have given up goals is less than five times than the net, the [defensive technique] of your allies will increase by an additional 4%. This effect lasts until the ball has exceeded the net eight times. Up to 3 stacks"
+        "pt": "1- Quando Sugawara está em quadra, aumenta os atributos básicos dos aliados em 10%. 2 - Quando Sugawara está em quadra e o time aliado pontua, aumenta em 4% o atributo [Técnica de Ataque] dos aliados, permanecendo o efeito por 8 passadas e acumula até 3 vezes. 3 - Quando Sugawara está em quadra e o time adversário pontua, aumenta em 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes. 4 - Se no rally em que o time adversário pontuou a bola tiver passado menos de 5 vezes pela rede, aumenta em mais 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes.",
+        "en": "1- When Sugawara is on the court, the basic attributes of allies increases by 10%. 2 - When Sugawara is on the court and the ally team punctuates, increases by 4% the allied [Attack Technique] attribute, remaining the effect by 8 passes and accumulates up to 3 times. 3 - When Sugawara is on the court and the opposing team punctuates, the allies' [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times. 4 - If in the rally where the opponent team pointed out the ball has passed less than 5 times through the network, the allied [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times."
       }
     ]
   },
@@ -3864,8 +3849,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -4231,8 +4216,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -4248,28 +4233,8 @@
     "effects": [
       {
         "jp": "[攻撃]効果を持っている場合、月島蛍（花火大会）の[攻撃テクニック]が15%、[守備テクニック]が20%アップ。",
-        "pt": "Se o efeito do ataque estiver presente, o Tsukishima Firefly (Tecnique de Ataques) de Tsukishima (Técnica de Ataque] aumenta em 15% e a [técnica defensiva] aumenta em 20%.",
-        "en": "If the attack effect is present, Tsukishima Firefly (fireworks display)'s [attack technique] increases by 15% and [defensive technique] increases by 20%."
-      },
-      {
-        "jp": "[守備]効果を持っている場合、月島蛍（花火大会）の[守備テクニック]が15%、[攻撃テクニック]が20%アップ。",
-        "pt": "Se tiver um efeito [defensivo], as técnicas de Tsukishima Hotaru (Técnicas Defensivas] aumentam em 15% e a [técnica de ataque] aumenta em 20%.",
-        "en": "If it has a [defensive] effect, Tsukishima Hotaru (fireworks display)'s [defensive techniques] increase by 15% and [attack technique] increases by 20%."
-      },
-      {
-        "jp": "＜優れた頭脳＞効果変更：",
-        "pt": "<Excelente cérebro> Mudanças de efeito:",
-        "en": "<Excellent brain> Effect changes:"
-      },
-      {
-        "jp": "月島蛍（花火大会）の[速攻]アップ条件を＜味方のブロックスキル発動時＞から[味方のブロックスキル発動時、または月島蛍（花火大会）がボールタッチする時、または不利効果を持つ相手メンバーがボールタッチする時]に変更。",
-        "pt": "A condição [rapidamente] para Tsukishima hotaru (exibição de fogos de artifício) foi alterada de <Quando a habilidade do bloco de Ally é ativada> para [quando a habilidade do bloco de Ally é ativada, quando Tsukishima hotaru (fogos de artifício) toca a bola, ou quando um membro do oponente com um efeito de desdobramento toca o bala",
-        "en": "The [quickly] condition for Tsukishima Hotaru (Fireworks Display) has been changed from <When ally's block skill is activated> to [When ally's block skill is activated, when Tsukishima Hotaru (Fireworks Display) touches the ball, or when an opponent member with a disadvantageous effect touches the ball]."
-      },
-      {
-        "jp": "月島蛍（花火大会）の[ブロック]アップ条件を＜味方の速攻スキル発動時＞から[味方の速攻スキル発動時、または月島蛍（花火大会）がボールタッチする時、または不利効果を持つ相手メンバーがボールタッチする時]に変更。",
-        "pt": "A condição para [bloqueio] para Tsukishima hotaru (exibição de fogos de artifício) foi alterada de <quando a habilidade rápida de um aliado é ativada> para [quando a habilidade rápida de um aliado é ativada, quando o Tsukishima HOTARU (fogos de artifício exibe) toca a bola, ou quando um membro adversário com um efeito desgosto toca toca os].",
-        "en": "The condition for [blocking] for Tsukishima Hotaru (fireworks display) has been changed from <When an ally's quick skill is activated> to [When an ally's quick skill is activated, when Tsukishima Hotaru (fireworks display) touches the ball, or when an opposing member with a disadvantageous effect touches the ball]."
+        "pt": "1 - Se Tsukishima possui o efeito \"Ataque\", seus atributos [Técncia de Ataque] aumenta em 15% e [Técnica de Defesa] aumenta em 20%. 2 - Se Tsukishima possui o efeito \"Defesa\", seus atributos [Técncia de Defesa] aumenta em 15% e [Técnica de Ataque] aumenta em 20%. 3 - Mudança na habilidade 1: 3.1 - A condição para o aumento do [Ataque Rápido] altera de >Quando o aliado ativa uma habilidade de Bloqueio< para >Quando o aliado ativa uma habilidade de Bloqueio/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<. 3.2: A condição para o aumento do [Bloqueio] altera de >Quando o aliado ativa uma habilidade de Ataque Rápido< para >Quando o aliado ativa uma habilidade de Ataque Rápido/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<.",
+        "en": "1 - If Tsukishima has the \"attack\" effect, its [Attack Technique] attributes increases by 15% and [Defensive Technique] increases by 20%. 2 - If Tsukishima has the \"defense\" effect, its [Defensive Technique] attributes increases by 15% and [Attack Technique] increases by 20%. 3 - Change in Skill 1: 3.1 - The condition for increasing [Quick Attack] changes from> when the ally activates a block skill <for> when the ally activates a block skill/when tsukishima touches the ball/when the opponent under effect touches the ball <. 3.2: The condition for increasing [Block] changes from> when the ally activates a Quick Attack's ability <for> when the ally activates a Quick Attack's ability/when Tsukishima touches the ball/when the opponent under effect debuts the ball <."
       }
     ]
   },
@@ -4285,8 +4250,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -4302,18 +4267,8 @@
     "effects": [
       {
         "jp": "月島蛍（花火大会）の[メンタル]と[パワー]が40%アップ。",
-        "pt": "A mentalidade e o poder da Tsukishima Firefly (exibição de fogos de artifício) foram aumentados em 40%.",
-        "en": "The mentality and power of Tsukishima Firefly (fireworks display) has been increased by 40%."
-      },
-      {
-        "jp": "月島蛍（花火大会）のブロックがナイスプレーになった場合、今回のブロック威力が[ブロック]×40%アップ。相手前衛に[怒り]不利効果を付与する（[強打/速攻]が10%ダウン）。",
-        "pt": "Se os blocos em Tsukishima Firefly (exibição de fogos de artifício) forem bem exibidos, a potência desse bloco aumentará em 40%. Dá um efeito de desvantagem [raiva] à vanguarda do oponente (queda de 10% para [Batalha/Fast]).",
-        "en": "If the blocks at Tsukishima Firefly (Fireworks Display) are nicely displayed, the power of this block will increase by 40%. Gives an [anger] disadvantage effect to the opponent's vanguard (down 10% for [Battle/Fast])."
-      },
-      {
-        "jp": "月島蛍（花火大会）の速攻がナイスプレーになった場合、今回の速攻威力が[速攻]×40%アップ。このプレーはブロックされない",
-        "pt": "Se a potência rápida do ataque rápido de Tsukishima HOLSARU (Fireworks Display) se tornar um bom spray, a potência rápida do ataque desta vez será aumentada em 40%. Esta peça não está bloqueada",
-        "en": "If Tsukishima Hotaru (Fireworks Display)'s quick attack power becomes a nice spray, the quick attack power this time will be increased by 40%. This play is not blocked"
+        "pt": "1 - Os atributos [Empenho] e [Força] do Tsukishima aumentam em 40%. 2 - Se o Bloqueio do Tsukishima resultar em uma Jogada Crítica, a força desse Bloqueio terá um aumento de atributo [Bloqueio] x 40%. Aplica efeito Debuff \"Fúria\" nos adversários da Linha de Ataque/Frente, reduzindo em 10% o atributo [Ataque Rápido/Potente] deles. 3 - Se o Ataque Rápido do Tsukishima resultar em uma Jogada Crítica, a força desse Ataque terá um aumento de [Ataque Rápido] x 40%. Esse Ataque não pode ser bloqueado.",
+        "en": "1 - The [Spirit] and [power] attributes of Tsukishima increase by 40%. 2 - If the Tsukishima block results in a Nice Play, the strength of this block will have an increase in attribute [Block] x 40%. It applies debuff effect \"fury\" to front row opponents, reducing their attribute [Quick/Power Attack] by 10%. 3 - If Tsukishima Quick Attack results in a Nice Play, the strength of this attack will have an increase of [Quick Attack] X 40%. This attack cannot be blocked."
       }
     ]
   },
@@ -4329,8 +4284,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   },
@@ -4431,8 +4386,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -4448,13 +4403,8 @@
     "effects": [
       {
         "jp": "＜”絶対王者”＞のクールダウンはボールがネットを4回超えるまでとなる。",
-        "pt": "O \"campeão absoluto\" esfria até a bola exceder a rede quatro vezes.",
-        "en": "The \"Absolute Champion\" cools down until the ball exceeds the net four times."
-      },
-      {
-        "jp": "味方メンバーがナイスプレーをした場合、<“絶対王者”>のクールダウンが1回減る",
-        "pt": "Se um membro do aliado fizer uma boa jogada, o recarga para o <Campeão Absoluto> será reduzido por um",
-        "en": "If an ally member makes a nice play, the cooldown for <Absolute Champion> will be reduced by one"
+        "pt": "O CD da habilidade4 é reduzido para 4 passadas da bola pela rede. Se o aliado realizar uma Jogada Crítica, reduz 1 cruzamento de rede do CD da habilidade 4.",
+        "en": "Ability 4's cooldown is reduced to 4 net crossings. When an ally makes a Nice Play, reduce ability 4's cooldown by 1 additional net crossing."
       }
     ]
   },
@@ -4470,8 +4420,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -4487,13 +4437,8 @@
     "effects": [
       {
         "jp": "牛島若利の[意識]が倍になる。",
-        "pt": "Dobra [a consciência] de Ushijima Wakatoshi.",
-        "en": "Ushijima Wakatoshi's [consciousness] doubles."
-      },
-      {
-        "jp": "牛島若利がナイスプレーをした場合、2のスタミナを回復する",
-        "pt": "Se Ushijima Wakatoshi fizer um bom spray, ele restaurará 2 resistência",
-        "en": "If Ushijima Wakatoshi makes a nice spray, he will restore 2 stamina"
+        "pt": "Dobra o valor do atributo [Percepção] de Ushijima. Quando Ushijima realiza uma Jogada Crítica, ele recupera 2 de Vigor.",
+        "en": "Doubles Ushijima's [Awareness]. When Ushijima makes a Nice Play, he recovers 2 Stamina."
       }
     ]
   },
@@ -4509,8 +4454,8 @@
     "effects": [
       {
         "jp": "メインパラメータが13%アップ",
-        "pt": "Os principais parâmetros aumentaram 13%",
-        "en": "Main parameters increased by 13%"
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
       }
     ]
   },
@@ -4766,6 +4711,86 @@
         "jp": "メインパラメータが10%アップ",
         "pt": "Os principais parâmetros aumentaram 10%",
         "en": "Main parameters increased by 10%"
+      }
+    ]
+  },
+  "kunimi-sp.r1": {
+    "characterId": "kunimi-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": null
+    },
+    "effects": [
+      {
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
+      }
+    ]
+  },
+  "kunimi-sp.r2": {
+    "characterId": "kunimi-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": null
+    },
+    "effects": [
+      {
+        "pt": "Mudança na habilidade 3: A condição para o aumento do [Ataque Potente] altera de >A cada vez que Kunimi restaura Vigor< para >Quando Kunimi está em quadra e os aliados restauram Vigor<. 1 - Ao possuir o efeito \"Momento Crucial\" e ativar a habilidade 4, restaura 3 de Vigor dos aliados e o aliado com menor Vigor disponível recebe 8 a mais de Vigor. 2 - Quando Kunimi está como Jogador de Banco, a cada término de rally, os aliados recuperam 8 de Vigor.",
+        "en": "Change in Skill 3: The condition for increasing [Power Attack] changes from> every time Kunimi restores stamina <for> when Kunimi is on the court and the allies restore stamina <. 1 - When it has the \"crucial moment\" effect and activates the 4 -year -old skill, restoring 3 of allied stamina and the ally with the lowest available stamina gets 8 more stamina. 2 - When Kunimi is as a bank player, with each end of rally, the allies recover 8 from stamina."
+      }
+    ]
+  },
+  "kunimi-sp.r3": {
+    "characterId": "kunimi-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": null
+    },
+    "effects": [
+      {
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
+      }
+    ]
+  },
+  "kunimi-sp.r4": {
+    "characterId": "kunimi-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": null
+    },
+    "effects": [
+      {
+        "pt": "1 - Se o Kunimi está posicionado na Escalação do Time inicial, os atributos principais dos aliados aumentam em 5%. 2 - Quando Kunimi está em quadra, ao iniciar a partida seu limite de Vigor reduz para 80 e a cada 1 de redução, o atributo [Força] do Kunimi aumenta em 1%, podendo aumentar no máximo até 120%. 3 - A cada término de rally, Kunimi recupera 15 de Vigor. Se Kunimi estiver com menos de 40 de Vigor, ele recupera mais 15 de Vigor.",
+        "en": "1 - If Kunimi is positioned in the lineup of the initial team, the main allies attributes increase by 5%. 2 - When Kunimi is on the court, when starting the stamina limit reduces to 80 and every 1 reduction, the [power] attribute of Kunimi increases by 1%and may increase up to 120%. 3 - With each end of rally, Kunimi recovers 15 stamina. If Kunimi has less than 40 stamina, he recovers 15 more stamina."
+      }
+    ]
+  },
+  "kunimi-sp.r5": {
+    "characterId": "kunimi-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": null
+    },
+    "effects": [
+      {
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases the basic attributes by 13%."
       }
     ]
   }

@@ -38,6 +38,9 @@ type Store = {
   modalPlayerId: string | null;
   openPlayerModal: (playerId: string) => void;
   closePlayerModal: () => void;
+  modalMemoryId: string | null;
+  openMemoryModal: (memoryId: string) => void;
+  closeMemoryModal: () => void;
 };
 
 const emptyTeam: Team = {
@@ -323,8 +326,17 @@ export const useStore = create<Store>((set, get) => ({
   modalPlayerId: null,
   openPlayerModal: (playerId) => set({ modalPlayerId: playerId }),
   closePlayerModal: () => set({ modalPlayerId: null }),
+  modalMemoryId: null,
+  openMemoryModal: (memoryId) => set({ modalMemoryId: memoryId }),
+  closeMemoryModal: () => set({ modalMemoryId: null }),
 }));
 
 export function getPlayerById(id: string) {
   return useStore.getState().players.find((p) => p.id === id);
 }
+
+
+
+
+
+

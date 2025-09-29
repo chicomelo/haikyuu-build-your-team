@@ -1,10 +1,14 @@
-import { Fragment } from "react";
+﻿import { Fragment } from "react";
 import { useTranslation } from "react-i18next";
 import { X } from "lucide-react";
 import { useStore, getPlayerById } from "../state/store";
 
 import { getPlayerTypeLabel } from "../lib/playerTypes";
-import { resonanceDetails, pickLocalizedText } from "../lib/dataRegistry";
+import {
+  resonanceDetails,
+  pickLocalizedText,
+  memoryDetails,
+} from "../lib/dataRegistry";
 import { getTranslatedBuffName } from "../lib/buffTranslations";
 import { getAbilityText } from "../lib/abilityTranslations";
 
@@ -23,6 +27,7 @@ export function PlayerInfoModal() {
   const { t, i18n } = useTranslation();
   const modalPlayerId = useStore((s) => s.modalPlayerId);
   const close = useStore((s) => s.closePlayerModal);
+  const openMemoryModal = useStore((s) => s.openMemoryModal);
 
   if (!modalPlayerId) return null;
   const p = getPlayerById(modalPlayerId);
@@ -58,6 +63,8 @@ export function PlayerInfoModal() {
     );
 
   const playerLinks = p.links || [];
+  const memory = p.memoryId ? memoryDetails[p.memoryId] : null;
+  const memoryName = memory ? pickLocalizedText(memory.name, language) : "";
 
   return (
     <div
@@ -85,7 +92,7 @@ export function PlayerInfoModal() {
               {p.name}
             </div>
             <div className="flex md:flex-col gap-4 md:mb-4">
-              <div>
+              <div className="flex flex-col items-center md:items-start gap-4">
                 <div className="card w-24 md:w-40">
                   <div className="w-full aspect-[71/100] bg-neutral-800 relative">
                     {p.avatar ? (
@@ -101,6 +108,31 @@ export function PlayerInfoModal() {
                     )}
                   </div>
                 </div>
+                {memory && (
+                  <div className="w-full">
+                    <div className="opacity-70 text-xs uppercase tracking-wide text-center md:text-left mb-2">
+                      {t("player_modal.memory", "Memória")}
+                    </div>
+                    <button
+                      className="card w-24 md:w-40 border border-white/10 hover:border-white/50 transition-all"
+                      onClick={() => openMemoryModal(memory.id)}
+                    >
+                      <div className="w-full  bg-neutral-800 border border-white/10 hover:border-white/50 transition-all rounded-lg overflow-hidden flex items-center justify-center">
+                        {memory.image ? (
+                          <img
+                            src={memory.image}
+                            alt={memoryName || memory.id}
+                            className="w-full object-contain"
+                          />
+                        ) : (
+                          <span className="text-xs opacity-70">
+                            {t("memory_modal.no_image", "Sem imagem")}
+                          </span>
+                        )}
+                      </div>
+                    </button>
+                  </div>
+                )}
               </div>
               <div>
                 <div className=" text-sm space-y-2">
@@ -198,7 +230,7 @@ export function PlayerInfoModal() {
                         )}
                       </div>
                       {res.effects.length > 0 && (
-                        <ul className="list-disc list-inside opacity-90 text-sm space-y-1">
+                        <ul className="list-disc list-inside opacity-90 text-sm">
                           {res.effects.map((text, idx) => (
                             <li key={idx}>{text}</li>
                           ))}

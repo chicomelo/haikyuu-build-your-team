@@ -27,12 +27,13 @@
       {
         "key": "ace-milagroso-e-levantador-carinhoso",
         "type": "positional"
+      },
+      {
+        "key": "tokyo-training-camp-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "setter"
-    ],
+    "types": ["power", "setter"],
     "skillResonances": [
       {
         "id": "akaashi-sp.r1",
@@ -63,7 +64,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4779",
       "fetchedAt": "2025-09-26T04:18:35.283155Z"
-    }
+    },
+    "memoryId": "mem_akaashi_sp"
   },
   {
     "school": "Fukurodani",
@@ -89,12 +91,13 @@
       {
         "key": "a-s-milagroso-e-levantador-carinhoso",
         "type": "positional"
+      },
+      {
+        "key": "tokyo-training-camp-self-practice-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "setter"
-    ],
+    "types": ["power", "setter"],
     "skillResonances": [
       {
         "id": "akaashi-ssr.r1",
@@ -125,7 +128,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1771",
       "fetchedAt": "2025-09-26T04:18:47.095487Z"
-    }
+    },
+    "memoryId": "mem_akaashi_ssr"
   },
   {
     "school": "Inarizaki",
@@ -147,10 +151,13 @@
     "avatar": "/assets/img/akagiSSR.png",
     "role": "L",
     "name": "Akagi SSR",
-    "links": [],
-    "types": [
-      "receive"
+    "links": [
+      {
+        "key": "third-year-from-inarizaki",
+        "type": "bond"
+      }
     ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "akagi-ssr.r1",
@@ -211,12 +218,21 @@
       {
         "key": "parede-de-ferro",
         "type": "positional"
+      },
+      {
+        "key": "cannon-and-iron-wall",
+        "type": "bond"
+      },
+      {
+        "key": "silence-and-sarcasm",
+        "type": "bond"
+      },
+      {
+        "key": "strange-friendship",
+        "type": "bond"
       }
     ],
-    "types": [
-      "serve",
-      "block"
-    ],
+    "types": ["serve", "block"],
     "skillResonances": [
       {
         "id": "aone-sp.r1",
@@ -247,7 +263,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4616",
       "fetchedAt": "2025-09-26T04:22:25.710018Z"
-    }
+    },
+    "memoryId": "mem_tecnica_de_defesa_bloqueio_takashi_aone_banho_de_mar"
   },
   {
     "school": "Dateko",
@@ -273,12 +290,13 @@
       {
         "key": "o-silencioso-e-o-sarca-stico",
         "type": "positional"
+      },
+      {
+        "key": "cannon-e-iron-wall",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block",
-      "quick"
-    ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "aone-ssr.r1",
@@ -309,7 +327,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1197",
       "fetchedAt": "2025-09-26T04:13:28.387988Z"
-    }
+    },
+    "memoryId": "mem_defense_up_takanobu_aone"
   },
   {
     "school": "Inarizaki",
@@ -339,13 +358,25 @@
       {
         "key": "cabec-a-dos-ge-meos",
         "type": "positional"
+      },
+      {
+        "key": "friends-from-volleyball-class",
+        "type": "bond"
+      },
+      {
+        "key": "inarizaki-2nd-years",
+        "type": "bond"
+      },
+      {
+        "key": "japan-youth-training-camp-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "youth-camp-setters",
+        "type": "bond"
       }
     ],
-    "types": [
-      "quick",
-      "serve",
-      "setter"
-    ],
+    "types": ["quick", "serve", "setter"],
     "skillResonances": [
       {
         "id": "atsumu-ur.r1",
@@ -376,7 +407,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=2313",
       "fetchedAt": "2025-09-26T04:19:37.771855Z"
-    }
+    },
+    "memoryId": "mem_atsumu_ur"
   },
   {
     "school": "Karasuno",
@@ -402,12 +434,21 @@
       {
         "key": "deus-guardia-o-e-ponta",
         "type": "positional"
+      },
+      {
+        "key": "cannon-and-iron-wall",
+        "type": "bond"
+      },
+      {
+        "key": "cannon-e-iron-wall",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-3rd-years",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "azumane-ssr.r1",
@@ -438,7 +479,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=974",
       "fetchedAt": "2025-09-26T04:13:14.136587Z"
-    }
+    },
+    "memoryId": "mem_azumane_ssr"
   },
   {
     "school": "Fukurodani",
@@ -468,12 +510,21 @@
       {
         "key": "ace-milagroso-e-levantador-carinhoso",
         "type": "positional"
+      },
+      {
+        "key": "number-one-disciple-sp",
+        "type": "bond"
+      },
+      {
+        "key": "the-moment-they-fell-for-volleyball",
+        "type": "bond"
+      },
+      {
+        "key": "tokyo-training-camp-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "receive"
-    ],
+    "types": ["power", "receive"],
     "skillResonances": [
       {
         "id": "bokuto-sp.r1",
@@ -504,7 +555,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4768",
       "fetchedAt": "2025-09-26T04:18:19.755739Z"
-    }
+    },
+    "memoryId": "mem_bokuto_sp"
   },
   {
     "school": "Fukurodani",
@@ -530,12 +582,21 @@
       {
         "key": "a-s-milagroso-e-levantador-carinhoso",
         "type": "positional"
+      },
+      {
+        "key": "fukurodani-3rd-years",
+        "type": "bond"
+      },
+      {
+        "key": "number-one-disciple",
+        "type": "bond"
+      },
+      {
+        "key": "tokyo-training-camp-self-practice-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "bokuto-ur.r1",
@@ -566,7 +627,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1695",
       "fetchedAt": "2025-09-26T04:18:02.118686Z"
-    }
+    },
+    "memoryId": "mem_bokuto_ur"
   },
   {
     "school": "Karasuno",
@@ -588,10 +650,17 @@
     "avatar": "/assets/img/daichiSSR.png",
     "role": "OP",
     "name": "Daichi SSR",
-    "links": [],
-    "types": [
-      "receive"
+    "links": [
+      {
+        "key": "behind-the-smile",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-3rd-years",
+        "type": "bond"
+      }
     ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "daichi-ssr.r1",
@@ -622,7 +691,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=915",
       "fetchedAt": "2025-09-26T04:13:04.428559Z"
-    }
+    },
+    "memoryId": "mem_receba_reforco_hard_hit_daichi_sawamura"
   },
   {
     "school": "Dateko",
@@ -656,12 +726,17 @@
       {
         "key": "parede-de-ferro",
         "type": "positional"
+      },
+      {
+        "key": "new-type-rookie-e-the-new-captain",
+        "type": "bond"
+      },
+      {
+        "key": "silence-and-sarcasm",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block",
-      "serve"
-    ],
+    "types": ["block", "serve"],
     "skillResonances": [
       {
         "id": "futakuchi-ssr.r1",
@@ -692,7 +767,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=717",
       "fetchedAt": "2025-09-26T04:13:37.961290Z"
-    }
+    },
+    "memoryId": "mem_futakuchi_ssr"
   },
   {
     "school": "Shiratorizawa",
@@ -718,12 +794,17 @@
       {
         "key": "ws-de-shiratorizawa",
         "type": "positional"
+      },
+      {
+        "key": "promising-senpai",
+        "type": "bond"
+      },
+      {
+        "key": "undisputed-aces",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "goshiki-ssr.r1",
@@ -754,7 +835,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1251",
       "fetchedAt": "2025-09-26T04:17:16.018621Z"
-    }
+    },
+    "memoryId": "mem_goshiki_ssr"
   },
   {
     "school": "Fukurodani",
@@ -777,9 +859,7 @@
     "role": "L",
     "name": "Haruki SSR",
     "links": [],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "haruki-ssr.r1",
@@ -810,7 +890,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1897",
       "fetchedAt": "2025-09-26T04:19:13.333814Z"
-    }
+    },
+    "memoryId": "mem_receba_haruki_komi"
   },
   {
     "school": "Itachiyama",
@@ -838,10 +919,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "power",
-      "receive"
-    ],
+    "types": ["power", "receive"],
     "skillResonances": [
       {
         "id": "hayaseiomi-ur.r1",
@@ -906,12 +984,25 @@
       {
         "key": "sol-vs-lua",
         "type": "positional"
+      },
+      {
+        "key": "karasuno-s-red-mark-squad-hanami-ver",
+        "type": "bond"
+      },
+      {
+        "key": "number-one-disciple-sp",
+        "type": "bond"
+      },
+      {
+        "key": "similar-builds",
+        "type": "bond"
+      },
+      {
+        "key": "strange-friendship",
+        "type": "bond"
       }
     ],
-    "types": [
-      "quick",
-      "receive"
-    ],
+    "types": ["quick", "receive"],
     "skillResonances": [
       {
         "id": "hinata-sp.r1",
@@ -942,7 +1033,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3366",
       "fetchedAt": "2025-09-26T04:32:27.277414Z"
-    }
+    },
+    "memoryId": "mem_power_up_shouyou_hinata_hanami"
   },
   {
     "school": "Karasuno",
@@ -968,11 +1060,33 @@
       {
         "key": "dupla-exce-ntrica",
         "type": "positional"
+      },
+      {
+        "key": "flexible-aces",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-failing-grades-group",
+        "type": "bond"
+      },
+      {
+        "key": "number-one-disciple",
+        "type": "bond"
+      },
+      {
+        "key": "rival-friends",
+        "type": "bond"
+      },
+      {
+        "key": "similar-physique-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "the-absolute-king-vs-the-freak-duo",
+        "type": "bond"
       }
     ],
-    "types": [
-      "quick"
-    ],
+    "types": ["quick"],
     "skillResonances": [
       {
         "id": "hinata-ssr.r1",
@@ -1003,7 +1117,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1116",
       "fetchedAt": "2025-09-26T04:11:23.045144Z"
-    }
+    },
+    "memoryId": "mem_increase_consciousness_shoyo_hinata"
   },
   {
     "school": "Kamomedai",
@@ -1031,10 +1146,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "serve",
-      "block"
-    ],
+    "types": ["serve", "block"],
     "skillResonances": [
       {
         "id": "hirugami-ur.r1",
@@ -1065,7 +1177,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3293",
       "fetchedAt": "2025-09-26T04:21:30.546038Z"
-    }
+    },
+    "memoryId": "mem_block_up_hirugami_yukoro"
   },
   {
     "school": "Aoba Johsai",
@@ -1097,9 +1210,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "power"
-    ],
+    "types": ["power"],
     "skillResonances": [
       {
         "id": "iwaizumi-ssr.r1",
@@ -1130,7 +1241,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=662",
       "fetchedAt": "2025-09-26T04:16:17.230686Z"
-    }
+    },
+    "memoryId": "mem_iwaizumi_ssr"
   },
   {
     "school": "Karasuno",
@@ -1153,11 +1265,7 @@
     "role": "S",
     "name": "Kageyama SSR",
     "links": [],
-    "types": [
-      "setter",
-      "quick",
-      "serve"
-    ],
+    "types": ["setter", "quick", "serve"],
     "skillResonances": [
       {
         "id": "kageyama-ssr.r1",
@@ -1188,7 +1296,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1133",
       "fetchedAt": "2025-09-26T04:11:34.823344Z"
-    }
+    },
+    "memoryId": "mem_kageyama_ssr_serve"
   },
   {
     "school": "Karasuno",
@@ -1218,13 +1327,41 @@
       {
         "key": "ge-nios-karasuno",
         "type": "positional"
+      },
+      {
+        "key": "japan-youth-training-camp-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-failing-grades-group",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-red-mark-squad-hanami-ver",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-setters",
+        "type": "bond"
+      },
+      {
+        "key": "the-absolute-king-vs-the-freak-duo",
+        "type": "bond"
+      },
+      {
+        "key": "the-king-and-the-great-king",
+        "type": "bond"
+      },
+      {
+        "key": "youth-camp-setters",
+        "type": "bond"
+      },
+      {
+        "key": "youth-training-camp",
+        "type": "bond"
       }
     ],
-    "types": [
-      "quick",
-      "serve",
-      "setter"
-    ],
+    "types": ["quick", "serve", "setter"],
     "skillResonances": [
       {
         "id": "kageyama-ur.r1",
@@ -1255,7 +1392,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3347",
       "fetchedAt": "2025-09-26T04:11:44.623747Z"
-    }
+    },
+    "memoryId": "mem_kageyama_ur"
   },
   {
     "school": "Nekoma",
@@ -1287,10 +1425,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "setter",
-      "receive"
-    ],
+    "types": ["setter", "receive"],
     "skillResonances": [
       {
         "id": "kenma-sp.r1",
@@ -1321,7 +1456,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3685",
       "fetchedAt": "2025-09-26T04:14:31.820357Z"
-    }
+    },
+    "memoryId": "mem_kenma_sp"
   },
   {
     "school": "Nekoma",
@@ -1347,12 +1483,13 @@
       {
         "key": "ce-rebro-e-comandante",
         "type": "positional"
+      },
+      {
+        "key": "rival-friends",
+        "type": "bond"
       }
     ],
-    "types": [
-      "setter",
-      "receive"
-    ],
+    "types": ["setter", "receive"],
     "skillResonances": [
       {
         "id": "kenma-ssr.r1",
@@ -1383,7 +1520,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1171",
       "fetchedAt": "2025-09-26T04:14:49.265112Z"
-    }
+    },
+    "memoryId": "mem_kenma_ssr"
   },
   {
     "school": "Aoba Johsai",
@@ -1411,10 +1549,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "kentaro-mad-dog-ssr.r1",
@@ -1445,7 +1580,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1047",
       "fetchedAt": "2025-09-26T04:16:28.391477Z"
-    }
+    },
+    "memoryId": "mem_ofensive_up_kentaro_kyotani"
   },
   {
     "school": "Inarizaki",
@@ -1471,11 +1607,17 @@
       {
         "key": "cabec-a-dos-ge-meos",
         "type": "positional"
+      },
+      {
+        "key": "inarizaki-ws-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "third-year-from-inarizaki",
+        "type": "bond"
       }
     ],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "kita-ssr.r1",
@@ -1506,7 +1648,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3035",
       "fetchedAt": "2025-09-26T04:20:10.844254Z"
-    }
+    },
+    "memoryId": "mem_kita_ssr"
   },
   {
     "school": "Dateko",
@@ -1534,10 +1677,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "block",
-      "setter"
-    ],
+    "types": ["block", "setter"],
     "skillResonances": [
       {
         "id": "koganegawa-ssr.r1",
@@ -1568,7 +1708,76 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1215",
       "fetchedAt": "2025-09-26T04:13:51.774902Z"
-    }
+    },
+    "memoryId": "mem_koganegawa_ssr"
+  },
+  {
+    "school": "Dateko",
+    "id": "koganegawa-sp",
+    "abilities": [
+      {
+        "id": "koganegawa-sp.a1"
+      },
+      {
+        "id": "koganegawa-sp.a2"
+      },
+      {
+        "id": "koganegawa-sp.a3"
+      },
+      {
+        "id": "koganegawa-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/koganegawaSP.png",
+    "role": "S",
+    "name": "Koganegawa SP",
+    "links": [
+      {
+        "key": "aliados-no-campo-de-treinamento",
+        "type": "positional"
+      },
+      {
+        "key": "festival-de-esporte",
+        "type": "positional"
+      },
+      {
+        "key": "parede-de-ferro",
+        "type": "positional"
+      }
+    ],
+    "types": ["block", "setter"],
+    "skillResonances": [
+      {
+        "id": "koganegawa-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "koganegawa-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "koganegawa-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "koganegawa-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "koganegawa-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1215",
+      "fetchedAt": "2025-09-26T04:13:51.774902Z"
+    },
+    "memoryId": "mem_koganegawa_sp"
   },
   {
     "school": "Itachiyama",
@@ -1594,12 +1803,13 @@
       {
         "key": "top-spiker-e-top-libero",
         "type": "positional"
+      },
+      {
+        "key": "japan-youth-training-camp-teammates",
+        "type": "bond"
       }
     ],
-    "types": [
-      "setter",
-      "receive"
-    ],
+    "types": ["setter", "receive"],
     "skillResonances": [
       {
         "id": "komori-ur.r1",
@@ -1630,7 +1840,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4702",
       "fetchedAt": "2025-09-26T04:21:58.414812Z"
-    }
+    },
+    "memoryId": "mem_defense_offensive_up_motoya_komori"
   },
   {
     "school": "Fukurodani",
@@ -1653,9 +1864,7 @@
     "role": "OP",
     "name": "Konoha SSR",
     "links": [],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "konoha-ssr.r1",
@@ -1686,7 +1895,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1749",
       "fetchedAt": "2025-09-26T04:19:03.251470Z"
-    }
+    },
+    "memoryId": "mem_reacao_para_cima_akinori_konoha"
   },
   {
     "school": "Kamomedai",
@@ -1712,14 +1922,25 @@
       {
         "key": "amigos-de-longa-data",
         "type": "positional"
+      },
+      {
+        "key": "japan-youth-training-camp-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "similar-builds",
+        "type": "bond"
+      },
+      {
+        "key": "similar-physique-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "youth-training-camp",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "receive",
-      "serve",
-      "block"
-    ],
+    "types": ["power", "receive", "serve", "block"],
     "skillResonances": [
       {
         "id": "hoshiumi-ur.r1",
@@ -1755,7 +1976,20 @@
   {
     "school": "Aoba Johsai",
     "id": "kunimi-sp",
-    "abilities": [],
+    "abilities": [
+      {
+        "id": "kunimi-sp.a1"
+      },
+      {
+        "id": "kunimi-sp.a2"
+      },
+      {
+        "id": "kunimi-sp.a3"
+      },
+      {
+        "id": "kunimi-sp.a4"
+      }
+    ],
     "avatar": "/assets/img/kunimiSP.png",
     "role": "OP",
     "name": "Kunimi SP",
@@ -1765,15 +1999,39 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "power",
-      "receive"
+    "types": ["power", "receive"],
+    "skillResonances": [
+      {
+        "id": "kunimi-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kunimi-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kunimi-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kunimi-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kunimi-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
     ],
-    "skillResonances": [],
     "metadata": {
       "source": "https://naoshisan.com/?p=5346",
       "fetchedAt": "2025-09-26T04:22:20.645395Z"
-    }
+    },
+    "memoryId": "mem_kunimi"
   },
   {
     "school": "Nekoma",
@@ -1803,12 +2061,13 @@
       {
         "key": "ce-rebro-e-comandante-sp",
         "type": "positional"
+      },
+      {
+        "key": "tokyo-training-camp-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block",
-      "receive"
-    ],
+    "types": ["block", "receive"],
     "skillResonances": [
       {
         "id": "kuro-sp.r1",
@@ -1862,10 +2121,7 @@
     "role": "MB",
     "name": "Kuroo SSR",
     "links": [],
-    "types": [
-      "block",
-      "quick"
-    ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "kuroo-ssr.r1",
@@ -1896,7 +2152,76 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1182",
       "fetchedAt": "2025-09-26T04:15:19.854135Z"
-    }
+    },
+    "memoryId": "mem_offensive_up_tetsuro_kuroo_pratica"
+  },
+  {
+    "school": "Nekoma",
+    "id": "kuroo-ur",
+    "abilities": [
+      {
+        "id": "kuroo-ur.a1"
+      },
+      {
+        "id": "kuroo-ur.a2"
+      },
+      {
+        "id": "kuroo-ur.a3"
+      },
+      {
+        "id": "kuroo-ur.a4"
+      }
+    ],
+    "avatar": "/assets/img/kurooUR.png",
+    "role": "MB",
+    "name": "Kuroo UR",
+    "links": [
+      {
+        "key": "ce-rebro-e-comandante",
+        "type": "positional"
+      },
+      {
+        "key": "behind-the-smile",
+        "type": "bond"
+      },
+      {
+        "key": "master-and-apprentice",
+        "type": "bond"
+      }
+    ],
+    "types": ["block", "quick"],
+    "skillResonances": [
+      {
+        "id": "kuroo-ur.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "kuroo-ur.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "kuroo-ur.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "kuroo-ur.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "kuroo-ur.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=1502",
+      "fetchedAt": "2025-09-26T04:15:19.854135Z"
+    },
+    "memoryId": "mem_hast_attack_blockup_tetsuro_kuroo"
   },
   {
     "school": "Nekoma",
@@ -1922,12 +2247,13 @@
       {
         "key": "orientac-a-o-educacional",
         "type": "positional"
+      },
+      {
+        "key": "flexible-aces",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block",
-      "quick"
-    ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "lev-ssr.r1",
@@ -1958,7 +2284,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=884",
       "fetchedAt": "2025-09-26T04:15:32.777646Z"
-    }
+    },
+    "memoryId": "mem_receive_up_ataque_rapido_reforco_haiba_lev"
   },
   {
     "school": "Karasuno",
@@ -1988,12 +2315,21 @@
       {
         "key": "depois-da-escola",
         "type": "positional"
+      },
+      {
+        "key": "karasuno-s-red-mark-squad-hanami-ver",
+        "type": "bond"
+      },
+      {
+        "key": "kiyoko-s-protection-group",
+        "type": "bond"
+      },
+      {
+        "key": "team-s-guardians-after-school",
+        "type": "bond"
       }
     ],
-    "types": [
-      "setter",
-      "receive"
-    ],
+    "types": ["setter", "receive"],
     "skillResonances": [
       {
         "id": "nishinoya-sp.r1",
@@ -2024,7 +2360,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3945",
       "fetchedAt": "2025-09-26T04:11:07.624924Z"
-    }
+    },
+    "memoryId": "mem_defense_up_yu_nishinoya_depois_da_escola"
   },
   {
     "school": "Karasuno",
@@ -2054,11 +2391,17 @@
       {
         "key": "esquadra-o-de-kiyoko",
         "type": "positional"
+      },
+      {
+        "key": "karasuno-s-failing-grades-group",
+        "type": "bond"
+      },
+      {
+        "key": "team-s-guardians",
+        "type": "bond"
       }
     ],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "nishinoya-ssr.r1",
@@ -2089,7 +2432,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=984",
       "fetchedAt": "2025-09-26T04:10:54.727269Z"
-    }
+    },
+    "memoryId": "mem_defense_up_yu_nishinoya"
   },
   {
     "school": "Shiratorizawa",
@@ -2115,11 +2459,17 @@
       {
         "key": "ws-de-shiratorizawa",
         "type": "positional"
+      },
+      {
+        "key": "shiratorizawa-3rd-years",
+        "type": "bond"
+      },
+      {
+        "key": "ushiwaka-and-benkei",
+        "type": "bond"
       }
     ],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "ohira-ssr.r1",
@@ -2173,11 +2523,7 @@
     "role": "S",
     "name": "Oikawa SSR",
     "links": [],
-    "types": [
-      "power",
-      "serve",
-      "setter"
-    ],
+    "types": ["power", "serve", "setter"],
     "skillResonances": [
       {
         "id": "oikawa-ssr.r1",
@@ -2208,7 +2554,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1153",
       "fetchedAt": "2025-09-26T04:16:03.350442Z"
-    }
+    },
+    "memoryId": "mem_oikawa_ssr"
   },
   {
     "school": "Aoba Johsai",
@@ -2234,13 +2581,17 @@
       {
         "key": "harmonia-perfeita",
         "type": "positional"
+      },
+      {
+        "key": "fated-rivals",
+        "type": "bond"
+      },
+      {
+        "key": "the-king-and-the-great-king",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "serve",
-      "setter"
-    ],
+    "types": ["power", "serve", "setter"],
     "skillResonances": [
       {
         "id": "oikawa-ur.r1",
@@ -2271,7 +2622,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1811",
       "fetchedAt": "2025-09-26T04:15:44.588367Z"
-    }
+    },
+    "memoryId": "mem_oikawa_ur"
   },
   {
     "school": "Inarizaki",
@@ -2301,12 +2653,17 @@
       {
         "key": "cabec-a-dos-ge-meos",
         "type": "positional"
+      },
+      {
+        "key": "friends-from-volleyball-class",
+        "type": "bond"
+      },
+      {
+        "key": "inarizaki-2nd-years",
+        "type": "bond"
       }
     ],
-    "types": [
-      "quick",
-      "serve"
-    ],
+    "types": ["quick", "serve"],
     "skillResonances": [
       {
         "id": "osamu-ur.r1",
@@ -2337,7 +2694,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=2520",
       "fetchedAt": "2025-09-26T04:19:55.894696Z"
-    }
+    },
+    "memoryId": "mem_ofensive_up_osamu_miya"
   },
   {
     "school": "Inarizaki",
@@ -2359,11 +2717,21 @@
     "avatar": "/assets/img/oshiroSSR.png",
     "role": "WS",
     "name": "Oshiro SSR",
-    "links": [],
-    "types": [
-      "power",
-      "serve"
+    "links": [
+      {
+        "key": "friends-from-volleyball-class",
+        "type": "bond"
+      },
+      {
+        "key": "inarizaki-ws-teammates",
+        "type": "bond"
+      },
+      {
+        "key": "third-year-from-inarizaki",
+        "type": "bond"
+      }
     ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "oshiro-ssr.r1",
@@ -2394,7 +2762,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3274",
       "fetchedAt": "2025-09-26T04:20:37.514865Z"
-    }
+    },
+    "memoryId": "mem_awareness_reaction_up_oshiro_ssr"
   },
   {
     "school": "Inarizaki",
@@ -2416,11 +2785,13 @@
     "avatar": "/assets/img/rintaroSSR.png",
     "role": "MB",
     "name": "Rintaro SSR",
-    "links": [],
-    "types": [
-      "quick",
-      "block"
+    "links": [
+      {
+        "key": "inarizaki-2nd-years",
+        "type": "bond"
+      }
     ],
+    "types": ["quick", "block"],
     "skillResonances": [
       {
         "id": "rintaro-ssr.r1",
@@ -2451,7 +2822,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=2354",
       "fetchedAt": "2025-09-26T04:20:26.507838Z"
-    }
+    },
+    "memoryId": "mem_fast_attack_up_rintaro_suna"
   },
   {
     "school": "Dateko",
@@ -2474,9 +2846,7 @@
     "role": "OP",
     "name": "Sasaya SSR",
     "links": [],
-    "types": [
-      "power"
-    ],
+    "types": ["power"],
     "skillResonances": [
       {
         "id": "sasaya-ssr.r1",
@@ -2507,7 +2877,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1235",
       "fetchedAt": "2025-09-26T04:13:44.719275Z"
-    }
+    },
+    "memoryId": "mem_param_main_e_hard_hit_takehito_sasaya"
   },
   {
     "school": "Shiratorizawa",
@@ -2529,12 +2900,13 @@
     "avatar": "/assets/img/semiSSR.png",
     "role": "S",
     "name": "Semi SSR",
-    "links": [],
-    "types": [
-      "setter",
-      "power",
-      "serve"
+    "links": [
+      {
+        "key": "shiratorizawa-3rd-years",
+        "type": "bond"
+      }
     ],
+    "types": ["setter", "power", "serve"],
     "skillResonances": [
       {
         "id": "semi-ssr.r1",
@@ -2565,7 +2937,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1519",
       "fetchedAt": "2025-09-26T04:17:35.947592Z"
-    }
+    },
+    "memoryId": "mem_semi_ssr"
   },
   {
     "school": "Shiratorizawa",
@@ -2593,10 +2966,7 @@
         "type": "positional"
       }
     ],
-    "types": [
-      "setter",
-      "power"
-    ],
+    "types": ["setter", "power"],
     "skillResonances": [
       {
         "id": "shirabu-ssr.r1",
@@ -2627,7 +2997,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1222",
       "fetchedAt": "2025-09-26T04:17:25.212981Z"
-    }
+    },
+    "memoryId": "mem_shirabu_ssr"
   },
   {
     "school": "Karasuno",
@@ -2653,13 +3024,17 @@
       {
         "key": "depois-da-escola",
         "type": "positional"
+      },
+      {
+        "key": "karasuno-3rd-years",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-setters",
+        "type": "bond"
       }
     ],
-    "types": [
-      "setter",
-      "serve",
-      "block"
-    ],
+    "types": ["setter", "serve", "block"],
     "skillResonances": [
       {
         "id": "sugawara-sp.r1",
@@ -2690,7 +3065,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4582",
       "fetchedAt": "2025-09-26T04:14:11.621777Z"
-    }
+    },
+    "memoryId": "mem_sugawara_sp"
   },
   {
     "school": "Karasuno",
@@ -2716,11 +3092,21 @@
       {
         "key": "esquadra-o-de-kiyoko",
         "type": "positional"
+      },
+      {
+        "key": "karasuno-s-failing-grades-group",
+        "type": "bond"
+      },
+      {
+        "key": "karasuno-s-red-mark-squad-hanami-ver",
+        "type": "bond"
+      },
+      {
+        "key": "kiyoko-s-protection-group",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power"
-    ],
+    "types": ["power"],
     "skillResonances": [
       {
         "id": "tanaka-ssr.r1",
@@ -2751,7 +3137,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1143",
       "fetchedAt": "2025-09-26T04:12:15.190477Z"
-    }
+    },
+    "memoryId": "mem_tanaka_ssr"
   },
   {
     "school": "Fukurodani",
@@ -2773,11 +3160,13 @@
     "avatar": "/assets/img/tatsuoSSR.png",
     "role": "MB",
     "name": "Tatsuo SSR",
-    "links": [],
-    "types": [
-      "block",
-      "quick"
+    "links": [
+      {
+        "key": "fukurodani-3rd-years",
+        "type": "bond"
+      }
     ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "tatsuo-ssr.r1",
@@ -2808,7 +3197,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1742",
       "fetchedAt": "2025-09-26T04:19:24.663914Z"
-    }
+    },
+    "memoryId": "mem_block_up_tatsuo"
   },
   {
     "school": "Shiratorizawa",
@@ -2834,11 +3224,21 @@
       {
         "key": "bests-para-a-vida",
         "type": "positional"
+      },
+      {
+        "key": "prediction-vs-system",
+        "type": "bond"
+      },
+      {
+        "key": "promising-senpai",
+        "type": "bond"
+      },
+      {
+        "key": "shiratorizawa-3rd-years",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block"
-    ],
+    "types": ["block"],
     "skillResonances": [
       {
         "id": "tendo-ssr.r1",
@@ -2869,7 +3269,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=797",
       "fetchedAt": "2025-09-26T04:17:00.477480Z"
-    }
+    },
+    "memoryId": "mem_block_up_tendo_satoru"
   },
   {
     "school": "Jozenji",
@@ -2891,11 +3292,7 @@
     "avatar": "/assets/img/terushimaSSR.png",
     "role": "WS",
     "name": "Terushima SSR",
-    "links": [],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "terushima-ssr.r1",
@@ -2926,7 +3323,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=1906",
       "fetchedAt": "2025-09-26T04:14:00.046053Z"
-    }
+    },
+    "memoryId": "mem_terushima_ssr"
   },
   {
     "school": "Karasuno",
@@ -2960,12 +3358,17 @@
       {
         "key": "aliados-no-campo-de-treinamento",
         "type": "positional"
+      },
+      {
+        "key": "the-moment-they-fell-for-volleyball",
+        "type": "bond"
+      },
+      {
+        "key": "tokyo-training-camp-buddies",
+        "type": "bond"
       }
     ],
-    "types": [
-      "block",
-      "quick"
-    ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "tsuki-sp.r1",
@@ -2996,7 +3399,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=4794",
       "fetchedAt": "2025-09-26T04:12:32.013140Z"
-    }
+    },
+    "memoryId": "mem_hast_attack_block_up_Tsuki_firefly_display_de_fogos_de_artificio"
   },
   {
     "school": "Karasuno",
@@ -3018,11 +3422,21 @@
     "avatar": "/assets/img/tsukishimaSSR.png",
     "role": "MB",
     "name": "Tsuki SSR",
-    "links": [],
-    "types": [
-      "block",
-      "quick"
+    "links": [
+      {
+        "key": "master-and-apprentice",
+        "type": "bond"
+      },
+      {
+        "key": "prediction-vs-system",
+        "type": "bond"
+      },
+      {
+        "key": "tokyo-training-camp-self-practice-buddies",
+        "type": "bond"
+      }
     ],
+    "types": ["block", "quick"],
     "skillResonances": [
       {
         "id": "tsuki-ssr.r1",
@@ -3053,7 +3467,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=909",
       "fetchedAt": "2025-09-26T04:12:49.941034Z"
-    }
+    },
+    "memoryId": "mem_block_up_Tsuki"
   },
   {
     "school": "Shiratorizawa",
@@ -3083,12 +3498,29 @@
       {
         "key": "campea-o-absoluto-e-levantador-so-lido",
         "type": "positional"
+      },
+      {
+        "key": "fated-rivals",
+        "type": "bond"
+      },
+      {
+        "key": "shiratorizawa-3rd-years",
+        "type": "bond"
+      },
+      {
+        "key": "the-absolute-king-vs-the-freak-duo",
+        "type": "bond"
+      },
+      {
+        "key": "undisputed-aces",
+        "type": "bond"
+      },
+      {
+        "key": "ushiwaka-and-benkei",
+        "type": "bond"
       }
     ],
-    "types": [
-      "power",
-      "serve"
-    ],
+    "types": ["power", "serve"],
     "skillResonances": [
       {
         "id": "ushijima-ur.r1",
@@ -3119,7 +3551,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=955",
       "fetchedAt": "2025-09-26T04:16:43.404237Z"
-    }
+    },
+    "memoryId": "mem_up_consciencia_wakatoshi_ushijima"
   },
   {
     "school": "Nekoma",
@@ -3145,11 +3578,17 @@
       {
         "key": "orientac-a-o-educacional",
         "type": "positional"
+      },
+      {
+        "key": "team-s-guardians",
+        "type": "bond"
+      },
+      {
+        "key": "team-s-guardians-after-school",
+        "type": "bond"
       }
     ],
-    "types": [
-      "receive"
-    ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "yaku-ssr.r1",
@@ -3180,7 +3619,8 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=997",
       "fetchedAt": "2025-09-26T04:15:07.420017Z"
-    }
+    },
+    "memoryId": "mem_receba_morisuke_yaku"
   },
   {
     "school": "Shiratorizawa",
@@ -3202,10 +3642,13 @@
     "avatar": "/assets/img/yamagataSSR.png",
     "role": "L",
     "name": "Yamagata SSR",
-    "links": [],
-    "types": [
-      "receive"
+    "links": [
+      {
+        "key": "shiratorizawa-3rd-years",
+        "type": "bond"
+      }
     ],
+    "types": ["receive"],
     "skillResonances": [
       {
         "id": "yamagata-ssr.r1",
@@ -3259,10 +3702,7 @@
     "role": "WS",
     "name": "Yui SSR",
     "links": [],
-    "types": [
-      "power",
-      "receive"
-    ],
+    "types": ["power", "receive"],
     "skillResonances": [
       {
         "id": "yui-ssr.r1",
@@ -3293,6 +3733,7 @@
     "metadata": {
       "source": "https://naoshisan.com/?p=3302",
       "fetchedAt": "2025-09-26T04:21:02.448875Z"
-    }
+    },
+    "memoryId": "mem_yui_ssr"
   }
 ]

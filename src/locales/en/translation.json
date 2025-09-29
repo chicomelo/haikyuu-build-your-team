@@ -1,4 +1,4 @@
-﻿{
+{
   "app_title": "Haikyu Fly High - Build your Team",
   "court_positions": {
     "S": "S",
@@ -21,8 +21,9 @@
     "school": "School",
     "synergies": "Synergies",
     "abilities": "Abilities",
-      "skill_resonances": "Skill Resonances",
-      "required_skill_level": "Required Skill Level: {{level}}"
+    "skill_resonances": "Skill Resonances",
+    "required_skill_level": "Required Skill Level: {{level}}",
+    "memory": "Memory"
   },
   "bench": "Bench",
   "roster": {
@@ -81,5 +82,28 @@
     "receive": "Receive",
     "serve": "Serve",
     "setter": "Setter"
+  },
+  "nav": {
+    "team_builder": "Team Builder",
+    "memories": "Memories"
+  },
+  "memory_page": {
+    "title": "Memories",
+    "subtitle": "Browse and filter every memory available for your characters.",
+    "filters": {
+      "position": "Position",
+      "all_positions": "All positions",
+      "player": "Character",
+      "all_players": "All characters"
+    },
+    "empty": "No memories found for the selected filters."
+  },
+  "memory_modal": {
+    "close": "Close",
+    "positions": "Positions",
+    "linked_player": "Linked to",
+    "bonus": "Attributes",
+    "no_bonus": "No additional attributes",
+    "no_image": "No image"
   }
 }

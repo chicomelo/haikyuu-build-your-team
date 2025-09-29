@@ -22,7 +22,8 @@
     "synergies": "Sinergias",
     "abilities": "Habilidades",
     "skill_resonances": "Ressonâncias de Habilidade",
-    "required_skill_level": "Nível de habilidade necessário: {{level}}"
+    "required_skill_level": "Nível de habilidade necessário: {{level}}",
+    "memory": "Memória"
   },
   "bench": "Reservas",
   "roster": {
@@ -81,5 +82,28 @@
     "receive": "Recepção",
     "serve": "Saque",
     "setter": "Levantador"
+  },
+  "nav": {
+    "team_builder": "Team Builder",
+    "memories": "Memórias"
+  },
+  "memory_page": {
+    "title": "Memórias",
+    "subtitle": "Visualize e filtre todas as memórias disponíveis para seus personagens.",
+    "filters": {
+      "position": "Posição",
+      "all_positions": "Todas as posições",
+      "player": "Personagem",
+      "all_players": "Todos os personagens"
+    },
+    "empty": "Nenhuma memória encontrada para os filtros selecionados."
+  },
+  "memory_modal": {
+    "close": "Fechar",
+    "positions": "Posições",
+    "linked_player": "Vinculado a",
+    "bonus": "Atributos",
+    "no_bonus": "Sem atributos adicionais",
+    "no_image": "Sem imagem"
   }
 }

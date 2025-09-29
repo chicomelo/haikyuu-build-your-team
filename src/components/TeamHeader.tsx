@@ -1,4 +1,4 @@
-import { encodeTeamToQuery } from "../services/share";
+﻿import { encodeTeamToQuery } from "../services/share";
 import { useStore } from "../state/store";
 import { TeamManager } from "./TeamManager";
 import logo from "../assets/logo.png";
@@ -8,7 +8,12 @@ import { useTranslation } from "react-i18next";
 import { shortenUrl } from "../services/urlShortener";
 import { MobileMenu } from "./MobileMenu";
 
-export function TeamHeader() {
+type Props = {
+  viewMode: "team" | "memories";
+  onChangeView: (view: "team" | "memories") => void;
+};
+
+export function TeamHeader({ viewMode, onChangeView }: Props) {
   const team = useStore((s) => s.team);
   const rotationLabels = useStore((s) => s.rotationLabels);
   const { t, i18n } = useTranslation();
@@ -17,13 +22,9 @@ export function TeamHeader() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
-  // Carregar idioma do localStorage ao iniciar
   useEffect(() => {
     const savedLanguage = localStorage.getItem("selectedLanguage");
-    if (
-      savedLanguage &&
-      (savedLanguage === "PT-BR" || savedLanguage === "EN")
-    ) {
+    if (savedLanguage && (savedLanguage === "PT-BR" || savedLanguage === "EN")) {
       setLanguage(savedLanguage);
       i18n.changeLanguage(savedLanguage === "PT-BR" ? "pt-BR" : "en");
     }
@@ -31,27 +32,18 @@ export function TeamHeader() {
 
   const share = async () => {
     const url = encodeTeamToQuery(team, rotationLabels);
-
     try {
-      // Encurtar a URL usando TinyURL
       const shortenedUrl = await shortenUrl(url);
-
-      // Copiar a URL encurtada para a área de transferência
       await navigator.clipboard.writeText(shortenedUrl);
       alert(t("team_manager.link_copied"));
     } catch {
-      // Fallback: mostrar o prompt com a URL original se o encurtamento falhar
       prompt(t("team_manager.copy_link"), url);
     }
   };
 
-  // Fechar dropdown ao clicar fora
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
-      if (
-        dropdownRef.current &&
-        !dropdownRef.current.contains(event.target as Node)
-      ) {
+      if (dropdownRef.current && !dropdownRef.current.contains(event.target as Node)) {
         setDropdownOpen(false);
       }
     };
@@ -65,46 +57,46 @@ export function TeamHeader() {
   const handleLanguageChange = (lang: string) => {
     setLanguage(lang);
     setDropdownOpen(false);
-    // Salvar idioma no localStorage
     localStorage.setItem("selectedLanguage", lang);
-    // Mudar idioma no i18next (para refletir imediatamente)
     i18n.changeLanguage(lang === "PT-BR" ? "pt-BR" : "en");
 
-    // Navegar para a rota do idioma, preservando query/hash
     const { pathname, search, hash } = window.location;
     const isEN = pathname.startsWith("/en");
     if (lang === "EN") {
       const targetPath = isEN ? pathname : "/en" + pathname;
       window.location.href = targetPath + search + hash;
     } else {
-      // PT-BR: remover prefixo /en se existir
-      const targetPath = isEN
-        ? pathname.replace(/^\/en/, "") || "/"
-        : pathname || "/";
+      const targetPath = isEN ? pathname.replace(/^\/en/, "") || "/" : pathname || "/";
       window.location.href = targetPath + search + hash;
     }
   };
+
+  const isTeamView = viewMode === "team";
+  const desktopTeamClass = `btn ${isTeamView ? "bg-white/20 border-white/30" : ""}`;
+  const desktopMemoriesClass = `btn ${viewMode === "memories" ? "bg-white/20 border-white/30" : ""}`;
 
   return (
     <header className="sticky top-0 z-20 border-b border-white/10 bg-neutral-950/90 backdrop-blur">
       <div className="mx-auto max-w-[1600px] px-4 h-16 md:h-14 flex items-center gap-3">
         <h1 className="font-semibold flex items-center gap-2">
           <img src={logo} alt="Haikyu Fly High" className="h-6 inline" />
-          <span className="hidden md:inline">
-            Haikyu Fly High — Team Builder
-          </span>
+          <span className="hidden md:inline">Haikyu Fly High - Team Builder</span>
           <span className="md:hidden">
             Haikyu Fly High <br />
             Team Builder
           </span>
         </h1>
         <div className="ml-auto flex items-center gap-2">
-          {/* Idioma sempre visível aqui por enquanto */}
+          <div className="hidden md:flex items-center gap-2">
+            <button className={desktopTeamClass} onClick={() => onChangeView("team")}>
+              {t("nav.team_builder", "Team Builder")}
+            </button>
+            <button className={desktopMemoriesClass} onClick={() => onChangeView("memories")}>
+              {t("nav.memories", "Memórias")}
+            </button>
+          </div>
           <div className="relative" ref={dropdownRef}>
-            <button
-              className="btn flex items-center gap-2"
-              onClick={() => setDropdownOpen(!dropdownOpen)}
-            >
+            <button className="btn flex items-center gap-2" onClick={() => setDropdownOpen(!dropdownOpen)}>
               <Globe size={16} />
               <span>{language}</span>
             </button>
@@ -130,17 +122,16 @@ export function TeamHeader() {
             )}
           </div>
 
-          {/* Botões desktop */}
           <TeamManager />
           <button
             className="btn hidden md:inline-flex"
             onClick={share}
             title={t("buttons.share")!}
+            disabled={!isTeamView}
           >
             <Send size={16} />
           </button>
 
-          {/* Menu hambúrguer apenas no mobile */}
           <button
             className="btn md:hidden"
             onClick={() => setMobileMenuOpen(true)}
@@ -155,6 +146,11 @@ export function TeamHeader() {
         open={mobileMenuOpen}
         onClose={() => setMobileMenuOpen(false)}
         onShare={share}
+        onNavigate={(view) => {
+          onChangeView(view);
+          setMobileMenuOpen(false);
+        }}
+        viewMode={viewMode}
       />
     </header>
   );

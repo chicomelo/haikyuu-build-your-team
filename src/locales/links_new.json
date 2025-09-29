@@ -295,8 +295,8 @@
       "en": "Iron Wall"
     },
     "description": {
-      "pt": "Quando Koganegawa estiver em quadra, se pelo menos 2 membros incluídos neste Vínculo estiverem presentes, a Habilidade de Vínculo é ativada.Quando os aliados executarem um bloqueio duplo/triplo, os aliados da linha de frente recebem [Técnica de Defesa] +3%/4%/5%/6%/7% por 1 cruzamento de rede.Quando um aliado ativa uma habilidade de [Saque], o saque não falhará.Durante ralis em que um aliado ativa uma habilidade de [Saque], se os aliados executarem bloqueio duplo/triplo, ganha 1 acúmulo de [Poderoso Bloqueio] e [Criar Muralha de Ferro] (só ativa se o membro correspondente estiver em quadra).",
-      "en": "When Koganegawa is on the court, if at least 2 members included in the Bond Skill are present, the Bond Skill becomes active. When allies perform a 2-person/3-person block, front-row allies’ Defense Technique increases by 3%/4%/5%/6%/7% for 1 rally. When an ally activates a serve skill, the serve will not fail. During rallies where an ally activates a serve skill, if allies perform a 2-person/3-person block, gain 1 stack each of Powerful Block and Create Iron Wall (only activates if the corresponding member is on the court)."
+      "pt": "Quando Koganegawa estiver em quadra, se pelo menos 2 membros incluídos neste Vínculo estiverem presentes, a Habilidade de Vínculo é ativada. \nQuando os aliados executarem um bloqueio duplo/triplo, os aliados da linha de frente recebem [Técnica de Defesa] +3%/4%/5%/6%/7% por 1 cruzamento de rede. \nQuando um aliado ativa uma habilidade de [Saque], o saque não falhará.Durante ralis em que um aliado ativa uma habilidade de [Saque], se os aliados executarem bloqueio duplo/triplo, ganha 1 acúmulo de [Poderoso Bloqueio] e [Criar Muralha de Ferro] (só ativa se o membro correspondente estiver em quadra).",
+      "en": "When Koganegawa is on the court, if at least 2 members included in the Bond Skill are present, the Bond Skill becomes active. \nWhen allies perform a 2-person/3-person block, front-row allies’ Defense Technique increases by 3%/4%/5%/6%/7% for 1 rally. \nWhen an ally activates a serve skill, the serve will not fail. During rallies where an ally activates a serve skill, if allies perform a 2-person/3-person block, gain 1 stack each of Powerful Block and Create Iron Wall (only activates if the corresponding member is on the court)."
     }
   },
   "sol-vs-lua": {
@@ -333,6 +333,650 @@
     "description": {
       "pt": "Aumenta o Ataque Potente de TODOS os jogadores presentes.",
       "en": "Increases Power Attack of ALL players present"
+    }
+  },
+  "behind-the-smile": {
+    "key": "behind-the-smile",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Por Trás do Sorriso",
+      "en": "Behind the Smile"
+    },
+    "description": {
+      "pt": "Daichi SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKuro UR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
+      "en": "Daichi SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKuro UR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+    }
+  },
+  "bench-cheer": {
+    "key": "bench-cheer",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Bench cheer",
+      "en": "Bench cheer"
+    },
+    "description": {
+      "pt": "Hisashi R: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nKazuhito R: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Hisashi R increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nKazuhito R increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+
+  "cannon-e-iron-wall": {
+    "key": "cannon-e-iron-wall",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Canhão & Muralha de Ferro",
+      "en": "Cannon & Iron Wall"
+    },
+    "description": {
+      "pt": "Azumane SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAone SSR: Sem bônus",
+      "en": "Azumane SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAone SSR: No buff"
+    }
+  },
+  "cannon-and-iron-wall": {
+    "key": "cannon-and-iron-wall",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Canhão e Muralha de Ferro",
+      "en": "Cannon and Iron Wall"
+    },
+    "description": {
+      "pt": "Aone SP: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAzumane SSR: Aumenta ",
+      "en": "Aone SP increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAzumane SSR increases "
+    }
+  },
+  "classmates": {
+    "key": "classmates",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Classmates",
+      "en": "Classmates"
+    },
+    "description": {
+      "pt": "Suna SSR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOsamu UR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Suna SSR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOsamu UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+
+  "date-kogyo-s-junior": {
+    "key": "date-kogyo-s-junior",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Júnior da Date Kogyo",
+      "en": "Date Kogyo's Junior"
+    },
+    "description": {
+      "pt": "Jingo R: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSakunami R: Aumenta Quick Attack +5/7/9/12/15, Quick Attack stat by 6/7/8/9/10%",
+      "en": "Jingo R increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSakunami R increases Quick Attack +5/7/9/12/15, Quick Attack stat by 6/7/8/9/10%"
+    }
+  },
+  "date-kogyo-s-setter": {
+    "key": "date-kogyo-s-setter",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Levantadores da Date Kogyo",
+      "en": "Date Kogyo's Setter"
+    },
+    "description": {
+      "pt": "Kaname SR: Sem bônus\nKaji SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
+      "en": "Kaname SR: No buff\nKaji SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
+    }
+  },
+  "fated-rivals": {
+    "key": "fated-rivals",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Rivais Predestinados",
+      "en": "Fated Rivals"
+    },
+    "description": {
+      "pt": "Oikawa UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nUshijima UR: Aumenta ",
+      "en": "Oikawa UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nUshijima UR increases "
+    }
+  },
+  "flexible-aces": {
+    "key": "flexible-aces",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Aces Flexíveis",
+      "en": "Flexible Aces"
+    },
+    "description": {
+      "pt": "Hinata SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nLev SSR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%",
+      "en": "Hinata SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nLev SSR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%"
+    }
+  },
+  "formidable-opponent": {
+    "key": "formidable-opponent",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Oponente Formidável",
+      "en": "Formidable Opponent"
+    },
+    "description": {
+      "pt": "Nishinoya SR: Aumenta Save +5/7/9/12/15, Save +1/2/3/4/5%\nYaku SR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
+      "en": "Nishinoya SR increases Save +5/7/9/12/15, Save +1/2/3/4/5%\nYaku SR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
+    }
+  },
+  "friends-from-volleyball-class": {
+    "key": "friends-from-volleyball-class",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Amigos da Aula de Vôlei",
+      "en": "Friends from Volleyball Class"
+    },
+    "description": {
+      "pt": "Atsumu UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOsamu UR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOjiro SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
+      "en": "Atsumu UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOsamu UR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOjiro SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+    }
+  },
+  "fukurodani-3rd-years": {
+    "key": "fukurodani-3rd-years",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Terceiranistas de Fukurodani",
+      "en": "Fukurodani 3rd Years"
+    },
+    "description": {
+      "pt": "Bokuto UR: Aumenta \nKomi SR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKonoha: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSarukui SSR: Aumenta Power +5/7/9/12/15, Power +1/2/3/4/5%\nWashio SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Bokuto UR increases \nKomi SR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKonoha increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSarukui SSR increases Power +5/7/9/12/15, Power +1/2/3/4/5%\nWashio SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+
+  "grit-and-competitive": {
+    "key": "grit-and-competitive",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Garra e Competitividade",
+      "en": "Grit and Competitive"
+    },
+    "description": {
+      "pt": "Yamamoto SR: Sem bônus\nKenma SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
+      "en": "Yamamoto SR: No buff\nKenma SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
+    }
+  },
+
+  "inarizaki-2nd-years": {
+    "key": "inarizaki-2nd-years",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Segundanistas de Inarizaki",
+      "en": "Inarizaki 2nd Years"
+    },
+    "description": {
+      "pt": "Suna SSR: Aumenta Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nGinjima SSR: Aumenta Power Spike +5/7/9/12/15, Power Spike +1/2/3/4/5%\nOsamu UR: Aumenta Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nAtsumu UR: Aumenta \nKosaku R: Aumenta ",
+      "en": "Suna SSR increases Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nGinjima SSR increases Power Spike +5/7/9/12/15, Power Spike +1/2/3/4/5%\nOsamu UR increases Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nAtsumu UR increases \nKosaku R increases "
+    }
+  },
+  "inarizaki-ws-teammates": {
+    "key": "inarizaki-ws-teammates",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Pontas de Inarizaki (Companheiros)",
+      "en": "Inarizaki WS Teammates"
+    },
+    "description": {
+      "pt": "Kita SSR: Aumenta Cover +5/7/9/12/15, Cover +1/2/3/4/5%\nOjiro SSR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nGinjima SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKosaku R: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nRiseki R: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%",
+      "en": "Kita SSR increases Cover +5/7/9/12/15, Cover +1/2/3/4/5%\nOjiro SSR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nGinjima SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKosaku R increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nRiseki R increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%"
+    }
+  },
+  "japan-youth-training-camp-teammates": {
+    "key": "japan-youth-training-camp-teammates",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Companheiros do Acampamento Juvenil do Japão",
+      "en": "Japan Youth Training Camp Teammates"
+    },
+    "description": {
+      "pt": "Kageyama UR: Aumenta \nAtsumu UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nSakusa UR: Aumenta Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%\nKomori UR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nHoshiumi UR: Aumenta Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%",
+      "en": "Kageyama UR increases \nAtsumu UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nSakusa UR increases Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%\nKomori UR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nHoshiumi UR increases Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%"
+    }
+  },
+  "karasuno-3rd-years": {
+    "key": "karasuno-3rd-years",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Terceiranistas de Karasuno",
+      "en": "Karasuno 3rd Years"
+    },
+    "description": {
+      "pt": "Azumane SSR: Aumenta Power +5/7/9/12/15, Power +1/2/3/4/5%\nDaichi SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSugawara SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Azumane SSR increases Power +5/7/9/12/15, Power +1/2/3/4/5%\nDaichi SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSugawara SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "karasuno-s-failing-grades-group": {
+    "key": "karasuno-s-failing-grades-group",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Grupo das Notas Vermelhas de Karasuno",
+      "en": "Karasuno's Failing Grades Group"
+    },
+    "description": {
+      "pt": "Hinata SSR: Aumenta \nKageyama UR: Aumenta \nNishinoya SSR: Aumenta \nTanaka SSR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
+      "en": "Hinata SSR increases \nKageyama UR increases \nNishinoya SSR increases \nTanaka SSR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
+    }
+  },
+  "karasuno-s-red-mark-squad-hanami-ver": {
+    "key": "karasuno-s-red-mark-squad-hanami-ver",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Esquadrão das Notas Vermelhas (Hanami)",
+      "en": "Karasuno's Red Mark Squad (Hanami ver.)"
+    },
+    "description": {
+      "pt": "Hinata SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nNishinoya SP: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTanaka SSR: Aumenta \nKageyama UR: Aumenta ",
+      "en": "Hinata SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nNishinoya SP increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTanaka SSR increases \nKageyama UR increases "
+    }
+  },
+  "karasuno-s-setters": {
+    "key": "karasuno-s-setters",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Levantadores de Karasuno",
+      "en": "Karasuno's Setters"
+    },
+    "description": {
+      "pt": "Sugawara SR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKageyama UR: Aumenta ",
+      "en": "Sugawara SR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKageyama UR increases "
+    }
+  },
+  "karasuno-s-wing-spiker": {
+    "key": "karasuno-s-wing-spiker",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Pontas de Karasuno",
+      "en": "Karasuno's Wing Spiker"
+    },
+    "description": {
+      "pt": "Tanaka SR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAzumane SR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nChikara SR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
+      "en": "Tanaka SR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAzumane SR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nChikara SR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+    }
+  },
+  "master-and-apprentice": {
+    "key": "master-and-apprentice",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Mestre e Aprendiz",
+      "en": "Master and Apprentice"
+    },
+    "description": {
+      "pt": "Tsuki SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro UR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Tsuki SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+
+  "number-one-disciple": {
+    "key": "number-one-disciple",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Discípulo Número Um",
+      "en": "Number One Disciple"
+    },
+    "description": {
+      "pt": "Bokuto UR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR: Aumenta ",
+      "en": "Bokuto UR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR increases "
+    }
+  },
+  "number-one-disciple-sp": {
+    "key": "number-one-disciple-sp",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Discípulo Número Um SP",
+      "en": "Number One Disciple SP"
+    },
+    "description": {
+      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nBokuto SP: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
+      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nBokuto SP increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
+    }
+  },
+
+  "prediction-vs-system": {
+    "key": "prediction-vs-system",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Previsão vs Sistema",
+      "en": "Prediction VS System"
+    },
+    "description": {
+      "pt": "Tsuki SSR: Sem bônus\nTendo SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Tsuki SSR: No buff\nTendo SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "promising-senpai": {
+    "key": "promising-senpai",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Senpai Promissor",
+      "en": "Promising Senpai"
+    },
+    "description": {
+      "pt": "Tendo SSR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nGoshiki SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
+      "en": "Tendo SSR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nGoshiki SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+    }
+  },
+  "rival-friends": {
+    "key": "rival-friends",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Amigos Rivais",
+      "en": "Rival Friends"
+    },
+    "description": {
+      "pt": "Hinata SSR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nKenma SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
+      "en": "Hinata SSR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nKenma SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
+    }
+  },
+
+  "shiratorizawa-3rd-years": {
+    "key": "shiratorizawa-3rd-years",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Terceiranistas da Shiratorizawa",
+      "en": "Shiratorizawa 3rd Years"
+    },
+    "description": {
+      "pt": "Ushijima UR: Aumenta \nYamagata SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOhira SSR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nSemi SSR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nTendo SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Ushijima UR increases \nYamagata SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOhira SSR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nSemi SSR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nTendo SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "silence-and-sarcasm": {
+    "key": "silence-and-sarcasm",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Silêncio e Sarcasmo",
+      "en": "Silence and Sarcasm"
+    },
+    "description": {
+      "pt": "Aone SP: Aumenta Block +5/7/9/12/15 e Block +1/2/3/4/5%",
+      "en": "Aone SP increases Block +5/7/9/12/15 and Block +1/2/3/4/5%"
+    }
+  },
+  "simulated-junior-training-teamate": {
+    "key": "simulated-junior-training-teamate",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Simulated Junior Training Teamate",
+      "en": "Simulated Junior Training Teamate"
+    },
+    "description": {
+      "pt": "Kanji SR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%\nTsuki SR: Sem bônus",
+      "en": "Kanji SR increases Set +5/7/9/12/15, Set +1/2/3/4/5%\nTsuki SR: No buff"
+    }
+  },
+  "strange-friendship": {
+    "key": "strange-friendship",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Amizade Estranha",
+      "en": "Strange Friendship"
+    },
+    "description": {
+      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nAone SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nAone SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "team-s-guardians": {
+    "key": "team-s-guardians",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Guardiões do Time",
+      "en": "Team's Guardians"
+    },
+    "description": {
+      "pt": "Nishinoya SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
+      "en": "Nishinoya SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+    }
+  },
+  "team-s-guardians-after-school": {
+    "key": "team-s-guardians-after-school",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Guardiões do Time (Depois da Aula)",
+      "en": "Team's Guardians (After School)"
+    },
+    "description": {
+      "pt": "Nishinoya SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
+      "en": "Nishinoya SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+    }
+  },
+  "the-enigmatic-teammate": {
+    "key": "the-enigmatic-teammate",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "The \"Enigmatic\" Teammate",
+      "en": "The \"Enigmatic\" Teammate"
+    },
+    "description": {
+      "pt": "Lev SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nKenma SSR: Sem bônus",
+      "en": "Lev SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nKenma SSR: No buff"
+    }
+  },
+  "the-absolute-king-vs-the-freak-duo": {
+    "key": "the-absolute-king-vs-the-freak-duo",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "O Rei Absoluto vs a Dupla Freak",
+      "en": "The Absolute King VS the Freak Duo"
+    },
+    "description": {
+      "pt": "Ushijima UR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR: Aumenta \nKageyama UR: Aumenta ",
+      "en": "Ushijima UR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR increases \nKageyama UR increases "
+    }
+  },
+  "the-king-and-the-great-king": {
+    "key": "the-king-and-the-great-king",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "O Rei e o Grande Rei",
+      "en": "The King and The Great King"
+    },
+    "description": {
+      "pt": "Kageyama UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOikawa UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%",
+      "en": "Kageyama UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOikawa UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%"
+    }
+  },
+  "the-moment-they-fell-for-volleyball": {
+    "key": "the-moment-they-fell-for-volleyball",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "O Momento em que se Apaixonaram por Vôlei",
+      "en": "The Moment They Fell for Volleyball"
+    },
+    "description": {
+      "pt": "Bokuto SP: Aumenta Spikes +5/7/9/12/15, Spikes +1/2/3/4/5%\nTsuki SP: Aumenta Quick +5/7/9/12/15, Quick +1/2/3/4/5%",
+      "en": "Bokuto SP increases Spikes +5/7/9/12/15, Spikes +1/2/3/4/5%\nTsuki SP increases Quick +5/7/9/12/15, Quick +1/2/3/4/5%"
+    }
+  },
+  "third-year-from-inarizaki": {
+    "key": "third-year-from-inarizaki",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Terceiranista de Inarizaki",
+      "en": "Third Year from Inarizaki"
+    },
+    "description": {
+      "pt": "Kita SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOjiro SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAkagi SSR: Aumenta Cover +5/7/9/12/15, Cover +1/2/3/4/5%\nOmimi SR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Kita SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOjiro SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAkagi SSR increases Cover +5/7/9/12/15, Cover +1/2/3/4/5%\nOmimi SR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "tokyo-training-camp-buddies": {
+    "key": "tokyo-training-camp-buddies",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Parceiros do Training Camp de Tóquio",
+      "en": "Tokyo Training Camp Buddies"
+    },
+    "description": {
+      "pt": "Bokuto SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nAkaashi SP: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTsuki SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Bokuto SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nAkaashi SP increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTsuki SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "tokyo-training-camp-self-practice-buddies": {
+    "key": "tokyo-training-camp-self-practice-buddies",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Parceiros do Treino Individual (Camp de Tóquio)",
+      "en": "Tokyo Training Camp Self-Practice Buddies"
+    },
+    "description": {
+      "pt": "Bokuto UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAkaashi SSR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKuro UR: Aumenta \nTsuki SSR: Aumenta ",
+      "en": "Bokuto UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAkaashi SSR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKuro UR increases \nTsuki SSR increases "
+    }
+  },
+  "undisputed-aces": {
+    "key": "undisputed-aces",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Aces Indiscutíveis",
+      "en": "Undisputed Aces"
+    },
+    "description": {
+      "pt": "Goshiki SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nUshijima UR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
+      "en": "Goshiki SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nUshijima UR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+    }
+  },
+  "ushiwaka-and-benkei": {
+    "key": "ushiwaka-and-benkei",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Ushiwaka e Benkei",
+      "en": "Ushiwaka and Benkei"
+    },
+    "description": {
+      "pt": "Ushijima UR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nOhira SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
+      "en": "Ushijima UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nOhira SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+    }
+  },
+  "youth-camp-setters": {
+    "key": "youth-camp-setters",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Levantadores do Acampamento Juvenil",
+      "en": "Youth Camp Setters"
+    },
+    "description": {
+      "pt": "Kageyama UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nAtsumu UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%",
+      "en": "Kageyama UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nAtsumu UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%"
+    }
+  },
+  "youth-training-camp": {
+    "key": "youth-training-camp",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Youth Training Camp",
+      "en": "Youth Training Camp"
+    },
+    "description": {
+      "pt": "Hoshiumi UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5% \nKageyama UR: Aumenta ",
+      "en": "Hoshiumi UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5% \nKageyama UR increases "
+    }
+  },
+  "similar-builds": {
+    "key": "similar-builds",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Similar Builds",
+      "en": "Similar Builds"
+    },
+    "description": {
+      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nHoshiumi UR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
+      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nHoshiumi UR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
+    }
+  },
+  "similar-physique-teammates": {
+    "key": "similar-physique-teammates",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Similar Physique Teammates",
+      "en": "Similar Physique Teammates"
+    },
+    "description": {
+      "pt": "Hinata SSR: Aumenta \nHoshiumi UR: Aumenta Power Strike +5/7/9/12/15, Power Strike +1/2/3/4/5%",
+      "en": "Hinata SSR increases \nHoshiumi UR increases Power Strike +5/7/9/12/15, Power Strike +1/2/3/4/5%"
+    }
+  },
+  "kiyoko-s-protection-group": {
+    "key": "kiyoko-s-protection-group",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Kiyoko's Protection Group",
+      "en": "Kiyoko's Protection Group"
+    },
+    "description": {
+      "pt": "Tanaka SSR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5% \nNishinoya SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
+      "en": "Tanaka SSR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5% \nNishinoya SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+    }
+  },
+  "date-tech-s-setters": {
+    "key": "date-tech-s-setters",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Date Tech’s Setters",
+      "en": "Date Tech’s Setters"
+    },
+    "description": {
+      "pt": "Koganegawa SP: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nMoniwa SR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%",
+      "en": "Koganegawa SP increases Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nMoniwa SR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%"
+    }
+  },
+  "new-type-rookie-e-the-new-captain": {
+    "key": "new-type-rookie-e-the-new-captain",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "O Novato de Novo Estilo e o Novo Capitão",
+      "en": "New-type Rookie & the New Captain"
+    },
+    "description": {
+      "pt": "Koganegawa SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5% \nFutakuchi SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
+      "en": "Koganegawa SP increases Block +5/7/9/12/15, Block +1/2/3/4/5% \nFutakuchi SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
     }
   }
 }

@@ -1,0 +1,2093 @@
+[
+  {
+    "id": "mem_op",
+    "name": {
+      "pt": "Memória de OP",
+      "en": "Memória de OP"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Quando um membro com esta memória joga pela primeira vez em cada set, sua [Recepção] aumenta em 24%. Este efeito dura por 3 ralis.",
+      "en": "When a member with this memory plays for the first time in each set, their [Receive] increases by 24%. This effect lasts for 3 rallies."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 518
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoOP.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_l",
+    "name": {
+      "pt": "Memória de L",
+      "en": "Memória de L"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "Os Parâmetros Principais do membro que equipa esta memória aumentam em 6.4%. Se o resultado de recepção do respectivo membro não for BAD, o poder do próximo Ataque Potente do aliado será aumentado em 24% × [Ataque Potente] do membro que executará o Ataque Potente.",
+      "en": "The main parameters of the member who has this memory set will increase by 6.4%.If the corresponding member's receive result is not BAD, the power of the next powerful hit of the ally will be increased by [Power Hit] x 24% of the member performing the powerful hit."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoL.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_ws",
+    "name": {
+      "pt": "Memória de WS",
+      "en": "Memória de WS"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O membro que equipa esta memória tem seu [Ataque Potente] aumentado em 12%. Quando o membro realiza um Ataque Potente, o [Bloqueio] do oponente é reduzido em 6.4% até a bola cruzar a rede uma vez. Se o resultado do bloqueio do oponente nesta jogada for BAD, o membro oponente que bloqueou terá seu [Bloqueio] reduzido em 6.4%. Este efeito dura até a bola cruzar a rede duas vezes.",
+      "en": "The member who has this memory set will have their [Power Hit] increased by 12%.When the affected member hits a powerful shot, the opposing member's [Block] will be reduced by 6.4%. This effect will last until the ball goes over the net once.If the opponent's block result for this play is BAD, the opposing team member who blocked will have their [Block] reduced by 6.4%. This effect lasts until the ball goes over the net twice."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoWS.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_s",
+    "name": {
+      "pt": "Memória de S",
+      "en": "Memória de S"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Enquanto houver um membro com esta memória em quadra, o [Passe] dos aliados aumenta em 8%. Uma vez por set, quando a Stamina de um membro cair abaixo de 30, a Stamina desse membro será restaurada em 24.",
+      "en": "When a member with this memory is on the court, the [Toss] of allied members will increase by 8%.Once per set, when a member's stamina drops below 30, that member's stamina will be restored by 24."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoS.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_mb",
+    "name": {
+      "pt": "Memória de MB",
+      "en": "Memória de MB"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Ataque Rápido] do membro que equipa esta memória é aumentado em 12%. Para cada membro de Bloqueio na linha de frente do oponente, o [Ataque Rápido] desse membro aumenta em mais 6.4%.",
+      "en": "The [Quick Attack] of the member who has this memory set is increased by 12%.For each Block member in the opponent's front line, that member's [Quick Attack] increases by an additional 6.4%"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoMB.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_up_consciencia_wakatoshi_ushijima",
+    "name": {
+      "pt": "Ushijima UR",
+      "en": "Ushijima UR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Aumenta [Percepção] do equipador em 10%;\nQuando o atributo [Percepção] do equipador passar de 20%, ele recebe 0.5% de aumento no atributo [Força] a cada 1% do atributo [Percepção] excedente, podendo aumentar até no máximo 50% do atributo [Força]."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 43
+      },
+      "Serve": {
+        "flat": 49
+      },
+      "Block": {
+        "flat": 57
+      },
+      "Spike": {
+        "flat": 63
+      },
+      "Receive": {
+        "flat": 63
+      },
+      "Save": {
+        "flat": 46
+      }
+    },
+    "image": "/assets/img/memories/MemoUshijimaUR.png",
+    "characterId": "ushijima-ur"
+  },
+  {
+    "id": "mem_ofensive_up_osamu_miya",
+    "name": {
+      "pt": "Osamu UR",
+      "en": "Osamu UR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Aumenta [Ataque Rápido] do equipador em 12%;\nSe o atributo [Técnica de Ataque] do equipador passar de 40% de aumento, aumenta a força do Ataque Rápido em [Ataque Rápido] x 24%."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 43
+      },
+      "Serve": {
+        "flat": 49
+      },
+      "Block": {
+        "flat": 57
+      },
+      "Spike": {
+        "flat": 63
+      },
+      "Receive": {
+        "flat": 63
+      },
+      "Save": {
+        "flat": 46
+      }
+    },
+    "image": "/assets/img/memories/MemoOsamuUR.png",
+    "characterId": "osamu-ur"
+  },
+  {
+    "id": "mem_receba_reforco_hard_hit_daichi_sawamura",
+    "name": {
+      "pt": "Daichi SSR",
+      "en": "Daichi SSR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "A [Recepção] do membro que equipa esta memória é aumentada em 20%. Se o membro estiver em quadra, ganhe 1 acúmulo de [Determinação] sempre que um aliado do tipo Força consumir 20 de Stamina. Cada acúmulo aumenta o poder do Ataque Potente em 4% do atributo [Ataque Potente], até 10 acúmulos.",
+      "en": "The [Receive] of the member who has this memory set is increased by 20%. If the member is on the court, gain 1 stack of [Guts] effect every time your Power-type member consumes 20 stamina. Each stack increases Power Spike power by 4% of Power Attack stat, up to 10 stacks"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 518
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoDaichiSSR.png",
+    "characterId": "daichi-ssr"
+  },
+  {
+    "id": "mem_reacao_para_cima_akinori_konoha",
+    "name": {
+      "pt": "Konoha SSR",
+      "en": "Konoha SSR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Os Parâmetros Principais dos membros que equipam esta memória aumentam em 12%. O [Reflexo] do membro eleva a Moral da Equipe dos aliados em 10%. Enquanto um aliado estiver com [Despertar de Moral da Equipe] ativo, o [Reflexo] desse membro aumenta em 8%.",
+      "en": "The main parameters of the members who set this memory have increased by 12%. The member's [Reflex] increases the morale of × allies' team by 10%. While an ally has activated Team Morale Awakening, that member's [Reflex] is increased by 8%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 518
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoKonohaSSR.png",
+    "characterId": "konoha-ssr"
+  },
+  {
+    "id": "mem_ofensive_up_kentaro_kyotani",
+    "name": {
+      "pt": "Kentaro MAD DOG SSR",
+      "en": "Kentaro MAD DOG SSR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Se o membro com esta memória estiver em quadra, a [Força] do aliado que estiver atacando aumenta em 12%. Enquanto o membro estiver em quadra e a Stamina do oponente estiver abaixo de 60, o [Bloqueio] do oponente é reduzido em 16%. Este efeito dura até a bola cruzar a rede 3 vezes e pode ser ativado uma vez por set por membro.",
+      "en": "If the member with this memory is on the court, the [Power] of the friendly hitting member is increased by 12%. When the member is on the court and the opponent's Stamina is below 60, the opponent's [Block] is reduced by 16%. This effect lasts until the ball crosses the net 3 times, and can be activated once per set per member"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 518
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoKentaroSSR.png",
+    "characterId": "kentaro-mad-dog-ssr"
+  },
+  {
+    "id": "mem_param_main_e_hard_hit_takehito_sasaya",
+    "name": {
+      "pt": "Sasaya SSR",
+      "en": "Sasaya SSR"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "O [Ataque Potente] e o [Bloqueio] dos membros que equipam esta memória aumentam em 12%. Se o placar estiver favorável ao oponente, o poder do seu Spike aumenta em 28% × [Ataque Potente].",
+      "en": "The [Power Attack] and [Block] of the members who set this memory are increased by 12%. If the score is led by the opponent, the member's spike power increases by 28% × [Power Attack]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 518
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoSasayaSSR.png",
+    "characterId": "sasaya-ssr"
+  },
+  {
+    "id": "mem_defense_up_yu_nishinoya_depois_da_escola",
+    "name": {
+      "pt": "Nishinoya SP",
+      "en": "Nishinoya SP"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "Aumenta [Recepção] do equipador em 12%;\nQuando o equipador ativa sua habilidade 4, seus atributos [Reflexo] aumenta em 0.6% e [Empenho] em 1.2%, até 5 vezes;\nSe durante 1 rally o equipador ativou a habilidade 4 mais de 2 vezes, o equipador recupera 10 de Vigor e seu atributo [Técnica de Defesa] aumenta em 8% na próxima vez que ativar a habilidade 4. Esse efeito permanece por 2 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 66
+      },
+      "Serve": {
+        "flat": 53
+      },
+      "Block": {
+        "flat": 50
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 72
+      }
+    },
+    "image": "/assets/img/memories/MemoNishinoyaSP.png",
+    "characterId": "nishinoya-sp"
+  },
+  {
+    "id": "mem_defense_offensive_up_motoya_komori",
+    "name": {
+      "pt": "Komori UR",
+      "en": "Komori UR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "Aumenta [Recepção] do equipador em 12%;\nQuando o equipador realiza uma Recepção, aumenta o atributo [Técnica de Defesa] dos aliados da Linha de Defesa/Trás em 2%, até 3 vezes;\nSe o equipador está em quadra e o aliado ativa uma habilidade de Recepção, esse aliado restaura 2 de Vigor e seu atributo [Ataque Rápido/Potente] aumenta em 15%. Esse efeito permanece por 2 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 72
+      },
+      "Serve": {
+        "flat": 53
+      },
+      "Block": {
+        "flat": 50
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 72
+      }
+    },
+    "image": "/assets/img/memories/MemoKomoriUR.png",
+    "characterId": "komori-ur"
+  },
+  {
+    "id": "mem_defense_up_yu_nishinoya",
+    "name": {
+      "pt": "Nishinoya SSR",
+      "en": "Nishinoya SSR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "Se o membro que equipa esta memória estiver em quadra, aumenta a [Defesa] dos jogadores da linha de trás do seu lado em 8%. Se o consumo de Stamina do equipador for 8 ou mais ao ativar a habilidade de recepção, a [Recepção] do equipador aumenta em 20% e ele recupera 2 de Stamina.",
+      "en": "If the member who has this memory set is on the court, increases your side's back row players' Save stat by 8%. If the equipper's stamina consumption is 8 or more when the receive skill is activated, the equipper's [Receiving] increases by 20% and recovers 2 stamina"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoNishinoyaSSR.png",
+    "characterId": "nishinoya-ssr"
+  },
+  {
+    "id": "mem_receba_morisuke_yaku",
+    "name": {
+      "pt": "Yaku SSR",
+      "en": "Yaku SSR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "Quando um membro com esta memória recebe, a [Recepção] aumenta em 4% (até 5 acúmulos). Se a recepção do membro for PERFECT, o poder do próximo Ataque Rápido de um aliado aumenta em 32% × [Ataque Rápido] do membro que executará o ataque rápido.",
+      "en": "When a member with this memory sets receives, [Receive] increases by 4%. Up to 5 stacks. If the member's receive result is PERFECT, the next quick attack power after an ally increases the [Quick Attack] × of the member who is fast attacking by 32%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoYakuSSR.png",
+    "characterId": "yaku-ssr"
+  },
+  {
+    "id": "mem_receba_haruki_komi",
+    "name": {
+      "pt": "Haruki SSR",
+      "en": "Haruki SSR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "A [Recepção] e a [Defesa] dos membros que equipam esta memória aumentam em 16%. Se a recepção ou a defesa do membro não for BAD, a Moral da Equipe aumenta em 10. Além disso, o poder do próximo Ataque Potente de um aliado aumenta em 10% × [Ataque Potente] do membro.",
+      "en": "The [Receive] and [Save] of the members who set this memory increased by 16%. If the member's receive or cover result is not BAD, the team's morale increases by 10. In addition, the power of the next Power Spike of an ally increases the [Power Spike] of the member × Power Spike' stat by 10%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoHarukiSSR.png",
+    "characterId": "haruki-ssr"
+  },
+  {
+    "id": "mem_receba_yamagata_hayato",
+    "name": {
+      "pt": "Memo Yamagata SSR",
+      "en": "Memo Yamagata SSR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "A [Recepção] do membro que equipa esta memória é aumentada em 20%. Quando o membro ativa a Habilidade Especial de Recepção, o [Reflexo] aumenta em 12%.",
+      "en": "The [Receive] of the member who has this memory set is increased by 20%. When the member activates the receiving special move, [Reflex] is increased by 12%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoYamagataSSR.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_defense_up_michinari_akagi",
+    "name": {
+      "pt": "Memo Akagi SSR",
+      "en": "Memo Akagi SSR"
+    },
+    "positions": ["L"],
+    "description": {
+      "pt": "A [Recepção] do membro que equipa esta memória é aumentada em 20%. Se o resultado de recepção ou defesa do membro não for BAD, a [Técnica de Defesa] do aliado aumenta em 16% (até 3 acúmulos). Este efeito dura por 1 rali.",
+      "en": "The [Receive] of the member who has this memory set is increased by 20%. If the member's receiving or save result is not BAD, the friendly member's [Defensive Technique] is increased by 16%. Up to 3 stacks. This effect lasts for 1 rally"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 490
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 605
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 461
+      },
+      "Save": {
+        "flat": 663
+      }
+    },
+    "image": "/assets/img/memories/MemoAkagiSSR.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_power_up_shouyou_hinata_hanami",
+    "name": {
+      "pt": "Hinata SP",
+      "en": "Hinata SP"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "Aumenta [Força] do equipador em 12%;\nSe o Ataque Rápido do equipador resultar em uma Jogada Crítica, aumenta seu atributo [Força] em 2%, até 5 vezes;\nSe o Ataque Rápido do equipador resultar em uma Jogada Crítica e o Bloqueio do adversário não encostar na bola, reduz 4% dos atributos [Empenho] e [Reflexo] dos adversários na Linha de Ataque/Frente. Esse efeito permanece por 10 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 56
+      },
+      "Serve": {
+        "flat": 53
+      },
+      "Block": {
+        "flat": 66
+      },
+      "Spike": {
+        "flat": 72
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoHinataSP.png",
+    "characterId": "hinata-sp"
+  },
+  {
+    "id": "mem_hast_attack_block_up_Tsuki_firefly_display_de_fogos_de_artificio",
+    "name": {
+      "pt": "Tsuki SP",
+      "en": "Tsuki SP"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "Aumenta [Ataque Rápido] do equipador em 15%;\nQuando o equipador realiza uma Jogada Crítica, aumenta seu atributo [Bloqueio] em 6%, até 3 vezes;\nAplica aleatoriamente em 1 adversário o efeito Debuff  \"Anular\", reduzindo 5% do atributo básico desse adversário. Esse efeito permanece por 8 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 56
+      },
+      "Serve": {
+        "flat": 53
+      },
+      "Block": {
+        "flat": 72
+      },
+      "Spike": {
+        "flat": 72
+      },
+      "Receive": {
+        "flat": 66
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoTsukiSP.png",
+    "characterId": "tsuki-sp"
+  },
+  {
+    "id": "mem_kurosp",
+    "name": {
+      "pt": "Kuroo SP",
+      "en": "Kuro SP"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Bloqueio] aumenta em 12%. Quando o membro bloquear ou receber, se houver um inimigo em quadra com efeito negativo, a [Técnica de Defesa] do respectivo membro aumenta em 20%. Este efeito dura até a bola cruzar a rede quatro vezes.",
+      "en": "The [Block] is increased by 12%. When the corresponding member blocks or receives, if the member on the opponent's court has a disadvantageous effect, the corresponding member's [Defensive Technique] is increased by 20%. This effect lasts until the ball goes over the net four times"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 765
+      },
+      "Spike": {
+        "flat": 656
+      },
+      "Set": {
+        "flat": 619
+      },
+      "Receive": {
+        "flat": 838
+      },
+      "Block": {
+        "flat": 838
+      },
+      "Save": {
+        "flat": 583
+      }
+    },
+    "image": "/assets/img/memories/MemoKuroSP.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_tecnica_de_defesa_bloqueio_takashi_aone_banho_de_mar",
+    "name": {
+      "pt": "Aone SP",
+      "en": "Aone SP"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "Aumenta [Técnica de Defesa] do equipador em 6.4%;\nQuando o equipador participa de um Bloqueio Duplo/Triplo, aumenta o atributo [Bloqueio] dos aliados na linha de Ataque/Frente em 12%. Esse efeito permanece por 2 cruzamentos de rede;\nQuando o equipador realizar um Bloqueio e esse bloqueio resultar em um Bloqueio Duplo/Triplo, aumenta em mais 15% o atributo [Bloqueio] desse membro."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 56
+      },
+      "Serve": {
+        "flat": 72
+      },
+      "Block": {
+        "flat": 72
+      },
+      "Spike": {
+        "flat": 66
+      },
+      "Receive": {
+        "flat": 53
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoAoneSP.png",
+    "characterId": "aone-sp"
+  },
+  {
+    "id": "mem_hast_attack_blockup_tetsuro_kuroo",
+    "name": {
+      "pt": "Kuroo UR",
+      "en": "Kuro UR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O membro que equipa esta memória tem seu [Bloqueio] aumentado em 24%. Cada vez que o membro receber um aumento de [Ataque Rápido] proveniente de uma habilidade de aliado, ganha 1 acúmulo de [Ajuste]. Cada acúmulo de [Ajuste] aumenta o [Bloqueio] em 2.4% (máx. 10). Quando a Habilidade Especial de Bloqueio do membro for ativada, consuma 10 acúmulos do efeito [Constrição] e reduza a recarga da Habilidade Especial de Bloqueio do membro em 10 cruzadas de rede.",
+      "en": "The member who has this memory set will have their [Block] increased by 24%.Each time the member gains the [Quick Attack] boost from a member skill, they gain one stack of [Tighten]. Each stack of [Tighten] increases [Block] by 2.4%. Up to 10 stacks. When the corresponding member's Block Special Move is activated, 10 stacks of the [Constrict] effect are consumed, and the cooldown of the corresponding member's Block Special Move is reduced by 10 times the ball has gone over the net."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 665
+      },
+      "Spike": {
+        "flat": 729
+      },
+      "Set": {
+        "flat": 507
+      },
+      "Receive": {
+        "flat": 570
+      },
+      "Block": {
+        "flat": 729
+      },
+      "Save": {
+        "flat": 539
+      }
+    },
+    "image": "/assets/img/memories/MemoKuroUR.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_block_up_hirugami_yukoro",
+    "name": {
+      "pt": "Hirugami UR",
+      "en": "Hirugami UR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "Aumenta [Bloqueio] do equipador em 10%;\nQuando o time aliado pontua, aumenta [Bloqueio] do equipador em 2.4%, até 3 acúmulos;\nSe o aliado possui o efeito \"Bloqueio Rígido\", quando ele realizar um Bloqueio, seu atributo [Técnica de Defesa] aumentará em 1.2% e aumentará em mais 1.2% o atributo [Técnica de Defesa] do equipador. Esse efeito permanece até 4 cruzamentos de rede e pode ativar até 3 vezes."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 43
+      },
+      "Serve": {
+        "flat": 63
+      },
+      "Block": {
+        "flat": 63
+      },
+      "Spike": {
+        "flat": 57
+      },
+      "Receive": {
+        "flat": 49
+      },
+      "Save": {
+        "flat": 46
+      }
+    },
+    "image": "/assets/img/memories/MemoHirugamiUR.png",
+    "characterId": "hirugami-ur"
+  },
+  {
+    "id": "mem_increase_consciousness_shoyo_hinata",
+    "name": {
+      "pt": "Hinata SSR",
+      "en": "Hinata SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "A [Percepção] dos membros que equipam esta memória aumenta em 16%. Se a [Percepção] do membro for 40% ou maior, a [Percepção] aumenta em mais 16% e sofrer bloqueio é reduzido em 8%.",
+      "en": "The [Awareness] of the members who set this memory is increased by 16%. If the member's [Awareness] is 40% or higher, [Awareness] is increased by an additional 16% and Blocked is reduced by 8%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoHinataSSR.png",
+    "characterId": "hinata-ssr"
+  },
+  {
+    "id": "mem_block_up_Tsuki",
+    "name": {
+      "pt": "Tsuki SSR",
+      "en": "Tsuki SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Bloqueio] do membro que equipa esta memória aumenta em 20%. Quando o membro ativa a Habilidade Especial de Bloqueio, se o oponente que realizou o spike (Ataque Potente/Rápido) tiver um efeito negativo, o poder deste bloqueio aumenta em 32% × [Bloqueio] do membro.",
+      "en": "O [Bloqueio] do membro que equipa esta memória aumenta em 20%. Quando o membro ativa a Habilidade Especial de Bloqueio, se o oponente que realizou o spike (Ataque Potente/Rápido) tiver um efeito negativo, o poder deste bloqueio aumenta em 32% × [Bloqueio] do membro."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoTsukiSSR.png",
+    "characterId": "tsuki-ssr"
+  },
+  {
+    "id": "mem_offensive_up_tetsuro_kuroo_pratica",
+    "name": {
+      "pt": "Kuroo SSR",
+      "en": "Kuro SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "A [Percepção] dos membros que equipam esta memória aumenta em 16%. Quando o membro for bloqueado, sua [Técnica de Defesa] aumenta em 24% da sua [Força].",
+      "en": "The [Awareness] of the members who set this memory is increased by 16%. When the member is blocked, [Defensive Technique] increases by 24% of their Strength."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoKuroSSR.png",
+    "characterId": "kuroo-ssr"
+  },
+  {
+    "id": "mem_block_up_tatsuo",
+    "name": {
+      "pt": "Tatsuo SSR",
+      "en": "Tatsuo SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Bloqueio] do membro que equipa esta memória aumenta em 24%. Quando o membro bloquear, se o spike do oponente (potente/rápido) for PERFECT, este bloqueio será garantidamente PERFECT. Se o resultado deste bloqueio não for BAD, o [Bloqueio] do membro aumenta em 5% (até 3 acúmulos).",
+      "en": "The [Block] of the member who has this memory set is increased by 24%. When the member blocks, if the opponent's spike (power/quick attack) becomes a nice play, this block will definitely be a nice play. If the result of this block is not BAD, the member's [Block] will be increased by 5%. Up to 3 stacks"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoTatsuoSSR.png",
+    "characterId": "tatsuo-ssr"
+  },
+  {
+    "id": "mem_receive_up_ataque_rapido_reforco_haiba_lev",
+    "name": {
+      "pt": "Lev SSR",
+      "en": "Lev SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "Se o membro que equipa esta memória estiver em quadra, a [Recepção] dos defensores aliados aumenta em 12%. Se o membro estiver em quadra e o resultado da recepção aliada for PERFECT, o poder da próxima Habilidade Especial de Ataque Rápido do membro aumenta em 24% × [Ataque Rápido].",
+      "en": "If the member who has this memory set is on the court, the [Receive] of the teammate defender is increased by 12%. If the member is on the court and the ally's receive result is PERFECT, the power of the member's next quick attack special move increases by 24% × [Quick Attack] "
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoLevSSR.png",
+    "characterId": "lev-ssr"
+  },
+  {
+    "id": "mem_defense_up_takanobu_aone",
+    "name": {
+      "pt": "Aone SSR",
+      "en": "Aone SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "A [Técnica de Defesa] dos membros que equipam esta memória aumenta em 16%. Se o resultado de bloqueio do membro não for BAD, a Stamina do oponente é reduzida em 2 após o spike (potente/rápido). Se o atacante oponente for um membro de Ataque Potente, ele perde mais 1 de Stamina.",
+      "en": "The [Defensive Technique] of the members who set this memory has increased by 16%. If the member's block result is not BAD, the opponent's stamina is reduced by 2 after the spike (slam/quick attack). If the opponent's member who made the spike is a Power spike member, they lose 1 more stamina."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoAoneSSR.png",
+    "characterId": "aone-ssr"
+  },
+  {
+    "id": "mem_block_up_tendo_satoru",
+    "name": {
+      "pt": "Tendo SSR",
+      "en": "Tendo SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Bloqueio] do membro que equipa esta memória aumenta em 28%. Se o bloqueio do membro for PERFECT, a recarga da Habilidade Especial de Bloqueio é reduzida em 3 cruzadas de rede.",
+      "en": "The [block] of the member who has this memory set is increased by 28%. If the member's block becomes a nice play, the cooldown of the block's special move is reduced by 3 times the ball goes over the net"
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoTendoSSR.png",
+    "characterId": "tendo-ssr"
+  },
+  {
+    "id": "mem_fast_attack_up_rintaro_suna",
+    "name": {
+      "pt": "Rintaro SSR",
+      "en": "Rintaro SSR"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "O [Ataque Rápido] do membro que equipa esta memória aumenta em 20%. Se o bloqueador oponente tiver um efeito negativo quando o membro atacar rapidamente, o poder deste Ataque Rápido aumenta em 40% × [Ataque Rápido] do membro.",
+      "en": "The [Quick Attack] of the member who has this memory set is increased by 20%. If the opponent's blocking member has a disadvantage when the member attacks quickly, the power of this quick attack increases by 40% × that member's [Quick Attack]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 518
+      },
+      "Block": {
+        "flat": 663
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoRintaroSSR.png",
+    "characterId": "rintaro-ssr"
+  },
+  {
+    "id": "mem_akaashi_sp",
+    "name": {
+      "pt": "Akaashi SP",
+      "en": "Akaashi SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Passe] do equipador em 12%;\nEnquanto o time aliado estiver com o Reforço de Moral do Time ativado, aumenta em 10% o atributo [Percepção] do equipador;\nAumenta em 15% o atributo básico do aliado que está com o efeito \"Excelente Condição\" (Bokuto);\nQuando o aliado perde o efeito \"Excelente Condição\", aumenta em 10% o atributo [Reflexo] dele. Esse efeito permanece por 8 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 72
+      },
+      "Serve": {
+        "flat": 72
+      },
+      "Block": {
+        "flat": 66
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Receive": {
+        "flat": 53
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoAkaashiSP.png",
+    "characterId": "akaashi-sp"
+  },
+  {
+    "id": "mem_sugawara_sp",
+    "name": {
+      "pt": "Sugawara SP",
+      "en": "Sugawara SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta o atributo básico do equipador em 8%;\nQuando o equipador realiza um Passe, a cada 6 de seu Vigor disponível, aumenta em 1% o atributo [Ataque Rápido/Potente] do membro a realizar um Ataque. É possível aumentar no máximo até 15% e o efeito permanece por 2 cruzamentos de rede;\nSe o equipador ativar alguma habilidade e for consumido Vigor a mais, o aliado com menor Vigor disponível recuperará 10 de Vigor."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 72
+      },
+      "Serve": {
+        "flat": 72
+      },
+      "Block": {
+        "flat": 66
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Receive": {
+        "flat": 53
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoSugawaraSP.png",
+    "characterId": "sugawara-sp"
+  },
+  {
+    "id": "mem_kenma_sp",
+    "name": {
+      "pt": "Kenma SP",
+      "en": "Kenma SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Reflexo] do equipador em 8%;\nSe o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, quando o aliado ativar uma habilidade de Bloqueio ou Recepção, ele receberá 1 acúmulo do efeito \"Persistência\". A cada 1 acúmulo do efeito \"Persistência\", aumenta o atributo [Reflexo] desse aliado em 2%, até 3 acúmulos;\nSe o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, quando o aliado que ativar uma habilidade de Bloqueio ou Recepção estiver com 3 acúmulos do efeito \"Persistência\", os 3 acúmulos são consumidos e aumenta seu atributo [Reflexo] em 100%. Esse efeito permanece por 1 cruzamento de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 72
+      },
+      "Serve": {
+        "flat": 66
+      },
+      "Block": {
+        "flat": 53
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoKenmaSP.png",
+    "characterId": "kenma-sp"
+  },
+  {
+    "id": "mem_oikawa_ur",
+    "name": {
+      "pt": "Oikawa UR",
+      "en": "Oikawa UR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Saque] do equipador em 12%;\nQuando o equipador realiza um Saque Superior, ele recebe 2 acúmulos do efeito \"Tempo do Ataque\" (Oikawa). Cada acúmulo aumenta o atributo [Percepção] dos aliados em 1%, até 10 acúmulos. Se esse Saque marcar, o equipador recebe mais 4 acúmulos do efeito \"Tempo do Ataque\"."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 63
+      },
+      "Serve": {
+        "flat": 63
+      },
+      "Block": {
+        "flat": 57
+      },
+      "Spike": {
+        "flat": 49
+      },
+      "Receive": {
+        "flat": 46
+      },
+      "Save": {
+        "flat": 43
+      }
+    },
+    "image": "/assets/img/memories/MemoOikawaUR.png",
+    "characterId": "oikawa-ur"
+  },
+  {
+    "id": "mem_kageyama_ur",
+    "name": {
+      "pt": "Kageyama UR",
+      "en": "Kageyama UR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Passe] do equipador em 12%;\nAo ativar a habilidade de Largada do equipador, aumenta o atributo [Força] em [Percepção] x 20%, podendo aumentar no máximo até 100%;\nApós a ativação da habilidade de Largada do equipador, aumenta a força de Ataque Rápido/Potente do próximo aliado a atacar em atributo [Ataque Rápido/Potente do aliado a atacar] x 14%."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 63
+      },
+      "Serve": {
+        "flat": 63
+      },
+      "Block": {
+        "flat": 57
+      },
+      "Spike": {
+        "flat": 49
+      },
+      "Receive": {
+        "flat": 46
+      },
+      "Save": {
+        "flat": 43
+      }
+    },
+    "image": "/assets/img/memories/MemoKageyamaUR.png",
+    "characterId": "kageyama-ur"
+  },
+  {
+    "id": "mem_atsumu_ur",
+    "name": {
+      "pt": "Atsumu UR",
+      "en": "Atsumu UR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Passe] do equipador em 12%;\nQuando o equipador está em quadra, aumenta em 6.4% os atributos [Percepção] e [Reflexo] dos aliados em quadra que estiverem com esses atributos abaixo de 20%;\nAumenta [Técnica de Ataque] e [Técnica de Defesa] do equipador em 3.2%;\nSe a jogada aliada não resultar em uma Jogada Crítica, aumenta os atributos [Técnica de Ataque] e [Técnica de Defesa] do equipador em 1%, até 5 vezes. Esse efeito permanece por 1 rally."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 63
+      },
+      "Serve": {
+        "flat": 63
+      },
+      "Block": {
+        "flat": 57
+      },
+      "Spike": {
+        "flat": 49
+      },
+      "Receive": {
+        "flat": 46
+      },
+      "Save": {
+        "flat": 43
+      }
+    },
+    "image": "/assets/img/memories/MemoAtsumuUR.png",
+    "characterId": "atsumu-ur"
+  },
+  {
+    "id": "mem_kageyama_ssr_serve",
+    "name": {
+      "pt": "Kageyama SSR",
+      "en": "Kageyama SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Saque] aumenta em 20%. Quando este membro ativar um Supremo de Dois Toques, a [Percepção] dos aliados aumenta em 20% e a [Percepção] deste membro aumenta em mais 15%.",
+      "en": "[Serve] increases by 20%. When this member activates a Two Attack Ultimate, allies' [Awareness] increases by 20%, and this member's [Awareness] increases by an additional 15%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoKageyamaSSR.png",
+    "characterId": "kageyama-ssr"
+  },
+  {
+    "id": "mem_kenma_ssr",
+    "name": {
+      "pt": "Kenma SSR",
+      "en": "Kenma SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Passe] aumenta em 8%. Enquanto o equipador estiver em quadra, a [Recepção] dos aliados da linha de trás aumenta em 12%. Enquanto o equipador estiver em quadra, quando as pilhas de [Conexão] de um aliado diminuírem, os aliados ganham 1 acúmulo de [Conexão]; para cada acúmulo, aliados em quadra recebem +1% de [Recepção], até 6 acúmulos.",
+      "en": "[Set] increases by 8%. While the equipper is on the court, back-row allies' [Receive] increases by 12%. While the equipper is on the court, when an ally's [Connect] stacks decrease, allies gain 1 stack of [Connect]; for each stack, allies on the court gain +1% [Receive], up to 6 stacks."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoKenmaSSR.png",
+    "characterId": "kenma-ssr"
+  },
+  {
+    "id": "mem_akaashi_ssr",
+    "name": {
+      "pt": "Akaashi SSR",
+      "en": "Akaashi SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Passe] aumenta em 12%. Enquanto o [Despertar de Moral da Equipe] de um aliado estiver ativo, quando este membro realizar um Passe, o aliado que for atacar (Potente/Rápido) recupera 4 de Stamina e esse Spike recebe +16% de [Técnica de Ataque]. Quando este membro dissipar um debuff de um aliado, também remove o efeito [Modo de Baixa] desse aliado.",
+      "en": "[Set] increases by 12%. While an ally's Team Morale Awakening is active, when this member performs a Set, the spiking ally (Power/Quick) recovers 4 Stamina and that Spike gains +16% [Attack Technique]. When this member dispels an ally's debuff, also remove that ally's [Slump Mode] effect."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoAkaashiSSR.png",
+    "characterId": "akaashi-ssr"
+  },
+  {
+    "id": "mem_oikawa_ssr",
+    "name": {
+      "pt": "Oikawa SSR",
+      "en": "Oikawa SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Passe] aumenta em 20%. Na primeira vez em cada set que o [Ritmo de Ataque] dos aliados atingir 10 ou mais acúmulos, o [Passe] deste membro aumenta em mais 20% (dura 1 set). Para cada acúmulo de [Ritmo de Ataque], aliados em quadra recebem +1% de [Percepção], até 10 acúmulos.",
+      "en": "[Set] increases by 20%. The first time in each set that allies' [Rhythm of Attack] reaches 10 or more stacks, this member's [Set] increases by an additional 20% (lasts for 1 set). For each stack of [Rhythm of Attack], allies on the court gain +1% [Awareness], up to 10 stacks."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoOikawaSSR.png",
+    "characterId": "oikawa-ssr"
+  },
+  {
+    "id": "mem_koganegawa_ssr",
+    "name": {
+      "pt": "Koganegawa SSR",
+      "en": "Koganegawa SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Passe] aumenta em 16%. Enquanto o equipador estiver em quadra, se o resultado de Bloqueio de um aliado não for [BAD], o poder do próximo Ataque Potente do oponente diminui em 20% do atributo [Ataque Potente] do atacante. Enquanto o equipador estiver em quadra, se o resultado de Bloqueio de um aliado for [BAD], o poder do próximo Bloqueio aliado aumenta em 32% do [Bloqueio] do bloqueador.",
+      "en": "[Set] increases by 16%. While the equipper is on the court, if an ally's Block result is not [BAD], the opponent's next Power Spike power decreases by 20% of the spiking member's [Power Attack]. While the equipper is on the court, if an ally's Block result is [BAD], the power of the next ally Block increases by 32% of the blocking member's [Block]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoKoganegawaSSR.png",
+    "characterId": "koganegawa-ssr"
+  },
+  {
+    "id": "mem_koganegawa_sp",
+    "name": {
+      "pt": "Koganegawa SP",
+      "en": "Koganegawa SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Bloqueio] do membro que equipa esta memória +24%.Quando esse membro participar de bloqueio duplo ou triplo, o [Levantamento] dele +3% (máx. 5 acúmulos).Enquanto esse membro estiver em quadra, quando um aliado sacar, os aliados da linha de frente recebem [Técnica de Defesa] +16% por 1 rali.",
+      "en": "The Block of the member who has this memory set is increased by 24%. If the member is participating in a 2-piece/3-piece block, the Toss of the member is increased by 3%. Up to 5 stacks. When the member is on the Court, the Defensive Technique of the front line ally is increased by 16% when the ally serves. This effect lasts for 1 rally."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoKoganegawaSSR.png",
+    "characterId": "koganegawa-sp"
+  },
+  {
+    "id": "mem_shirabu_ssr",
+    "name": {
+      "pt": "Shirabu SSR",
+      "en": "Shirabu SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Passe] aumenta em 16%. Quando o Passe deste membro for [PERFECT], o aliado que executar um Ataque Potente recebe +32% de [Força] até a bola cruzar a rede uma vez.",
+      "en": "[Set] increases by 16%. When this member's Set is a [Nice Play], the ally performing a Power Spike gains +32% [Power] until the ball crosses the net once."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoShirabuSSR.png",
+    "characterId": "shirabu-ssr"
+  },
+  {
+    "id": "mem_semi_ssr",
+    "name": {
+      "pt": "Semi SSR",
+      "en": "Semi SSR"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Quando este membro sacar, a [Percepção] aumenta em 16%. Ao ativar um Supremo de Saque, o [Saque] aumenta em 6.4%, até 3 acúmulos.",
+      "en": "When this member serves, [Awareness] increases by 16%. When this member activates a Serve Ultimate, [Serve] increases by 6.4%, up to 3 stacks."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 663
+      },
+      "Spike": {
+        "flat": 518
+      },
+      "Set": {
+        "flat": 663
+      },
+      "Receive": {
+        "flat": 490
+      },
+      "Block": {
+        "flat": 605
+      },
+      "Save": {
+        "flat": 461
+      }
+    },
+    "image": "/assets/img/memories/MemoSemiSSR.png",
+    "characterId": "semi-ssr"
+  },
+  {
+    "id": "mem_bokuto_sp",
+    "name": {
+      "pt": "Bokuto SP",
+      "en": "Bokuto SP"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Aumenta [Força] do equipador em 12%;\nQuando o equipador realiza um Ataque Potente, seu atributo [Técnica de Ataque] aumenta em 5%;\nQuando o efeito aliado de Reforço de Moral do Time estiver com mais de 6 acúmulos disponíveis, aumenta o atributo [Técnica de Ataque] do equipador em mais 20%."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 50
+      },
+      "Serve": {
+        "flat": 66
+      },
+      "Block": {
+        "flat": 56
+      },
+      "Spike": {
+        "flat": 72
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 53
+      }
+    },
+    "image": "/assets/img/memories/MemoBokutoSP.png",
+    "characterId": "bokuto-sp"
+  },
+  {
+    "id": "mem_offense_defense_up_hoshiumi_ur",
+    "name": {
+      "pt": "Hoshiumi UR",
+      "en": "Hoshiumi UR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "A [Técnica de Ataque] e a [Técnica de Defesa] aumentam em 6.4%. Quando a Habilidade/Habilidade Especial do membro é ativada, seus [Parâmetros Principais] aumentam em 2% (máx. 10 acúmulos). Se a jogada for [PERFECT], ganhe 1 acúmulo adicional.",
+      "en": "[Attack Technique] and [Defense Technique] increase by 6.4%. When the member's Skill/Special is activated, their [Main Parameter] increases by 2% (max 10 stacks). If the play is a [Nice Play], gain 1 additional stack."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 665
+      },
+      "Spike": {
+        "flat": 729
+      },
+      "Set": {
+        "flat": 507
+      },
+      "Receive": {
+        "flat": 729
+      },
+      "Block": {
+        "flat": 570
+      },
+      "Save": {
+        "flat": 539
+      }
+    },
+    "image": "/assets/img/memories/MemoHoshiumiUR.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_bokuto_ur",
+    "name": {
+      "pt": "Bokuto UR",
+      "en": "Bokuto UR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Aumenta [Ataque Potente] em 12%;\nQuando seu time entra em Reforço de Motal do Time, o equipador recebe aumento de 4% a mais em seu atributo [Ataque Potente], até 3 vezes;\nEnquanto o equipador estiver em quadra, a duração do Reforço de Moral do Time aumenta em 2 cruzamentos de rede."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 43
+      },
+      "Serve": {
+        "flat": 57
+      },
+      "Block": {
+        "flat": 49
+      },
+      "Spike": {
+        "flat": 63
+      },
+      "Receive": {
+        "flat": 63
+      },
+      "Save": {
+        "flat": 46
+      }
+    },
+    "image": "/assets/img/memories/MemoBokutoUR.png",
+    "characterId": "bokuto-ur"
+  },
+  {
+    "id": "mem_Sakusa_ur",
+    "name": {
+      "pt": "Sakusa UR",
+      "en": "Sakusa UR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O membro que equipa esta memória tem seu [Ataque Potente] aumentado em 24%. Quando o membro receber, a [Técnica de Ataque] aumenta em 15% até a bola cruzar a rede duas vezes. Após receber, o [Empenho] do membro aumenta em 8% (até 4 acúmulos).",
+      "en": "The member who has this memory set will have their [Power Hit] increased by 24%. When the corresponding member receives, [Attack Technique] increases by 15% until the ball goes over the net twice. After receiving, the corresponding member's [Mental] increases by 8%, up to 4 stacks."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 765
+      },
+      "Spike": {
+        "flat": 838
+      },
+      "Set": {
+        "flat": 583
+      },
+      "Receive": {
+        "flat": 838
+      },
+      "Block": {
+        "flat": 656
+      },
+      "Save": {
+        "flat": 619
+      }
+    },
+    "image": "/assets/img/memories/MemoSakusaUR.png",
+    "characterId": null
+  },
+  {
+    "id": "mem_yui_ssr",
+    "name": {
+      "pt": "Yui SSR",
+      "en": "Yui SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "A [Recepção] aumenta em 20%. Quando este membro receber, o [Ataque Potente] aumenta em 16% e dura até a bola cruzar a rede seis vezes. Se a recepção deste membro for [PERFECT], seu próximo Ataque Potente será garantidamente [PERFECT].",
+      "en": "[Receive] increases by 20%. When this member receives, [Power Attack] increases by 16% and lasts until the ball has crossed the net six times. If this member's receive is a [Nice Play], their next Power Attack is guaranteed to be a [Nice Play]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoYuiSSR.png",
+    "characterId": "yui-ssr"
+  },
+  {
+    "id": "mem_oshiro_ssr",
+    "name": {
+      "pt": "Oshiro SSR",
+      "en": "Oshiro SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O [Ataque Potente] aumenta em 20%. Para cada 6 de Stamina recuperada por este membro, o [Ataque Potente] aumenta em 6.3%. Este efeito dura até a bola cruzar a rede cinco vezes. Se a Stamina recuperada em uma única instância exceder 10, a [Técnica de Ataque] aumenta em 6.4% até a bola cruzar a rede cinco vezes.",
+      "en": "[Power Attack] increases by 20%. For every 6 Stamina recovered by this member, [Power Attack] increases by 6.3%. This effect lasts until the ball has crossed the net five times. If the Stamina recovered in a single instance exceeds 10, [Attack Technique] increases by 6.4%; this effect lasts until the ball has crossed the net five times."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoOshiroSSR.png",
+    "characterId": "oshiro-ssr"
+  },
+  {
+    "id": "mem_kita_ssr",
+    "name": {
+      "pt": "Kita SSR",
+      "en": "Kita SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "A [Recepção] aumenta em 20%. Se a recepção deste membro não for [PERFECT], o poder da próxima recepção de um aliado aumenta em 40% da [Recepção] do membro que receber.",
+      "en": "[Receive] increases by 20%. If this member's receive is not a [Nice Play], the power of the next ally's receive increases by 40% of the receiving member's [Receive] stat."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoKitaSSR.png",
+    "characterId": "kita-ssr"
+  },
+  {
+    "id": "mem_tanaka_ssr",
+    "name": {
+      "pt": "Tanaka SSR",
+      "en": "Tanaka SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O [Ataque Potente] aumenta em 20%. Para este membro, até o segundo Ataque Potente de cada set, o poder de finalização aumenta em 36% do [Ataque Potente].",
+      "en": "[Power Attack] increases by 20%. For this member, up to the second Power Spike in each set, the finishing power increases by 36% of [Power Attack]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoTanakaSSR.png",
+    "characterId": "tanaka-ssr"
+  },
+  {
+    "id": "mem_azumane_ssr",
+    "name": {
+      "pt": "Azumane SSR",
+      "en": "Azumane SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Se o membro que equipa esta memória tiver 50 ou mais de Stamina, o [Ataque Potente] aumenta em 36%. Quando este membro ativar uma habilidade de Ataque Potente e a Stamina consumida for 20 ou mais, o poder desse Ataque Potente aumenta em 32% do [Ataque Potente].",
+      "en": "If the member equipping this memory has 50 or more Stamina, [Power Attack] increases by 36%. When this member activates a Power Spike skill and the Stamina consumed is 20 or more, this Power Spike's power increases by 32% of [Power Attack]."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoAzumaneSSR.png",
+    "characterId": "azumane-ssr"
+  },
+  {
+    "id": "mem_iwaizumi_ssr",
+    "name": {
+      "pt": "Iwaizumi SSR",
+      "en": "Iwaizumi SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Exclusivo de [WS]: aumenta a [Recepção] em 10%. Quando o equipador executar um Supremo de Ataque Potente Crítico, aumenta o [Ataque Potente] em 8% da [Recepção] por 3 cruzadas de rede.",
+      "en": "[Wing Spiker] Exclusive: Increases [Receive] by 10%. When the equipper executes a Critical Power Spike Ultimate, increases [Power Attack] by 8% of [Receive] for 3 net crossings."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoIwaizumiSSR.png",
+    "characterId": "iwaizumi-ssr"
+  },
+  {
+    "id": "mem_futakuchi_ssr",
+    "name": {
+      "pt": "Futakuchi SSR",
+      "en": "Futakuchi SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O [Bloqueio] aumenta em 20%. Para cada aliado do tipo Bloqueio em quadra, o poder de finalização da Habilidade Especial deste membro aumenta em 6.4% do parâmetro correspondente a essa Especial.",
+      "en": "[Block] increases by 20%. For each ally Block-type member on the court, this member's Special finishing power increases by 6.4% of the parameter corresponding to that Special."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoFutakuchiSSR.png",
+    "characterId": "futakuchi-ssr"
+  },
+  {
+    "id": "mem_goshiki_ssr",
+    "name": {
+      "pt": "Goshiki SSR",
+      "en": "Goshiki SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O [Ataque Potente] aumenta em 20%. Enquanto o [Despertar de Moral da Equipe] de um aliado estiver ativo, o [Ataque Potente] deste membro aumenta em 32%.",
+      "en": "[Power Attack] increases by 20%. While an ally's Team Morale Awakening is active, this member's [Power Attack] increases by 32%."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoGoshikiSSR.png",
+    "characterId": "goshiki-ssr"
+  },
+  {
+    "id": "mem_awareness_reaction_up_oshiro_ssr",
+    "name": {
+      "pt": "Oshiro SSR",
+      "en": "Oshiro SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Quando este membro ativar uma Habilidade, a [Percepção] aumenta em 3.2% e o [Reflexo] aumenta em 3.2%, até 5 acúmulos.",
+      "en": "Quando este membro ativar uma Habilidade, a [Percepção] aumenta em 3.2% e o [Reflexo] aumenta em 3.2%, até 5 acúmulos."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoOshiroSSR.png",
+    "characterId": "oshiro-ssr"
+  },
+  {
+    "id": "mem_terushima_ssr",
+    "name": {
+      "pt": "Terushima SSR",
+      "en": "Terushima SSR"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "O [Ataque Potente] aumenta em 24%. Quando este membro ativar o efeito [Escolha Mais], ganhe 2 acúmulos de [Escolha Mais] e aumente a [Recepção] dos aliados da linha de trás em 12% por 1 rali. Para cada acúmulo de [Escolha Mais], o [Ataque Potente]/[Ataque Rápido] aumenta em 2.5%, até 4 acúmulos.",
+      "en": "[Power Attack] increases by 24%. When this member activates the [Choose More] effect, gain 2 stacks of [Choose More] and increase back-row allies' [Receive] by 12% for 1 rally. For each stack of [Choose More], [Power Attack]/[Quick Attack] increases by 2.5%, up to 4 stacks."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 605
+      },
+      "Spike": {
+        "flat": 663
+      },
+      "Set": {
+        "flat": 461
+      },
+      "Receive": {
+        "flat": 663
+      },
+      "Block": {
+        "flat": 518
+      },
+      "Save": {
+        "flat": 490
+      }
+    },
+    "image": "/assets/img/memories/MemoTerushimaSSR.png",
+    "characterId": "terushima-ssr"
+  },
+  {
+    "id": "mem_kunimi",
+    "name": {
+      "pt": "Kunimi SP",
+      "en": "Kunimi SP"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Aumenta [Ataque Potente] do equipador em 12%;\nQuando o equipador estiver com menos de 80 de Vigor, aumenta seu atributo [Técnica de Ataque] em 4%;\nConforme for recuperando Vigor, aumenta seu atributo [Força] em 6%, acumulando até 5 vezes."
+    },
+    "bonus": {
+      "Set": {
+        "flat": 50
+      },
+      "Serve": {
+        "flat": 66
+      },
+      "Block": {
+        "flat": 56
+      },
+      "Spike": {
+        "flat": 72
+      },
+      "Receive": {
+        "flat": 72
+      },
+      "Save": {
+        "flat": 53
+      }
+    },
+    "image": "/assets/img/memories/MemoKunimiSP.png",
+    "characterId": "kunimi-sp"
+  },
+  {
+    "id": "mem_koganegawa",
+    "name": {
+      "pt": "Koganegawa SP",
+      "en": "Koganegawa SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "O [Bloqueio] do membro que equipa esta memória +24%.Quando esse membro participar de bloqueio duplo ou triplo, o [Levantamento] dele +3% (máx. 5 acúmulos).Enquanto esse membro estiver em quadra, quando um aliado sacar, os aliados da linha de frente recebem [Técnica de Defesa] +16% por 1 rali.",
+      "en": "The Block of the member who has this memory set is increased by 24%. If the member is participating in a 2-piece/3-piece block, the Toss of the member is increased by 3%. Up to 5 stacks. When the member is on the Court, the Defensive Technique of the front line ally is increased by 16% when the ally serves. This effect lasts for 1 rally."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 765
+      },
+      "Spike": {
+        "flat": 656
+      },
+      "Set": {
+        "flat": 838
+      },
+      "Receive": {
+        "flat": 619
+      },
+      "Block": {
+        "flat": 838
+      },
+      "Save": {
+        "flat": 583
+      }
+    },
+    "image": "/assets/img/memories/MemoKoganegawaSP.png",
+    "characterId": "koganegawa-sp"
+  }
+]

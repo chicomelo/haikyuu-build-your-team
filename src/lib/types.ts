@@ -1,4 +1,4 @@
-export type PlayerRole = 'S' | 'MB' | 'WS' | 'OP' | 'L'
+﻿export type PlayerRole = 'S' | 'MB' | 'WS' | 'OP' | 'L'
 export type PlayerType = 'power' | 'block' | 'quick' | 'receive' | 'serve' | 'setter'
 
 export type LocalizedText = {
@@ -49,6 +49,21 @@ export type SkillResonanceDetail = {
   effects: LocalizedText[]
 }
 
+export type MemoryBonusValue = {
+  flat?: number
+  percent?: number
+}
+
+export type MemoryDetail = {
+  id: string
+  name: LocalizedText
+  description: LocalizedText
+  positions: string[]
+  bonus: Record<string, MemoryBonusValue>
+  image?: string | null
+  characterId?: string | null
+}
+
 export type Player = {
   id: string
   name: string
@@ -59,6 +74,7 @@ export type Player = {
   school?: string
   types?: PlayerType[]
   skillResonances?: SkillResonanceRef[]
+  memoryId?: string
   metadata?: {
     source?: string
     fetchedAt?: string

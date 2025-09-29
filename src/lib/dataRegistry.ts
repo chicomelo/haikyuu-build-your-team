@@ -1,8 +1,9 @@
-import rawPlayers from '../data/players_new.json';
+﻿import rawPlayers from '../data/players_new.json';
 import rawAbilityDetails from '../locales/abilities_new.json';
 import rawLinkDetails from '../locales/links_new.json';
 import rawResonanceDetails from '../locales/resonances_new.json';
 import rawTypeDetails from '../data/types.json';
+import rawMemoryDetails from '../data/memories.json';
 
 import type {
   AbilityDetail,
@@ -11,6 +12,7 @@ import type {
   PlayerType,
   PlayerTypeDetail,
   SkillResonanceDetail,
+  MemoryDetail,
 } from './types';
 
 export const playersData = rawPlayers as Player[];
@@ -18,6 +20,12 @@ export const abilityDetails = rawAbilityDetails as Record<string, AbilityDetail>
 export const linkDetails = rawLinkDetails as Record<string, LinkDetail>;
 export const resonanceDetails = rawResonanceDetails as Record<string, SkillResonanceDetail>;
 export const playerTypeDetails = rawTypeDetails as Record<PlayerType, PlayerTypeDetail>;
+
+export const memoriesData = rawMemoryDetails as MemoryDetail[];
+export const memoryDetails = memoriesData.reduce<Record<string, MemoryDetail>>((acc, mem) => {
+  acc[mem.id] = mem;
+  return acc;
+}, {});
 
 export function resolveLanguage(language: string): string {
   const lower = (language || 'en').toLowerCase();
@@ -27,7 +35,11 @@ export function resolveLanguage(language: string): string {
   return 'en';
 }
 
-export function pickLocalizedText(text: { [key: string]: string | null | undefined } | undefined, language: string, fallbackOrder: string[] = []): string {
+export function pickLocalizedText(
+  text: { [key: string]: string | null | undefined } | undefined,
+  language: string,
+  fallbackOrder: string[] = [],
+): string {
   if (!text) return '';
   const primary = resolveLanguage(language);
   const order = [primary, ...fallbackOrder, 'en', 'pt', 'jp'];
