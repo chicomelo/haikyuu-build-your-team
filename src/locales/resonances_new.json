@@ -28,8 +28,8 @@
     "effects": [
       {
         "jp": "赤葦京治(海水浴)の[パワー]が30%アップ。",
-        "pt": "Atributo [Força] do Akaashi aumenta em 30%. 1 - Quando Akaashi está em quadra, a cada término de rally aumenta 40 de Moral do time aliado. 2 - Quando Akaashi está em quadra e enquanto o Reforço de Moral do Time não está ativado, os atributos [Recepção] e [Bloqueio] dos aliados aumentam em 25%.",
-        "en": "Akaashi's [Power] increases by 30%. 1 - While Akaashi is on the court, the allied team's morale increases by 40 at the end of each rally. 2 - While Akaashi is on the court and Team Morale Awakening is inactive, allies' [Receive] and [Block] increase by 25%."
+        "pt": "Atributo [Força] do Akaashi aumenta em 30%. \n1 - Quando Akaashi está em quadra, a cada término de rally aumenta 40 de Moral do time aliado. \n2 - Quando Akaashi está em quadra e enquanto o Reforço de Moral do Time não está ativado, os atributos [Recepção] e [Bloqueio] dos aliados aumentam em 25%.",
+        "en": "Akaashi's [Power] increases by 30%. \n1 - While Akaashi is on the court, the allied team's morale increases by 40 at the end of each rally. \n2 - While Akaashi is on the court and Team Morale Awakening is inactive, allies' [Receive] and [Block] increase by 25%."
       }
     ]
   },
@@ -62,8 +62,8 @@
     "effects": [
       {
         "jp": "<練習の100%を引き出す>発動時、本セット内で獲得した[冷静な意識]効果の累計スタック1につき、スパイク（強打・速攻）をするメンバーの[パワー]が0.3％アップ。最大40%アップ可能。この効果はボールがネットを2回越えるまで持続する。",
-        "pt": "1 - Ao ativar a habilidade 2, juntamente com os buffs dessa habilidade, a cada 1 acúmulo do efeito \"Percepção Calma\", aumenta 0.3% do atributo [Força] do membro a realizar um Ataque Rápido/Potente, podendo aumentar no máximo até 40% e permanecendo esse efeito por 2 cruzamentos de rede. 2 - Se esse Ataque for do tipo Potente, aumenta em mais 0.8% o atributo [Força] desse aliado, podendo aumentar no máximo até 80% e permanecendo o efeito por 2 cruzamentos de rede. 3 - Para cada 1 acúmulo do efeito \"Percepção Calma\", o aumento da força de Larga da habilidade 4 aumenta em mais [Passe] x 0.6%, podendo aumentar até no máximo 100%. 4 - Enquanto o time aliado está com o Reforço da Moral do Time ativado, a cada 5 de aumento da Moral aumenta em 1% do atributo [Força] do primeiro aliado a ativar a habilidade 4 após o término do Reforço da Moral do Time, podendo aumentar até no máximo 30%.",
-        "en": "1 - When ability 2 is activated, along with its buffs, each stack of \"Calm Awareness\" increases the [Power] of the ally performing a Quick/Power Attack by 0.3%, up to 40%, for 2 net crossings. 2 - If that attack is a Power Attack, that ally gains an additional 0.8% [Power] per stack, up to 80%, lasting 2 net crossings. 3 - For each stack of \"Calm Awareness\", ability 4's Setter Dump gains additional power equal to [Set] × 0.6%, up to 100%. 4 - While the allied team has Team Morale Awakening active, every 5 morale gained increases the [Power] of the first ally to use ability 4 after Team Morale Awakening ends by 1%, up to 30%."
+        "pt": "1 - Ao ativar a habilidade 2, juntamente com os buffs dessa habilidade, a cada 1 acúmulo do efeito \"Percepção Calma\", aumenta 0.3% do atributo [Força] do membro a realizar um Ataque Rápido/Potente, podendo aumentar no máximo até 40% e permanecendo esse efeito por 2 cruzamentos de rede. \n2 - Se esse Ataque for do tipo Potente, aumenta em mais 0.8% o atributo [Força] desse aliado, podendo aumentar no máximo até 80% e permanecendo o efeito por 2 cruzamentos de rede. \n3 - Para cada 1 acúmulo do efeito \"Percepção Calma\", o aumento da força de Larga da habilidade 4 aumenta em mais [Passe] x 0.6%, podendo aumentar até no máximo 100%. \n4 - Enquanto o time aliado está com o Reforço da Moral do Time ativado, a cada 5 de aumento da Moral aumenta em 1% do atributo [Força] do primeiro aliado a ativar a habilidade 4 após o término do Reforço da Moral do Time, podendo aumentar até no máximo 30%.",
+        "en": "1 - When ability 2 is activated, along with its buffs, each stack of \"Calm Awareness\" increases the [Power] of the ally performing a Quick/Power Attack by 0.3%, up to 40%, for 2 net crossings. \n2 - If that attack is a Power Attack, that ally gains an additional 0.8% [Power] per stack, up to 80%, lasting 2 net crossings. \n3 - For each stack of \"Calm Awareness\", ability 4's Setter Dump gains additional power equal to [Set] × 0.6%, up to 100%. \n4 - While the allied team has Team Morale Awakening active, every 5 morale gained increases the [Power] of the first ally to use ability 4 after Team Morale Awakening ends by 1%, up to 30%."
       }
     ]
   },
@@ -298,8 +298,8 @@
     "effects": [
       {
         "jp": "青根高伸(海水浴)がコート上に居る場合、相手メンバーが得点時、相手コート上のメンバーが[“ロックオン”]効果を1スタック獲得する。",
-        "pt": "1 - Quando Aone está em quadra e o time adversário pontuar, todos os oponentes em quadra recebem 1 acúmulo do efeito \"Foco\". 2 - Quando possui 6 acúmulos do efeito \"Bloqueio Resistente\", o CD da habilidade 4 do Aone é resetado. Isso ocorre 1 vez por rally.",
-        "en": "1 - When Ane is on the court and the opposing team scores, all opponents on the court receive 1 stack from the \"focus\" effect. 2 - When it has 6 stacks of the \"resistant\" block effect, Aone's skill 4 CD is reset. This occurs once per rally."
+        "pt": "1 - Quando Aone está em quadra e o time adversário pontuar, todos os oponentes em quadra recebem 1 acúmulo do efeito \"Foco\". \n2 - Quando possui 6 acúmulos do efeito \"Bloqueio Resistente\", o CD da habilidade 4 do Aone é resetado. Isso ocorre 1 vez por rally.",
+        "en": "1 - When Ane is on the court and the opposing team scores, all opponents on the court receive 1 stack from the \"focus\" effect. \n2 - When it has 6 stacks of the \"resistant\" block effect, Aone's skill 4 CD is reset. This occurs once per rally."
       }
     ]
   },
@@ -332,8 +332,8 @@
     "effects": [
       {
         "jp": "青根高伸(海水浴)がコート上にいない場合、味方前衛の[ブロック]が25%アップ。",
-        "pt": "1 - Quando Aone está no Banco, os aliados da Linha de Ataque/Frente recebem aumento de 25% no atributo [Bloqueio]. 2 - Quando o atributo [Reflexo] do Aone passar de 100%, a cada 1% a mais, aumenta 1% o seu atributo [Empenho], podendo aumentar até no máximo 60%.",
-        "en": "1 - When ANE is in the bank, Front Row Allies receive 25% increase in the [Block] attribute. 2 - When the [Reflex] attribute of the ANO exceeds 100%, every 1% more, increases its attribute [Spirit] and may increase up to a maximum of 60%."
+        "pt": "1 - Quando Aone está no Banco, os aliados da Linha de Ataque/Frente recebem aumento de 25% no atributo [Bloqueio]. \n2 - Quando o atributo [Reflexo] do Aone passar de 100%, a cada 1% a mais, aumenta 1% o seu atributo [Empenho], podendo aumentar até no máximo 60%.",
+        "en": "1 - When ANE is in the bank, Front Row Allies receive 25% increase in the [Block] attribute. \n2 - When the [Reflex] attribute of the ANO exceeds 100%, every 1% more, increases its attribute [Spirit] and may increase up to a maximum of 60%."
       }
     ]
   },
@@ -1243,8 +1243,8 @@
     "effects": [
       {
         "jp": "日向翔陽(花見)の[攻撃テクニック]が20%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合、この速攻がブロックされず、相手メンバーの[意識]と[反応]が10%ダウン。この効果はボールがネットを3回越えるまで持続する。",
-        "pt": "[Técnica de Ataque] do Hinata aumenta em 20%. 1 - Se o Ataque Rápido do Hinata se tornar uma Jogada Crítica, esse Ataque não será bloqueado e os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em 10%. Esse efeito permanece até 3 cruzamentos de rede. 2 - Se Hinata marcar ponto com esse Ataque Rápido, os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em mais 10%. Esse efeito permanece até 3 cruzamentos de rede.",
-        "en": "[Attack Technique] of Hinata increases by 20%. 1 - If Hinata's Quick Attack becomes a Nice Play, this attack will not be blocked and the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses. 2 - If Hinata marks a point with this Quick Attack, the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses."
+        "pt": "[Técnica de Ataque] do Hinata aumenta em 20%. \n1 - Se o Ataque Rápido do Hinata se tornar uma Jogada Crítica, esse Ataque não será bloqueado e os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em 10%. Esse efeito permanece até 3 cruzamentos de rede. \n2 - Se Hinata marcar ponto com esse Ataque Rápido, os atributos [Percepção] e [Reflexo] dos adversários são reduzidos em mais 10%. Esse efeito permanece até 3 cruzamentos de rede.",
+        "en": "[Attack Technique] of Hinata increases by 20%. \n1 - If Hinata's Quick Attack becomes a Nice Play, this attack will not be blocked and the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses. \n2 - If Hinata marks a point with this Quick Attack, the [Awareness] and [Reflex] attributes of opponents are reduced by 10%. This effect remains up to 3 network crosses."
       }
     ]
   },
@@ -1277,8 +1277,8 @@
     "effects": [
       {
         "jp": "日向翔陽(花見)の[パワー]が30%アップ。試合開始時、日向翔陽(花見)の[意識]が0%に減少し、1%減少するごとに、日向翔陽(花見)の[パワー]が2.5%アップ。日向翔陽(花見)の速攻がナイスプレーになった場合の[パワー]が[意識]×40%アップ。最大60%アップ可能。",
-        "pt": "O atributo [Força] do Hinata aumenta em 30%. 1 - Ao iniciar a partida, o atributo [Percepção] do Hinata é reduzido para 0% e a cada 1% diminuido, o atributo [Força] do Hinata aumenta em 2.5%. 2 - Se o Ataque Rápido do Hinata resultar em uma Jogada Rápida, seu atributo [Força] aumenta em [Percepção] x 40%, chegando até no máximo 60%.",
-        "en": "Hinata's [power] attribute increases by 30%. 1 - When starting the starting, Hinata's [Awareness] attribute is reduced to 0% and every 1% decreased, Hinata's [power] attribute increases by 2.5%. 2 - If the Hinata Quick Attack results in a quick play, its [power] attribute increases in [Awareness] x 40%, up to a maximum of 60%."
+        "pt": "O atributo [Força] do Hinata aumenta em 30%. \n1 - Ao iniciar a partida, o atributo [Percepção] do Hinata é reduzido para 0% e a cada 1% diminuido, o atributo [Força] do Hinata aumenta em 2.5%. \n2 - Se o Ataque Rápido do Hinata resultar em uma Jogada Rápida, seu atributo [Força] aumenta em [Percepção] x 40%, chegando até no máximo 60%.",
+        "en": "Hinata's [power] attribute increases by 30%. \n1 - When starting the starting, Hinata's [Awareness] attribute is reduced to 0% and every 1% decreased, Hinata's [power] attribute increases by 2.5%. \n2 - If the Hinata Quick Attack results in a quick play, its [power] attribute increases in [Awareness] x 40%, up to a maximum of 60%."
       }
     ]
   },
@@ -1753,8 +1753,8 @@
     "effects": [
       {
         "jp": "影山飛雄の[パワー]が20%アップ。",
-        "pt": "[Força] do Kageyama aumenta em 20%. 1 - Se o efeito \"Competitivo\" for consumido, aumenta em 15% o atibuto [Percepção] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente, durando esse efeito até 2 cruzamentos de rede. 2 - Se em alguma jogada do Kageyama o efeito \"Competitivo\" for consumido, recebe 1 acúmulo desse efeito, aumentando a força dessa jogada em [Força do atributo do tipo da jogada, ex: Saque, Passe, etc.] x 15%. Aumenta em mais 20% de [Percepção]. Esse efeito dura até 2 passadas. 3 - Quando possui mais de 3 acúmulos do efeito \"Competitivo\", aumenta em 10% o atributo [Técnica de Ataque] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente. Esse efeito dura até 2 cruzamentos de rede.",
-        "en": "[power] from Kageyama increases by 20%. 1 - If the \"competitive\" effect is consumed, it increases the ally [Awareness] Atibuto [Awareness] for a Setter Dump/Quick Attack or powerful, lasting this effect up to 2 network intersections. 2 - If in any Kageyama move the \"competitive\" effect is consumed, it receives 1 stack of this effect, increasing the strength of this play in [Power of the Move's Atribute (serves, set, etc.)] x 15%. Increases by 20% more [Awareness]. This effect lasts up to 2 pasts. 3 - When it has more than 3 stacks of the \"competitive\" effect, the attribute [Attack Technique] of the ally is increased by 10% that is performing a Setter Dump/Quick Attack or powerful. This effect lasts up to 2 network crosses."
+        "pt": "[Força] do Kageyama aumenta em 20%. \n1 - Se o efeito \"Competitivo\" for consumido, aumenta em 15% o atibuto [Percepção] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente, durando esse efeito até 2 cruzamentos de rede. \n2 - Se em alguma jogada do Kageyama o efeito \"Competitivo\" for consumido, recebe 1 acúmulo desse efeito, aumentando a força dessa jogada em [Força do atributo do tipo da jogada, ex: Saque, Passe, etc.] x 15%. Aumenta em mais 20% de [Percepção]. Esse efeito dura até 2 passadas. \n3 - Quando possui mais de 3 acúmulos do efeito \"Competitivo\", aumenta em 10% o atributo [Técnica de Ataque] do aliado que for realizar um Saque/Largada/Ataque Rápido ou Potente. Esse efeito dura até 2 cruzamentos de rede.",
+        "en": "[power] from Kageyama increases by 20%. \n1 - If the \"competitive\" effect is consumed, it increases the ally [Awareness] Atibuto [Awareness] for a Setter Dump/Quick Attack or powerful, lasting this effect up to 2 network intersections. \n2 - If in any Kageyama move the \"competitive\" effect is consumed, it receives 1 stack of this effect, increasing the strength of this play in [Power of the Move's Atribute (serves, set, etc.)] x 15%. Increases by 20% more [Awareness]. This effect lasts up to 2 pasts. \n3 - When it has more than 3 stacks of the \"competitive\" effect, the attribute [Attack Technique] of the ally is increased by 10% that is performing a Setter Dump/Quick Attack or powerful. This effect lasts up to 2 network crosses."
       }
     ]
   },
@@ -1871,9 +1871,9 @@
     },
     "effects": [
       {
-        "jp": "[隙をなくす守備]効果1スタックにつき、相手メンバーの[意識]が1%、[パワー]が2%ダウン。\n[隙をなくす守備]効果のスタック数が8を超えた場合、相手メンバーの[意識]がさらに5%、[パワー]がさらに10%ダウン。\n孤爪研磨(花見)がコート上に居る場合、味方失点時、[隙をなくす守備]効果を3スタック獲得する",
-        "pt": "A cada 1 acúmulo do efeito \"Defesa que Elimina Chances\", diminui 1% do atributo [Percepção] dos adversários e diminui 2% do atributo [Força] dos adversários. 1 - Se o número de acúmulos disponível passar de 8, diminui em mais 5% do atributo [Percepção] e diminui em mais 10% do atributo [Força] do adversário. 2 - Quando Kenma está em quadra e o tima adversário pontua, Kenma recebe 3 acúmulos do efeito \"Defesa que Elimina Chances\".",
-        "en": "With every 1 stack of the \"defense that eliminates chances\" effect, it decreases 1% of opponents' [Awareness] attribute and decreases 2% of the [power] attribute of opponents. 1 - If the number of available stacks exceeds 8, decreases over 5% of the [Awareness] attribute and decreases in another 10% of the opponent's [power] attribute. 2 - When Kenma is on the court and the dye opponent points out, Kenma receives 3 stacks of the \"defense that eliminates chances\" effects."
+        "jp": "[隙をなくす守備]効果1スタックにつき、相手メンバーの[意識]が1%、[パワー]が2%ダウン。[隙をなくす守備]効果のスタック数が8を超えた場合、相手メンバーの[意識]がさらに5%、[パワー]がさらに10%ダウン。孤爪研磨(花見)がコート上に居る場合、味方失点時、[隙をなくす守備]効果を3スタック獲得する",
+        "pt": "A cada 1 acúmulo do efeito \"Defesa que Elimina Chances\", diminui 1% do atributo [Percepção] dos adversários e diminui 2% do atributo [Força] dos adversários. \n1 - Se o número de acúmulos disponível passar de 8, diminui em mais 5% do atributo [Percepção] e diminui em mais 10% do atributo [Força] do adversário. \n2 - Quando Kenma está em quadra e o tima adversário pontua, Kenma recebe 3 acúmulos do efeito \"Defesa que Elimina Chances\".",
+        "en": "With every 1 stack of the \"defense that eliminates chances\" effect, it decreases 1% of opponents' [Awareness] attribute and decreases 2% of the [power] attribute of opponents. \n1 - If the number of available stacks exceeds 8, decreases over 5% of the [Awareness] attribute and decreases in another 10% of the opponent's [power] attribute. \n2 - When Kenma is on the court and the dye opponent points out, Kenma receives 3 stacks of the \"defense that eliminates chances\" effects."
       }
     ]
   },
@@ -2263,7 +2263,7 @@
     "effects": [
       {
         "jp": "",
-        "pt": "Quando o Kanji Koganegawa (Festival Esportivo) estiver em quadra, se a recepção do saque do oponente não for PERFEITA, o [Golpe Poderoso/Ataque Rápido] do membro da equipe adversária será reduzido em 16%. Este efeito durará até que a bola passe por cima da rede duas vezes.\nQuando <Parede Alta> entrar em recarga, o tempo de recarga de <Configuração de Distância Mais Curta> será reduzido em 4 vezes pelo número de vezes que a bola passar por cima da rede, e o Kanji Koganegawa (Festival Esportivo) recuperará 2 de estamina.\nO Kanji Koganegawa (Festival Esportivo) executará um saque com salto com potência igual a [Saque] x 180%, e a [Técnica Defensiva] do membro da equipe aliada será aumentada em 10%. Este efeito durará 1 conjunto.",
+        "pt": "Quando o Kanji Koganegawa (Festival Esportivo) estiver em quadra, se a recepção do saque do oponente não for PERFEITA, o [Golpe Poderoso/Ataque Rápido] do membro da equipe adversária será reduzido em 16%. Este efeito durará até que a bola passe por cima da rede duas vezes.Quando <Parede Alta> entrar em recarga, o tempo de recarga de <Configuração de Distância Mais Curta> será reduzido em 4 vezes pelo número de vezes que a bola passar por cima da rede, e o Kanji Koganegawa (Festival Esportivo) recuperará 2 de estamina.O Kanji Koganegawa (Festival Esportivo) executará um saque com salto com potência igual a [Saque] x 180%, e a [Técnica Defensiva] do membro da equipe aliada será aumentada em 10%. Este efeito durará 1 conjunto.",
         "en": "When Koganegawa Kanji (Sports Festival) is on the court, if the opponent's serve reception is not PERFECT, the opposing team member's [Power Hit/Quick Attack] will be reduced by 16%. This effect will last until the ball passes over the net twice. When <High Wall> goes on cooldown, the cooldown of <Shortest Distance Setting> will be reduced by 4 times by the number of times the ball passes over the net, and Koganegawa Kanji (Sports Festival) will recover 2 stamina. Koganegawa Kanji (Sports Festival) will perform a jump serve with power equal to [Serve] x 180%, and the allied team member's [Defensive Technique] will be increased by 10%. This effect will last for 1 set."
       }
     ]
@@ -2297,8 +2297,8 @@
     "effects": [
       {
         "jp": "",
-        "pt": "Se Koganegawa Kanji (Festival Esportivo) estiver na linha de frente, o tempo de recarga de <Parede Alta> será até que a bola cruze a rede quatro vezes.\nQuando o movimento especial de um aliado for ativado, o [Poder] e o [Mental] do membro correspondente aumentarão em 2% para cada acúmulo do efeito [Criar uma Parede Impenetrável]. É possível um aumento máximo de 10%.\nSe o membro correspondente tiver uma habilidade de bloqueio, [Poder] e [Mental] aumentarão em mais 35%.",
-        "en": "If Koganegawa Kanji (Sports Festival) is in the front line, the cooldown of <High Wall> will be until the ball crosses the net four times.\nWhen an ally's special move is activated, the corresponding member's [Power] and [Mental] will increase by 2% for each stack of the [Create an Impenetrable Wall] effect. A maximum increase of 10% is possible.\nIf the corresponding member has a blocking skill, [Power] and [Mental] will increase by an additional 35%."
+        "pt": "Se Koganegawa Kanji (Festival Esportivo) estiver na linha de frente, o tempo de recarga de <Parede Alta> será até que a bola cruze a rede quatro vezes.Quando o movimento especial de um aliado for ativado, o [Poder] e o [Mental] do membro correspondente aumentarão em 2% para cada acúmulo do efeito [Criar uma Parede Impenetrável]. É possível um aumento máximo de 10%.Se o membro correspondente tiver uma habilidade de bloqueio, [Poder] e [Mental] aumentarão em mais 35%.",
+        "en": "If Koganegawa Kanji (Sports Festival) is in the front line, the cooldown of <High Wall> will be until the ball crosses the net four times.When an ally's special move is activated, the corresponding member's [Power] and [Mental] will increase by 2% for each stack of the [Create an Impenetrable Wall] effect. A maximum increase of 10% is possible.If the corresponding member has a blocking skill, [Power] and [Mental] will increase by an additional 35%."
       }
     ]
   },
@@ -2382,8 +2382,8 @@
     "effects": [
       {
         "jp": "古森元也がコート上に居る場合、味方後衛の[反応]が15%アップ。",
-        "pt": "1 - Quando Komori está em quadra, aumenta em 15% o atributo [Reflexo] dos aliados da Linha de Defesa/Trás. 2 - Quando Komori está em quadra e o aliado realiza uma Recepção, o atributo [Força] do aliado que realizou uma Recepção aumenta em [Reflexo do aliado que recebeu] x 50%, podendo aumentar até 60%. Esse efeito permanece por 2 cruzamentos de rede.",
-        "en": "1 - When Komori is on the court, the attribute of Back Row allies increases by 15%. 2 - When Komori is on the court and the ally performs a procedural, the [power] attribute of the ally who performed a receiver increases in [Reflex of the Receiving Ally] x 50%and can increase up to 60%. This effect remains for 2 network crosses."
+        "pt": "1 - Quando Komori está em quadra, aumenta em 15% o atributo [Reflexo] dos aliados da Linha de Defesa/Trás. \n2 - Quando Komori está em quadra e o aliado realiza uma Recepção, o atributo [Força] do aliado que realizou uma Recepção aumenta em [Reflexo do aliado que recebeu] x 50%, podendo aumentar até 60%. Esse efeito permanece por 2 cruzamentos de rede.",
+        "en": "1 - When Komori is on the court, the attribute of Back Row allies increases by 15%. \n2 - When Komori is on the court and the ally performs a procedural, the [power] attribute of the ally who performed a receiver increases in [Reflex of the Receiving Ally] x 50%and can increase up to 60%. This effect remains for 2 network crosses."
       }
     ]
   },
@@ -2518,8 +2518,8 @@
     "effects": [
       {
         "jp": "黒尾鉄朗（花火大会）のボールタッチ後、次のスパイク（強打・速攻）をする味方メンバーの[強打/速攻]が黒尾鉄朗（花火大会）の[ブロック]×20%アップ。最高1600アップ可能。",
-        "pt": "1 - Logo após Kuroo tocar na bola, o próximo aliado a realizar Ataque Rápido/Potente terá a força de seu atributo [Ataque Rápido/Potente] aumentado em atributo [Bloqueio do Kuroo] x 20%, podendo aumentar no máximo até 1600 de força. 2 - Se o aliado a realizar o Ataque estiver na Linha de Defesa/Trás, o atributo [Técnica de Ataque] desse aliado é aumentado em 20%. Esse efeito permanece por 2 cruzamentos de rede.",
-        "en": "1 - Right after Kuroo touches the ball, the next ally to perform Quick Attack/Powerful will have the strength of its attribute [Quick/Power Attack] increased in attribute [Kuroo's Block] x 20%, and may increase up to 1600 strength. 2 - If the ally to perform the attack is on Back Row, the [Attack Technique] attribute of this ally is increased by 20%. This effect remains for 2 network crosses."
+        "pt": "1 - Logo após Kuroo tocar na bola, o próximo aliado a realizar Ataque Rápido/Potente terá a força de seu atributo [Ataque Rápido/Potente] aumentado em atributo [Bloqueio do Kuroo] x 20%, podendo aumentar no máximo até 1600 de força. \n2 - Se o aliado a realizar o Ataque estiver na Linha de Defesa/Trás, o atributo [Técnica de Ataque] desse aliado é aumentado em 20%. Esse efeito permanece por 2 cruzamentos de rede.",
+        "en": "1 - Right after Kuroo touches the ball, the next ally to perform Quick Attack/Powerful will have the strength of its attribute [Quick/Power Attack] increased in attribute [Kuroo's Block] x 20%, and may increase up to 1600 strength. \n2 - If the ally to perform the attack is on Back Row, the [Attack Technique] attribute of this ally is increased by 20%. This effect remains for 2 network crosses."
       }
     ]
   },
@@ -2552,8 +2552,8 @@
     "effects": [
       {
         "jp": "黒尾鉄朗（花火大会）のサーブ時、味方メンバーの[強打/速攻]が40%、味方後衛の[レシーブ]が30%アップ。この効果は1ラリー持続する。",
-        "pt": "1 - Quando Kuroo realiza um Saque, o atributo [Ataque Rápido/Potente] dos aliados aumenta em 40% e o atributo [Recepção] dos aliados da Linha de Defesa/Trás aumenta em 30%. Esse efeito permanece por 1 rally. 2 - O atributo [Técncia de Defesa] do Kuroo aumenta em 15%. Se Kuroo estiver na Linha de Defesa/Trás, aumenta em mais 15% seu atributo [Técnica de Defesa].",
-        "en": "1 - When Kuroo performs a good is, allied [Quick/Power Attack] attribute increases by 40% and the [Receive] attribute of Back Row allies increases by 30%. This effect remains for 1 rally. 2 - Kuroo's [Defensive Technique] attribute increases by 15%. If Kuroo is in Back Row, its [Defensive Technique] attribute increases by 15%."
+        "pt": "1 - Quando Kuroo realiza um Saque, o atributo [Ataque Rápido/Potente] dos aliados aumenta em 40% e o atributo [Recepção] dos aliados da Linha de Defesa/Trás aumenta em 30%. Esse efeito permanece por 1 rally. \n2 - O atributo [Técncia de Defesa] do Kuroo aumenta em 15%. Se Kuroo estiver na Linha de Defesa/Trás, aumenta em mais 15% seu atributo [Técnica de Defesa].",
+        "en": "1 - When Kuroo performs a good is, allied [Quick/Power Attack] attribute increases by 40% and the [Receive] attribute of Back Row allies increases by 30%. This effect remains for 1 rally. \n2 - Kuroo's [Defensive Technique] attribute increases by 15%. If Kuroo is in Back Row, its [Defensive Technique] attribute increases by 15%."
       }
     ]
   },
@@ -2858,8 +2858,8 @@
     "effects": [
       {
         "jp": "＜チームの危機を救う＞効果変更：スキルのクールダウン減少条件を[味方メンバーがナイスプレーをした場合]から[味方または相手メンバーがナイスプレーをした場合]に変更。",
-        "pt": "Mudança na habilidade 3 do Nishinoya: 1 - Ao invés de a condição ser >Jogada Crítica do aliado< para diminuir o CD da habilidade 4, vira >Jogada Crítica do aliado ou adversário<.  2 - Quando o Passe do Nishinoya for uma Jogada Crítica, diminui 1 passada da bola pela rede do CD da habilidade  4 e os atributos básicos dos aliados aumentam e 12%, permanecendo ese efeito por até 3 cruzamentos de rede.",
-        "en": "Change in Nishinoya's skill 3: 1 - Instead of the condition to be> Nice Play of the ally <to reduce skill CD 4, Vira> Nice Play of the ally or opponent <.  2 - When the Nishinoya set is a Nice Play, it decreases 1 pass from the ball by the Skill 4 CD network and the basic attributes of allies increase and 12%, remaining this effect for up to 3 network intersections."
+        "pt": "<Salvando a equipe do perigo> Alteração de efeito: A condição de redução do tempo de recarga da habilidade foi alterada de [Quando um aliado faz uma boa jogada] para [Quando um aliado ou membro inimigo faz uma boa jogada].\nSe o arremesso de Nishinoya Yuu (Depois da Escola) for uma boa jogada, o tempo de recarga de <Recebimento de Pé> é reduzido em uma vez que a bola passou por cima da rede, e os atributos principais dos aliados são aumentados em 12%. Este efeito dura até que a bola tenha passado por cima da rede três vezes.",
+        "en": "<Saving the Team from Danger> Effect Change: The skill's cooldown reduction condition has been changed from [When an ally makes a good play] to [When an ally or enemy member makes a good play].\nIf Nishinoya Yuu's (After School) throw is a good play, the cooldown of <Foot Catch> is reduced by once the ball has passed over the net, and the allies' main stats are increased by 12%. This effect lasts until the ball has passed over the net three times."
       }
     ]
   },
@@ -2892,8 +2892,8 @@
     "effects": [
       {
         "jp": "西谷夕(放課後)がコート上に居る場合、味方メンバーの[反応]が10%アップ。",
-        "pt": "1 - Quando Nishinoya está em quadra, aumenta o atributo [Reflexo] dos aliados em 10%. 2 - Quando Nishinoya está em quadra e o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, o atributo [Reflexo] dos aliados da Linha de Defesa/Atrás aumenta em 15%, permanecendo esse efeito por até 4 cruzamentos de rede.",
-        "en": "1 - When Nishinoya is on the court, the allies' attribute [Reflex] increases by 10%. 2 - When Nishinoya is on the court and the opponent's Quick Attack/Potent result in a Nice Play, the [Reflex] attribute of Back Row allies increases by 15%, remaining this effect by up to 4 network intersections."
+        "pt": "1 - Quando Nishinoya está em quadra, aumenta o atributo [Reflexo] dos aliados em 10%. \n2 - Quando Nishinoya está em quadra e o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, o atributo [Reflexo] dos aliados da Linha de Defesa/Atrás aumenta em 15%, permanecendo esse efeito por até 4 cruzamentos de rede.",
+        "en": "1 - When Nishinoya is on the court, the allies' attribute [Reflex] increases by 10%. \n2 - When Nishinoya is on the court and the opponent's Quick Attack/Potent result in a Nice Play, the [Reflex] attribute of Back Row allies increases by 15%, remaining this effect by up to 4 network intersections."
       }
     ]
   },
@@ -3832,8 +3832,8 @@
     "effects": [
       {
         "jp": "菅原孝支(放課後)がコート上に居る場合、味方メンバーのメインパラメータが10%アップ。",
-        "pt": "1- Quando Sugawara está em quadra, aumenta os atributos básicos dos aliados em 10%. 2 - Quando Sugawara está em quadra e o time aliado pontua, aumenta em 4% o atributo [Técnica de Ataque] dos aliados, permanecendo o efeito por 8 passadas e acumula até 3 vezes. 3 - Quando Sugawara está em quadra e o time adversário pontua, aumenta em 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes. 4 - Se no rally em que o time adversário pontuou a bola tiver passado menos de 5 vezes pela rede, aumenta em mais 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes.",
-        "en": "1- When Sugawara is on the court, the basic attributes of allies increases by 10%. 2 - When Sugawara is on the court and the ally team punctuates, increases by 4% the allied [Attack Technique] attribute, remaining the effect by 8 passes and accumulates up to 3 times. 3 - When Sugawara is on the court and the opposing team punctuates, the allies' [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times. 4 - If in the rally where the opponent team pointed out the ball has passed less than 5 times through the network, the allied [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times."
+        "pt": "1- Quando Sugawara está em quadra, aumenta os atributos básicos dos aliados em 10%. \n2 - Quando Sugawara está em quadra e o time aliado pontua, aumenta em 4% o atributo [Técnica de Ataque] dos aliados, permanecendo o efeito por 8 passadas e acumula até 3 vezes. \n3 - Quando Sugawara está em quadra e o time adversário pontua, aumenta em 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes. \n4 - Se no rally em que o time adversário pontuou a bola tiver passado menos de 5 vezes pela rede, aumenta em mais 4% o atributo [Técnica de Defesa] dos aliados, permanecendo o efeito por 8 cruzamentos de rede e acumula até 3 vezes.",
+        "en": "1- When Sugawara is on the court, the basic attributes of allies increases by 10%. \n2 - When Sugawara is on the court and the ally team punctuates, increases by 4% the allied [Attack Technique] attribute, remaining the effect by 8 passes and accumulates up to 3 times. \n3 - When Sugawara is on the court and the opposing team punctuates, the allies' [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times. \n4 - If in the rally where the opponent team pointed out the ball has passed less than 5 times through the network, the allied [Defensive Technique] attribute increases by 4%, remaining the effect by 8 network intersections and accumulates up to 3 times."
       }
     ]
   },
@@ -4233,8 +4233,8 @@
     "effects": [
       {
         "jp": "[攻撃]効果を持っている場合、月島蛍（花火大会）の[攻撃テクニック]が15%、[守備テクニック]が20%アップ。",
-        "pt": "1 - Se Tsukishima possui o efeito \"Ataque\", seus atributos [Técncia de Ataque] aumenta em 15% e [Técnica de Defesa] aumenta em 20%. 2 - Se Tsukishima possui o efeito \"Defesa\", seus atributos [Técncia de Defesa] aumenta em 15% e [Técnica de Ataque] aumenta em 20%. 3 - Mudança na habilidade 1: 3.1 - A condição para o aumento do [Ataque Rápido] altera de >Quando o aliado ativa uma habilidade de Bloqueio< para >Quando o aliado ativa uma habilidade de Bloqueio/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<. 3.2: A condição para o aumento do [Bloqueio] altera de >Quando o aliado ativa uma habilidade de Ataque Rápido< para >Quando o aliado ativa uma habilidade de Ataque Rápido/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<.",
-        "en": "1 - If Tsukishima has the \"attack\" effect, its [Attack Technique] attributes increases by 15% and [Defensive Technique] increases by 20%. 2 - If Tsukishima has the \"defense\" effect, its [Defensive Technique] attributes increases by 15% and [Attack Technique] increases by 20%. 3 - Change in Skill 1: 3.1 - The condition for increasing [Quick Attack] changes from> when the ally activates a block skill <for> when the ally activates a block skill/when tsukishima touches the ball/when the opponent under effect touches the ball <. 3.2: The condition for increasing [Block] changes from> when the ally activates a Quick Attack's ability <for> when the ally activates a Quick Attack's ability/when Tsukishima touches the ball/when the opponent under effect debuts the ball <."
+        "pt": "1 - Se Tsukishima possui o efeito \"Ataque\", seus atributos [Técncia de Ataque] aumenta em 15% e [Técnica de Defesa] aumenta em 20%. \n2 - Se Tsukishima possui o efeito \"Defesa\", seus atributos [Técncia de Defesa] aumenta em 15% e [Técnica de Ataque] aumenta em 20%. \n3 - Mudança na habilidade 1: 3.1 - A condição para o aumento do [Ataque Rápido] altera de >Quando o aliado ativa uma habilidade de Bloqueio< para >Quando o aliado ativa uma habilidade de Bloqueio/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<. 3.2: A condição para o aumento do [Bloqueio] altera de >Quando o aliado ativa uma habilidade de Ataque Rápido< para >Quando o aliado ativa uma habilidade de Ataque Rápido/Quando Tsukishima toca na bola/Quando o adversário sob efeito Debuff toca na bola<.",
+        "en": "1 - If Tsukishima has the \"attack\" effect, its [Attack Technique] attributes increases by 15% and [Defensive Technique] increases by 20%. \n2 - If Tsukishima has the \"defense\" effect, its [Defensive Technique] attributes increases by 15% and [Attack Technique] increases by 20%. \n3 - Change in Skill 1: 3.1 - The condition for increasing [Quick Attack] changes from> when the ally activates a block skill <for> when the ally activates a block skill/when tsukishima touches the ball/when the opponent under effect touches the ball <. 3.2: The condition for increasing [Block] changes from> when the ally activates a Quick Attack's ability <for> when the ally activates a Quick Attack's ability/when Tsukishima touches the ball/when the opponent under effect debuts the ball <."
       }
     ]
   },
@@ -4267,8 +4267,8 @@
     "effects": [
       {
         "jp": "月島蛍（花火大会）の[メンタル]と[パワー]が40%アップ。",
-        "pt": "1 - Os atributos [Empenho] e [Força] do Tsukishima aumentam em 40%. 2 - Se o Bloqueio do Tsukishima resultar em uma Jogada Crítica, a força desse Bloqueio terá um aumento de atributo [Bloqueio] x 40%. Aplica efeito Debuff \"Fúria\" nos adversários da Linha de Ataque/Frente, reduzindo em 10% o atributo [Ataque Rápido/Potente] deles. 3 - Se o Ataque Rápido do Tsukishima resultar em uma Jogada Crítica, a força desse Ataque terá um aumento de [Ataque Rápido] x 40%. Esse Ataque não pode ser bloqueado.",
-        "en": "1 - The [Spirit] and [power] attributes of Tsukishima increase by 40%. 2 - If the Tsukishima block results in a Nice Play, the strength of this block will have an increase in attribute [Block] x 40%. It applies debuff effect \"fury\" to front row opponents, reducing their attribute [Quick/Power Attack] by 10%. 3 - If Tsukishima Quick Attack results in a Nice Play, the strength of this attack will have an increase of [Quick Attack] X 40%. This attack cannot be blocked."
+        "pt": "1 - Os atributos [Empenho] e [Força] do Tsukishima aumentam em 40%. \n2 - Se o Bloqueio do Tsukishima resultar em uma Jogada Crítica, a força desse Bloqueio terá um aumento de atributo [Bloqueio] x 40%. Aplica efeito Debuff \"Fúria\" nos adversários da Linha de Ataque/Frente, reduzindo em 10% o atributo [Ataque Rápido/Potente] deles. \n3 - Se o Ataque Rápido do Tsukishima resultar em uma Jogada Crítica, a força desse Ataque terá um aumento de [Ataque Rápido] x 40%. Esse Ataque não pode ser bloqueado.",
+        "en": "1 - The [Spirit] and [power] attributes of Tsukishima increase by 40%. \n2 - If the Tsukishima block results in a Nice Play, the strength of this block will have an increase in attribute [Block] x 40%. It applies debuff effect \"fury\" to front row opponents, reducing their attribute [Quick/Power Attack] by 10%. \n3 - If Tsukishima Quick Attack results in a Nice Play, the strength of this attack will have an increase of [Quick Attack] X 40%. This attack cannot be blocked."
       }
     ]
   },
@@ -4741,8 +4741,8 @@
     },
     "effects": [
       {
-        "pt": "Mudança na habilidade 3: A condição para o aumento do [Ataque Potente] altera de >A cada vez que Kunimi restaura Vigor< para >Quando Kunimi está em quadra e os aliados restauram Vigor<. 1 - Ao possuir o efeito \"Momento Crucial\" e ativar a habilidade 4, restaura 3 de Vigor dos aliados e o aliado com menor Vigor disponível recebe 8 a mais de Vigor. 2 - Quando Kunimi está como Jogador de Banco, a cada término de rally, os aliados recuperam 8 de Vigor.",
-        "en": "Change in Skill 3: The condition for increasing [Power Attack] changes from> every time Kunimi restores stamina <for> when Kunimi is on the court and the allies restore stamina <. 1 - When it has the \"crucial moment\" effect and activates the 4 -year -old skill, restoring 3 of allied stamina and the ally with the lowest available stamina gets 8 more stamina. 2 - When Kunimi is as a bank player, with each end of rally, the allies recover 8 from stamina."
+        "pt": "Quando Kunimi está em quadra e os aliados restauram Vigor. \n1 - Ao possuir o efeito 'Momento Crucial' e ativar a habilidade 4, restaura 3 de Vigor dos aliados e o aliado com menor Vigor disponível recebe 8 a mais de Vigor. \n2 - Quando Kunimi está como Jogador de Banco, a cada término de rally, os aliados recuperam 8 de Vigor.",
+        "en": "When Kunimi is on the court and allies restore Stamina. \n1 - When possessing the 'Crucial Moment' effect and activating skill 4, restores 3 Stamina to allies and the ally with the lowest available Stamina receives 8 more Stamina. \n2 - When Kunimi is a Bench Player, at the end of each rally, allies recover 8 Stamina."
       }
     ]
   },
@@ -4773,8 +4773,8 @@
     },
     "effects": [
       {
-        "pt": "1 - Se o Kunimi está posicionado na Escalação do Time inicial, os atributos principais dos aliados aumentam em 5%. 2 - Quando Kunimi está em quadra, ao iniciar a partida seu limite de Vigor reduz para 80 e a cada 1 de redução, o atributo [Força] do Kunimi aumenta em 1%, podendo aumentar no máximo até 120%. 3 - A cada término de rally, Kunimi recupera 15 de Vigor. Se Kunimi estiver com menos de 40 de Vigor, ele recupera mais 15 de Vigor.",
-        "en": "1 - If Kunimi is positioned in the lineup of the initial team, the main allies attributes increase by 5%. 2 - When Kunimi is on the court, when starting the stamina limit reduces to 80 and every 1 reduction, the [power] attribute of Kunimi increases by 1%and may increase up to 120%. 3 - With each end of rally, Kunimi recovers 15 stamina. If Kunimi has less than 40 stamina, he recovers 15 more stamina."
+        "pt": "1 - Se o Kunimi está posicionado na Escalação do Time inicial, os atributos principais dos aliados aumentam em 5%. \n2 - Quando Kunimi está em quadra, ao iniciar a partida seu limite de Vigor reduz para 80 e a cada 1 de redução, o atributo [Força] do Kunimi aumenta em 1%, podendo aumentar no máximo até 120%. \n3 - A cada término de rally, Kunimi recupera 15 de Vigor. Se Kunimi estiver com menos de 40 de Vigor, ele recupera mais 15 de Vigor.",
+        "en": "1 - If Kunimi is positioned in the lineup of the initial team, the main allies attributes increase by 5%. \n2 - When Kunimi is on the court, when starting the stamina limit reduces to 80 and every 1 reduction, the [power] attribute of Kunimi increases by 1%and may increase up to 120%. \n3 - With each end of rally, Kunimi recovers 15 stamina. If Kunimi has less than 40 stamina, he recovers 15 more stamina."
       }
     ]
   },

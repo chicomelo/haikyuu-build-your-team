@@ -180,23 +180,23 @@
       "pt": "Aumenta [Percepção] do equipador em 10%;\nQuando o atributo [Percepção] do equipador passar de 20%, ele recebe 0.5% de aumento no atributo [Força] a cada 1% do atributo [Percepção] excedente, podendo aumentar até no máximo 50% do atributo [Força]."
     },
     "bonus": {
-      "Set": {
-        "flat": 43
-      },
       "Serve": {
-        "flat": 49
-      },
-      "Block": {
-        "flat": 57
+        "flat": 570
       },
       "Spike": {
-        "flat": 63
+        "flat": 729
+      },
+      "Set": {
+        "flat": 507
       },
       "Receive": {
-        "flat": 63
+        "flat": 729
+      },
+      "Block": {
+        "flat": 665
       },
       "Save": {
-        "flat": 46
+        "flat": 539
       }
     },
     "image": "/assets/img/memories/MemoUshijimaUR.png",
@@ -213,23 +213,23 @@
       "pt": "Aumenta [Ataque Rápido] do equipador em 12%;\nSe o atributo [Técnica de Ataque] do equipador passar de 40% de aumento, aumenta a força do Ataque Rápido em [Ataque Rápido] x 24%."
     },
     "bonus": {
-      "Set": {
-        "flat": 43
-      },
       "Serve": {
-        "flat": 49
-      },
-      "Block": {
-        "flat": 57
+        "flat": 570
       },
       "Spike": {
-        "flat": 63
+        "flat": 729
+      },
+      "Set": {
+        "flat": 507
       },
       "Receive": {
-        "flat": 63
+        "flat": 729
+      },
+      "Block": {
+        "flat": 665
       },
       "Save": {
-        "flat": 46
+        "flat": 539
       }
     },
     "image": "/assets/img/memories/MemoOsamuUR.png",
@@ -382,23 +382,23 @@
       "pt": "Aumenta [Recepção] do equipador em 12%;\nQuando o equipador ativa sua habilidade 4, seus atributos [Reflexo] aumenta em 0.6% e [Empenho] em 1.2%, até 5 vezes;\nSe durante 1 rally o equipador ativou a habilidade 4 mais de 2 vezes, o equipador recupera 10 de Vigor e seu atributo [Técnica de Defesa] aumenta em 8% na próxima vez que ativar a habilidade 4. Esse efeito permanece por 2 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 66
-      },
       "Serve": {
-        "flat": 53
-      },
-      "Block": {
-        "flat": 50
+        "flat": 619
       },
       "Spike": {
-        "flat": 56
+        "flat": 656
+      },
+      "Set": {
+        "flat": 765
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 583
       },
       "Save": {
-        "flat": 72
+        "flat": 838
       }
     },
     "image": "/assets/img/memories/MemoNishinoyaSP.png",
@@ -415,23 +415,23 @@
       "pt": "Aumenta [Recepção] do equipador em 12%;\nQuando o equipador realiza uma Recepção, aumenta o atributo [Técnica de Defesa] dos aliados da Linha de Defesa/Trás em 2%, até 3 vezes;\nSe o equipador está em quadra e o aliado ativa uma habilidade de Recepção, esse aliado restaura 2 de Vigor e seu atributo [Ataque Rápido/Potente] aumenta em 15%. Esse efeito permanece por 2 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 72
-      },
       "Serve": {
-        "flat": 53
-      },
-      "Block": {
-        "flat": 50
+        "flat": 619
       },
       "Spike": {
-        "flat": 56
+        "flat": 656
+      },
+      "Set": {
+        "flat": 838
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 583
       },
       "Save": {
-        "flat": 72
+        "flat": 765
       }
     },
     "image": "/assets/img/memories/MemoKomoriUR.png",
@@ -618,23 +618,23 @@
       "pt": "Aumenta [Força] do equipador em 12%;\nSe o Ataque Rápido do equipador resultar em uma Jogada Crítica, aumenta seu atributo [Força] em 2%, até 5 vezes;\nSe o Ataque Rápido do equipador resultar em uma Jogada Crítica e o Bloqueio do adversário não encostar na bola, reduz 4% dos atributos [Empenho] e [Reflexo] dos adversários na Linha de Ataque/Frente. Esse efeito permanece por 10 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 56
-      },
       "Serve": {
-        "flat": 53
-      },
-      "Block": {
-        "flat": 66
+        "flat": 619
       },
       "Spike": {
-        "flat": 72
+        "flat": 838
+      },
+      "Set": {
+        "flat": 656
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 765
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoHinataSP.png",
@@ -651,23 +651,23 @@
       "pt": "Aumenta [Ataque Rápido] do equipador em 15%;\nQuando o equipador realiza uma Jogada Crítica, aumenta seu atributo [Bloqueio] em 6%, até 3 vezes;\nAplica aleatoriamente em 1 adversário o efeito Debuff  \"Anular\", reduzindo 5% do atributo básico desse adversário. Esse efeito permanece por 8 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 56
-      },
       "Serve": {
-        "flat": 53
-      },
-      "Block": {
-        "flat": 72
+        "flat": 619
       },
       "Spike": {
-        "flat": 72
+        "flat": 838
+      },
+      "Set": {
+        "flat": 656
       },
       "Receive": {
-        "flat": 66
+        "flat": 765
+      },
+      "Block": {
+        "flat": 838
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoTsukiSP.png",
@@ -718,23 +718,23 @@
       "pt": "Aumenta [Técnica de Defesa] do equipador em 6.4%;\nQuando o equipador participa de um Bloqueio Duplo/Triplo, aumenta o atributo [Bloqueio] dos aliados na linha de Ataque/Frente em 12%. Esse efeito permanece por 2 cruzamentos de rede;\nQuando o equipador realizar um Bloqueio e esse bloqueio resultar em um Bloqueio Duplo/Triplo, aumenta em mais 15% o atributo [Bloqueio] desse membro."
     },
     "bonus": {
-      "Set": {
-        "flat": 56
-      },
       "Serve": {
-        "flat": 72
-      },
-      "Block": {
-        "flat": 72
+        "flat": 838
       },
       "Spike": {
-        "flat": 66
+        "flat": 765
+      },
+      "Set": {
+        "flat": 656
       },
       "Receive": {
-        "flat": 53
+        "flat": 619
+      },
+      "Block": {
+        "flat": 838
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoAoneSP.png",
@@ -785,23 +785,23 @@
       "pt": "Aumenta [Bloqueio] do equipador em 10%;\nQuando o time aliado pontua, aumenta [Bloqueio] do equipador em 2.4%, até 3 acúmulos;\nSe o aliado possui o efeito \"Bloqueio Rígido\", quando ele realizar um Bloqueio, seu atributo [Técnica de Defesa] aumentará em 1.2% e aumentará em mais 1.2% o atributo [Técnica de Defesa] do equipador. Esse efeito permanece até 4 cruzamentos de rede e pode ativar até 3 vezes."
     },
     "bonus": {
-      "Set": {
-        "flat": 43
-      },
       "Serve": {
-        "flat": 63
-      },
-      "Block": {
-        "flat": 63
+        "flat": 729
       },
       "Spike": {
-        "flat": 57
+        "flat": 665
+      },
+      "Set": {
+        "flat": 507
       },
       "Receive": {
-        "flat": 49
+        "flat": 570
+      },
+      "Block": {
+        "flat": 729
       },
       "Save": {
-        "flat": 46
+        "flat": 539
       }
     },
     "image": "/assets/img/memories/MemoHirugamiUR.png",
@@ -1090,23 +1090,23 @@
       "pt": "Aumenta [Passe] do equipador em 12%;\nEnquanto o time aliado estiver com o Reforço de Moral do Time ativado, aumenta em 10% o atributo [Percepção] do equipador;\nAumenta em 15% o atributo básico do aliado que está com o efeito \"Excelente Condição\" (Bokuto);\nQuando o aliado perde o efeito \"Excelente Condição\", aumenta em 10% o atributo [Reflexo] dele. Esse efeito permanece por 8 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 72
-      },
       "Serve": {
-        "flat": 72
-      },
-      "Block": {
-        "flat": 66
+        "flat": 838
       },
       "Spike": {
-        "flat": 56
+        "flat": 656
+      },
+      "Set": {
+        "flat": 838
       },
       "Receive": {
-        "flat": 53
+        "flat": 619
+      },
+      "Block": {
+        "flat": 765
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoAkaashiSP.png",
@@ -1123,23 +1123,23 @@
       "pt": "Aumenta o atributo básico do equipador em 8%;\nQuando o equipador realiza um Passe, a cada 6 de seu Vigor disponível, aumenta em 1% o atributo [Ataque Rápido/Potente] do membro a realizar um Ataque. É possível aumentar no máximo até 15% e o efeito permanece por 2 cruzamentos de rede;\nSe o equipador ativar alguma habilidade e for consumido Vigor a mais, o aliado com menor Vigor disponível recuperará 10 de Vigor."
     },
     "bonus": {
-      "Set": {
-        "flat": 72
-      },
       "Serve": {
-        "flat": 72
-      },
-      "Block": {
-        "flat": 66
+        "flat": 838
       },
       "Spike": {
-        "flat": 56
+        "flat": 656
+      },
+      "Set": {
+        "flat": 838
       },
       "Receive": {
-        "flat": 53
+        "flat": 619
+      },
+      "Block": {
+        "flat": 765
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoSugawaraSP.png",
@@ -1156,23 +1156,23 @@
       "pt": "Aumenta [Reflexo] do equipador em 8%;\nSe o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, quando o aliado ativar uma habilidade de Bloqueio ou Recepção, ele receberá 1 acúmulo do efeito \"Persistência\". A cada 1 acúmulo do efeito \"Persistência\", aumenta o atributo [Reflexo] desse aliado em 2%, até 3 acúmulos;\nSe o Ataque Rápido/Potente do adversário resultar em uma Jogada Crítica, quando o aliado que ativar uma habilidade de Bloqueio ou Recepção estiver com 3 acúmulos do efeito \"Persistência\", os 3 acúmulos são consumidos e aumenta seu atributo [Reflexo] em 100%. Esse efeito permanece por 1 cruzamento de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 72
-      },
       "Serve": {
-        "flat": 66
-      },
-      "Block": {
-        "flat": 53
+        "flat": 765
       },
       "Spike": {
-        "flat": 56
+        "flat": 656
+      },
+      "Set": {
+        "flat": 838
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 619
       },
       "Save": {
-        "flat": 50
+        "flat": 583
       }
     },
     "image": "/assets/img/memories/MemoKenmaSP.png",
@@ -1189,23 +1189,23 @@
       "pt": "Aumenta [Saque] do equipador em 12%;\nQuando o equipador realiza um Saque Superior, ele recebe 2 acúmulos do efeito \"Tempo do Ataque\" (Oikawa). Cada acúmulo aumenta o atributo [Percepção] dos aliados em 1%, até 10 acúmulos. Se esse Saque marcar, o equipador recebe mais 4 acúmulos do efeito \"Tempo do Ataque\"."
     },
     "bonus": {
-      "Set": {
-        "flat": 63
-      },
       "Serve": {
-        "flat": 63
-      },
-      "Block": {
-        "flat": 57
+        "flat": 729
       },
       "Spike": {
-        "flat": 49
+        "flat": 570
+      },
+      "Set": {
+        "flat": 729
       },
       "Receive": {
-        "flat": 46
+        "flat": 539
+      },
+      "Block": {
+        "flat": 665
       },
       "Save": {
-        "flat": 43
+        "flat": 507
       }
     },
     "image": "/assets/img/memories/MemoOikawaUR.png",
@@ -1222,23 +1222,23 @@
       "pt": "Aumenta [Passe] do equipador em 12%;\nAo ativar a habilidade de Largada do equipador, aumenta o atributo [Força] em [Percepção] x 20%, podendo aumentar no máximo até 100%;\nApós a ativação da habilidade de Largada do equipador, aumenta a força de Ataque Rápido/Potente do próximo aliado a atacar em atributo [Ataque Rápido/Potente do aliado a atacar] x 14%."
     },
     "bonus": {
-      "Set": {
-        "flat": 63
-      },
       "Serve": {
-        "flat": 63
-      },
-      "Block": {
-        "flat": 57
+        "flat": 729
       },
       "Spike": {
-        "flat": 49
+        "flat": 570
+      },
+      "Set": {
+        "flat": 729
       },
       "Receive": {
-        "flat": 46
+        "flat": 539
+      },
+      "Block": {
+        "flat": 665
       },
       "Save": {
-        "flat": 43
+        "flat": 507
       }
     },
     "image": "/assets/img/memories/MemoKageyamaUR.png",
@@ -1255,23 +1255,23 @@
       "pt": "Aumenta [Passe] do equipador em 12%;\nQuando o equipador está em quadra, aumenta em 6.4% os atributos [Percepção] e [Reflexo] dos aliados em quadra que estiverem com esses atributos abaixo de 20%;\nAumenta [Técnica de Ataque] e [Técnica de Defesa] do equipador em 3.2%;\nSe a jogada aliada não resultar em uma Jogada Crítica, aumenta os atributos [Técnica de Ataque] e [Técnica de Defesa] do equipador em 1%, até 5 vezes. Esse efeito permanece por 1 rally."
     },
     "bonus": {
-      "Set": {
-        "flat": 63
-      },
       "Serve": {
-        "flat": 63
-      },
-      "Block": {
-        "flat": 57
+        "flat": 729
       },
       "Spike": {
-        "flat": 49
+        "flat": 570
+      },
+      "Set": {
+        "flat": 729
       },
       "Receive": {
-        "flat": 46
+        "flat": 539
+      },
+      "Block": {
+        "flat": 665
       },
       "Save": {
-        "flat": 43
+        "flat": 507
       }
     },
     "image": "/assets/img/memories/MemoAtsumuUR.png",
@@ -1478,7 +1478,7 @@
         "flat": 461
       }
     },
-    "image": "/assets/img/memories/MemoKoganegawaSSR.png",
+    "image": "/assets/img/memories/MemoKoganegawaSP.png",
     "characterId": "koganegawa-sp"
   },
   {
@@ -1560,23 +1560,23 @@
       "pt": "Aumenta [Força] do equipador em 12%;\nQuando o equipador realiza um Ataque Potente, seu atributo [Técnica de Ataque] aumenta em 5%;\nQuando o efeito aliado de Reforço de Moral do Time estiver com mais de 6 acúmulos disponíveis, aumenta o atributo [Técnica de Ataque] do equipador em mais 20%."
     },
     "bonus": {
-      "Set": {
-        "flat": 50
-      },
       "Serve": {
-        "flat": 66
-      },
-      "Block": {
-        "flat": 56
+        "flat": 765
       },
       "Spike": {
-        "flat": 72
+        "flat": 838
+      },
+      "Set": {
+        "flat": 583
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 656
       },
       "Save": {
-        "flat": 53
+        "flat": 619
       }
     },
     "image": "/assets/img/memories/MemoBokutoSP.png",
@@ -1627,23 +1627,23 @@
       "pt": "Aumenta [Ataque Potente] em 12%;\nQuando seu time entra em Reforço de Motal do Time, o equipador recebe aumento de 4% a mais em seu atributo [Ataque Potente], até 3 vezes;\nEnquanto o equipador estiver em quadra, a duração do Reforço de Moral do Time aumenta em 2 cruzamentos de rede."
     },
     "bonus": {
-      "Set": {
-        "flat": 43
-      },
       "Serve": {
-        "flat": 57
-      },
-      "Block": {
-        "flat": 49
+        "flat": 665
       },
       "Spike": {
-        "flat": 63
+        "flat": 729
+      },
+      "Set": {
+        "flat": 507
       },
       "Receive": {
-        "flat": 63
+        "flat": 729
+      },
+      "Block": {
+        "flat": 570
       },
       "Save": {
-        "flat": 46
+        "flat": 539
       }
     },
     "image": "/assets/img/memories/MemoBokutoUR.png",
@@ -2034,23 +2034,23 @@
       "pt": "Aumenta [Ataque Potente] do equipador em 12%;\nQuando o equipador estiver com menos de 80 de Vigor, aumenta seu atributo [Técnica de Ataque] em 4%;\nConforme for recuperando Vigor, aumenta seu atributo [Força] em 6%, acumulando até 5 vezes."
     },
     "bonus": {
-      "Set": {
-        "flat": 50
-      },
       "Serve": {
-        "flat": 66
-      },
-      "Block": {
-        "flat": 56
+        "flat": 765
       },
       "Spike": {
-        "flat": 72
+        "flat": 838
+      },
+      "Set": {
+        "flat": 583
       },
       "Receive": {
-        "flat": 72
+        "flat": 838
+      },
+      "Block": {
+        "flat": 656
       },
       "Save": {
-        "flat": 53
+        "flat": 619
       }
     },
     "image": "/assets/img/memories/MemoKunimiSP.png",
