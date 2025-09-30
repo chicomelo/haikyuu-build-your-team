@@ -290,10 +290,6 @@
       {
         "key": "o-silencioso-e-o-sarca-stico",
         "type": "positional"
-      },
-      {
-        "key": "cannon-e-iron-wall",
-        "type": "bond"
       }
     ],
     "types": ["block", "quick"],
@@ -361,10 +357,6 @@
       },
       {
         "key": "friends-from-volleyball-class",
-        "type": "bond"
-      },
-      {
-        "key": "inarizaki-2nd-years",
         "type": "bond"
       },
       {
@@ -437,10 +429,6 @@
       },
       {
         "key": "cannon-and-iron-wall",
-        "type": "bond"
-      },
-      {
-        "key": "cannon-e-iron-wall",
         "type": "bond"
       },
       {
@@ -582,10 +570,6 @@
       {
         "key": "a-s-milagroso-e-levantador-carinhoso",
         "type": "positional"
-      },
-      {
-        "key": "fukurodani-3rd-years",
-        "type": "bond"
       },
       {
         "key": "number-one-disciple",
@@ -912,8 +896,12 @@
     ],
     "avatar": "/assets/img/hayaseiomiUR.png",
     "role": "WS",
-    "name": "Hayaseiomi UR",
+    "name": "Sakusa UR",
     "links": [
+      {
+        "key": "japan-youth-training-camp-teammates",
+        "type": "bond"
+      },
       {
         "key": "top-spiker-e-top-libero",
         "type": "positional"
@@ -974,7 +962,7 @@
     "name": "Hinata SP",
     "links": [
       {
-        "key": "dupla-exce-ntrica",
+        "key": "dupla-exce-ntrica-sp",
         "type": "positional"
       },
       {
@@ -1075,10 +1063,6 @@
       },
       {
         "key": "rival-friends",
-        "type": "bond"
-      },
-      {
-        "key": "similar-physique-teammates",
         "type": "bond"
       },
       {
@@ -1325,6 +1309,10 @@
         "type": "positional"
       },
       {
+        "key": "dupla-exce-ntrica-sp",
+        "type": "positional"
+      },
+      {
         "key": "ge-nios-karasuno",
         "type": "positional"
       },
@@ -1357,7 +1345,7 @@
         "type": "bond"
       },
       {
-        "key": "youth-training-camp",
+        "key": "youth-camp-teammates",
         "type": "bond"
       }
     ],
@@ -1547,6 +1535,10 @@
       {
         "key": "a-matilha",
         "type": "positional"
+      },
+      {
+        "key": "unwavering-trust",
+        "type": "bond"
       }
     ],
     "types": ["power", "serve"],
@@ -1932,11 +1924,7 @@
         "type": "bond"
       },
       {
-        "key": "similar-physique-teammates",
-        "type": "bond"
-      },
-      {
-        "key": "youth-training-camp",
+        "key": "youth-camp-teammates",
         "type": "bond"
       }
     ],
@@ -2052,7 +2040,7 @@
     ],
     "avatar": "/assets/img/kuroSP.png",
     "role": "MB",
-    "name": "Kuro SP",
+    "name": "Kuroo SP",
     "links": [
       {
         "key": "festival-fogos-de-artificio",
@@ -2186,6 +2174,10 @@
       },
       {
         "key": "master-and-apprentice",
+        "type": "bond"
+      },
+      {
+        "key": "tokyo-training-camp-self-practice-buddies",
         "type": "bond"
       }
     ],
@@ -2589,6 +2581,10 @@
       {
         "key": "the-king-and-the-great-king",
         "type": "bond"
+      },
+      {
+        "key": "unwavering-trust",
+        "type": "bond"
       }
     ],
     "types": ["power", "serve", "setter"],
@@ -2656,10 +2652,6 @@
       },
       {
         "key": "friends-from-volleyball-class",
-        "type": "bond"
-      },
-      {
-        "key": "inarizaki-2nd-years",
         "type": "bond"
       }
     ],
@@ -2785,12 +2777,7 @@
     "avatar": "/assets/img/rintaroSSR.png",
     "role": "MB",
     "name": "Rintaro SSR",
-    "links": [
-      {
-        "key": "inarizaki-2nd-years",
-        "type": "bond"
-      }
-    ],
+    "links": [],
     "types": ["quick", "block"],
     "skillResonances": [
       {
@@ -3160,12 +3147,7 @@
     "avatar": "/assets/img/tatsuoSSR.png",
     "role": "MB",
     "name": "Tatsuo SSR",
-    "links": [
-      {
-        "key": "fukurodani-3rd-years",
-        "type": "bond"
-      }
-    ],
+    "links": [],
     "types": ["block", "quick"],
     "skillResonances": [
       {

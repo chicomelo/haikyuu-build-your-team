@@ -7,8 +7,8 @@
       "en": "Twin Power"
     },
     "description": {
-      "pt": "Quando Atsumu UR faz o passe e Osamu UR faz um Ataque Rápido Minus Tempo, aumenta o Ataque Rápido dessa jogada. Aumenta o Técnica de Ataque em 15%. O ataque não pode ser bloqueado.",
-      "en": "When Atsumu UR makes a pass and Osamu UR makes a Minus Tempo Quick Attack, increases the Quick Attack of that play. Increases Attack Technique by 15%. The attack cannot be blocked."
+      "pt": "1 - Quando Osamu corta a bola levantada por Atsumu, esse ataque terá a força de [Ataque Rápido] do Osamu x (Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%), realizando o Ataque em Tempo Negativo dos Gêmeos que não pode ser bloqueado. \n2 - O atributo [Técnica de Ataque] do Osamu aumenta em 15%. Esse aumento dura até que Atsumu ou Osamu saiam da quadra.",
+      "en": "1 - When Osamu spikes a ball set by Atsumu, that spike will have the power of Osamu's Quick Attack x (Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%), performing the Twins' Negative Time Attack that cannot be blocked. \n2 - Osamu's [Attack Technique] stat increases by 15%. This increase lasts until either Atsumu or Osamu leave the court."
     }
   },
   "a-matilha": {
@@ -31,8 +31,8 @@
       "en": "Miracle Ace and Caring Setter"
     },
     "description": {
-      "pt": "Bokuto UR sai da depressão. Quando Akaashi SSR faz o passe e Bokuto UR spika, aumenta o Ataque Potente desse golpe em 20% e eleva a Moral do Time em 15.",
-      "en": "Bokuto UR comes out of depression. When Akaashi SSR makes a pass and Bokuto UR Spikes, increases his Power Attack for that Spike by 20% and raises team morale by 15"
+      "pt": "Bokuto perde o efeito do \"Modo Deprimido\". Quando Bokuto corta a bola levantada por Akaashi, esse ataque terá a força de [Ataque Potente] x (Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%). Com esse ataque, o status [Ataque Potente] do Bokuto é aumentado em 20% e aumenta a moral do time em 15.",
+      "en": "Bokuto loses the effect of \"Depressed Mode.\" When Bokuto spikes a ball set by Akaashi, that spike will have the power of [Power Attack] x (Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%). With that spike, Bokuto's [Power Attack] stat increases by 20% and Team Morale increases by 15."
     }
   },
   "ace-milagroso-e-levantador-carinhoso": {
@@ -43,8 +43,8 @@
       "en": "Ace Miraculous and Caring Setter"
     },
     "description": {
-      "pt": "Aumenta o Passe de Akaashi SP. Com Moral ativa, aumenta o Ataque Potente de Bokuto SP em 18% e o Passe de Akaashi SP em 5%.",
-      "en": "Increases Akaashi SP’s Passing. When team morale is active, increases Bokuto SP’s Power Attack by 18% and Akaashi SP’s Passing by 5%"
+      "pt": "Atributo [Passe] do Akaashi aumenta em (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). Quando o time aliado está com o Reforço de Moral do Time ativado, nesse período o atributo [Ataque Potente] do Bokuto aumenta em 18% e o atributo [Passe] do Akaashi aumenta em mais 5%.",
+      "en": "Akaashi's [Set] stat increases by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). When the allied team has Team Morale Boost active, during that time Bokuto's [Power Attack] stat increases by 18% and Akaashi's [Set] stat increases by an additional 5%."
     }
   },
   "aliados-no-campo-de-treinamento": {
@@ -55,8 +55,8 @@
       "en": "Teammates At Training Camp"
     },
     "description": {
-      "pt": "Aliados em quadra que possuam habilidade de [Bloqueio] recebem +6%/7%/8%/9%/10% [Bloqueio].O tempo de recarga de <Block System> é reduzido em 2 cruzamentos de rede.Quando um aliado ativa uma habilidade de [Saque], aplica [Raiva] na linha de trás do oponente ([Ataque Potente]/[Ataque Rápido] −10%) por 8 cruzamentos de rede.",
-      "en": "Ally members on the court with a block skill gain +6%/7%/8%/9%/10% Block. The cooldown of <Block System> is reduced by 2 net crossings. When an ally member activates a serve skill, inflict Anger on the opponent’s back row (Power Attack / Quick Attack −10%) for 8 net crossings."
+      "pt": "1 - Os aliados presentes em quadra com habilidades de Bloqueio tem a força do [Bloqueio] aumentado em [Bloqueio] x (Lv1: 6%; Lv2: 7%; Lv3: 8%; Lv4: 9%; Lv5: 10%). \n2 - O CD da habilidade 2 diminui em 2 cruzamentos de rede. \n3 - Quando aliado ativa uma habilidade de Saque, aplica o efeito debuff \"Fúria\" nos adversários, reduzindo o atributo [Ataque Rápido/Ataque Potente] do adversário em 10%. Esse efeito permanece por 8 cruzamentos de rede.",
+      "en": "1 - Allies on the court with Block skills have their Block power increased by [Block] x (Lv1: 6%; Lv2: 7%; Lv3: 8%; Lv4: 9%; Lv5: 10%). \n2 - The cooldown of Skill 2 decreases by 2 net crossings. \n3 - When an ally activates a Serve skill, inflict the debuff effect \"Angry\" on opponents, reducing the opponent's [Quick Attack/Power Attack] stat by 10%. This effect lasts for 8 net crossings."
     }
   },
   "amigos-de-longa-data": {
@@ -67,8 +67,8 @@
       "en": "Longtime Friends"
     },
     "description": {
-      "pt": "Aumenta os Stats de Hoshiumi UR. Aumenta o Bloqueio para os jogadores da linha de frente. Hoshiumi UR e Hirugami UR recebem um buff (sem info).",
-      "en": "The [Block] of allied frontline is increased. At the start of the match, Hoshiumi Korai gains the [All-Rounder] effect, and Hirugami gains the [Strong Block] effect."
+      "pt": "Os atributos básicos do Korai aumenta em (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). O atributo [Bloqueio] dos aliados na Linha de Ataque/Frente aumenta em (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). Ao iniciar a partida, Korai recebe 1 acúmulo do efeito \"All Rounder\" e Hirugami recebe 1 acúmulo do efeito \"Bloqueio Rígido\".",
+      "en": "Korai's basic stats increase by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). The [Block] stat of allies in the Attack/Front Line increases by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). At the start of the match, Korai gains 1 stack of the \"All Rounder\" effect and Hirugami gains 1 stack of the \"Rigid Block\" effect."
     }
   },
   "bests-para-a-vida": {
@@ -79,8 +79,8 @@
       "en": "Besties for Life"
     },
     "description": {
-      "pt": "Aumenta o Ataque Potente de Ushijima UR e o Técnica de Defesa de Tendo SSR.",
-      "en": "Increases Ushijima UR’s Power Attack and Tendo SSR’s Defense Technique"
+      "pt": "Os atributos [Técnica de Ataque] de Ushijima e [Técnica de defesa] de Tendou aumentam em (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%).",
+      "en": "Ushijima's [Attack Technique] and Tendou's [Defense Technique] stats increase by (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%)."
     }
   },
   "cabec-a-dos-ge-meos": {
@@ -91,8 +91,8 @@
       "en": "Twin Heads"
     },
     "description": {
-      "pt": "Aumenta o Técnica de Ataque de Osamu UR. Aumenta os Stats de Kita SSR. No início da partida, Atsumu ganha 3 acúmulos de Perfect Hit* (+2% de Passe cada, máx. 10). Kita SSR ganha bônus similar em Recepção (máx. 3). O primeiro Ataque Rápido dos gêmeos em cada set recebe +[Ataque Rápido] × 12%.",
-      "en": "Increases Osamu UR’s Attack Technique. Increases Kita SSR’s Stats. At the start of the match Atsumu gains 3 stacks of Perfect Hit*, each increasing his Passing by 2%. Max 10 stacks. Kita SSR gains a similar buff that increases his Receive. Max 3 stacks. The twins’ first Quick Attack per set is increased by Quick Attack × 12%"
+      "pt": "Atributo [Técnica de Ataque] do Osamu aumenta em (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%) e os atributos básicos do Shinsuke aumentam em (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%). \n1 - Ao iniciar a partida, Atsumu recebe 3 acúmulos do efeito \"Jogada Perfeita/Precisa\". A cada acúmulo seu atributo [Passe] aumenta em 2%, até 10 acúmulos. \n2 - Shinsuke recebe 1 acúmulo do efeito \"Ação Certeira\". A cada acúmulo, seu atributo [Recepção] aumenta em 2%, até 3 acúmulos. \n3 - Aumenta a força do primeiro Ataque Rápido do Osamu presente em [Ataque Rápido] x 12%.",
+      "en": "Atsumu's [Attack Technique] stat increases by (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%) and Shinsuke's basic stats increase by (Lv1: 3%, Lv2: 3.5%, Lv3: 4%, Lv4: 4.5%, Lv5: 5%). \n1 - At the start of the match, Atsumu gains 3 stacks of the \"Perfect/Accurate Play\" effect. Each stack increases his [Set] stat by 2%, up to 10 stacks. \n2 - Shinsuke gains 1 stack of the \"Sure Action\" effect. Each stack increases his [Receive] stat by 2%, up to 3 stacks. \n3 - Increases the power of Osamu's first Quick Attack present in [Quick Attack] x 12%."
     }
   },
   "campea-o-absoluto-e-levantador-so-lido": {
@@ -103,8 +103,8 @@
       "en": "Absolute Champion and Steady Setter"
     },
     "description": {
-      "pt": "Quando Shirabu SSR faz o passe, Ushijima UR realiza um corte com 10% mais poder.",
-      "en": "When Shirabu SSR makes a pass, Ushijima UR Spikes with 10% more power"
+      "pt": "Quando Ushijima corta a bola levantada por Shirabu, esse ataque terá a força de [Ataque Potente] x (Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%). Nessa jogada, atributo [Força] de Ushijima é aumentado em 10%.",
+      "en": "When Ushijima spikes a ball set by Shirabu, that spike will have the power of [Power Attack] x (Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%). In that play, Ushijima's [Strength] stat increases by 10%."
     }
   },
   "ce-rebro-e-comandante": {
@@ -115,8 +115,8 @@
       "en": "Brain and Commander"
     },
     "description": {
-      "pt": "Quando Kenma SSR faz o passe, Kuroo UR realiza um Ataque Rápido fortalecido.",
-      "en": "When Kenma SSR makes a pass, Kuro UR performs a strengthened Quick Attack"
+      "pt": "Quando Kuroo corta a bola levantada por Kenma, esse ataque terá a força de [Ataque Rápido] x (Lv1: 265%, Lv2: 280%, Lv3: 295%, Lv4: 310%, Lv5: 325%).",
+      "en": "When Kenma SSR makes a pass, Kuroo UR performs a strengthened Quick Attack"
     }
   },
   "ce-rebro-e-comandante-sp": {
@@ -127,8 +127,8 @@
       "en": "Brain and Commander SP"
     },
     "description": {
-      "pt": "Quando Kenma SP e Kuroo SP estão em quadra, podem usar a habilidade de ataque rápido Cérebro e Comandante*",
-      "en": "When Kenma SP and Kuro SP are on court, can activate the quick attack skill Brain and Commander*"
+      "pt": "Quando Kuroo corta a bola levantada por Kenma, esse ataque terá a força de [Ataque Rápido] do Kuroo x (Lv1: 280%, Lv2: 300%, Lv3: 320%, Lv4: 340%, Lv5: 360%) e esse Ataque Rápido será uma Jogada Crítica. O atributo [Técnica de Ataque] dos aliados aumentam em 10%, esse efeito permanece até 1 set.",
+      "en": "When Kuroo spikes a ball set by Kenma, that spike will have the power of Kuroo's Quick Attack x (Lv1: 280%, Lv2: 300%, Lv3: 320%, Lv4: 340%, Lv5: 360%) and that Quick Attack will be a Critical Hit. Allies' [Attack Technique] stats increase by 10%, and this effect lasts until the end of 1 set."
     }
   },
   "depois-da-escola": {
@@ -139,8 +139,8 @@
       "en": "After School"
     },
     "description": {
-      "pt": "Aumenta o Reflexo de Nishinoya SP; quando a Stamina dele estiver baixa, aumenta ainda mais.",
-      "en": "Increases Nishinoya SP’s reflex; when his stamina is low, increases it even more"
+      "pt": "O atributo [Reflexo] do Nishinoya aumenta em (Lv1: 5%, Lv2: 7.5%, Lv3: 7.5%, Lv4: 7.5%, Lv5: 10%). Quando Sugawara está em quadra e Nishinoya está com menos de 80 de Vigor, aumenta o atributo [Reflexo] do Nishinoya em mais (Lv1: 5%, Lv2: 5%, Lv3: 7.5%, Lv4: 10%, Lv5: 10%).",
+      "en": "Nishinoya's [Reflex] stat increases by (Lv1: 5%, Lv2: 7.5%, Lv3: 7.5%, Lv4: 7.5%, Lv5: 10%). When Sugawara is on the court and Nishinoya has less than 80 Stamina, Nishinoya's [Reflex] stat increases by an additional (Lv1: 5%, Lv2: 5%, Lv3: 7.5%, Lv4: 10%, Lv5: 10%)."
     }
   },
   "deus-guardia-o-e-ponta": {
@@ -155,6 +155,18 @@
       "en": "When Nishinoya SSR or Azumane SSR usar a skill, both increase their Attack Technique and Defense Technique"
     }
   },
+  "dupla-exce-ntrica-sp": {
+    "type": "positional",
+    "category": "kizuna",
+    "name": {
+      "pt": "Dupla Excêntrica",
+      "en": "Eccentric Duo"
+    },
+    "description": {
+      "pt": "1 - Ao ativar a habilidade de Recepção de um aliado, consome 1 acúmulo do efeito \"Competitivo\" e o aliado que for receber a bola recebe um aumento de 6% no atributo [Reflexo]. \n2 - Ao ativar uma habilidade de Recepção do Hinata, se o efeito \"Competitivo\" for consumido, o atributo [Reflexo] do Hinata aumenta em mais 9% e Kageyama recebe 1 acúmulo do efeito \"Competitivo\". \n3 - Quando Hinata ativa a habilidade Suprema, Kageyama recebe 1 acúmulo do efeito \"Competitivo\".",
+      "en": "1 - When an ally activates a Receive skill, consume 1 stack of the \"Competitive\" effect and the ally receiving the ball gains a 6% increase to their [Reflex] stat. \n2 - When Hinata activates a Receive skill, if the \"Competitive\" effect is consumed, Hinata's [Reflex] stat increases by an additional 9% and Kageyama gains 1 stack of the \"Competitive\" effect. \n3 - When Hinata activates his Special Move, Kageyama gains 1 stack of the \"Competitive\" effect."
+    }
+  },
   "dupla-exce-ntrica": {
     "type": "positional",
     "category": "kizuna",
@@ -163,8 +175,8 @@
       "en": "Eccentric Duo"
     },
     "description": {
-      "pt": "Aumenta o poder de Ataque Rápido e a Percepção de Hinata e Kageyama.",
-      "en": "Increases Hinata and Kageyama’s quick attack power and Awareness."
+      "pt": "Quando Hinata corta a bola levantada por Kageyama, esse ataque terá a força de [Ataque Rápido] do Hinata x (Lv1: 280%, Lv2: 295%, Lv3: 310%, Lv4: 325%, Lv5: 340%), realizando o Ataque da Dupla Estranha.  1 - Nessa jogada, o atributo [Percepção] do Hinata aumenta 30% e o atributo [Força] dele aumenta em [Percepção] x (Lv1: 30% no máximo até 60%, Lv2: 35% no máximo até 70%, Lv3: 40% no máximo até 80%, Lv4: 45% no máximo até 90%, Lv5: 50% no máximo até 100%). Esse Ataque não é bloqueado. 2 - Quando o time aliado pontua, o CD do Ataque da Dupla Estranha é resetado. Se durante esse Ataque o efeito \"Competitivo\" do Kageyama for consumido, ele recebe 1 acúmulo desse efeito.",
+      "en": "When Hinata spikes a ball set by Kageyama, that spike will have the power of Hinata's Quick Attack x (Lv1: 280%, Lv2: 295%, Lv3: 310%, Lv4: 325%, Lv5: 340%), performing the Strange Duo Attack.  1 - In that play, Hinata's [Awareness] stat increases by 30% and his [Strength] stat increases by [Awareness] x (Lv1: 30% up to a maximum of 60%, Lv2: 35% up to a maximum of 70%, Lv3: 40% up to a maximum of 80%, Lv4: 45% up to a maximum of 90%, Lv5: 50% up to a maximum of 100%). That Attack cannot be blocked. 2 - When the allied team scores, the Strange Duo Attack's cooldown is reset. If during that Attack Kageyama's \"Competitive\" effect is consumed, he gains 1 stack of that effect."
     }
   },
   "esquadra-o-de-kiyoko": {
@@ -187,8 +199,8 @@
       "en": "Sports Festival"
     },
     "description": {
-      "pt": "Quando um aliado tocar na bola, consome 1 de [Stamina] e aumenta os atributos principais desse membro em 3%/3,5%/4%/4,5%/5% por 2 cruzamentos de rede.Se esse toque de bola for um [Bloqueio], o [Bloqueio] desse membro aumenta em +5% adicionais por 2 cruzamentos de rede.",
-      "en": "When an ally member touches the ball, consume 1 Stamina and increase that member’s main parameters by 3%/3.5%/4%/4.5%/5% for 2 net crossings. If that ball touch is a block, that member’s Block increases by an additional 5% for 2 net crossings."
+      "pt": "1 - Quando o aliado toca na bola, consome 1 de Vigor a mais e os atributos básicos desse aliado aumenta em (Lv1: 3%; Lv2: Lv2: 3.5%; Lv3: 4%; Lv4: 4.5%; Lv5: 5%). Esse efeito permanece por 2 cruzamentos de rede. \n2 - Se esse toque do aliado for de Bloqueio, o atributo [Bloqueio] desse aliado aumenta em mais 5%. Esse efeito permanece por 2 cruzamentos de rede.",
+      "en": "1 - When an ally member touches the ball, consume 1 additional Stamina and increase that member’s main parameters by (Lv1: 3%; Lv2: 3.5%; Lv3: 4%; Lv4: 4.5%; Lv5: 5%) for 2 net crossings. \n2 - If that ball touch is a Block, that member’s Block increases by an additional 5% for 2 net crossings."
     }
   },
   "festival-fogos-de-artificio": {
@@ -199,8 +211,8 @@
       "en": "Fireworks Festival"
     },
     "description": {
-      "pt": "Atributos principais dos aliados aumentam em 6%.Ao fim de cada rali, aplica [Raiva] na linha de frente do oponente (os [Cortada Potente]/[Ataque Rápido] deles ficam –10%).Dura até a bola atravessar a rede 8 vezes.Se o alvo já tiver [Raiva], aplica [Distração] em vez disso (os [Cortada Potente]/[Ataque Rápido] ficam –20%).Também dura até a bola atravessar a rede 8 vezes.[Distração] não pode ser removido.",
-      "en": "Allies’ main stats increase by 6%.At the end of each rally, inflict [Angry] on the opponent’s front row (their [Power Spike]/[Quick Attack] –10%).This lasts until the ball has crossed the net 8 times.If a target already has [Angry], apply [Distracted] instead (their [Power Spike]/[Quick Attack] –20%).This also lasts until the ball has crossed the net 8 times.[Distracted] cannot be cleansed/removed."
+      "pt": "1 - Os atributos básicos dos aliados aumentam em (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). \n2 - A cada término de rally, o efeito Debuff \"Fúria\" é aplicado nos adversários da Linha de Ataque/Frente, reduzindo em 10% o atributo [Ataque Rápido/Potente] deles. Esse efeito permanece por 8 passadas da bola pela rede. \n3 - Ao aplicar o efeito \"Fúria\" em um adversário que já está sob esse efeito, é aplicado a ele o efeito Debuff \"Distração\", reduzindo em 20% seu atibuto [Ataque Rápido/Potente]. Esse efeito permanece por até 8 passadas da bola pela rede. O adversário não consegue remover o efeito \"Distração\".",
+      "en": "1 - Allies’ main stats increase by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%). \n2 - At the end of each rally, inflict [Angry] on the opponent’s front row (their [Power Spike]/[Quick Attack] –10%). This lasts until the ball has crossed the net 8 times. \n3 - If a target already has [Angry], apply [Distracted] instead (their [Power Spike]/[Quick Attack] –20%). This also lasts until the ball has crossed the net 8 times. [Distracted] cannot be cleansed/removed."
     }
   },
   "ge-nios-karasuno": {
@@ -211,8 +223,8 @@
       "en": "Karasuno Geniusars"
     },
     "description": {
-      "pt": "Aumenta o Reflexo e a Recepção de Nishinoya SP. Quando Nishinoya usa o especial, Kageyama UR ganha um acúmulo de Competitive Spirit*. Se o especial for PERFECT, o primeiro corte (Power ou Quick) depois disso tem poder aumentado em 20% do Power do atacante.",
-      "en": "Increases Nishinoya SP’s reflex and Receive. When Nishinoya usars his special move, Kageyama UR gains one stack of Competitive Spirit*. If his special is a perfect play, the power of the first Spike (Power Attack or Quick Attack) after that play is increased by 20% of the attacker’s power"
+      "pt": "O atributo [Recepção] do Nishinoya aumenta em (Lv1: 5%, Lv2: 7%, Lv3: 9%, Lv4: 11%, Lv5: 13%) e o atributo [Reflexo] aumenta em 5%. Quando a habilidade Suprema do Nishinoya for ativada, Kageyama recebe 1 acúmulo do efeito \"Competitivo\". Se essa jogada da habilidade Suprema resultar em uma Jogada Crítica, após essa jogada o primeiro aliado que for realizar um Ataque Rápido/Potente terá um aumento na força do Ataque em atributo [Ataque Rápido/Potente do aliado a atacar] x 20%.",
+      "en": "Nishinoya's [Receive] increases by (Lv1: 5%, Lv2: 7%, Lv3: 9%, Lv4: 11%, Lv5: 13%) and his [Reflex] increases by 5%. When Nishinoya's Ultimate is activated, Kageyama gains 1 stack of the \"Competitive\" effect. If this Ultimate move results in a Critical Hit, the first ally to perform a Quick/Power Attack after this move will have their Attack Power increased by [Quick/Power Attack of the attacking ally] x 20%."
     }
   },
   "harmonia-perfeita": {
@@ -223,8 +235,8 @@
       "en": "Perfect Harmony"
     },
     "description": {
-      "pt": "Quando Oikawa UR faz o passe, Iwaizumi SSR realiza um corte com Ataque Potente aumentado. Ganha 2 acúmulos de [Ritmo de Ataque]*, cada um aumentando o Percepção da equipe em 1% (máx. 10).",
-      "en": "When Oikawa UR makes a pass, Iwaizumi SSR Spikes with increased Power Attack. Gains 2 stacks of Attack Rhythm*, each stack increases the team’s Awareness by 1%. Maximum of 10 stacks."
+      "pt": "Quando Iwaizumi corta a bola levantada por Oikawa, esse ataque terá a força de [Ataque Potente] x (Lv1: 255%, Lv2: 270%, Lv3: 285%, Lv4: 300%, Lv5: 315%). Recebe 2 acúmulos do efeito [Ritmo de Ataque]. A cada acúmulo, aumenta o atributo [Percepção] dos aliados em quadra. Esse efeito ocorre até 10 vezes.",
+      "en": "When Iwaizumi spikes a ball set by Oikawa, that spike will have the power of [Power Attack] x (Lv1: 255%, Lv2: 270%, Lv3: 285%, Lv4: 300%, Lv5: 315%). He gains 2 stacks of the [Attack Rhythm] effect. Each stack increases the [Awareness] stat of allies on the court. This effect can occur up to 10 times."
     }
   },
   "natac-a-o": {
@@ -235,8 +247,8 @@
       "en": "Swimming"
     },
     "description": {
-      "pt": "Aumenta a Moral do Time. Com Moral ativa, aumenta o Reflexo dos aliados em bloqueios duplos ou triplos.",
-      "en": "(Activates with 3 players) Increases team morale. When team morale is active, increases allies’ reflex in double or triple blocks"
+      "pt": "Quando o time aliado está com o Reforço de Moral do Time ativado, nesse período ao ativar Bloqueio Duplo/Triplo do time aliado, os aliados a bloquear o ataque adversário terá um aumento no atributo [Percepção] de (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10% ), permanecendo esse efeito por 2 passadas da bola pela rede. No início dos rallys aumenta a Moral do time aliado em 20.",
+      "en": "When the allied team has Team Morale Boost active, during that time when activating the allied team’s 2-person/3-person block, allies blocking the opponent’s attack will have their [Awareness] stat increased by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%), and this effect lasts for 2 net crossings. At the start of rallies, increases the allied team’s Morale by 20."
     }
   },
   "o-novo-capita-o-e-o-novato-alta-o": {
@@ -260,7 +272,7 @@
     },
     "description": {
       "pt": "Permite que Aone SSR e Futakuchi SSR usem a habilidade [Bloqueio Duplo]*.",
-      "en": "Allows Aone SSR and Futakuchi SSR to usar the Double Block skill"
+      "en": "Allows Aone SSR and Futakuchi SSR to use the Double Block skill"
     }
   },
   "observac-a-o-de-flores-de-cerejeira": {
@@ -271,8 +283,8 @@
       "en": "Cherry Blossom Viewing"
     },
     "description": {
-      "pt": "Aumenta o Percepção de Kenma SP. Aumenta o Ataque Rápido de Hinata SP quando a jogada for PERFECT.",
-      "en": "Increases Kenma SP’s Awareness. Increases Hinata SP’s Quick Attack if it is a perfect play"
+      "pt": "1 - Ao iniciar a partida, Kenma recebe 3 acúmulos do efeito \"Defesa que Elimina Chances\". O número máximo de acúmulos do efeito aumenta conforme nível (Lv1: 13, Lv2: 13, Lv3: 14, Lv4: 14, Lv5: 15). \n2 - A cada 1 de acúmulo do efeito \"Defesa que Elimina Chances\", o atributo [Percepção] do Kenma aumenta em (Lv1: 0.8%, Lv2: 1%, Lv3: 1%, Lv4: 1%, Lv5: 1.2%). Se Hinata realizar um Ataque Rápido, seu atributo [Ataque Rápido] aumenta em (Lv1: 1%, Lv2: 1.25%, Lv3: 1.25%, Lv4: 1.5%, Lv5: 1.5%).",
+      "en": "1 - At the start of the match, Kenma gains 3 stacks of the \"Chance-Eliminating Defense\" effect. The maximum number of stacks of this effect increases with level (Lv1: 13, Lv2: 13, Lv3: 14, Lv4: 14, Lv5: 15). \n2 - For each stack of the \"Chance-Eliminating Defense\" effect, Kenma's [Awareness] stat increases by (Lv1: 0.8%, Lv2: 1%, Lv3: 1%, Lv4: 1%, Lv5: 1.2%). If Hinata performs a Quick Attack, his [Quick Attack] stat increases by (Lv1: 1%, Lv2: 1.25%, Lv3: 1.25%, Lv4: 1.5%, Lv5: 1.5%)."
     }
   },
   "orientac-a-o-educacional": {
@@ -295,8 +307,8 @@
       "en": "Iron Wall"
     },
     "description": {
-      "pt": "Quando Koganegawa estiver em quadra, se pelo menos 2 membros incluídos neste Vínculo estiverem presentes, a Habilidade de Vínculo é ativada. \nQuando os aliados executarem um bloqueio duplo/triplo, os aliados da linha de frente recebem [Técnica de Defesa] +3%/4%/5%/6%/7% por 1 cruzamento de rede. \nQuando um aliado ativa uma habilidade de [Saque], o saque não falhará.Durante ralis em que um aliado ativa uma habilidade de [Saque], se os aliados executarem bloqueio duplo/triplo, ganha 1 acúmulo de [Poderoso Bloqueio] e [Criar Muralha de Ferro] (só ativa se o membro correspondente estiver em quadra).",
-      "en": "When Koganegawa is on the court, if at least 2 members included in the Bond Skill are present, the Bond Skill becomes active. \nWhen allies perform a 2-person/3-person block, front-row allies’ Defense Technique increases by 3%/4%/5%/6%/7% for 1 rally. \nWhen an ally activates a serve skill, the serve will not fail. During rallies where an ally activates a serve skill, if allies perform a 2-person/3-person block, gain 1 stack each of Powerful Block and Create Iron Wall (only activates if the corresponding member is on the court)."
+      "pt": "1 - Quando Koganegawa está em quadra, se pelo menos 2 pessoas desse Vínculo estiver presente, o Vínculo é ativado. \n2 - Quando os aliados realizam um Bloqueio Duplo/Triplo, o atributo [Técnica de Defesa] dos aliados da Linha de Ataque/Frente em (Lv1: 3%; Lv2: 4%, Lv3: 5%; Lv4: 6%; Lv5: 7%). Esse efeito permanece por 1 rally. \n3 - Quando o aliado ativa uma habilidade de Saque, ele não comete erro de Saque. 4 - No rally em que o aliado ativar a habilidade de Saque, quando o aliado realizar um Bloqueio Duplo/Triplo, o time recebe 1 acúmulo dos efeitos \"Construir uma Muralha de Ferro\" e \"Bloqueio Resistente\". Isso ocorrerá se Koganegawa e Aone estiverem em quadra.",
+      "en": "1 - When Koganegawa is on court, if at least 2 people from this Bond are present, the Bond is activated. \n2 - When allies perform a 2-person/3-person block, the [Defense Technique] stat of allies in the Attack/Front Line increases by (Lv1: 3%; Lv2: 4%, Lv3: 5%; Lv4: 6%; Lv5: 7%). This effect lasts for 1 rally. \n3 - When an ally activates a Serve skill, they do not make a Serve error. 4 - In the rally when an ally activates a Serve skill, when that ally performs a 2-person/3-person block, the team gains 1 stack of the effects \"Build an Iron Wall\" and \"Sturdy Block\". This occurs if Koganegawa and Aone are on court."
     }
   },
   "sol-vs-lua": {
@@ -307,8 +319,8 @@
       "en": "Sun vs Moon"
     },
     "description": {
-      "pt": "Quando um aliado faz um levantamento (Passe), a [Percepção] dele aumenta em 10%.Dura até a bola atravessar a rede 2 vezes.Se o Ataque Rápido do Shoyo Hinata (Hanami) virar um PERFECT, o tempo de recarga de 〈Pulo Alto〉 é reduzido em 2 contagens de atravessar a rede.Kei Tsuki (Festival de Fogos) recebe [Percepção] igual a 50% da [Percepção] do Hinata (Hanami), até +50%.Esse efeito dura até a bola atravessar a rede 4 vezes.",
-      "en": "When a player performs a set, [Awareness] increases. If Hinata SP performs a Quick Attack, and the result is critical, the cooldown of High Jump is reduced, and Tsukishima SP’s [Awareness] is increased."
+      "pt": "1 - Quando o aliado realiza um Passe, aumenta a [Percepção] em (Lv1: 10%, Lv2: 15%, Lv3: 20%, Lv4: 25%, Lv5: 30%), permanecendo esse efeito por 2 passadas da bola pela rede. \n2 - Se o Ataque Rápido do Hinata resultar em uma Jogada Crítica, o CD da habildiade 4 do Hinata diminui em 2 passadas da bola pela rede e a força do atributo [Perecpção] do Tsukishima aumenta em [Percepção do Hinata] x 50%, podendo aumentar até no máximo 50%. Esse efeito permanece por 4 passadas da bola pela rede.",
+      "en": "1 - When an ally makes a Set, increases their [Awareness] by (Lv1: 10%, Lv2: 15%, Lv3: 20%, Lv4: 25%, Lv5: 30%), and this effect lasts for 2 net crossings. \n2 - If Hinata's Quick Attack results in a Critical Play, the cooldown of Hinata's skill 4 decreases by 2 net crossings and Tsukishima's [Awareness] stat increases by [Hinata's Awareness] x 50%, up to a maximum increase of 50%. This effect lasts for 4 net crossings."
     }
   },
   "top-spiker-e-top-libero": {
@@ -319,8 +331,8 @@
       "en": "Top Spiker and Top Libero"
     },
     "description": {
-      "pt": "Sakusa UR aumenta seu Ataque Potente. Komori UR aumenta seu Recepção. Aumenta a Recepção dos aliados em 20%.",
-      "en": "Sakusa UR increases his Power Attack. Komori UR increases his Receive. Increases allies’ Receive by 20%"
+      "pt": "Os atributos [Ataque Potente] do Sakusa e [Recepção] do Komori aumentam em (Lv1: 10%, Lv2: 12.5%, Lv3: 15%, Lv4: 17.5%, Lv5: 20%). A Recepção dos aliados aumentam com base em seu atributo [Recepção] x 20%. ",
+      "en": "Sakusa's [Power Attack] and Komori's [Receive] stats increase by (Lv1: 10%, Lv2: 12.5%, Lv3: 15%, Lv4: 17.5%, Lv5: 20%). Allies' Receive increases based on their [Receive] stat x 20%."
     }
   },
   "ws-de-shiratorizawa": {
@@ -344,8 +356,8 @@
       "en": "Behind the Smile"
     },
     "description": {
-      "pt": "Daichi SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKuro UR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
-      "en": "Daichi SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKuro UR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+      "pt": "Atributo [Recepção] do Daichi e atributo [Recepção] do Kuroo aumentam (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Daichi's [Receive] stat and Kuroo's [Receive] stat increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "bench-cheer": {
@@ -361,20 +373,6 @@
       "en": "Hisashi R increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nKazuhito R increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
     }
   },
-
-  "cannon-e-iron-wall": {
-    "key": "cannon-e-iron-wall",
-    "type": "bond",
-    "category": "bond",
-    "name": {
-      "pt": "Canhão & Muralha de Ferro",
-      "en": "Cannon & Iron Wall"
-    },
-    "description": {
-      "pt": "Azumane SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAone SSR: Sem bônus",
-      "en": "Azumane SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%\nAone SSR: No buff"
-    }
-  },
   "cannon-and-iron-wall": {
     "key": "cannon-and-iron-wall",
     "type": "bond",
@@ -384,8 +382,8 @@
       "en": "Cannon and Iron Wall"
     },
     "description": {
-      "pt": "Aone SP: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAzumane SSR: Aumenta ",
-      "en": "Aone SP increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAzumane SSR increases "
+      "pt": "Atributo [Saque] do Aone aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Aone's [Serve] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "classmates": {
@@ -401,7 +399,6 @@
       "en": "Suna SSR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOsamu UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
     }
   },
-
   "date-kogyo-s-junior": {
     "key": "date-kogyo-s-junior",
     "type": "bond",
@@ -415,19 +412,6 @@
       "en": "Jingo R increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSakunami R increases Quick Attack +5/7/9/12/15, Quick Attack stat by 6/7/8/9/10%"
     }
   },
-  "date-kogyo-s-setter": {
-    "key": "date-kogyo-s-setter",
-    "type": "bond",
-    "category": "bond",
-    "name": {
-      "pt": "Levantadores da Date Kogyo",
-      "en": "Date Kogyo's Setter"
-    },
-    "description": {
-      "pt": "Kaname SR: Sem bônus\nKaji SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
-      "en": "Kaname SR: No buff\nKaji SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
-    }
-  },
   "fated-rivals": {
     "key": "fated-rivals",
     "type": "bond",
@@ -437,8 +421,8 @@
       "en": "Fated Rivals"
     },
     "description": {
-      "pt": "Oikawa UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nUshijima UR: Aumenta ",
-      "en": "Oikawa UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nUshijima UR increases "
+      "pt": "Atributo [Passe] do Oikawa aumenta em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Oikawa's [Set] stat increases by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "flexible-aces": {
@@ -476,24 +460,10 @@
       "en": "Friends from Volleyball Class"
     },
     "description": {
-      "pt": "Atsumu UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOsamu UR: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOjiro SSR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
-      "en": "Atsumu UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOsamu UR increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nOjiro SSR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+      "pt": "Os atributos [Saque] do Atsumu, [Ataque Rápido] do Osamu e [Ataque Potente] do Aran aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Atsumu's [Serve], Osamu's [Quick Attack], and Aran's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
-  "fukurodani-3rd-years": {
-    "key": "fukurodani-3rd-years",
-    "type": "bond",
-    "category": "bond",
-    "name": {
-      "pt": "Terceiranistas de Fukurodani",
-      "en": "Fukurodani 3rd Years"
-    },
-    "description": {
-      "pt": "Bokuto UR: Aumenta \nKomi SR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKonoha: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSarukui SSR: Aumenta Power +5/7/9/12/15, Power +1/2/3/4/5%\nWashio SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Bokuto UR increases \nKomi SR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nKonoha increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSarukui SSR increases Power +5/7/9/12/15, Power +1/2/3/4/5%\nWashio SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
-    }
-  },
-
   "grit-and-competitive": {
     "key": "grit-and-competitive",
     "type": "bond",
@@ -503,24 +473,11 @@
       "en": "Grit and Competitive"
     },
     "description": {
-      "pt": "Yamamoto SR: Sem bônus\nKenma SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
-      "en": "Yamamoto SR: No buff\nKenma SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
+      "pt": "Kenma SSR: Aumenta Set +5/7/9/12/15, Set +1/2/3/4/5%",
+      "en": "Kenma SSR increases Set +5/7/9/12/15, Set +1/2/3/4/5%"
     }
   },
 
-  "inarizaki-2nd-years": {
-    "key": "inarizaki-2nd-years",
-    "type": "bond",
-    "category": "bond",
-    "name": {
-      "pt": "Segundanistas de Inarizaki",
-      "en": "Inarizaki 2nd Years"
-    },
-    "description": {
-      "pt": "Suna SSR: Aumenta Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nGinjima SSR: Aumenta Power Spike +5/7/9/12/15, Power Spike +1/2/3/4/5%\nOsamu UR: Aumenta Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nAtsumu UR: Aumenta \nKosaku R: Aumenta ",
-      "en": "Suna SSR increases Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nGinjima SSR increases Power Spike +5/7/9/12/15, Power Spike +1/2/3/4/5%\nOsamu UR increases Quick Spike +5/7/9/12/15, Quick Spike +1/2/3/4/5%\nAtsumu UR increases \nKosaku R increases "
-    }
-  },
   "inarizaki-ws-teammates": {
     "key": "inarizaki-ws-teammates",
     "type": "bond",
@@ -543,8 +500,8 @@
       "en": "Japan Youth Training Camp Teammates"
     },
     "description": {
-      "pt": "Kageyama UR: Aumenta \nAtsumu UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nSakusa UR: Aumenta Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%\nKomori UR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nHoshiumi UR: Aumenta Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%",
-      "en": "Kageyama UR increases \nAtsumu UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nSakusa UR increases Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%\nKomori UR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nHoshiumi UR increases Strong Spike +5/7/9/12/15, Strong Spike +1/2/3/4/5%"
+      "pt": "Os atributos [Passe] do Atsumu, [Ataque Potente] do Sakusa, [Recepção] do Komori e [Ataque Potente] do Korai aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Atsumu's [Set], Sakusa's [Power Attack], Komori's [Receive], and Korai's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "karasuno-3rd-years": {
@@ -556,8 +513,8 @@
       "en": "Karasuno 3rd Years"
     },
     "description": {
-      "pt": "Azumane SSR: Aumenta Power +5/7/9/12/15, Power +1/2/3/4/5%\nDaichi SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSugawara SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Azumane SSR increases Power +5/7/9/12/15, Power +1/2/3/4/5%\nDaichi SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nSugawara SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+      "pt": "Atributos [Bloqueio] do Sugawara, [Recepção] do Daichi e [Ataque Potente] do Azumane aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Sugawara's [Block], Daichi's [Receive], and Azumane's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "karasuno-s-failing-grades-group": {
@@ -569,8 +526,8 @@
       "en": "Karasuno's Failing Grades Group"
     },
     "description": {
-      "pt": "Hinata SSR: Aumenta \nKageyama UR: Aumenta \nNishinoya SSR: Aumenta \nTanaka SSR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
-      "en": "Hinata SSR increases \nKageyama UR increases \nNishinoya SSR increases \nTanaka SSR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
+      "pt": "O atributo [Ataque Potente] do Tanaka aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Tanaka's [Power Attack] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "karasuno-s-red-mark-squad-hanami-ver": {
@@ -578,12 +535,12 @@
     "type": "bond",
     "category": "bond",
     "name": {
-      "pt": "Esquadrão das Notas Vermelhas (Hanami)",
-      "en": "Karasuno's Red Mark Squad (Hanami ver.)"
+      "pt": "Esquadrão das Notas Vermelhas",
+      "en": "Karasuno's Red Mark Squad"
     },
     "description": {
-      "pt": "Hinata SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nNishinoya SP: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTanaka SSR: Aumenta \nKageyama UR: Aumenta ",
-      "en": "Hinata SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nNishinoya SP increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTanaka SSR increases \nKageyama UR increases "
+      "pt": "Os atributos [Recepção] do Hinata e [Passe] do Nishinoya aumentam em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Hinata's [Receive] and Nishinoya's [Set] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "karasuno-s-setters": {
@@ -595,8 +552,8 @@
       "en": "Karasuno's Setters"
     },
     "description": {
-      "pt": "Sugawara SR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKageyama UR: Aumenta ",
-      "en": "Sugawara SR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKageyama UR increases "
+      "pt": "O atributo [Passe] do Sugawara aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Sugawara's [Set] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "karasuno-s-wing-spiker": {
@@ -621,8 +578,8 @@
       "en": "Master and Apprentice"
     },
     "description": {
-      "pt": "Tsuki SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro UR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Tsuki SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+      "pt": "Atributo [Bloqueio] do Tsukishima e atributo [Bloqueio] do Kuroo aumentam em (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%).",
+      "en": "Tsukishima's [Block] stat and Kuroo's [Block] stat increase by (Lv1: 6%, Lv2: 7%, Lv3: 8%, Lv4: 9%, Lv5: 10%)."
     }
   },
 
@@ -635,8 +592,8 @@
       "en": "Number One Disciple"
     },
     "description": {
-      "pt": "Bokuto UR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR: Aumenta ",
-      "en": "Bokuto UR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR increases "
+      "pt": "Atributo [Ataque Potente] do Bokuto aumenta em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)",
+      "en": "Bokuto's [Power Attack] stat increases by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)"
     }
   },
   "number-one-disciple-sp": {
@@ -648,8 +605,8 @@
       "en": "Number One Disciple SP"
     },
     "description": {
-      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nBokuto SP: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
-      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nBokuto SP increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
+      "pt": "Atributos [Ataque Rápido] do Hinata e [Ataque Potente] do Bokuto aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Hinata's [Quick Attack] and Bokuto's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
 
@@ -702,8 +659,8 @@
       "en": "Shiratorizawa 3rd Years"
     },
     "description": {
-      "pt": "Ushijima UR: Aumenta \nYamagata SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOhira SSR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nSemi SSR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nTendo SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Ushijima UR increases \nYamagata SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nOhira SSR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nSemi SSR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nTendo SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+      "pt": "Os atributos [Bloqueio] do Tendou, [Saque] do Semi, [Ataque Potente] do Reon e [Recepção] do Hayato aumentam me (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Tendou's [Block], Semi's [Serve], Reon's [Power Attack], and Hayato's [Receive] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "silence-and-sarcasm": {
@@ -715,8 +672,8 @@
       "en": "Silence and Sarcasm"
     },
     "description": {
-      "pt": "Aone SP: Aumenta Block +5/7/9/12/15 e Block +1/2/3/4/5%",
-      "en": "Aone SP increases Block +5/7/9/12/15 and Block +1/2/3/4/5%"
+      "pt": "Atributo [Bloqueio] do Aone aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Aone's [Block] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "simulated-junior-training-teamate": {
@@ -741,8 +698,8 @@
       "en": "Strange Friendship"
     },
     "description": {
-      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nAone SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nAone SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+      "pt": "Os atributos [Ataque Rápido] do Hinata e [Bloqueio] do Aone aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Hinata's [Quick Attack] and Aone's [Block] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "team-s-guardians": {
@@ -767,8 +724,8 @@
       "en": "Team's Guardians (After School)"
     },
     "description": {
-      "pt": "Nishinoya SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
-      "en": "Nishinoya SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nYaku SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+      "pt": "Os atributos [Recepção] do Nishinoya e [Recepção] do Yaku aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Nishinoya's [Receive] and Yaku's [Receive] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "the-enigmatic-teammate": {
@@ -793,8 +750,8 @@
       "en": "The Absolute King VS the Freak Duo"
     },
     "description": {
-      "pt": "Ushijima UR: Aumenta Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR: Aumenta \nKageyama UR: Aumenta ",
-      "en": "Ushijima UR increases Spike +5/7/9/12/15, Spike +1/2/3/4/5%\nHinata SSR increases \nKageyama UR increases "
+      "pt": "O atributo [Ataque Potente] do Ushijima aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Ushijima's [Power Attack] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "the-king-and-the-great-king": {
@@ -806,8 +763,21 @@
       "en": "The King and The Great King"
     },
     "description": {
-      "pt": "Kageyama UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOikawa UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%",
-      "en": "Kageyama UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nOikawa UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%"
+      "pt": "Atributo [Saque] do Kageyama e atributo [Saque] do Oikawa aumentam em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Kageyama's [Serve] and Oikawa's [Serve] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
+    }
+  },
+  "unwavering-trust": {
+    "key": "unwavering-trust",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Confiança implacável",
+      "en": "Unwavering Trust"
+    },
+    "description": {
+      "pt": "Atributo [Bloqueio] do Oikawa e atributo [Ataque Potente] do Kyoutani aumentam em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Oikawa's [Block] and Kyoutani's [Power Attack] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "the-moment-they-fell-for-volleyball": {
@@ -819,8 +789,8 @@
       "en": "The Moment They Fell for Volleyball"
     },
     "description": {
-      "pt": "Bokuto SP: Aumenta Spikes +5/7/9/12/15, Spikes +1/2/3/4/5%\nTsuki SP: Aumenta Quick +5/7/9/12/15, Quick +1/2/3/4/5%",
-      "en": "Bokuto SP increases Spikes +5/7/9/12/15, Spikes +1/2/3/4/5%\nTsuki SP increases Quick +5/7/9/12/15, Quick +1/2/3/4/5%"
+      "pt": "Atributos [Ataque Potente] do Bokuto e [Ataque Rápido] do Tsukishima aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Bokuto's [Power Attack] and Tsukishima's [Quick Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "third-year-from-inarizaki": {
@@ -845,8 +815,8 @@
       "en": "Tokyo Training Camp Buddies"
     },
     "description": {
-      "pt": "Bokuto SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nAkaashi SP: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTsuki SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
-      "en": "Bokuto SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nAkaashi SP increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nTsuki SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nKuro SP increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+      "pt": "Atributos [Recepção] do Bokuto, [Passe] do Akaashi, [Bloqueio] do Tsukishima e [Bloqueio] do Kuroo aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Bokuto's [Receive], Akaashi's [Set], Tsukishima's [Block], and Kuroo's [Block] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "tokyo-training-camp-self-practice-buddies": {
@@ -858,8 +828,8 @@
       "en": "Tokyo Training Camp Self-Practice Buddies"
     },
     "description": {
-      "pt": "Bokuto UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAkaashi SSR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKuro UR: Aumenta \nTsuki SSR: Aumenta ",
-      "en": "Bokuto UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5%\nAkaashi SSR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%\nKuro UR increases \nTsuki SSR increases "
+      "pt": "Atributo [Saque] do Bokuto e atributo [Passe] do Akasshi aumentam em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)",
+      "en": "Bokuto's [Serve] and Akaashi's [Set] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)"
     }
   },
   "undisputed-aces": {
@@ -871,8 +841,8 @@
       "en": "Undisputed Aces"
     },
     "description": {
-      "pt": "Goshiki SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nUshijima UR: Aumenta Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%",
-      "en": "Goshiki SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%\nUshijima UR increases Power Attack +5/7/9/12/15, Power Attack +1/2/3/4/5%"
+      "pt": "Os atributos [Ataque Potente] do Ushijima e [Recepção] do Goshiki aumentam em (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Ushijima's [Power Attack] and Goshiki's [Receive] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "ushiwaka-and-benkei": {
@@ -884,8 +854,8 @@
       "en": "Ushiwaka and Benkei"
     },
     "description": {
-      "pt": "Ushijima UR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%\nOhira SSR: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
-      "en": "Ushijima UR increases Block +5/7/9/12/15, Block +1/2/3/4/5%\nOhira SSR increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+      "pt": "Os atributos [Bloqueio] do Ushijima e [Recepção] do Reon aumentam (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15).",
+      "en": "Ushijima's [Block] and Reon's [Receive] stats increase by (Lv1: +1%+5, Lv2: +2%+7, Lv3: +3%+9, Lv4: +4%+12, Lv5: +5%+15)."
     }
   },
   "youth-camp-setters": {
@@ -897,21 +867,21 @@
       "en": "Youth Camp Setters"
     },
     "description": {
-      "pt": "Kageyama UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nAtsumu UR: Aumenta Toss +5/7/9/12/15, Toss +1/2/3/4/5%",
-      "en": "Kageyama UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5% \nAtsumu UR increases Toss +5/7/9/12/15, Toss +1/2/3/4/5%"
+      "pt": "Os atributos [Passe] do Atsumu e [Passe] do Kageyama aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Atsumu's [Set] and Kageyama's [Set] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
-  "youth-training-camp": {
-    "key": "youth-training-camp",
+  "youth-camp-teammates": {
+    "key": "youth-camp-teammates",
     "type": "bond",
     "category": "bond",
     "name": {
-      "pt": "Youth Training Camp",
-      "en": "Youth Training Camp"
+      "pt": "Colegas de equipe no campo de treinamento juvenil",
+      "en": "Youth Camp Teammates"
     },
     "description": {
-      "pt": "Hoshiumi UR: Aumenta Serve +5/7/9/12/15, Serve +1/2/3/4/5% \nKageyama UR: Aumenta ",
-      "en": "Hoshiumi UR increases Serve +5/7/9/12/15, Serve +1/2/3/4/5% \nKageyama UR increases "
+      "pt": "O atributo [Saque] do Korai aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Korai's [Serve] stat increases by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "similar-builds": {
@@ -919,25 +889,12 @@
     "type": "bond",
     "category": "bond",
     "name": {
-      "pt": "Similar Builds",
+      "pt": "Builds Similares",
       "en": "Similar Builds"
     },
     "description": {
-      "pt": "Hinata SP: Aumenta Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nHoshiumi UR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%",
-      "en": "Hinata SP increases Quick Attack +5/7/9/12/15, Quick Attack +1/2/3/4/5%\nHoshiumi UR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5%"
-    }
-  },
-  "similar-physique-teammates": {
-    "key": "similar-physique-teammates",
-    "type": "bond",
-    "category": "bond",
-    "name": {
-      "pt": "Similar Physique Teammates",
-      "en": "Similar Physique Teammates"
-    },
-    "description": {
-      "pt": "Hinata SSR: Aumenta \nHoshiumi UR: Aumenta Power Strike +5/7/9/12/15, Power Strike +1/2/3/4/5%",
-      "en": "Hinata SSR increases \nHoshiumi UR increases Power Strike +5/7/9/12/15, Power Strike +1/2/3/4/5%"
+      "pt": "Os atributos [Ataque Rápido] do Hinata e [Ataque Potente] do Korai aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Hinata's [Quick Attack] and Korai's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "kiyoko-s-protection-group": {
@@ -949,8 +906,8 @@
       "en": "Kiyoko's Protection Group"
     },
     "description": {
-      "pt": "Tanaka SSR: Aumenta Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5% \nNishinoya SP: Aumenta Receive +5/7/9/12/15, Receive +1/2/3/4/5%",
-      "en": "Tanaka SSR increases Strong Attack +5/7/9/12/15, Strong Attack +1/2/3/4/5% \nNishinoya SP increases Receive +5/7/9/12/15, Receive +1/2/3/4/5%"
+      "pt": "Os atributos [Recepção] do Nishinoya e [Ataque Potente] do Tanaka aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Nishinoya's [Receive] and Tanaka's [Power Attack] stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   },
   "date-tech-s-setters": {
