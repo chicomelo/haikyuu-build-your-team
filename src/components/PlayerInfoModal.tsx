@@ -232,7 +232,9 @@ export function PlayerInfoModal() {
                       {res.effects.length > 0 && (
                         <ul className="list-disc list-inside opacity-90 text-sm">
                           {res.effects.map((text, idx) => (
-                            <li key={idx}>{text}</li>
+                            <li className="list-none" key={idx}>
+                              {renderMultiline(text)}
+                            </li>
                           ))}
                         </ul>
                       )}

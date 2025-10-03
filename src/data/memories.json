@@ -2089,5 +2089,39 @@
     },
     "image": "/assets/img/memories/MemoKoganegawaSP.png",
     "characterId": "koganegawa-sp"
+  },
+  {
+    "id": "mem_oikawa_sp",
+    "name": {
+      "pt": "Oikawa SP",
+      "en": "Oikawa SP"
+    },
+    "positions": ["S"],
+    "description": {
+      "pt": "Aumenta [Passe] do equipador em 12%; \nAo iniciar o rally, se o aliado possuir mais de 2 acúmulos do efeito \"Tempo do Ataque\", os atributos de Ataque (Ataque Rápido/Potente, Passe, Saque, Percepção, Força e Técnica de Ataque) do equipador aumentam em 10%. Esse efeito permanece por 1 rally.",
+      "en": "Increases [Set] of the equipper by 12%;\nAt the start of the rally, if an ally has more than 2 stacks of the \"Attack Tempo\" effect, the equipper's Attack attributes (Quick/Power Attack, Set, Serve, Awareness, Power, and Attack Technique) increase by 10%. This effect lasts for 1 rally."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 72
+      },
+      "Spike": {
+        "flat": 56
+      },
+      "Set": {
+        "flat": 72
+      },
+      "Receive": {
+        "flat": 53
+      },
+      "Block": {
+        "flat": 66
+      },
+      "Save": {
+        "flat": 50
+      }
+    },
+    "image": "/assets/img/memories/MemoOikawaSP.png",
+    "characterId": "oikawa-sp"
   }
 ]

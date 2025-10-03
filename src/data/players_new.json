@@ -1347,6 +1347,10 @@
       {
         "key": "youth-camp-teammates",
         "type": "bond"
+      },
+      {
+        "key": "oikawa-sp-2",
+        "type": "positional"
       }
     ],
     "types": ["quick", "serve", "setter"],
@@ -1538,6 +1542,10 @@
       },
       {
         "key": "unwavering-trust",
+        "type": "bond"
+      },
+      {
+        "key": "oikawa-sp-1",
         "type": "bond"
       }
     ],
@@ -2620,6 +2628,70 @@
       "fetchedAt": "2025-09-26T04:15:44.588367Z"
     },
     "memoryId": "mem_oikawa_ur"
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "oikawa-sp",
+    "abilities": [
+      {
+        "id": "oikawa-sp.a1"
+      },
+      {
+        "id": "oikawa-sp.a2"
+      },
+      {
+        "id": "oikawa-sp.a3"
+      },
+      {
+        "id": "oikawa-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/oikawaSP.png",
+    "role": "S",
+    "name": "Oikawa SP",
+    "links": [
+      {
+        "key": "oikawa-sp-1",
+        "type": "bond"
+      },
+      {
+        "key": "oikawa-sp-2",
+        "type": "positional"
+      }
+    ],
+    "types": ["power", "serve", "setter"],
+    "skillResonances": [
+      {
+        "id": "oikawa-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "oikawa-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "oikawa-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "oikawa-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "oikawa-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "",
+      "fetchedAt": "2025-09-26T04:21:02.448875Z"
+    },
+    "memoryId": "mem_oikawa_sp"
   },
   {
     "school": "Inarizaki",

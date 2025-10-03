@@ -159,7 +159,7 @@
     "type": "positional",
     "category": "kizuna",
     "name": {
-      "pt": "Dupla Excêntrica",
+      "pt": "Dupla Excêntrica SP",
       "en": "Eccentric Duo"
     },
     "description": {
@@ -934,6 +934,32 @@
     "description": {
       "pt": "Koganegawa SP: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5% \nFutakuchi SSR: Aumenta Block +5/7/9/12/15, Block +1/2/3/4/5%",
       "en": "Koganegawa SP increases Block +5/7/9/12/15, Block +1/2/3/4/5% \nFutakuchi SSR increases Block +5/7/9/12/15, Block +1/2/3/4/5%"
+    }
+  },
+  "oikawa-sp-1": {
+    "key": "oikawa-sp-1",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Oikawa SP 1",
+      "en": "Oikawa SP 1"
+    },
+    "description": {
+      "pt": "Atributos [Ataque Potente] do Oikawa e Kentaro aumentam em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Oikawa's [Power Attack] and Kentaro's stats increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
+    }
+  },
+  "oikawa-sp-2": {
+    "key": "oikawa-sp-2",
+    "type": "positional",
+    "category": "positional",
+    "name": {
+      "pt": "Oikawa SP 2",
+      "en": "Oikawa SP 2"
+    },
+    "description": {
+      "pt": "1 - Kageyama e Oikawa disputam pelo direito do Saque, o primeiro a ativar uma habilidade de Saque vence. 2 - Caso o Oikawa vença, Kageyama recebe o efeito \"Performance\". Esse efeito permanece por por 1 set. 3 - Caso o Kageyama vença, a cada vez que Oikawa tocar na bola, Kageyama recebe 1 acúmulo do efeito \"Competitivo\". Quando Oikawa ativa uma habilidade, Kageyama recebe mais 1 acúmulo do efeito \"Competitivo\".",
+      "en": "1 - Kageyama and Oikawa compete for the right to Serve, the first to activate a Serve skill wins. 2 - If Oikawa wins, Kageyama gains the \"Performance\" effect. This effect lasts for 1 set. 3 - If Kageyama wins, each time Oikawa touches the ball, Kageyama gains 1 stack of the \"Competitive\" effect. When Oikawa activates a skill, Kageyama gains 1 more stack of the \"Competitive\" effect."
     }
   }
 }

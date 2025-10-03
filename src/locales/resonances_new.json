@@ -4793,5 +4793,90 @@
         "en": "Increases the basic attributes by 13%."
       }
     ]
+  },
+  "oikawa-sp.r1": {
+    "characterId": "oikawa-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "oikawa-sp.r2": {
+    "characterId": "oikawa-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "及川徹の[サーブ]が20%アップ。. \n2 - 及川徹のタッチはすべてクリティカルになる。. \n3 - 味方メンバーがナイスプレーをした場合、及川徹の\"絶対王者\"のクールダウンが1回減る。. \n4 - 味方メンバーが獲得した\"アタックタイム\"効果1スタックごとに、ボールに触れた味方セッターの[トス]と[サーブ]が2%アップ、最大20%。この効果は2ラリー持続する。",
+        "pt": "1 - Atributo [Força] do Oikawa aumenta em 20%. \n2 - Os toques do Oikawa serão todos Críticos. \n3 - Quando um aliado realizar uma Jogada Crítica, o tempo de recarga da habilidade Suprema do Oikawa é reduzido em 1 cruzamente de rede. \n4 - A cada 1 acúmulo do efeito \"Tempo do Ataque\" adquirido pelos aliados, o levantador aliado que tocar na bola terá seus atributos [Passe] e [Saque] aumentado em 2%, até 20%. Esse efeito permanece por 2 cruzamentos de rede.",
+        "en": "1 - Oikawa's [Serve] attribute increases by 20%. \n2 - Oikawa's touches will all be Critical. \n3 - When an ally makes a Nice Play, Oikawa's Ultimate Skill cooldown is reduced by 1 net crossing. \n4 - For every 1 accumulation of the \"Attack Time\" effect acquired by allies, the allied setter who touches the ball will have their [Pass] and [Serve] attributes increased by 2%, up to 20%. This effect lasts for 2 net crossings."
+      }
+    ]
+  },
+  "oikawa-sp.r3": {
+    "characterId": "oikawa-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "oikawa-sp.r4": {
+    "characterId": "oikawa-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "及川徹の[メンタル]と[パワー]が40%アップ。. \n2 - \"パフォーマンス\"効果を持っているメンバーは、及川徹の対応するパラメータの50%分、攻撃パラメータ（[強打/速攻]、[レシーブ]、[サーブ]、[意識]、[パワー]、[攻撃テクニック]）がアップ。基本パラメータ（[強打/速攻]、[レシーブ]、[サーブ]）は最大1500、[パワー]は100%、[攻撃テクニック]は10%までアップ。",
+        "pt": "1 - Atributo [Força] do Oikawa aumenta em 40%. \n2 - O membro que possuir acúmulo do efeito \"Performance\" terá seus atributos de Ataque (Ataque Rápido/Potente, Passe, Saque, Percepção, Força e Técnica de Ataque) aumentados em 50% dos atributos correspondentes do Oikawa. Aumenta no máximo até 1500 dos atributo básicos (Ataque Rápido/Potente, Passe e Saque), 100% do atributo [Força] e 10% do atributo [Técnica de Ataque]",
+        "en": "1 - Oikawa's [Power] attribute increases by 40%. \n2 - The member who has accumulated the \"Performance\" effect will have their Attack attributes (Quick/Power Attack, Pass, Serve, Awareness, Power, and Attack Technique) increased by 50% of Oikawa's corresponding attributes. Increases up to 1500 of the basic attributes (Quick/Power Attack, Pass, and Serve), 100% of the [Power] attribute, and 10% of the [Attack Technique] attribute."
+      }
+    ]
+  },
+  "oikawa-sp.r5": {
+    "characterId": "oikawa-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
   }
 }

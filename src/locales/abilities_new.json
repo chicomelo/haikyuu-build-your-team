@@ -4242,5 +4242,81 @@
       "value": null,
       "text": null
     }
+  },
+  "oikawa-sp.a1": {
+    "name": {
+      "jp": "",
+      "pt": "Performance 100%",
+      "en": "100% Performance"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Atributo [Passe] do Oikawa aumenta em (Lv1: 10%, Lv2: 13%, Lv3: 16%). \n2 - Ao iniciar o rally, o aliado na diagonal oposta ao Oikawa recebe o efeito \"Performance\". Esse efeito permanece até o aliado na diagonal oposta ao Oikawa sair da quadra. \n3 - Enquanto aliado possuir o efeito \"Performance\", os atributos [Percepção], [Reflexo] e atributos básicos desse aliado aumentam em 30%. Ao tocar na bola, os aliados recebem 1 acúmulo do efeito \"Tempo do Ataque\". \n4 - A cada 1 acúmulo do efeito \"Tempo do Ataque\", aumenta o atributo [Percepção] dos aliados em quadra em 1%, até 10 acúmulos. \n5 - Quando Oikawa está em quadra e o aliado ativa uma habilidade Suprema, recebe 1 acúmulo do efeito \"Tempo do Ataque\".",
+      "en": "1 - Oikawa's [Set] attribute increases by (Lv1: 10%, Lv2: 13%, Lv3: 16%). \n2 - When starting the rally, the ally on the opposite diagonal to Oikawa receives the \"Performance\" effect. This effect remains until the ally on the opposite diagonal to Oikawa leaves the court. \n3 - While an ally has the \"Performance\" effect, that ally's [Awareness], [Reflex], and basic attributes increase by 30%. When touching the ball, allies receive 1 stack of the \"Attack Timing\" effect. \n4 - For each 1 stack of the \"Attack Timing\" effect, increases the [Awareness] attribute of allies on the court by 1%, up to 10 stacks. \n5 - When Oikawa is on the court and an ally activates a Supreme skill, he receives 1 stack of the \"Attack Timing\" effect."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "oikawa-sp.a2": {
+    "name": {
+      "jp": "",
+      "pt": "Saque Sniper",
+      "en": "Sniper Serve"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Oikawa realiza um Saque com força de [Saque] x (Lv1: 160%, Lv2:180%, Lv3: 200%). \n2 - Se essa Saque resultar em Ace, o tempo de recarga da habilidade 2 é resetado. \n3 - Ao possuir 5 acúmulos do efeito \"Liderar\", a força desse Saque aumenta em [Saque] x 150%.",
+      "en": "1 - Oikawa performs a Serve with power of [Serve] x (Lv1: 160%, Lv2:180%, Lv3: 200%). \n2 - If this Serve results in an Ace, the cooldown time of skill 2 is reset. \n3 - When having 5 stacks of the \"Lead\" effect, the power of this Serve increases by [Serve] x 150%."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "oikawa-sp.a3": {
+    "name": {
+      "jp": "",
+      "pt": "Torre de Comando",
+      "en": "Command Tower"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Quando Oikawa está em quadra, no momento em que o aliado for realizar um Ataque Rápido/Potente, se possuir mais de 6 acúmulos do efeito \"Tempo do Ataque\", todos os acúmulos são consumidos e Oikawa recebe 1 acúmulo do efeito \"Liderar\", até 5 acúmulos. \n2 - A cada 1 acúmulo consumido do efeito \"Tempo do Ataque\", a força desse Ataque do aliado é aumentada em atributo [Ataque Rápido/Potente do aliado] x (Lv1: 15%, Lv2: 17.5%, Lv3: 20%). \n3 - A cada 1 acúmulo do efeito \"Liderar\", o atributo [Percepção] do aliado aumenta em (1 acúmulo: 40%, 2 acúmulos: 30%, 3 acúmulos: 20%, 4 acúmulos: 10%) e o atributo [Força] do Oikawa aumenta em 15%, até 60%. \n4 - Ao possuir 5 acúmulos do efeito \"Liderar\", quando o aliado que possui o efeito \"Performance\" pontuar, o tempo de recarga das habilidades do Oikawa é resetado.",
+      "en": "1 - When Oikawa is on the court, at the moment the ally is about to perform a Quick/Power Attack, if he has more than 6 stacks of the \"Attack Timing\" effect, all stacks are consumed and Oikawa receives 1 stack of the \"Lead\" effect, up to 5 stacks. \n2 - For each 1 stack consumed of the \"Attack Timing\" effect, the power of that ally's Attack is increased by attribute [Ally's Quick/Power Attack] x (Lv1: 15%, Lv2: 17.5%, Lv3: 20%). \n3 - For each 1 stack of the \"Lead\" effect, the ally's [Awareness] attribute increases by (1 stack: 40%, 2 stacks: 30%, 3 stacks: 20%, 4 stacks: 10%) and Oikawa's [Power] attribute increases by 15%, up to 60%. \n4 - When having 5 stacks of the \"Lead\" effect, when the ally with the \"Performance\" effect scores, the cooldown time of Oikawa's skills is reset."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "oikawa-sp.a4": {
+    "name": {
+      "jp": "",
+      "pt": "Passe Perfeito",
+      "en": "Perfect Set"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Oikawa realiza um Levantamento com força de [Passe] x (Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%). \n2 - Os adversários da Linha de Defesa/Trás tem sua Recepção reduzida em 20%. Esse efeito permanece por 2 cruzamentos de rede. \n3 - Após a ativação da habilidade de Levantamento do Oikawa, se o primeiro Ataque Rápido/Potente logo após esse levantamento for de um aliado que possui o efeito \"Performance\", os adversários da Linha de Ataque/Frente tem seu Bloqueio reduzido em 20%. Esse efeito permanece por 2 cruzamentos de rede. \n4 - A cada set, ao ativar pela vez essa habilidade, os aliados recebem 5 acúmulos do efeito \"Tempo do Ataque\".",
+      "en": "1 - Oikawa performs a Set with power of [Set] x (Lv1: 260%, Lv2: 275%, Lv3: 290%, Lv4: 305%, Lv5: 320%). \n2 - Opponents in the Backline/Defense have their Reception reduced by 20%. This effect lasts for 2 net crossings. \n3 - After activating Oikawa's Set skill, if the first Quick/Power Attack immediately after this Set is from an ally with the \"Performance\" effect, opponents in the Frontline/Attack have their Block reduced by 20%. This effect lasts for 2 net crossings. \n4 - For each set, when activating this skill for the first time, allies receive 5 stacks of the \"Attack Timing\" effect."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
   }
 }
