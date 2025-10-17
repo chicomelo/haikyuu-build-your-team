@@ -98,19 +98,27 @@ export function Slot({ pos, label }: Props) {
               <div className="absolute inset-0 bg-gradient-to-b from-neutral-700/50 to-neutral-900/60" />
             )}
             {/* Info button for starters */}
-            <button
-              type="button"
-              className="absolute top-1 right-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/70 text-white/80 hover:text-white"
+            <span
+              role="button"
+              tabIndex={0}
+              className="absolute top-1 right-1 z-10 inline-flex items-center justify-center w-6 h-6 rounded bg-black/70 text-white/80 hover:text-white cursor-pointer"
               onClick={(e) => {
                 e.stopPropagation();
                 if (player) openPlayerModal(player.id);
               }}
               onMouseDown={(e) => e.stopPropagation()}
               onTouchStart={(e) => e.stopPropagation()}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  if (player) openPlayerModal(player.id);
+                }
+              }}
               aria-label="Open player info"
             >
               <Info size={14} />
-            </button>
+            </span>
             <div className="absolute bottom-0 left-0 w-full bg-black/70 py-0 md:py-1 flex items-center justify-center">
               <div className="font-semibold text-xs leading-4">
                 {player.name}

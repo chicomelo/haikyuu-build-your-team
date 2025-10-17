@@ -23,7 +23,8 @@
     "abilities": "Abilities",
     "skill_resonances": "Skill Resonances",
     "required_skill_level": "Required Skill Level: {{level}}",
-    "memory": "Memory"
+    "memory": "Memory",
+    "synergy_required_players": "Required Players"
   },
   "bench": "Bench",
   "roster": {

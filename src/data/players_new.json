@@ -1547,6 +1547,10 @@
       {
         "key": "oikawa-sp-1",
         "type": "bond"
+      },
+      {
+        "key": "iwaizumi-sp-2",
+        "type": "bond"
       }
     ],
     "types": ["power", "serve"],
@@ -2656,6 +2660,10 @@
       },
       {
         "key": "oikawa-sp-2",
+        "type": "positional"
+      },
+      {
+        "key": "iwaizumi-sp-1",
         "type": "positional"
       }
     ],
@@ -3789,5 +3797,69 @@
       "fetchedAt": "2025-09-26T04:21:02.448875Z"
     },
     "memoryId": "mem_yui_ssr"
+  },
+  {
+    "school": "Aoba Johsai",
+    "id": "iwaizumi-sp",
+    "abilities": [
+      {
+        "id": "iwaizumi-sp.a1"
+      },
+      {
+        "id": "iwaizumi-sp.a2"
+      },
+      {
+        "id": "iwaizumi-sp.a3"
+      },
+      {
+        "id": "iwaizumi-sp.a4"
+      }
+    ],
+    "avatar": "/assets/img/iwaizumiSP.png",
+    "role": "WS",
+    "name": "Iwaizumi SP",
+    "links": [
+      {
+        "key": "iwaizumi-sp-1",
+        "type": "positional"
+      },
+      {
+        "key": "iwaizumi-sp-2",
+        "type": "bond"
+      }
+    ],
+    "types": ["power", "receive"],
+    "skillResonances": [
+      {
+        "id": "iwaizumi-sp.r1",
+        "order": 1,
+        "requiredSkillLevel": 4
+      },
+      {
+        "id": "iwaizumi-sp.r2",
+        "order": 2,
+        "requiredSkillLevel": 6
+      },
+      {
+        "id": "iwaizumi-sp.r3",
+        "order": 3,
+        "requiredSkillLevel": 8
+      },
+      {
+        "id": "iwaizumi-sp.r4",
+        "order": 4,
+        "requiredSkillLevel": 10
+      },
+      {
+        "id": "iwaizumi-sp.r5",
+        "order": 5,
+        "requiredSkillLevel": 12
+      }
+    ],
+    "metadata": {
+      "source": "https://naoshisan.com/?p=662",
+      "fetchedAt": "2025-09-26T04:16:17.230686Z"
+    },
+    "memoryId": "mem_iwaizumi_sp"
   }
 ]

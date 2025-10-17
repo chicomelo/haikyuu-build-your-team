@@ -2,10 +2,11 @@ import { computeBuffs } from "../lib/rules";
 import { useStore } from "../state/store";
 import type { Buff } from "../lib/types";
 import { fixMojibake } from "../lib/textFix";
-import { useState, Fragment } from "react";
+import { useState, Fragment, useMemo } from "react";
 import { X, ChevronDown } from "lucide-react";
 import { useTranslation } from "react-i18next";
 import { useIsMobile } from "../lib/hooks/useMediaQuery";
+import { getLinkParticipants } from "../lib/linkParticipants";
 
 function renderMultiline(text: string) {
   if (!text) return text;
@@ -120,9 +121,10 @@ function BuffButton({
   const isMobile = useIsMobile();
   const open = isMobile ? true : isOpen;
   const description = fixMojibake(buff.desc || t("buffs.no_description"));
+  const participants = useMemo(() => getLinkParticipants(buff.id), [buff.id]);
 
   return (
-    <div className="relative inline-block">
+    <div className="inline-block">
       <button
         onClick={(e) => {
           e.stopPropagation();
@@ -137,7 +139,7 @@ function BuffButton({
 
       {open && (
         <div
-          className="pl-4 md:absolute md:right-full md:top-1/2 md:-translate-y-1/2 md:mr-2 md:w-80 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
+          className="pl-4 md:absolute md:right-full md:-top-1  md:mr-2 md:w-96 md:p-3 md:bg-black/90 text-white text-xs md:rounded-lg md:shadow-xl md:border md:border-white/10 md:pointer-events-auto"
           style={{ zIndex: 1000 }}
         >
           <button
@@ -151,9 +153,41 @@ function BuffButton({
           <div className="font-medium mb-2 text-sm hidden md:block">
             {buff.name}
           </div>
-          <div className="leading-relaxed text-sm">{renderMultiline(description)}</div>
-          {/* Arrow pointing to the button (right side of tooltip) */}
+          {participants.length > 0 && (
+            <div className="mt-2 md:mt-3">
+              <div className="flex flex-wrap gap-2 mb-2">
+                {participants.map((participant) => (
+                  <div
+                    key={participant.id}
+                    className="flex flex-col items-center w-16"
+                  >
+                    <div className="w-14 h-20 rounded-md overflow-hidden flex items-center justify-center">
+                      {participant.avatar ? (
+                        <img
+                          src={participant.avatar}
+                          alt={participant.name}
+                          className="w-full h-full object-contain"
+                        />
+                      ) : (
+                        <span className="text-[10px] text-center px-1 opacity-70">
+                          {participant.name}
+                        </span>
+                      )}
+                    </div>
+                    <div className="text-[10px] mt-1 text-center leading-tight">
+                      {participant.name}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          <div className="leading-relaxed text-sm">
+            {renderMultiline(description)}
+          </div>
+          {/* Arrow pointing to the button (right side of tooltip) 
           <div className="hidden md:block absolute right-0 top-1/2 -translate-y-1/2 translate-x-full w-0 h-0 border-y-4 border-y-transparent border-l-4 border-l-black/90" />
+        */}
         </div>
       )}
     </div>

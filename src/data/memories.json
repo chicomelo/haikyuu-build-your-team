@@ -2123,5 +2123,39 @@
     },
     "image": "/assets/img/memories/MemoOikawaSP.png",
     "characterId": "oikawa-sp"
+  },
+  {
+    "id": "mem_iwaizumi_sp",
+    "name": {
+      "pt": "Iwaizumi SP",
+      "en": "Iwaizumi SP"
+    },
+    "positions": ["WS"],
+    "description": {
+      "pt": "Aumenta [Recepção] do equipador em 12%; \nA força de Recepção da habilidade Suprema do equipador aumenta em atributo [Recepção] do equipador x 70%. \nQuando o equipador ativa a habilidade Suprema, aumenta 5% do atributo [Ataque Potente]. Até 3 acúmulos. Esse efeito permanece até o próximo Ataque Rápido/Potente do equipador.",
+      "en": "Increases [Receive] of the equipper by 12%;\nThe Receive power of the equipper's Ultimate skill increases by the equipper's [Receive] stat x 70%.\nWhen the equipper activates the Ultimate skill, increases [Power Attack] by 5%. Up to 3 stacks. This effect lasts until the equipper's next Quick/Power Attack."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 0
+      },
+      "Spike": {
+        "flat": 0
+      },
+      "Set": {
+        "flat": 0
+      },
+      "Receive": {
+        "flat": 0
+      },
+      "Block": {
+        "flat": 0
+      },
+      "Save": {
+        "flat": 0
+      }
+    },
+    "image": "/assets/img/memories/MemoIwaizumiSP.png",
+    "characterId": "iwaizumi-sp"
   }
 ]

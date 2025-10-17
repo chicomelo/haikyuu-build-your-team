@@ -12,36 +12,36 @@ type SavedTeam = {
   createdAt: number;
 };
 
+function loadSavedTeamsFromStorage(): SavedTeam[] {
+  if (typeof window === "undefined") return [];
+  try {
+    const saved = localStorage.getItem("savedTeams");
+    if (!saved) return [];
+    const parsed = JSON.parse(saved);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    console.error("Erro ao carregar times salvos:", e);
+    return [];
+  }
+}
+
 export function TeamManager() {
   const team = useStore((s) => s.team);
   const { t } = useTranslation();
-  const [savedTeams, setSavedTeams] = useState<SavedTeam[]>([]);
+  const [savedTeams, setSavedTeams] = useState<SavedTeam[]>(() =>
+    loadSavedTeamsFromStorage()
+  );
   const [showSaveModal, setShowSaveModal] = useState(false);
   const [showLoadModal, setShowLoadModal] = useState(false);
   const [teamName, setTeamName] = useState("");
   const [error, setError] = useState("");
 
-  // Carregar times salvos do localStorage quando o componente montar
+  // Sincronizar com atualizações vindas de outras abas
   useEffect(() => {
-    const loadSavedTeams = () => {
-      try {
-        const saved = localStorage.getItem("savedTeams");
-        if (saved) {
-          const parsedTeams = JSON.parse(saved);
-          setSavedTeams(parsedTeams);
-        }
-      } catch (e) {
-        console.error("Erro ao carregar times salvos:", e);
-      }
-    };
-
-    // Carregar imediatamente
-    loadSavedTeams();
-
-    // Também escutar eventos de storage para sincronizar entre abas
+    if (typeof window === "undefined") return;
     const handleStorageChange = (e: StorageEvent) => {
       if (e.key === "savedTeams") {
-        loadSavedTeams();
+        setSavedTeams(loadSavedTeamsFromStorage());
       }
     };
 
@@ -55,6 +55,7 @@ export function TeamManager() {
 
   // Salvar times no localStorage sempre que o estado mudar
   useEffect(() => {
+    if (typeof window === "undefined") return;
     try {
       // Verificar se há times para salvar
       if (savedTeams.length > 0) {

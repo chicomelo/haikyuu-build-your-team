@@ -220,7 +220,7 @@
     "category": "kizuna",
     "name": {
       "pt": "Gênios Karasuno",
-      "en": "Karasuno Geniusars"
+      "en": "Karasuno Geniuses"
     },
     "description": {
       "pt": "O atributo [Recepção] do Nishinoya aumenta em (Lv1: 5%, Lv2: 7%, Lv3: 9%, Lv4: 11%, Lv5: 13%) e o atributo [Reflexo] aumenta em 5%. Quando a habilidade Suprema do Nishinoya for ativada, Kageyama recebe 1 acúmulo do efeito \"Competitivo\". Se essa jogada da habilidade Suprema resultar em uma Jogada Crítica, após essa jogada o primeiro aliado que for realizar um Ataque Rápido/Potente terá um aumento na força do Ataque em atributo [Ataque Rápido/Potente do aliado a atacar] x 20%.",
@@ -954,12 +954,38 @@
     "type": "positional",
     "category": "positional",
     "name": {
-      "pt": "Oikawa SP 2",
-      "en": "Oikawa SP 2"
+      "pt": "Rei e Grande Rei",
+      "en": "The King and The Great King"
     },
     "description": {
       "pt": "1 - Kageyama e Oikawa disputam pelo direito do Saque, o primeiro a ativar uma habilidade de Saque vence. 2 - Caso o Oikawa vença, Kageyama recebe o efeito \"Performance\". Esse efeito permanece por por 1 set. 3 - Caso o Kageyama vença, a cada vez que Oikawa tocar na bola, Kageyama recebe 1 acúmulo do efeito \"Competitivo\". Quando Oikawa ativa uma habilidade, Kageyama recebe mais 1 acúmulo do efeito \"Competitivo\".",
       "en": "1 - Kageyama and Oikawa compete for the right to Serve, the first to activate a Serve skill wins. 2 - If Oikawa wins, Kageyama gains the \"Performance\" effect. This effect lasts for 1 set. 3 - If Kageyama wins, each time Oikawa touches the ball, Kageyama gains 1 stack of the \"Competitive\" effect. When Oikawa activates a skill, Kageyama gains 1 more stack of the \"Competitive\" effect."
+    }
+  },
+  "iwaizumi-sp-1": {
+    "key": "iwaizumi-sp-1",
+    "type": "positional",
+    "category": "positional",
+    "name": {
+      "pt": "Iwaizumi SP 1",
+      "en": "Iwaizumi SP 1"
+    },
+    "description": {
+      "pt": "1 - Quando Iwaizumi corta a bola levantada por Oikawa, esse ataque terá a força de [Ataque Potente] do Iwaizumi x (Lv1: 280%, Lv2: 300%, Lv3: 320%, Lv4: 340%, Lv5: 360%). \n2 - Iwaizumi recebe o efeito \"Performance\" (efeito da habilidade 1 do Oikawa). Esse efeito permanece por 1 set.",
+      "en": "1 - When Iwaizumi spikes the ball set by Oikawa, this attack will have the power of Iwaizumi's [Power Attack] x (Lv1: 280%, Lv2: 300%, Lv3: 320%, Lv4: 340%, Lv5: 360%). \n2 - Iwaizumi gains the \"Performance\" effect (effect from Oikawa's skill 1). This effect lasts for 1 set."
+    }
+  },
+  "iwaizumi-sp-2": {
+    "key": "iwaizumi-sp-2",
+    "type": "bond",
+    "category": "bond",
+    "name": {
+      "pt": "Iwaizumi SP 2",
+      "en": "Iwaizumi SP 2"
+    },
+    "description": {
+      "pt": "Atributo [Ataque Potente] do Iwaizumi e do Kyoutani aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
+      "en": "Iwaizumi's and Kyoutani's [Power Attack] attributes increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
     }
   }
 }

@@ -23,7 +23,8 @@
     "abilities": "Habilidades",
     "skill_resonances": "Ressonâncias de Habilidade",
     "required_skill_level": "Nível de habilidade necessário: {{level}}",
-    "memory": "Memória"
+    "memory": "Memória",
+    "synergy_required_players": "Jogadores Necessários"
   },
   "bench": "Reservas",
   "roster": {

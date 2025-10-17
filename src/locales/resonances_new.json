@@ -4878,5 +4878,90 @@
         "en": "Increases basic attributes by 13%."
       }
     ]
+  },
+  "iwaizumi-sp.r1": {
+    "characterId": "iwaizumi-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "iwaizumi-sp.r2": {
+    "characterId": "iwaizumi-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "1 - Quando Iwaizumi está em quadra, aumenta o atributo [Força] dos aliados em 20%. \n2 - Ao ativar a habilidade Suprema, os aliados recuperam 5 de vigor e o time aliado recebe 20 de Moral. \n3 - A Moral recebida durante a ativação da habilidade Suprema é resetada ao final do rally.",
+        "en": "1 - When Iwaizumi is on the court, increases allies' [Power] attribute by 20%. \n2 - When activating the Ultimate Skill, allies recover 5 Stamina and the allied team receives 20 Morale. \n3 - The Morale received during the activation of the Ultimate Skill is reset at the end of the rally."
+      }
+    ]
+  },
+  "iwaizumi-sp.r3": {
+    "characterId": "iwaizumi-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "iwaizumi-sp.r4": {
+    "characterId": "iwaizumi-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "1 - Ao ativar a habilidade Suprema, o atributo [Recepção] do Iwaizumi aumenta em 15%. Até 3 acúmulos. Esse efeito permanece por 2 cruzamentos de rede. \n2 - Se o atributo [Percepção] do Iwaizumi estiver passado de 100%, a cada 1% a mais o atributo [Empenho] é aumentado em 1%. Máximo de 80% de aumento.",
+        "en": "1 - When activating the Ultimate Skill, Iwaizumi's [Receive] attribute increases by 15%. Up to 3 stacks. This effect lasts for 2 net crossings. \n2 - If Iwaizumi's [Awareness] attribute is over 100%, for every additional 1%, the [Effort] attribute is increased by 1%. Maximum increase of 80%."
+      }
+    ]
+  },
+  "iwaizumi-sp.r5": {
+    "characterId": "iwaizumi-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
   }
 }

@@ -4206,5 +4206,81 @@
         "text": null
       }
     }
+  },
+  "iwaizumi-sp.a1": {
+    "name": {
+      "jp": "",
+      "pt": "Habilidade 1",
+      "en": "Skill 1"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Atributo [Ataque Potente] do Iwaizumi aumenta em (Lv1: 10%, Lv2: 13%, Lv3: 16%) e [Recepção] aumenta em (Lv1: 15%, Lv2: 20%, Lv3: 25%). \n2 - Ao iniciar o rally, se o atributo [Percepção] do Iwaizumi passar de 100%, aumenta em mais 20% seu atributo [Recepção]. Esse efeito permanece por 1 rally. \n3 - Ao final do rally, remove aleatoriamento 1 efeito debuff aplicado no Iwaizumi.",
+      "en": "1 - Iwaizumi's [Power Attack] attribute increases by (Lv1: 10%, Lv2: 13%, Lv3: 16%) and [Receive] increases by (Lv1: 15%, Lv2: 20%, Lv3: 25%). \n2 - When starting the rally, if Iwaizumi's [Awareness] attribute exceeds 100%, his [Receive] attribute increases by an additional 20%. This effect lasts for 1 rally. \n3 - At the end of the rally, randomly removes 1 debuff effect applied to Iwaizumi."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "iwaizumi-sp.a2": {
+    "name": {
+      "jp": "",
+      "pt": "Habilidade 2",
+      "en": "Skill 2"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Iwaizumi realiza um Ataque Potente com força de [Ataque Potente] x (Lv1: 140%, Lv2: 160%, Lv3: 180%). \n2 - Se o Bloqueio do adversário for um Bloqueio Duplo/Triplo, esse Ataque aumenta em mais [Ataque Potente] x 60%.",
+      "en": "1 - Iwaizumi performs a Power Attack with strength of [Power Attack] x (Lv1: 140%, Lv2: 160%, Lv3: 180%). \n2 - If the opponent's Block is a Double/Triple Block, this Attack increases by an additional [Power Attack] x 60%."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "iwaizumi-sp.a3": {
+    "name": {
+      "jp": "",
+      "pt": "Habilidade 3",
+      "en": "Skill 3"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Quando Iwaizumi está em quadra, os aliados presentes em quadra tem seu atributo [Força] aumentado em (Lv1: 20%, Lv2: 25%, Lv3: 30%). \n2 - Quando Iwaizumi ativa uma habilidade, seu atributo [Percepção] é aumentado em 20%. Até 10 acúmulos. \n3 - Ao ativar a habilidade Suprema do Iwaizumi, sua força de Recepção é reduzida em [Recepção] x 50%. Esse efeito permanece por 1 rally. O tempo de recarga da habilidade Suprema é resetado.",
+      "en": "1 - When Iwaizumi is on the field, allies present on the field have their [Strength] attribute increased by (Lv1: 20%, Lv2: 25%, Lv3: 30%). \n2 - When Iwaizumi activates a skill, his [Awareness] attribute is increased by 20%. Up to 10 stacks. \n3 - Upon activating Iwaizumi's Ultimate skill, his Reception strength is reduced by [Reception] x 50%. This effect lasts for 1 rally. The cooldown of the Ultimate skill is reset."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
+  },
+  "iwaizumi-sp.a4": {
+    "name": {
+      "jp": "",
+      "pt": "Habilidade 4",
+      "en": "Skill 4"
+    },
+    "description": {
+      "jp": "",
+      "pt": "1 - Iwaizumi realiza uma Recepção com força de [Recepção] x (Lv1: 360%, Lv2: 375%, Lv3: 390%, Lv4: 405%, Lv5: 420%). \n2 - O atributo [Reflexo] do Iwaizumi aumenta em [Percepção] x 100%. Esse efeito permanece por 2 cruzamentos de rede. \n3 - O atributo [Empenho] do Iwaizumi aumenta em 20%. Até 3 acúmulos. Esse efeito permanece por 1 rally.",
+      "en": "1 - Iwaizumi performs a Reception with strength of [Reception] x (Lv1: 360%, Lv2: 375%, Lv3: 390%, Lv4: 405%, Lv5: 420%). \n2 - Iwaizumi's [Reflex] attribute increases by [Awareness] x 100%. This effect lasts for 2 net crossings. \n3 - Iwaizumi's [Effort] attribute increases by 20%. Up to 3 stacks. This effect lasts for 1 rally."
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "value": null,
+        "text": null
+      }
+    }
   }
 }
