@@ -4282,5 +4282,85 @@
         "text": null
       }
     }
+  },
+  "ushijima-sp.a1": {
+    "name": {
+      "pt": "Poder Nacional",
+      "en": "National Power",
+      "jp": ""
+    },
+    "description": {
+      "pt": "Quando Ushijima [Festival Cultural] adquire um efeito desfavorável, o [Ataque Potente] e o [Saque] aumentam em 2/ 2,5/ 3%. Máximo de 6 acúmulos.Quando Ushijima [Festival Cultural] está em quadra, sempre que o toque de bola de um membro da equipe for crítico, o [Awareness] de Ushijima aumenta em 8%. Acumula até 99 vezes.",
+      "en": "When Ushijima [Cultural Festival] acquires a negative effect, [Power Attack] and [Serve] increase by 2/2.5/3%. Maximum of 6 stacks. When Ushijima [Cultural Festival] is on the field, whenever a team member's ball touch is critical, Ushijima's [Awareness] increases by 8%. Stacks up to 99 times.",
+      "jp": ""
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "",
+        "pt": "",
+        "en": ""
+      }
+    }
+  },
+  "ushijima-sp.a2": {
+    "name": {
+      "pt": "Saque Destrutivo",
+      "en": "Destructive Serve",
+      "jp": ""
+    },
+    "description": {
+      "pt": "Ushijima Wakatoshi [Festival Cultural] realiza um saque em salto com poder igual a [Saque] x 140/160/180%. O poder de recepção do oponente é reduzido em [Recepção] x 100%. Esse efeito dura até a bola cruzar a rede duas vezes. /nCD: 6 cruzamentos de rede.",
+      "en": "Ushijima Wakatoshi [Cultural Festival] performs a jump serve with power equal to [Serve] x 140/160/180%. The opponent's reception power is reduced by [Reception] x 100%. This effect lasts until the ball crosses the net twice.",
+      "jp": ""
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "",
+        "pt": "",
+        "en": ""
+      }
+    }
+  },
+  "ushijima-sp.a3": {
+    "name": {
+      "pt": "Esmagar",
+      "en": "Smash",
+      "jp": ""
+    },
+    "description": {
+      "pt": "A [Percepção] de Ushijima [Festival Cultural] é dobrado. /nSe a [Percepção] de Ushijima [Festival Cultural] for 200% ou superior, o limite de recarga de [Poder de Classe Canhão] (Skill 4) é reduzido em 4 cruzamentos de rede. /nSe a [Recepção] de Ushijima [Festival Cultural] for 50% ou superior, o poder do primeiro [Poder de Classe Canhão] (Skill 4) do rali é aumentado em [Ataque Potente] x 40/55/70%. /nSe a [Percepção] de Ushijima [Festival Cultural] for 400% ou superior, para cada 1% de [Percepção] acima de 400%, a [Força] aumenta em 0,7%. O aumento máximo possível é de 70%.",
+      "en": "Ushijima [Cultural Festival] doubles his [Awareness]. /nIf Ushijima [Cultural Festival]'s [Awareness] is 200% or higher, the cooldown limit of [Class Cannon Power] (Skill 4) is reduced by 4 net crossings. /nIf Ushijima [Cultural Festival]'s [Reception] is 50% or higher, the power of the first [Class Cannon Power] (Skill 4) in the rally is increased by [Power Attack] x 40/55/70%. /nIf Ushijima [Cultural Festival]'s [Awareness] is 400% or higher, for every 1% of [Awareness] above 400%, [Strength] increases by 0.7%. The maximum possible increase is 70%.",
+      "jp": ""
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "",
+        "pt": "",
+        "en": ""
+      }
+    }
+  },
+  "ushijima-sp.a4": {
+    "name": {
+      "pt": "Poder de Classe Canhão",
+      "en": "Class Cannon Power",
+      "jp": ""
+    },
+    "description": {
+      "pt": "Ushijima [Festival Cultural] realiza um ataque de poder com força igual a [Ataque Potente] x 260/275/290/305/320%. /nSe a recepção do oponente for realizada por um jogador diferente daquele que recebeu o ataque anterior de Ushijima, o poder dessa recepção será reduzido em [Recepção] x 50%. Esse efeito dura até a bola cruzar a rede duas vezes. /nCD: 8 cruzamentos de rede.",
+      "en": "Ushijima [Cultural Festival] performs a power attack with strength equal to [Power Attack] x 260/275/290/305/320%. /nIf the opponent's reception is performed by a player different from the one who received Ushijima's previous attack, the power of that reception will be reduced by [Reception] x 50%. This effect lasts until the ball crosses the net twice. /nCD: 8 net crossings.",
+      "jp": ""
+    },
+    "cooldown": {
+      "value": null,
+      "text": {
+        "jp": "",
+        "pt": "",
+        "en": ""
+      }
+    }
   }
 }

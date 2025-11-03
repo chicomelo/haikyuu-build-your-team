@@ -4963,5 +4963,90 @@
         "en": "Increases basic attributes by 13%."
       }
     ]
+  },
+  "ushijima-sp.r1": {
+    "characterId": "ushijima-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "ushijima-sp.r2": {
+    "characterId": "ushijima-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "O tempo de recarga de [Poder de Classe Canhão] (Skill 4) é reduzido em 4 cruzamentos de rede.Quando Ushijima [Festival Cultural] realiza um ataque de poder e o resultado excede [Ataque Potente] x 300%, o poder desse ataque aumenta em 30% x [Ataque Potente].",
+        "en": "The cooldown time of [Cannon Class Power] (Skill 4) is reduced by 4 net crossings. When Ushijima [Cultural Festival] performs a power attack and the result exceeds [Powerful Attack] x 300%, the power of that attack increases by 30% x [Powerful Attack]."
+      }
+    ]
+  },
+  "ushijima-sp.r3": {
+    "characterId": "ushijima-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "ushijima-sp.r4": {
+    "characterId": "ushijima-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "No início da partida, a [Percepção] de Ushijima [Festival Cultural] aumenta em 100%.Ao final de cada rali, a [Percepção] de Ushijima [Festival Cultural] é reduzido em 20% e o [Ataque Potente] aumenta em 6%. Acumula até 5 vezes.",
+        "en": "At the start of the match, Ushijima [Cultural Festival]'s [Awareness] increases by 100%. At the end of each rally, Ushijima [Cultural Festival]'s [Awareness] is reduced by 20% and [Powerful Attack] increases by 6%. Stacks up to 5 times."
+      }
+    ]
+  },
+  "ushijima-sp.r5": {
+    "characterId": "ushijima-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
   }
 }

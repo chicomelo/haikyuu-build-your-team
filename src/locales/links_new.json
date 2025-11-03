@@ -967,8 +967,8 @@
     "type": "positional",
     "category": "positional",
     "name": {
-      "pt": "Iwaizumi SP 1",
-      "en": "Iwaizumi SP 1"
+      "pt": "Respiração em Harmonia",
+      "en": "Harmonious Breathing"
     },
     "description": {
       "pt": "1 - Quando Iwaizumi corta a bola levantada por Oikawa, esse ataque terá a força de [Ataque Potente] do Iwaizumi x (Lv1: 280%, Lv2: 300%, Lv3: 320%, Lv4: 340%, Lv5: 360%). \n2 - Iwaizumi recebe o efeito \"Performance\" (efeito da habilidade 1 do Oikawa). Esse efeito permanece por 1 set.",
@@ -986,6 +986,32 @@
     "description": {
       "pt": "Atributo [Ataque Potente] do Iwaizumi e do Kyoutani aumenta em (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%).",
       "en": "Iwaizumi's and Kyoutani's [Power Attack] attributes increase by (Lv1: 5+1%, Lv2: 7+2%, Lv3: 9+3%, Lv4: 12+4%, Lv5: 15+5%)."
+    }
+  },
+  "aoba-jousai-rivals": {
+    "key": "aoba-jousai-rivals",
+    "type": "positional",
+    "category": "positional",
+    "name": {
+      "pt": "Rivais de Aoba Jousai",
+      "en": "Aoba Jousai's Rivals"
+    },
+    "description": {
+      "pt": "Quando Ushijima SP e Oikawa SP estão em quadra, o [Passe] e o [Saque] de Oikawa aumentam.Quando Oikawa SP faz o levantamento e Ushijima SP realiza um ataque poderoso, ganha 1 acúmulo do efeito [Ritmo de Ataque].",
+      "en": "When Ushijima SP and Oikawa SP are on the court, Oikawa's [Toss] and [Serve] increase. When Oikawa SP sets the ball and Ushijima SP performs a powerful attack, he gains 1 stack of the [Attack Rhythm] effect."
+    }
+  },
+  "cultural-festival": {
+    "key": "cultural-festival",
+    "type": "positional",
+    "category": "positional",
+    "name": {
+      "pt": "Festival Cultural",
+      "en": "Cultural Festival"
+    },
+    "description": {
+      "pt": "Quando há um membro em quadra com o buff de [Posse de Bola], Oikawa (Festival Cultural) e Ushijima (Festival Cultural) aumentam a recuperação de stamina de todos os membros da equipe em 2%.Durante os ralis, quando a bola cruza a rede duas vezes, todos os membros em quadra recebem +4% em [Força] e [Recepção].Pode acumular até 4 vezes.",
+      "en": "When there is a member on the court with the [Ball Possession] buff, Oikawa (Cultural Festival) and Ushijima (Cultural Festival) increase the stamina recovery of all team members by 2%. During rallies, when the ball crosses the net twice, all members on the court receive +4% in [Power] and [Receive]. Can stack up to 4 times."
     }
   }
 }

@@ -2157,5 +2157,39 @@
     },
     "image": "/assets/img/memories/MemoIwaizumiSP.png",
     "characterId": "iwaizumi-sp"
+  },
+  {
+    "id": "mem_ushijima_sp",
+    "name": {
+      "pt": "Ushijima SP",
+      "en": "Ushijima SP"
+    },
+    "positions": ["OP"],
+    "description": {
+      "pt": "Quando esta memória está equipada, a [Força] do membro aumenta em 12% e a [Percepção] aumenta em 50%.Quando esse membro realiza um ataque (Ataque Potente ou Ataque Rápido), a [Percepção] diminui em 10% e a [Força] aumenta em 10%.Pode acumular até 3 vezes.",
+      "en": "When this memory is equipped, the member's [Power] increases by 12% and [Awareness] increases by 50%.When this member performs an attack (Power Spike or Quick Attack), [Awareness] decreases by 10% and [Power] increases by 10%.Can stack up to 3 times."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 1854
+      },
+      "Spike": {
+        "flat": 1968
+      },
+      "Set": {
+        "flat": 1748
+      },
+      "Receive": {
+        "flat": 1573
+      },
+      "Block": {
+        "flat": 1759
+      },
+      "Save": {
+        "flat": 1482
+      }
+    },
+    "image": "/assets/img/memories/MemoUshijimaSP.png",
+    "characterId": "ushijima-sp"
   }
 ]
