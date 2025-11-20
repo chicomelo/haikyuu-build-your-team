@@ -1681,7 +1681,7 @@
       }
     },
     "image": "/assets/img/memories/MemoSakusaUR.png",
-    "characterId": null
+    "characterId": "hayaseiomi-ur"
   },
   {
     "id": "mem_yui_ssr",
@@ -2191,5 +2191,39 @@
     },
     "image": "/assets/img/memories/MemoUshijimaSP.png",
     "characterId": "ushijima-sp"
+  },
+  {
+    "id": "mem_tendo_sp",
+    "name": {
+      "pt": "Tendo SP",
+      "en": "Tendo SP"
+    },
+    "positions": ["MB"],
+    "description": {
+      "pt": "A [Percepção] do membro equipado aumenta em 20%. \nQuando esse membro ativa sua Habilidade Especial, seus atributos de [Ataque Rápido] e [Bloqueio] aumentam em 4%, e sua [Técnica Defensiva] aumenta em 4%, até 2 acúmulos. \nEsse efeito dura até que a bola cruze a rede 6 vezes.",
+      "en": "The equipped member’s [Awareness] increases by 20%. \nWhen this member activates their Special Skill, their [Quick] and [Block] increase by 4%, and their [Defensive Technique] increases by 4%, up to 2 stacks. \nThis effect lasts until the ball crosses the net 6 times."
+    },
+    "bonus": {
+      "Serve": {
+        "flat": 1
+      },
+      "Spike": {
+        "flat": 1
+      },
+      "Set": {
+        "flat": 1
+      },
+      "Receive": {
+        "flat": 1
+      },
+      "Block": {
+        "flat": 1
+      },
+      "Save": {
+        "flat": 1
+      }
+    },
+    "image": "/assets/img/memories/MemoTendoSP.png",
+    "characterId": "tendo-sp"
   }
 ]

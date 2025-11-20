@@ -5048,5 +5048,90 @@
         "en": "Increases basic attributes by 13%."
       }
     ]
+  },
+  "tendo-sp.r1": {
+    "characterId": "tendo-sp",
+    "order": 1,
+    "requiredSkillLevel": 4,
+    "name": {
+      "pt": "Ressonância de Habilidade I",
+      "en": "Skill Resonance I",
+      "jp": "スキル共鳴Ⅰ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "tendo-sp.r2": {
+    "characterId": "tendo-sp",
+    "order": 2,
+    "requiredSkillLevel": 6,
+    "name": {
+      "pt": "Ressonância de Habilidade II",
+      "en": "Skill Resonance II",
+      "jp": "スキル共鳴Ⅱ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "A [Percepção] de Tendō Satori (Winter Break) aumenta em 25%. \nSeu [Empenho] aumenta em [Força] x 60% (até um máximo de 60%).",
+        "en": "Tendō Satori (Winter Break)’s [Awareness] increases by 25%. \nHis [Spirit] increases by [Strength] x 60% (up to a maximum of 60%)."
+      }
+    ]
+  },
+  "tendo-sp.r3": {
+    "characterId": "tendo-sp",
+    "order": 3,
+    "requiredSkillLevel": 8,
+    "name": {
+      "pt": "Ressonância de Habilidade III",
+      "en": "Skill Resonance III",
+      "jp": "スキル共鳴Ⅲ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
+  },
+  "tendo-sp.r4": {
+    "characterId": "tendo-sp",
+    "order": 4,
+    "requiredSkillLevel": 10,
+    "name": {
+      "pt": "Ressonância de Habilidade IV",
+      "en": "Skill Resonance IV",
+      "jp": "スキル共鳴Ⅳ"
+    },
+    "effects": [
+      {
+        "jp": "",
+        "pt": "Quando Tendō Satori (Férias de Inverno) está em quadra, sempre que um aliado ativa uma Habilidade Especial, todos os aliados em quadra recebem +1% no Parâmetro Principal, até um máximo de 20 acúmulos. Esse efeito dura por 1 set. \nQuando Tendō Satori (Férias de Inverno) sai da quadra pela primeira vez, o substituto que entra recebe +15% em Técnica Defensiva por 1 rali. Além disso, a próxima Recepção sempre se tornará um Nice Play e não resultará em ponto perdido.",
+        "en": "When Tendō Satori (Winter Break) is on the court, whenever an ally activates a Special Skill, all allied on-court members gain +1% Main Parameter, up to a maximum of 20 stacks. This effect lasts for 1 set. \nWhen Tendō Satori (Winter Break) leaves the court for the first time, the incoming substitute gains +15% Defensive Technique for 1 rally. Additionally, the next 1 Receive will always become a Nice Play and will not result in a lost point."
+      }
+    ]
+  },
+  "tendo-sp.r5": {
+    "characterId": "tendo-sp",
+    "order": 5,
+    "requiredSkillLevel": 12,
+    "name": {
+      "pt": "Ressonância de Habilidade V",
+      "en": "Skill Resonance V",
+      "jp": "スキル共鳴Ⅴ"
+    },
+    "effects": [
+      {
+        "jp": "メインパラメータが13%アップ",
+        "pt": "Aumenta os atributos básicos em 13%.",
+        "en": "Increases basic attributes by 13%."
+      }
+    ]
   }
 }

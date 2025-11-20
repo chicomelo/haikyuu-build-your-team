@@ -19,7 +19,9 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
   const byId = new Map(players.map((p) => [p.id, p] as const))
   const descBySlug = getBuffDescriptionsMap(language)
   const descEnBySlug = getBuffDescriptionsMap('en')
-  const looksBad = (s?: string) => !!s && /[\uFFFD\u0100-\u024F\u00C3\u00C2]/.test(s)
+  const looksBad = (s?: string) =>
+    !!s &&
+    (/[\uFFFD]/.test(s) || /[\u00C3]./.test(s) || /[\u00C2]./.test(s)) // catch broken encodings without filtering valid accents
   void getBuffDescriptions(language)
 
   const resolveLinkSlug = (link: PlayerLink) => {
@@ -210,7 +212,4 @@ export function computeBuffs(team: Team, players: Player[], language: string = '
 
   return buffs
 }
-
-
-
 

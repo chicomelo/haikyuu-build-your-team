@@ -1013,5 +1013,18 @@
       "pt": "Quando há um membro em quadra com o buff de [Posse de Bola], Oikawa (Festival Cultural) e Ushijima (Festival Cultural) aumentam a recuperação de stamina de todos os membros da equipe em 2%.Durante os ralis, quando a bola cruza a rede duas vezes, todos os membros em quadra recebem +4% em [Força] e [Recepção].Pode acumular até 4 vezes.",
       "en": "When there is a member on the court with the [Ball Possession] buff, Oikawa (Cultural Festival) and Ushijima (Cultural Festival) increase the stamina recovery of all team members by 2%. During rallies, when the ball crosses the net twice, all members on the court receive +4% in [Power] and [Receive]. Can stack up to 4 times."
     }
+  },
+  "friends-for-life": {
+    "key": "friends-for-life",
+    "type": "positional",
+    "category": "positional",
+    "name": {
+      "pt": "Amigos para a Vida",
+      "en": "Friends for Life"
+    },
+    "description": {
+      "pt": "Quando Ushijima (Festival) recebe um debuff, Tendō Satori (Férias de Inverno) ganha +4% em [Bloqueio] e +4% em [Ataque Rápido], até um máximo de +12% cada. \nQuando Tendō (Férias de Inverno) realiza um Bloqueio que se torna uma Jogada Superior, Ushijima (Festival) ganha [Ataque Potente] x 6% de aumento no poder de ataque. Esse efeito dura por 1 rally.",
+      "en": "When Wakatoshi Ushijima (Festival) gains a debuff, Tendō Satori (Winter Break) gains +4% [Block] and +4% [Quick], up to a maximum of +12% each. \nWhen Tendō (Winter Break) performs a Block that becomes a Nice Play, Ushijima (Festival) gains [Strong Spike] x 6% increased spike power. This effect lasts for 1 rally."
+    }
   }
 }
